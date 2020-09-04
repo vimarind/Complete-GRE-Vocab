@@ -1,0 +1,230 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "indebted",
+    "results": [
+        {
+            "id": "indebted",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English endetted, from Old French endette ‘involved in debt’, past participle of endetter. The spelling change in the 16th century was due to association with medieval Latin indebitare (based on Latin debitum ‘debt’)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "indebted"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈdedəd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/indebted_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈdɛdəd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "owing money"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "heavily indebted countries"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0503100.005",
+                                    "shortDefinitions": [
+                                        "owing money"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "constructions": [
+                                                {
+                                                    "text": "indebted to"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "owing gratitude for a service or favor"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I am indebted to her for her help in indexing my book"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0503100.007",
+                                            "shortDefinitions": [
+                                                "owing gratitude for service or favour"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "beholden"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "under an obligation"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "obliged"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "obligated"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bound"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "duty-bound"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "honour-bound"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "grateful"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "thankful"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "filled with gratitude"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "appreciative"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "indebted",
+                                                    "sense_id": "t_en_gb0007660.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "indebted"
+                }
+            ],
+            "type": "headword",
+            "word": "indebted"
+        },
+        {
+            "id": "indebt",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: back-formation from indebted"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "indebt"
+                                },
+                                {
+                                    "inflectedForm": "indebted"
+                                },
+                                {
+                                    "inflectedForm": "indebting"
+                                },
+                                {
+                                    "inflectedForm": "indebts"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈdet"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/indebt_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈdɛt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cause (someone) to owe money or an obligation"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "finance",
+                                            "text": "Finance"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "no generation should be able to indebt future generations"
+                                        },
+                                        {
+                                            "text": "she's upset that her daughter will one day indebt herself with student loans"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1190708.004",
+                                    "shortDefinitions": [
+                                        "cause to owe money"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "indebt"
+                }
+            ],
+            "type": "headword",
+            "word": "indebt"
+        }
+    ]
+}

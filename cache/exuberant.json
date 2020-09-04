@@ -1,0 +1,294 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "exuberant",
+    "results": [
+        {
+            "id": "exuberant",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "exuberantly",
+                            "text": "exuberantly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘overflowing, abounding’): from French exubérant, from Latin exuberant- ‘being abundantly fruitful’, from the verb exuberare (based on uber ‘fertile’)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "exuberant"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "iɡˈzo͞ob(ə)rənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/exuberant_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪɡˈzub(ə)rənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "filled with or characterized by a lively energy and excitement"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "giddily exuberant crowds"
+                                        },
+                                        {
+                                            "text": "flamboyant and exuberant architectural invention"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0344840.006",
+                                    "shortDefinitions": [
+                                        "full of energy and cheerfulness"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "growing luxuriantly or profusely"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "exuberant foliage"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0344840.009",
+                                            "registers": [
+                                                {
+                                                    "id": "literary",
+                                                    "text": "Literary"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "growing luxuriantly or profusely"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "luxuriant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lush"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rich"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "abundant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "abounding"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "superabundant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "profuse"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "copious"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "plentiful"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "riotous"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "prolific"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "teeming"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "flourishing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "thriving"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "vigorous"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "exuberant",
+                                                    "sense_id": "t_en_gb0005371.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "ebullient"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "buoyant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cheerful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sunny"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "breezy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "jaunty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "light-hearted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in high spirits"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "high-spirited"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exhilarated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "excited"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "elated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exultant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "euphoric"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "joyful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cheery"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "merry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "jubilant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sparkling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "effervescent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vivacious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "enthusiastic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "irrepressible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "energetic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "animated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "full of life"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lively"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vigorous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "zestful"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "exuberant",
+                                            "sense_id": "t_en_gb0005371.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "exuberant"
+                }
+            ],
+            "type": "headword",
+            "word": "exuberant"
+        }
+    ]
+}

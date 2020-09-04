@@ -1,0 +1,175 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "subsequent",
+    "results": [
+        {
+            "id": "subsequent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French, or from Latin subsequent- ‘following after’ (from the verb subsequi)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "subsequent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsəbsəkwənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/subsequent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsəbsəkwənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "subsequent to"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "coming after something in time; following"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the theory was developed subsequent to the earthquake of 1906"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1008160.005",
+                                    "shortDefinitions": [
+                                        "coming after something in time"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a stream or valley) having a direction or character determined by the resistance to erosion of the underlying rock, and typically following the strike of the strata."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "geology",
+                                                    "text": "Geology"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "geology",
+                                                    "text": "Geology"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1008160.007",
+                                            "shortDefinitions": [
+                                                "(of stream or valley) having direction or character determined by resistance to erosion of underlying rock"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "following"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ensuing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "succeeding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "successive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "later"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "future"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "coming"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "upcoming"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "to come"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "next"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "following"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "after"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in the wake of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "at the close of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "at the end of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "later than"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "subsequent",
+                                            "sense_id": "t_en_gb0014323.001"
+                                        },
+                                        {
+                                            "entry_id": "subsequent_to",
+                                            "sense_id": "t_en_gb0014323.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "subsequent"
+                }
+            ],
+            "type": "headword",
+            "word": "subsequent"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "ravenous",
+    "results": [
+        {
+            "id": "ravenous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "ravenously",
+                            "text": "ravenously"
+                        },
+                        {
+                            "id": "ravenousness",
+                            "text": "ravenousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French ravineus, from raviner ‘to ravage’ (see raven)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "ravenous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈrav(ə)nəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/ravenous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈræv(ə)nəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "extremely hungry"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I'd been out all day and was ravenous"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0847150.005",
+                                    "shortDefinitions": [
+                                        "extremely hungry"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of hunger or need) very great; voracious"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a ravenous appetite"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0847150.007",
+                                            "shortDefinitions": [
+                                                "very great"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "voracious"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "insatiable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ravening"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "wolfish"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "ravenous",
+                                                    "sense_id": "t_en_gb0012111.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "very hungry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "starving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "starved"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "famished"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "ravenous",
+                                            "sense_id": "t_en_gb0012111.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "ravenous"
+                }
+            ],
+            "type": "headword",
+            "word": "ravenous"
+        }
+    ]
+}

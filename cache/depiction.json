@@ -1,0 +1,170 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "depiction",
+    "results": [
+        {
+            "id": "depiction",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "depiction"
+                                },
+                                {
+                                    "inflectedForm": "depictions"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "diˈpikSH(ə)n"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/depiction_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dɪˈpɪkʃ(ə)n"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the action or result of depicting something, especially in art"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "art",
+                                            "text": "Art"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the painting's horrific depiction of war"
+                                        },
+                                        {
+                                            "text": "Michelangelo's depictions of the male nude"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0265570.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "action",
+                                            "text": "Action"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "action of depicting something"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "picture"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "painting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "portrait"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drawing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sketch"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "artist's impression"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "study"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "illustration"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "portrayal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "representation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "image"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "likeness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "portrayal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "representation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "presentation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "description"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "delineation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "characterization"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "depiction",
+                                            "sense_id": "t_en_gb0003706.001"
+                                        },
+                                        {
+                                            "entry_id": "depiction",
+                                            "sense_id": "t_en_gb0003706.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "depiction"
+                }
+            ],
+            "type": "headword",
+            "word": "depiction"
+        }
+    ]
+}

@@ -1,0 +1,269 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "lucid",
+    "results": [
+        {
+            "id": "lucid",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "lucidly",
+                            "text": "lucidly"
+                        },
+                        {
+                            "id": "lucidness",
+                            "text": "lucidness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (in lucid (sense 2)): from Latin lucidus (perhaps via French lucide or Italian lucido) from lucere ‘shine’, from lux, luc- ‘light’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "lucid"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈlo͞osəd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/lucid_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈlusəd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "expressed clearly; easy to understand"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a lucid account"
+                                        },
+                                        {
+                                            "text": "write in a clear and lucid style"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0599420.006",
+                                    "shortDefinitions": [
+                                        "expressed clearly"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "showing ability to think clearly, especially in the intervals between periods of confusion or insanity"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he has a few lucid moments every now and then"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0599420.008",
+                                            "shortDefinitions": [
+                                                "able to think clearly"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "rational"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sane"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "in one's right mind"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "in possession of one's faculties"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "of sound mind"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "able to think clearly"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "lucid",
+                                                    "sense_id": "t_en_gb0008969.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a dream) experienced with the dreamer feeling awake, aware of dreaming, and able to control events consciously."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "psychology",
+                                                    "text": "Psychology"
+                                                },
+                                                {
+                                                    "id": "psychiatry",
+                                                    "text": "Psychiatry"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "psychology",
+                                                    "text": "Psychology"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0599420.009",
+                                            "shortDefinitions": [
+                                                "(of dream) in which dreamer is aware of dreaming"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "intelligible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "comprehensible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "understandable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cogent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "coherent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "communicative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "articulate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "eloquent"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "lucid",
+                                            "sense_id": "t_en_gb0008969.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "bright or luminous"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "birds dipped their wings in the lucid flow of air"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0599420.011",
+                                    "registers": [
+                                        {
+                                            "id": "literary",
+                                            "text": "Literary"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "bright or luminous"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "bright"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shining"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gleaming"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "luminous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "radiant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "brilliant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "glowing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dazzling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lustrous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "luminescent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "phosphorescent"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "lucid",
+                                            "sense_id": "t_en_gb0008969.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "lucid"
+                }
+            ],
+            "type": "headword",
+            "word": "lucid"
+        }
+    ]
+}

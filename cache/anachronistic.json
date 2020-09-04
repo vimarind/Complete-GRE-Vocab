@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "anachronistic",
+    "results": [
+        {
+            "id": "anachronistic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "anachronistically",
+                            "text": "anachronistically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "anachronistic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˌnakrəˈnistik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/anachronistic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˌnækrəˈnɪstɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "belonging to a period other than that being portrayed"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "'Titus' benefits from the effective use of anachronistic elements like cars and loudspeakers"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0030490.006",
+                                    "shortDefinitions": [
+                                        "belonging to period other than that being portrayed"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "belonging or appropriate to an earlier period, especially so as to seem conspicuously old-fashioned"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she is rebelling against the anachronistic morality of her parents"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0030490.008",
+                                            "shortDefinitions": [
+                                                "belonging or appropriate to earlier period"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "anachronistic"
+                }
+            ],
+            "type": "headword",
+            "word": "anachronistic"
+        }
+    ]
+}

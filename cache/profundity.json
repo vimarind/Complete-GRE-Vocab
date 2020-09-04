@@ -1,0 +1,240 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "profundity",
+    "results": [
+        {
+            "id": "profundity",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "profundities"
+                                },
+                                {
+                                    "inflectedForm": "profundity"
+                                },
+                                {
+                                    "inflectedForm": "profundities"
+                                },
+                                {
+                                    "inflectedForm": "profundity"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "prəˈfəndədē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/profundity_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "prəˈfəndədi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "deep insight; great depth of knowledge or thought"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the simplicity and profundity of the message"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0819270.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "knowledge",
+                                            "text": "Knowledge"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "great depth of insight or knowledge"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "great depth or intensity of a state, quality, or emotion"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the profundity of her misery"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0819270.007",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "attribute",
+                                                    "text": "Attribute"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "great depth or intensity of state or emotion"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "intensity"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "depth"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "extremity"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "severity"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "keenness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "profoundness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "strength"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "profundity",
+                                                    "sense_id": "t_en_gb0011662.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a statement or idea that shows great knowledge or insight"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "such well-articulated profundities as “You're some kinda woman.”"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0819270.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "idea",
+                                                    "text": "Idea"
+                                                },
+                                                {
+                                                    "id": "statement",
+                                                    "text": "Statement"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "statement or idea that shows great knowledge or insight"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "wisdom"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "insight"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deep insight"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "intelligence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sagacity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "acuity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "depth"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "profoundness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perceptiveness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "penetration"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perception"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "percipience"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perspicuity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discernment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "thoughtfulness"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "profundity",
+                                            "sense_id": "t_en_gb0011662.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "profundity"
+                }
+            ],
+            "type": "headword",
+            "word": "profundity"
+        }
+    ]
+}

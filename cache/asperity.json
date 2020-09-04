@@ -1,0 +1,211 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "asperity",
+    "results": [
+        {
+            "id": "asperity",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘hardship, rigor’): from Old French asperite, or Latin asperitas, from asper ‘rough’"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "asperities"
+                                },
+                                {
+                                    "inflectedForm": "asperity"
+                                },
+                                {
+                                    "inflectedForm": "asperities"
+                                },
+                                {
+                                    "inflectedForm": "asperities"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈsperədē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/asperity_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈspɛrədi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "harshness of tone or manner"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he pointed this out with some asperity"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0051840.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "manner",
+                                            "text": "Manner"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "harshness of tone or manner"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "harsh qualities or conditions"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the asperities of a harsh and divided society"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0051840.007",
+                                            "notes": [
+                                                {
+                                                    "text": "\"asperities\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "negative_condition",
+                                                    "text": "Negative_Condition"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "harsh qualities or conditions"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a rough edge on a surface"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the asperities of the metal surfaces"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0051840.009",
+                                            "notes": [
+                                                {
+                                                    "text": "usually \"asperities\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "component",
+                                                    "text": "Component"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "rough edge on surface"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "harshness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sharpness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "roughness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abrasiveness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "severity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "acerbity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "astringency"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bitterness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "acidity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tartness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "edge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "acrimony"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "virulence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sarcasm"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "asperity",
+                                            "sense_id": "t_en_gb0000869.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "asperity"
+                }
+            ],
+            "type": "headword",
+            "word": "asperity"
+        }
+    ]
+}

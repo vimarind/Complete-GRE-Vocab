@@ -1,0 +1,281 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "expel",
+    "results": [
+        {
+            "id": "expel",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "expellable",
+                            "text": "expellable"
+                        },
+                        {
+                            "id": "expellee",
+                            "text": "expellee"
+                        },
+                        {
+                            "id": "expeller",
+                            "text": "expeller"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin expellere, from ex- ‘out’ + pellere ‘to drive’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "expels"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "expelling"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "expelled"
+                                },
+                                {
+                                    "inflectedForm": "expel"
+                                },
+                                {
+                                    "inflectedForm": "expelled"
+                                },
+                                {
+                                    "inflectedForm": "expelling"
+                                },
+                                {
+                                    "inflectedForm": "expels"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ikˈspel"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/expel_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪkˈspɛl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "deprive (someone) of membership of or involvement in a school or other organization"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she was expelled from school"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0342300.010",
+                                    "shortDefinitions": [
+                                        "officially make someone leave school"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "force (someone) to leave a place, especially a country"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "eight diplomats were expelled from Norway for espionage"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0342300.020",
+                                            "shortDefinitions": [
+                                                "force someone to leave place"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "banish"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "exile"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "deport"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "evict"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "expatriate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dismiss"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "displace"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "expel",
+                                                    "sense_id": "t_en_gb0005273.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "force out or eject (something), especially from the body"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she expelled a shuddering breath"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0342300.021",
+                                            "shortDefinitions": [
+                                                "force out something"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "let out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "discharge"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "eject"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "force out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "issue"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "send forth"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "expel",
+                                                    "sense_id": "t_en_gb0005273.003"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "throw out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ban"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "debar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drum out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "thrust out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "push out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "turn out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "oust"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remove"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "get rid of"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "expel",
+                                            "sense_id": "t_en_gb0005273.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "expel"
+                }
+            ],
+            "type": "headword",
+            "word": "expel"
+        }
+    ]
+}

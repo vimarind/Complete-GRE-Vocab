@@ -1,0 +1,182 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "abridge",
+    "results": [
+        {
+            "id": "abridge",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "abridgeable",
+                            "text": "abridgeable"
+                        },
+                        {
+                            "id": "abridger",
+                            "text": "abridger"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘deprive of’): from Old French abregier, from late Latin abbreviare ‘cut short’ (see abbreviate)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "abridge"
+                                },
+                                {
+                                    "inflectedForm": "abridged"
+                                },
+                                {
+                                    "inflectedForm": "abridges"
+                                },
+                                {
+                                    "inflectedForm": "abridging"
+                                },
+                                {
+                                    "inflectedForm": "abridged"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈbrij"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/abridge_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈbrɪdʒ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "shorten (a piece of writing) without losing the sense"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the introduction is abridged from the author's afterword to the novel"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0002770.006",
+                                    "shortDefinitions": [
+                                        "shorten piece of writing.without losing sense"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "shorten"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cut"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cut down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cut short"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "curtail"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "truncate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lessen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trim"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crop"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clip"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pare down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prune"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "abridge",
+                                            "sense_id": "t_en_gb0000069.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "curtail (a right or privilege)"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "even the right to free speech can be abridged"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0002770.013",
+                                    "shortDefinitions": [
+                                        "curtail"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "abridge"
+                }
+            ],
+            "type": "headword",
+            "word": "abridge"
+        }
+    ]
+}

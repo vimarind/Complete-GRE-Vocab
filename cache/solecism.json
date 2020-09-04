@@ -1,0 +1,203 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "solecism",
+    "results": [
+        {
+            "id": "solecism",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "solecistic",
+                            "text": "solecistic"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from French solécisme, or via Latin from Greek soloikismos, from soloikos ‘speaking incorrectly’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "solecism"
+                                },
+                                {
+                                    "inflectedForm": "solecisms"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsäləˌsizəm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/solecism_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsɑləˌsɪzəm"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsōləˌsizəm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/solecism_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsoʊləˌsɪzəm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a grammatical mistake in speech or writing."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "grammar",
+                                            "text": "Grammar"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0966510.007",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "mistake",
+                                            "text": "Mistake"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "grammatical mistake in speech or writing"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a breach of good manners; a piece of incorrect behavior."
+                                            ],
+                                            "id": "m_en_gbus0966510.010",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "behaviour",
+                                                    "text": "Behaviour"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "breach of good manners"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "faux pas"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "gaffe"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "breach of etiquette"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "impropriety"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "piece of indecorum"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "social indiscretion"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "inappropriate behaviour"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "infelicity"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "slip"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "error"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "blunder"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "miscalculation"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lapse"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "solecism",
+                                                    "sense_id": "t_en_gb0013767.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "mistake"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grammatical mistake"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "error"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blunder"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "solecism",
+                                            "sense_id": "t_en_gb0013767.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "solecism"
+                }
+            ],
+            "type": "headword",
+            "word": "solecism"
+        }
+    ]
+}

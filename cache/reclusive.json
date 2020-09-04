@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "reclusive",
+    "results": [
+        {
+            "id": "reclusive",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "reclusively",
+                            "text": "reclusively"
+                        },
+                        {
+                            "id": "reclusiveness",
+                            "text": "reclusiveness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "reclusive"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rəˈklo͞osiv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/reclusive_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rəˈklusɪv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "avoiding the company of other people; solitary"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a reclusive life in rural Ireland"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0851270.005",
+                                    "shortDefinitions": [
+                                        "avoiding company of other people"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "solitary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "secluded"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "isolated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hermit-like"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cloistered"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sequestered"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "withdrawn"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "retiring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shut away"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "reclusive",
+                                            "sense_id": "t_en_gb0012193.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "reclusive"
+                }
+            ],
+            "type": "headword",
+            "word": "reclusive"
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "indigent",
+    "results": [
+        {
+            "id": "indigent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via Old French from late Latin indigent- ‘lacking’, from the verb indigere, from indi- (strengthened form of in- ‘into’) + egere ‘to need’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "indigent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈindəjənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/indigent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɪndədʒənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "poor; needy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a charity for the relief of indigent artists"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0504550.005",
+                                    "shortDefinitions": [
+                                        "poor"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "poor"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impecunious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "destitute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "penniless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impoverished"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "poverty-stricken"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "down and out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pauperized"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "without a penny to one's name"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "without two farthings to rub together"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "without two pennies to rub together"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "indigent",
+                                            "sense_id": "t_en_gb0007702.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "indigent"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "indigent"
+                                },
+                                {
+                                    "inflectedForm": "indigents"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈindəjənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/indigent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɪndədʒənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a needy person."
+                                    ],
+                                    "id": "m_en_gbus0504550.008",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "poor_person",
+                                            "text": "Poor_Person"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "needy person"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "poor person"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pauper"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "indigent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bankrupt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "insolvent"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "down_and_out",
+                                            "sense_id": "t_en_gb0004412.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "indigent"
+                }
+            ],
+            "type": "headword",
+            "word": "indigent"
+        }
+    ]
+}

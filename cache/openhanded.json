@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "openhanded",
+    "results": [
+        {
+            "id": "openhanded",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "openhandedly",
+                            "text": "openhandedly"
+                        },
+                        {
+                            "id": "openhandedness",
+                            "text": "openhandedness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "open-handed"
+                                },
+                                {
+                                    "inflectedForm": "openhanded"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌōpənˈhandəd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/openhanded_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌoʊpənˈhændəd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a blow) delivered with the palm of the hand"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an openhanded slap to the side of the face"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0721450.006",
+                                    "shortDefinitions": [
+                                        "delivered with palm of hand"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "giving freely; generous"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "openhanded philanthropy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0721450.010",
+                                    "shortDefinitions": [
+                                        "giving freely"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "generous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "magnanimous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "charitable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "benevolent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "beneficent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "big-hearted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "great-hearted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "munificent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bountiful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "liberal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "handsome"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "princely"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "open-handed",
+                                            "sense_id": "t_en_gb0010316.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "openhanded"
+                }
+            ],
+            "type": "headword",
+            "word": "openhanded"
+        }
+    ]
+}

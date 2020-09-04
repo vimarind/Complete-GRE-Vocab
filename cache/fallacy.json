@@ -1,0 +1,245 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "fallacy",
+    "results": [
+        {
+            "id": "fallacy",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the sense ‘deception, guile’; gradually superseding Middle English fallace): from Latin fallacia, from fallax, fallac- ‘deceiving’, from fallere ‘deceive’"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "fallacies"
+                                },
+                                {
+                                    "inflectedForm": "fallacies"
+                                },
+                                {
+                                    "inflectedForm": "fallacy"
+                                },
+                                {
+                                    "inflectedForm": "fallacy"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfaləsē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/fallacy_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfæləsi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a mistaken belief, especially one based on unsound argument"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the notion that the camera never lies is a fallacy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0348640.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "belief",
+                                            "text": "Belief"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "mistaken belief"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a failure in reasoning which renders an argument invalid"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "logic",
+                                                    "text": "Logic"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "logic",
+                                                    "text": "Logic"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Kraft exposes three fallacies in this approach"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0348640.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "mistake",
+                                                    "text": "Mistake"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "failure in reasoning which renders argument invalid"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "faulty reasoning; misleading or unsound argument"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "logic",
+                                                    "text": "Logic"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the potential for fallacy which lies behind the notion of self-esteem"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0348640.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "reasoning",
+                                                    "text": "Reasoning"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "faulty reasoning"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "misconception"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mistaken belief"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "misbelief"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "delusion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "false notion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mistaken impression"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "misapprehension"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "misjudgement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "miscalculation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "misinterpretation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "misconstruction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "error"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mistake"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "untruth"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inconsistency"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "illusion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "myth"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fantasy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deceit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deception"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sophism"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "fallacy",
+                                            "sense_id": "t_en_gb0005438.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "fallacy"
+                }
+            ],
+            "type": "headword",
+            "word": "fallacy"
+        }
+    ]
+}

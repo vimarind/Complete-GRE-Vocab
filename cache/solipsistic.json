@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "solipsistic",
+    "results": [
+        {
+            "id": "solipsistic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivativeOf": [
+                        {
+                            "id": "solipsism",
+                            "text": "solipsism"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "solipsistic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌsäləpˈsistik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/solipsistic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌsɑləpˈsɪstɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "id": "m_en_gbus0967010.020"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "solipsistic"
+                }
+            ],
+            "type": "headword",
+            "word": "solipsistic"
+        }
+    ]
+}

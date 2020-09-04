@@ -1,0 +1,276 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "moratorium",
+    "results": [
+        {
+            "id": "moratorium",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 19th century: modern Latin, neuter (used as a noun) of late Latin moratorius ‘delaying’, from Latin morat- ‘delayed’, from the verb morari, from mora ‘delay’"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "moratoriums"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "moratoria",
+                                    "pronunciations": [
+                                        {
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "-ˈtôrēə"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "inflectedForm": "moratoria"
+                                },
+                                {
+                                    "inflectedForm": "moratorium"
+                                },
+                                {
+                                    "inflectedForm": "moratoriums"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌmôrəˈtôrēəm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/moratorium_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌmɔrəˈtɔriəm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "moratorium on"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a temporary prohibition of an activity"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an indefinite moratorium on the use of drift nets"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0660240.009",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "postponement",
+                                            "text": "Postponement"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "temporary prohibition of activity"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a legal authorization to debtors to postpone payment"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the debt was to be subject to a five-year moratorium"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0660240.013",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "postponement",
+                                                    "text": "Postponement"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "legal authorization to debtors to postpone payment"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "postponement"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "deferral"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "suspension"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "putting back"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "putting off"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "adjournment"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "delay"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "shelving"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rescheduling"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "interruption"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "arrest"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pause"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "deferment",
+                                                    "sense_id": "t_en_gb0003573.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "embargo"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ban"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prohibition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "suspension"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "postponement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stay"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stoppage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "halt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "freeze"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "standstill"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "respite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hiatus"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "delay"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deferment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deferral"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "adjournment"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "moratorium",
+                                            "sense_id": "t_en_gb0009667.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "moratorium"
+                }
+            ],
+            "type": "headword",
+            "word": "moratorium"
+        }
+    ]
+}

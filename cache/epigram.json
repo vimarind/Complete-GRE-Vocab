@@ -1,0 +1,199 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "epigram",
+    "results": [
+        {
+            "id": "epigram",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from French épigramme, or Latin epigramma, from Greek, from epi ‘upon, in addition’ + gramma (see -gram)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "epigram"
+                                },
+                                {
+                                    "inflectedForm": "epigrams"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈepəˌɡram"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/epigram_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɛpəˌɡræm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a pithy saying or remark expressing an idea in a clever and amusing way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a Wildean epigram"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0328940.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "saying",
+                                            "text": "Saying"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "pithy saying or remark expressing idea in clever and amusing way"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a short poem, especially a satirical one, having a witty or ingenious ending."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "prosody",
+                                                    "text": "Prosody"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0328940.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "poem",
+                                                    "text": "Poem"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "short poem with witty or ingenious ending"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "quip"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "witticism"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gem"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "play on words"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "jest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pun"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sally"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "nice turn of phrase"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "proverb"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "saying"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "maxim"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "adage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "axiom"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "aphorism"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "saw"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gnome"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dictum"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "precept"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "epigraph"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "motto"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "catchphrase"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "epigram",
+                                            "sense_id": "t_en_gb0004987.001"
+                                        },
+                                        {
+                                            "entry_id": "epigram",
+                                            "sense_id": "t_en_gb0004987.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "epigram"
+                }
+            ],
+            "type": "headword",
+            "word": "epigram"
+        }
+    ]
+}

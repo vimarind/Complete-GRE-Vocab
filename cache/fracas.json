@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "fracas",
+    "results": [
+        {
+            "id": "fracas",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 18th century: French, from fracasser, from Italian fracassare ‘make an uproar’"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "fracases"
+                                },
+                                {
+                                    "inflectedForm": "fracas"
+                                },
+                                {
+                                    "inflectedForm": "fracases"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfrākəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/fracas_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfreɪkəs"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfrakəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/fracas_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfrækəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a noisy disturbance or quarrel"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the fracas was broken up by stewards"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0385370.010",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "conflict",
+                                            "text": "Conflict"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "noisy disturbance or quarrel"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "disturbance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quarrel"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scuffle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "brawl"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "affray"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tussle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "melee"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "free-for-all"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fight"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clash"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "skirmish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "brouhaha"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "riot"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "uproar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "commotion"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "fracas",
+                                            "sense_id": "t_en_gb0006014.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "fracas"
+                }
+            ],
+            "type": "headword",
+            "word": "fracas"
+        }
+    ]
+}

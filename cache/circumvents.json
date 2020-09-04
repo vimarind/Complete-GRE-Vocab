@@ -1,0 +1,246 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "circumvents",
+    "results": [
+        {
+            "id": "circumvent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin circumvent- ‘skirted around’, from the verb circumvenire, from circum ‘around’ + venire ‘come’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "circumvent"
+                                },
+                                {
+                                    "inflectedForm": "circumvented"
+                                },
+                                {
+                                    "inflectedForm": "circumventing"
+                                },
+                                {
+                                    "inflectedForm": "circumvents"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌsərkəmˈvent"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/circumvent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌsərkəmˈvɛnt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "find a way around (an obstacle)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "if you come to an obstruction in a road you can seek to circumvent it"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0185240.020",
+                                    "shortDefinitions": [
+                                        "find way around"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "overcome (a problem or difficulty), typically in a clever and surreptitious way"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I found it quite easy to circumvent security"
+                                                },
+                                                {
+                                                    "text": "it was always possible to circumvent the regulations"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0185240.030",
+                                            "shortDefinitions": [
+                                                "overcome problem or difficulty"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "avoid"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "get round"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "find a way round"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "evade"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "get past"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bypass"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sidestep"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dodge"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "circumvent",
+                                                    "sense_id": "t_en_gb0002346.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "deceive; outwit"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he's circumvented her with some of his stories"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0185240.031",
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "deceive"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "avoid"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "get round"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "find a way round"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "evade"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "get past"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bypass"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sidestep"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dodge"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "circumvent",
+                                                    "sense_id": "t_en_gb0002346.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "avoid"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "get round"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "find a way round"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "evade"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "get past"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bypass"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sidestep"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dodge"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "circumvent",
+                                            "sense_id": "t_en_gb0002346.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "circumvent"
+                }
+            ],
+            "type": "headword",
+            "word": "circumvent"
+        }
+    ]
+}

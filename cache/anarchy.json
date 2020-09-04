@@ -1,0 +1,176 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "anarchy",
+    "results": [
+        {
+            "id": "anarchy",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: via medieval Latin from Greek anarkhia, from anarkhos, from an- ‘without’ + arkhos ‘chief, ruler’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "anarchy"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈanərkē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/anarchy_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈænərki"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a state of disorder due to absence or nonrecognition of authority"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he must ensure public order in a country threatened with anarchy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0031250.011",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "disorder",
+                                            "text": "Disorder"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "state of disorder due to absence or nonrecognition of authority"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "absence of government and absolute freedom of the individual, regarded as a political ideal."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "politics",
+                                                    "text": "Politics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0031250.013",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "political_system",
+                                                    "text": "Political_System"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "absence of government and absolute freedom of individual"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "lawlessness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "absence of government"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "nihilism"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mobocracy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "revolution"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "insurrection"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "riot"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rebellion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mutiny"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disorder"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disorganization"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "misrule"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chaos"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tumult"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "turmoil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mayhem"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pandemonium"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "anarchy",
+                                            "sense_id": "t_en_gb0000567.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "anarchy"
+                }
+            ],
+            "type": "headword",
+            "word": "anarchy"
+        }
+    ]
+}

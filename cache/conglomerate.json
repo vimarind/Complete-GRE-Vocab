@@ -1,0 +1,540 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "conglomerate",
+    "results": [
+        {
+            "id": "conglomerate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as an adjective describing something gathered up into a rounded mass): from Latin conglomeratus, past participle of conglomerare, from con- ‘together’ + glomus, glomer- ‘ball’. The geological sense dates from the early 19th century; the other noun senses are later"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "conglomerate"
+                                },
+                                {
+                                    "inflectedForm": "conglomerates"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kənˈɡlämərət"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconglomerate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kənˈɡlɑmərət"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a number of different things or parts that are put or grouped together to form a whole but remain distinct entities"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the Earth is a specialized conglomerate of organisms"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0210860.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "composite_thing",
+                                            "text": "Composite_Thing"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "thing consisting of different things"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a large corporation formed by the merging of separate and diverse firms"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "commerce",
+                                                    "text": "Commerce"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a media conglomerate"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0210860.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "business",
+                                                    "text": "Business"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "large corporation"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "corporation"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "combine"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "group"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "grouping"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "consortium"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "partnership"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "joint concern"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "trust"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "merger"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "merged businesses"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "merged companies"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "merged firms"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "conglomerate",
+                                                    "sense_id": "t_en_gb0002817.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "mixture"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mix"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "combination"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mingling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "commingling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "amalgamation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "amalgam"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "union"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "conjunction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "marriage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "merging"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "compound"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "alloy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fusion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "meld"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "composite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "concoction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "synthesis"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "homogenization"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "conglomerate",
+                                            "sense_id": "t_en_gb0002817.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a coarse-grained sedimentary rock composed of rounded fragments (> 2 mm) within a matrix of finer grained material"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "rock",
+                                            "text": "Rock"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "geology",
+                                            "text": "Geology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the sediments vary from coarse conglomerate to fine silt and clay"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0210860.011",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "rock",
+                                            "text": "Rock"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "sedimentary rock"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "aggregate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "agglomerate"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "conglomerate",
+                                            "sense_id": "t_en_gb0002817.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "conglomerate"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "conglomerate"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kənˈɡlämərət"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconglomerate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kənˈɡlɑmərət"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to a conglomerate, especially a large corporation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "conglomerate businesses"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0210860.016",
+                                    "shortDefinitions": [
+                                        "relating to conglomerate"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "aggregate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "agglomerate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "amassed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gathered"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clustered"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "combined"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "conglomerate",
+                                            "sense_id": "t_en_gb0002817.004"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "conglomerate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "conglomerate"
+                                },
+                                {
+                                    "inflectedForm": "conglomerated"
+                                },
+                                {
+                                    "inflectedForm": "conglomerates"
+                                },
+                                {
+                                    "inflectedForm": "conglomerating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kənˈɡläməˌrāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconglomerate_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kənˈɡlɑməˌreɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "gather together into a compact mass"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "atoms that conglomerate at the center"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0210860.023",
+                                    "shortDefinitions": [
+                                        "gather together into mass"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "form a conglomerate by merging diverse businesses"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the urge to conglomerate has long been out of fashion in American boardrooms"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0210860.029",
+                                            "shortDefinitions": [
+                                                "form conglomerate"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "coalesce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "join together"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "combine"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "merge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fuse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "consolidate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "amalgamate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "integrate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mingle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "meld"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blend"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "intermingle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "knit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "knit together"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "link up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "converge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "come together"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "conglomerate",
+                                            "sense_id": "t_en_gb0002817.005"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "conglomerate"
+                }
+            ],
+            "type": "headword",
+            "word": "conglomerate"
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "evanescent",
+    "results": [
+        {
+            "id": "evanescent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "evanescence",
+                            "text": "evanescence"
+                        },
+                        {
+                            "id": "evanescently",
+                            "text": "evanescently"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 18th century (in the sense ‘almost imperceptible’): from Latin evanescent- ‘disappearing’, from the verb evanescere (see evanesce)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "evanescent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌevəˈnes(ə)nt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/evanescent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɛvəˈnɛs(ə)nt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "soon passing out of sight, memory, or existence; quickly fading or disappearing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a shimmering evanescent bubble"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0337350.012",
+                                    "registers": [
+                                        {
+                                            "id": "literary",
+                                            "text": "Literary"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "soon passing out of sight or existence"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "denoting a field or wave that extends into a region where it cannot propagate and whose amplitude therefore decreases with distance."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "physics",
+                                                    "text": "Physics"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "physics",
+                                                    "text": "Physics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0337350.014",
+                                            "shortDefinitions": [
+                                                "denoting field or wave that extends into region where it cannot propagate and whose amplitude therefore decreases with distance"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "vanishing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fading"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "evaporating"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "melting away"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disappearing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "diminishing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dwindling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shrinking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fugitive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ephemeral"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fleeting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "short-lived"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "short-term"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "passing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "transitory"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "transient"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fugitive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "momentary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "temporary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "brief"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "here today and gone tomorrow"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "evanescent",
+                                            "sense_id": "t_en_gb0005104.001"
+                                        },
+                                        {
+                                            "entry_id": "evanescent",
+                                            "sense_id": "t_en_gb0005104.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "evanescent"
+                }
+            ],
+            "type": "headword",
+            "word": "evanescent"
+        }
+    ]
+}

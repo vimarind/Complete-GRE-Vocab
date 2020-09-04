@@ -1,0 +1,171 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "stilted",
+    "results": [
+        {
+            "id": "stilted",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "stiltedly",
+                            "text": "stiltedly"
+                        },
+                        {
+                            "id": "stiltedness",
+                            "text": "stiltedness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "stilted"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈstiltəd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/stilted_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈstɪltəd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a manner of talking or writing) stiff and self-conscious or unnatural"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we made stilted conversation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0995520.006",
+                                    "shortDefinitions": [
+                                        "stiff and self-conscious or unnatural"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "strained"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forced"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contrived"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "constrained"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "laboured"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "laborious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stiff"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "self-conscious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "awkward"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unnatural"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wooden"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unrelaxed"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "stilted",
+                                            "sense_id": "t_en_gb0014123.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "standing on stilts"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "villages of stilted houses"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0995520.009",
+                                    "shortDefinitions": [
+                                        "standing on stilts"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of an arch) with pieces of upright masonry between the imposts and the springers."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "architecture",
+                                                    "text": "Architecture"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "architecture",
+                                                    "text": "Architecture"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0995520.010",
+                                            "shortDefinitions": [
+                                                "(of arch) with pieces of upright masonry between imposts and springers"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "stilted"
+                }
+            ],
+            "type": "headword",
+            "word": "stilted"
+        }
+    ]
+}

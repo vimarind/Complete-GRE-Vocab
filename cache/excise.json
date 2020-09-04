@@ -1,0 +1,438 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "excise",
+    "results": [
+        {
+            "id": "excise",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (in the sense ‘notch or hollow out’): from Latin excis- ‘cut out’, from the verb excidere, from ex- ‘out of’ + caedere ‘to cut’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "excise"
+                                },
+                                {
+                                    "inflectedForm": "excised"
+                                },
+                                {
+                                    "inflectedForm": "excises"
+                                },
+                                {
+                                    "inflectedForm": "excising"
+                                },
+                                {
+                                    "inflectedForm": "excise"
+                                },
+                                {
+                                    "inflectedForm": "excised"
+                                },
+                                {
+                                    "inflectedForm": "excises"
+                                },
+                                {
+                                    "inflectedForm": "excising"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ikˈsīz"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/excise_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪkˈsaɪz"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cut out surgically"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "surgery",
+                                            "text": "Surgery"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the precision with which surgeons can excise brain tumors"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0339660.006",
+                                    "shortDefinitions": [
+                                        "cut out surgically"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "remove (a section) from a text or piece of music"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the clauses were excised from the treaty"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0339660.016",
+                                            "shortDefinitions": [
+                                                "remove section from text or piece of music"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "delete"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cross out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cross through"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "strike out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "score out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "scratch out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cancel"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "put a line through"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "blue-pencil"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ink out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "edit out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "blank out"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "excise",
+                                                    "sense_id": "t_en_gb0005188.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "cut out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cut off"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cut away"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "snip out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "extract"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remove"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "eradicate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "extirpate"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "excise",
+                                            "sense_id": "t_en_gb0005188.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "excise"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "excise"
+                                },
+                                {
+                                    "inflectedForm": "excises"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "excise"
+                }
+            ],
+            "type": "headword",
+            "word": "excise"
+        },
+        {
+            "id": "excise",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the general sense ‘a tax or toll’): from Middle Dutch excijs, accijs, perhaps based on Latin accensare ‘to tax’, from ad- ‘to’ + census ‘tax’ (see census)"
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "excise"
+                                },
+                                {
+                                    "inflectedForm": "excises"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "usually as modifier",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈekˌsīz"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/excise_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɛkˌsaɪz"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a tax levied on certain goods and commodities produced or sold within a country and on licenses granted for certain activities"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "economics",
+                                            "text": "Economics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "excise taxes on cigarettes"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0339650.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "tax",
+                                            "text": "Tax"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "tax levied on goods and commodities"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "duty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tax"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "levy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tariff"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "toll"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tithe"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "excise",
+                                            "sense_id": "t_en_gb0005187.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "excise"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "excise"
+                                },
+                                {
+                                    "inflectedForm": "excised"
+                                },
+                                {
+                                    "inflectedForm": "excises"
+                                },
+                                {
+                                    "inflectedForm": "excising"
+                                },
+                                {
+                                    "inflectedForm": "excise"
+                                },
+                                {
+                                    "inflectedForm": "excised"
+                                },
+                                {
+                                    "inflectedForm": "excises"
+                                },
+                                {
+                                    "inflectedForm": "excising"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ikˈsīz"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/excise_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪkˈsaɪz"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "charge excise on (goods)."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "economics",
+                                            "text": "Economics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0339650.011",
+                                    "shortDefinitions": [
+                                        "charge excise on"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "excise"
+                }
+            ],
+            "type": "headword",
+            "word": "excise"
+        }
+    ]
+}

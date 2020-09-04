@@ -1,0 +1,62 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "brusquely",
+    "results": [
+        {
+            "id": "brusquely",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivativeOf": [
+                        {
+                            "id": "brusque",
+                            "text": "brusque"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "brusquely"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbrəsklē"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbrəskli"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "id": "m_en_gbus0130430.015"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adverb",
+                        "text": "Adverb"
+                    },
+                    "text": "brusquely"
+                }
+            ],
+            "type": "headword",
+            "word": "brusquely"
+        }
+    ]
+}

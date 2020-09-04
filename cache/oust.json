@@ -1,0 +1,234 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "oust",
+    "results": [
+        {
+            "id": "oust",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as a legal term): from Anglo-Norman French ouster ‘take away’, from Latin obstare ‘oppose, hinder’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "oust"
+                                },
+                                {
+                                    "inflectedForm": "ousted"
+                                },
+                                {
+                                    "inflectedForm": "ousting"
+                                },
+                                {
+                                    "inflectedForm": "ousts"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "oust"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/oust_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "aʊst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "drive out or expel (someone) from a position or place"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he ousted a long-term incumbent by only 500 votes"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0730900.005",
+                                    "shortDefinitions": [
+                                        "drive out or expel someone from position or place"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "deprive (someone) of or exclude (someone) from possession of something."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0730900.011",
+                                            "shortDefinitions": [
+                                                "deprive of or exclude from possession of something"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "drive out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expel"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "force out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "throw out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remove"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remove from office"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remove from power"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "eject"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "get rid of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "depose"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "topple"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unseat"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overthrow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bring down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overturn"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drum out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "thrust out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "push out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "turn out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "purge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "evict"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dispossess"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dismiss"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dislodge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "displace"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "supplant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disinherit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "show someone the door"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "oust",
+                                            "sense_id": "t_en_gb0010418.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "oust"
+                }
+            ],
+            "type": "headword",
+            "word": "oust"
+        }
+    ]
+}

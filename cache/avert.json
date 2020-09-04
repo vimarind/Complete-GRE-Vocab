@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "avert",
+    "results": [
+        {
+            "id": "avert",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "avertable",
+                            "text": "avertable"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘divert or deter someone from a place or a course of action’): from Latin avertere, from ab- ‘from’ + vertere ‘to turn’; reinforced by Old French avertir"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "avert"
+                                },
+                                {
+                                    "inflectedForm": "averted"
+                                },
+                                {
+                                    "inflectedForm": "averting"
+                                },
+                                {
+                                    "inflectedForm": "averts"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈvərt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/avert_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈvərt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "turn away (one's eyes or thoughts)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she averted her eyes during the more violent scenes"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0060870.006",
+                                    "shortDefinitions": [
+                                        "turn away"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "turn aside"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "turn away"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "turn to one side"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "avert",
+                                            "sense_id": "t_en_gb0001024.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "prevent or ward off (an undesirable occurrence)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "talks failed to avert a rail strike"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0060870.013",
+                                    "shortDefinitions": [
+                                        "prevent or ward off"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "prevent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stop"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "avoid"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "nip in the bud"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "avert",
+                                            "sense_id": "t_en_gb0001024.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "avert"
+                }
+            ],
+            "type": "headword",
+            "word": "avert"
+        }
+    ]
+}

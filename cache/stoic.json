@@ -1,0 +1,195 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "stoic",
+    "results": [
+        {
+            "id": "stoic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via Latin from Greek stōïkos, from stoa (with reference to Zeno's teaching in the Stoa Poikilē or Painted Porch, at Athens)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "stoic"
+                                },
+                                {
+                                    "inflectedForm": "stoics"
+                                },
+                                {
+                                    "inflectedForm": "Stoic"
+                                },
+                                {
+                                    "inflectedForm": "Stoics"
+                                },
+                                {
+                                    "inflectedForm": "Stoic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈstōik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/stoic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈstoʊɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who can endure pain or hardship without showing their feelings or complaining."
+                                    ],
+                                    "id": "m_en_gbus0997350.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "brave_person",
+                                            "text": "Brave_Person"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person who can endure pain or hardship without showing their feelings or complaining"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a member of the ancient philosophical school of Stoicism."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "philosophy",
+                                            "text": "Philosophy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0997350.010",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "philosopher",
+                                            "text": "Philosopher"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "member of ancient philosophical school of Stoicism"
+                                    ],
+                                    "variantForms": [
+                                        {
+                                            "text": "Stoic"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "stoic"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "stoic"
+                                },
+                                {
+                                    "inflectedForm": "Stoic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈstōik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/stoic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈstoʊɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "another term for stoical"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "stoical",
+                                            "text": "stoical",
+                                            "type": "another term for"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a look of stoic resignation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0997350.016"
+                                },
+                                {
+                                    "definitions": [
+                                        "of or belonging to the Stoics or their school of philosophy"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "philosophy",
+                                            "text": "Philosophy"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the Stoic philosophers"
+                                        },
+                                        {
+                                            "text": "Seneca preached Stoic abstinence"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0997350.019",
+                                    "shortDefinitions": [
+                                        "of or belonging to Stoics or their school of philosophy"
+                                    ],
+                                    "variantForms": [
+                                        {
+                                            "text": "Stoic"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "stoic"
+                }
+            ],
+            "type": "headword",
+            "word": "stoic"
+        }
+    ]
+}

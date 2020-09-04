@@ -1,0 +1,291 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "recourse",
+    "results": [
+        {
+            "id": "recourse",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (also in the sense ‘running or flowing back’): from Old French recours, from Latin recursus, from re- ‘back, again’ + cursus ‘course, running’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "recourse"
+                                },
+                                {
+                                    "inflectedForm": "recourses"
+                                },
+                                {
+                                    "inflectedForm": "recourse"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "in singular",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈrēˌkôrs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/recourse_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈriˌkɔrs"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rēˈkôrs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/recourse_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "riˈkɔrs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a source of help in a difficult situation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "surgery may be the only recourse"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0852010.007",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "help",
+                                            "text": "Help"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "source of help in difficult situation"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the use of someone or something as a source of help in a difficult situation"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a means of solving disputes without recourse to courts of law"
+                                                },
+                                                {
+                                                    "text": "all three countries had recourse to the IMF for standby loans"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0852010.010",
+                                            "notes": [
+                                                {
+                                                    "text": "\"recourse to\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "action",
+                                                    "text": "Action"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "use of person or thing as source of help in difficult situation"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "resort to"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "make use of"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "use"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "avail oneself of"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "utilize"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "employ"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "turn to"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "call on"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "draw on"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bring into play"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bring into service"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "look to"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "appeal to"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "have_recourse_to",
+                                                    "sense_id": "t_en_gb0012218.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the legal right to demand compensation or payment"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "finance",
+                                                    "text": "Finance"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the bank has recourse against the exporter for losses incurred"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0852010.012",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "right",
+                                                    "text": "Right"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "legal right to demand compensation or payment"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "option"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "possibility"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "alternative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "possible course of action"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "resort"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "way out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "person to turn to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "place to turn to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "source of assistance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "available resource"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hope"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remedy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "choice"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expedient"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "recourse",
+                                            "sense_id": "t_en_gb0012218.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "without_recourse",
+                            "text": "without recourse"
+                        }
+                    ],
+                    "text": "recourse"
+                }
+            ],
+            "type": "headword",
+            "word": "recourse"
+        }
+    ]
+}

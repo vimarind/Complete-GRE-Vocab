@@ -1,0 +1,255 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "oscillate",
+    "results": [
+        {
+            "id": "oscillate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "oscillatory",
+                            "text": "oscillatory"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 18th century: from Latin oscillat- ‘swung’, from the verb oscillare"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "oscillate"
+                                },
+                                {
+                                    "inflectedForm": "oscillated"
+                                },
+                                {
+                                    "inflectedForm": "oscillates"
+                                },
+                                {
+                                    "inflectedForm": "oscillating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈäsəˌlāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/oscillate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɑsəˌleɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "move or swing back and forth at a regular speed"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "mechanics",
+                                            "text": "Mechanics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a pendulum oscillates about its lowest point"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0728490.006",
+                                    "shortDefinitions": [
+                                        "move back and forth at regular speed"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "waver between extremes of opinion, action, or quality"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he was oscillating between fear and bravery"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0728490.012",
+                                            "notes": [
+                                                {
+                                                    "text": "with adverbial",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "waver between extremes of emotion etc."
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "waver"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "swing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fluctuate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "alternate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "see-saw"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "veer"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "yo-yo"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sway"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "go from one extreme to the other"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "vary"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "vacillate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "teeter"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hover"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "oscillate",
+                                                    "sense_id": "t_en_gb0010404.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "swing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sway"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swing from side to side"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swing back and forth"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swing backwards and forwards"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swing to and fro"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vibrate"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "oscillate",
+                                            "sense_id": "t_en_gb0010404.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "vary in magnitude or position in a regular manner around a central point."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "physics",
+                                            "text": "Physics"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "physics",
+                                            "text": "Physics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0728490.014",
+                                    "shortDefinitions": [
+                                        "vary in regular manner around central point"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a circuit or device) cause the electric current or voltage running through it to vary in magnitude or position in a regular manner around a central point."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "electrical",
+                                                    "text": "Electrical"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0728490.015",
+                                            "shortDefinitions": [
+                                                "cause electric current or voltage to vary in magnitude"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "oscillate"
+                }
+            ],
+            "type": "headword",
+            "word": "oscillate"
+        }
+    ]
+}

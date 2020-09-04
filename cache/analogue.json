@@ -1,0 +1,298 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "analogue",
+    "results": [
+        {
+            "id": "analog",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 19th century (as noun): from French, from Greek analogon, neuter of analogos ‘proportionate’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "analogue"
+                                },
+                                {
+                                    "inflectedForm": "analog"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈanlˌôɡ"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/analog_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈænlˌɔɡ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Often contrasted with digital (sense 1)"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "digital",
+                                            "text": "digital",
+                                            "type": "relates to"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "relating to or using signals or information represented by a continuously variable physical quantity such as spatial position, voltage, etc."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "electronics",
+                                            "text": "Electronics"
+                                        },
+                                        {
+                                            "id": "computing",
+                                            "text": "Computing"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "analog signals"
+                                        },
+                                        {
+                                            "text": "the information on a gramophone record is analog"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0030840.007",
+                                    "shortDefinitions": [
+                                        "continuously variable"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a clock or watch) showing the time by means of hands rather than displayed digits."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "clockmaking",
+                                                    "text": "Clockmaking"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0030840.011",
+                                            "shortDefinitions": [
+                                                "(of clock or watch) having hands"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "not involving or relating to the use of computer technology, as a contrast to a digital counterpart"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "old-school analog paper map skills"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0030840.024",
+                                            "shortDefinitions": [
+                                                "not involving use of computer technology"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "analogue"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "analog"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "analog"
+                                },
+                                {
+                                    "inflectedForm": "analogs"
+                                },
+                                {
+                                    "inflectedForm": "analogue"
+                                },
+                                {
+                                    "inflectedForm": "analogues"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "usually \"analogue\"",
+                                    "type": "wordFormNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈanlˌôɡ"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/analog_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈænlˌɔɡ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person or thing seen as comparable to another"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an interior analogue of the exterior world"
+                                        },
+                                        {
+                                            "text": "the idea that the fertilized egg contains a miniature analogue of every adult structure"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0030840.013",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "similar_thing",
+                                            "text": "Similar_Thing"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "comparable person or thing"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a compound with a molecular structure closely similar to that of another"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "chemistry",
+                                                    "text": "Chemistry"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "chemistry",
+                                                    "text": "Chemistry"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "thioacids are sulfur analogues of oxyacids"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0030840.021",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "chemical",
+                                                    "text": "Chemical"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "similar chemical compound"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "counterpart"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "analogue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "equivalent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "likeness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "correspondent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "match"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "twin"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "duplicate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "equal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "coequal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mirror"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "parallel",
+                                            "sense_id": "t_en_gb0010648.004"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "analogue"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "analog"
+                }
+            ],
+            "type": "headword",
+            "word": "analog"
+        }
+    ]
+}

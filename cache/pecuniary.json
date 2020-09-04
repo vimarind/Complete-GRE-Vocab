@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "pecuniary",
+    "results": [
+        {
+            "id": "pecuniary",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "pecuniarily",
+                            "text": "pecuniarily"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: from Latin pecuniarius, from pecunia ‘money’, from pecu ‘cattle, money’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "pecuniary"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "pəˈkyo͞onēˌerē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/pecuniary_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "pəˈkjuniˌɛri"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to or consisting of money"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he admitted obtaining a pecuniary advantage by deception"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0759550.005",
+                                    "registers": [
+                                        {
+                                            "id": "formal",
+                                            "text": "Formal"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "relating to or consisting of money"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "financial"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "monetary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "money"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fiscal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "economic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "capital"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "commercial"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "budgetary"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "pecuniary",
+                                            "sense_id": "t_en_gb0010808.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "pecuniary"
+                }
+            ],
+            "type": "headword",
+            "word": "pecuniary"
+        }
+    ]
+}

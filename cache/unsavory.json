@@ -1,0 +1,217 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "unsavory",
+    "results": [
+        {
+            "id": "unsavory",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "unsavorily",
+                            "text": "unsavorily"
+                        },
+                        {
+                            "id": "unsavoriness",
+                            "text": "unsavoriness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "unsavory"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌənˈsāv(ə)rē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/unsavory_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌənˈseɪv(ə)ri"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "disagreeable to taste, smell, or look at"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they looked at the scanty, unsavory portions of food doled out to them"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1108970.007",
+                                    "shortDefinitions": [
+                                        "disagreeable to taste, smell, or look at"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "disagreeable and unpleasant because morally disreputable"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an unsavory reputation"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1108970.010",
+                                            "shortDefinitions": [
+                                                "disagreeable and unpleasant because morally disreputable"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "disreputable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unpleasant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "disagreeable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "nasty"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "mean"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rough"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "seedy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sleazy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "seamy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unwholesome"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "objectionable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "offensive"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "obnoxious"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "repellent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "repulsive"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "immoral"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "unsavoury",
+                                                    "sense_id": "t_en_gb0015645.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "unpalatable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unappetizing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unpleasant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "distasteful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disagreeable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "uninviting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unappealing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unattractive"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "unsavoury",
+                                            "sense_id": "t_en_gb0015645.001"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "unsavoury"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "unsavory"
+                }
+            ],
+            "type": "headword",
+            "word": "unsavory"
+        }
+    ]
+}

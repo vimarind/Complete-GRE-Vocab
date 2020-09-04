@@ -1,0 +1,253 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "dissent",
+    "results": [
+        {
+            "id": "dissent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin dissentire ‘differ in sentiment’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "dissent"
+                                },
+                                {
+                                    "inflectedForm": "Dissent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈsent"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/dissent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈsɛnt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "dissent from"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "the expression or holding of opinions at variance with those previously, commonly, or officially held"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there was no dissent from this view"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0283520.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "protest",
+                                            "text": "Protest"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "disagreement with prevailing views"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "refusal to accept the doctrines of an established or orthodox Church; nonconformity"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "theology",
+                                                    "text": "Theology"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "rural communities with a long tradition of Dissent"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0283520.007",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "doctrine",
+                                                    "text": "Doctrine"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "nonconformity"
+                                            ],
+                                            "variantForms": [
+                                                {
+                                                    "text": "Dissent"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "disagreement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lack of agreement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "difference of opinion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "argument"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dispute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "demur"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "dissent",
+                                            "sense_id": "t_en_gb0004229.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "dissent"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "dissent"
+                                },
+                                {
+                                    "inflectedForm": "dissented"
+                                },
+                                {
+                                    "inflectedForm": "dissenting"
+                                },
+                                {
+                                    "inflectedForm": "dissents"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈsent"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/dissent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈsɛnt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "hold or express opinions that are at variance with those previously, commonly, or officially expressed"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "two members dissented from the majority"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0283520.014",
+                                    "shortDefinitions": [
+                                        "disagree with prevailing or official views"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "separate from an established or orthodox church because of doctrinal disagreement."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "theology",
+                                                    "text": "Theology"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0283520.020",
+                                            "shortDefinitions": [
+                                                "disagree with orthodox doctrine"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "differ"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "demur"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "diverge"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "dissent",
+                                                    "sense_id": "t_en_gb0004229.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "dissent"
+                }
+            ],
+            "type": "headword",
+            "word": "dissent"
+        }
+    ]
+}

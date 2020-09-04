@@ -1,0 +1,731 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "render",
+    "results": [
+        {
+            "id": "render",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "renderer",
+                            "text": "renderer"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French rendre, from an alteration of Latin reddere ‘give back’, from re- ‘back’ + dare ‘give’. The earliest senses were ‘recite’, ‘translate’, and ‘give back’ (hence ‘represent’ and ‘perform’); ‘hand over’ (hence ‘give help’ and ‘submit for consideration’); ‘cause to be’; and ‘melt down’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "render"
+                                },
+                                {
+                                    "inflectedForm": "rendered"
+                                },
+                                {
+                                    "inflectedForm": "rendering"
+                                },
+                                {
+                                    "inflectedForm": "renders"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈrendər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/render_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈrɛndər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "services rendered"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "provide or give (a service, help, etc.)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "money serves as a reward for services rendered"
+                                        },
+                                        {
+                                            "text": "Mrs. Evans would render assistance to those she thought were in real need"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0861290.006",
+                                    "shortDefinitions": [
+                                        "provide or give"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "submit or present for inspection or consideration"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he would render income tax returns at the end of the year"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0861290.012",
+                                            "shortDefinitions": [
+                                                "submit or present for inspection or consideration"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "send in"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "present"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tender"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "submit"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "render",
+                                                    "sense_id": "t_en_gb0012386.003"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "deliver (a verdict or judgment)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the jury's finding amounted to the clearest verdict yet rendered upon the scandal"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0861290.013",
+                                            "shortDefinitions": [
+                                                "deliver"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "deliver"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "return"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hand down"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bring in"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "give"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "announce"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pronounce"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "proclaim"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "render",
+                                                    "sense_id": "t_en_gb0012386.004"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "hand over"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he will render up his immortal soul"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0861290.014",
+                                            "registers": [
+                                                {
+                                                    "id": "literary",
+                                                    "text": "Literary"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "give up"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "give back"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "return"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "restore"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pay back"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "repay"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hand over"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "give up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "surrender"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "relinquish"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "deliver"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "turn over"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "yield"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cede"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "render",
+                                                    "sense_id": "t_en_gb0012386.010"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "give"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "provide"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "supply"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "furnish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make available"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contribute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "show"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "display"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exhibit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "evince"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "manifest"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "render",
+                                            "sense_id": "t_en_gb0012386.002"
+                                        },
+                                        {
+                                            "entry_id": "render",
+                                            "sense_id": "t_en_gb0012386.005"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "cause to be or become; make"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the rains rendered his escape impossible"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0861290.016",
+                                    "notes": [
+                                        {
+                                            "text": "with object and complement",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "cause to be or become"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "make"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cause to be"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cause to become"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "leave"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "render",
+                                            "sense_id": "t_en_gb0012386.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "represent or depict artistically"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "art",
+                                            "text": "Art"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the eyes and the cheeks are exceptionally well rendered"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0861290.018",
+                                    "shortDefinitions": [
+                                        "represent or depict artistically"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "perform (a piece)"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "music",
+                                                    "text": "Music"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a soprano solo reverently rendered by Linda Howie"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0861290.019",
+                                            "shortDefinitions": [
+                                                "perform"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "perform"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "play"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "execute"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "interpret"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "render",
+                                                    "sense_id": "t_en_gb0012386.007"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "translate"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the phrase was rendered into English"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0861290.020",
+                                            "shortDefinitions": [
+                                                "translate"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "translate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "put"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "express"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "transcribe"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "convert"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "render",
+                                                    "sense_id": "t_en_gb0012386.009"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "process (an outline image) using color and shading in order to make it appear solid and three-dimensional"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "computing",
+                                                    "text": "Computing"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "computing",
+                                                    "text": "Computing"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he is forced to render images by intermixing pixels of a few basic colors"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0861290.021",
+                                            "shortDefinitions": [
+                                                "process outline image using colour and shading"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "paint"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "draw"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "depict"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "portray"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "represent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reproduce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "execute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "act"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perform"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "play"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "depict"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "render",
+                                            "sense_id": "t_en_gb0012386.006"
+                                        },
+                                        {
+                                            "entry_id": "render",
+                                            "sense_id": "t_en_gb0012386.008"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "covertly send (a foreign criminal or terrorist suspect) for interrogation abroad; subject to extraordinary rendition."
+                                    ],
+                                    "id": "m_en_gbus0861290.023",
+                                    "shortDefinitions": [
+                                        "covertly send foreign criminal or terrorist suspect for interrogation abroad"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "melt down (fat)"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "cooking",
+                                            "text": "Cooking"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the fat was being cut up and rendered for lard"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0861290.025",
+                                    "shortDefinitions": [
+                                        "melt down fat in order to clarify it"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "constructions": [
+                                                {
+                                                    "text": "rendered down"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "process (the carcass of an animal) in order to extract proteins, fats, and other usable parts"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "farming",
+                                                    "text": "Farming"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "animal carcasses were rendered to provide a protein supplement"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0861290.026",
+                                            "shortDefinitions": [
+                                                "process"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "melt down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clarify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "purify"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "render",
+                                            "sense_id": "t_en_gb0012386.011"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "cover (stone or brick) with a coat of plaster"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "building",
+                                            "text": "Building"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "external walls will be rendered and tiled"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0861290.028",
+                                    "shortDefinitions": [
+                                        "cover stone or brick with coat of plaster"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "render"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "renderer",
+                            "text": "renderer"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "render"
+                                },
+                                {
+                                    "inflectedForm": "renders"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈrendər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/render_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈrɛndər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a first coat of plaster applied to a brick or stone surface."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "building",
+                                            "text": "Building"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0861290.030",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "coating",
+                                            "text": "Coating"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "first coat of plaster applied to brick or stone surface"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "render"
+                }
+            ],
+            "type": "headword",
+            "word": "render"
+        }
+    ]
+}

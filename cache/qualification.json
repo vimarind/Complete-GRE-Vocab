@@ -1,0 +1,353 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "qualification",
+    "results": [
+        {
+            "id": "qualification",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "qualificatory",
+                            "text": "qualificatory"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from medieval Latin qualificatio(n-), from the verb qualificare (see qualify)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "qualification"
+                                },
+                                {
+                                    "inflectedForm": "qualifications"
+                                },
+                                {
+                                    "inflectedForm": "qualification"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌkwäləfəˈkāSH(ə)n"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/qualification_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌkwɑləfəˈkeɪʃ(ə)n"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a quality or accomplishment that makes someone suitable for a particular job or activity"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "only one qualification required—a fabulous sense of humor"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0835030.022",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "characteristic",
+                                            "text": "Characteristic"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "quality or accomplishment that makes someone suitable for particular job or activity"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the action or fact of becoming qualified as a practitioner of a particular profession or activity"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an opportunity for student teachers to share experiences before qualification"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0835030.025",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "action",
+                                                    "text": "Action"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "action or fact of becoming qualified as practitioner of particular profession or activity"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "certificate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "diploma"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "degree"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "licence"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "document"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "warrant"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "qualification",
+                                                    "sense_id": "t_en_gb0011940.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a condition that must be fulfilled before a right can be acquired; an official requirement"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the five-year residency qualification for presidential candidates"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0835030.027",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "conditional",
+                                                    "text": "Conditional"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "condition that must be fulfilled before right can be acquired"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the action or fact of qualifying or being eligible for something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they need to beat Poland to ensure qualification for the World Cup finals"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0835030.029",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "action",
+                                            "text": "Action"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "action or fact of qualifying or being eligible for something"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the qualification stage of a sporting event"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "sport",
+                                                    "text": "Sport"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he played a big part in the qualifications because he scored nine goals"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0835030.047",
+                                            "notes": [
+                                                {
+                                                    "text": "usually \"qualifications\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "contest",
+                                                    "text": "Contest"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "qualification stage of sporting event"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a statement or assertion that makes another less absolute"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this important qualification needs to be remembered when interpreting the results"
+                                        },
+                                        {
+                                            "text": "I could recommend them to everyone without qualification"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0835030.031",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "conditional",
+                                            "text": "Conditional"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "statement or assertion that makes another less absolute"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "modification"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "limitation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "restriction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reservation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stipulation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "allowance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "adaptation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "alteration"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "adjustment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "amendment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "revision"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "refinement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "moderation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tempering"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "softening"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lessening"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reduction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mitigation"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "qualification",
+                                            "sense_id": "t_en_gb0011940.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the attribution of a quality to a word, especially a noun."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "grammar",
+                                            "text": "Grammar"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "grammar",
+                                            "text": "Grammar"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0835030.033",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "syntactic_feature",
+                                            "text": "Syntactic_Feature"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "attribution of quality to word"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "qualification"
+                }
+            ],
+            "type": "headword",
+            "word": "qualification"
+        }
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "hector",
+    "results": [
+        {
+            "id": "hector",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from the Trojan warrior Hector. Originally denoting a hero, the sense later became ‘braggart or bully’ (applied in the late 17th century to a member of a gang of London youths), hence ‘talk to in a bullying way’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "hector"
+                                },
+                                {
+                                    "inflectedForm": "hectored"
+                                },
+                                {
+                                    "inflectedForm": "hectoring"
+                                },
+                                {
+                                    "inflectedForm": "hectors"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈhektər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/hector_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈhɛktər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "talk to (someone) in a bullying way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she doesn't hector us about giving up things"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0459010.005",
+                                    "shortDefinitions": [
+                                        "talk to someone in bullying way"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "bully"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "intimidate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "browbeat"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "badger"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chivvy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "harass"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "torment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plague"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "hector",
+                                            "sense_id": "t_en_gb0006889.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "hector"
+                }
+            ],
+            "type": "headword",
+            "word": "hector"
+        },
+        {
+            "id": "Hector",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "proper",
+                                    "text": "Proper",
+                                    "type": "Properness"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈhektər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/hector_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈhɛktər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a Trojan warrior, son of Priam and Hecuba and husband of Andromache. He was killed by Achilles, who dragged his body behind his chariot three times around the walls of Troy."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "mythology",
+                                            "text": "Mythology"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "greek_mythology",
+                                            "text": "Greek_Mythology"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0459020.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "mythical_character",
+                                            "text": "Mythical_Character"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "Trojan warrior, son of Priam and Hecuba and husband of Andromache"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "Hector"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "Hector"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "other",
+                        "text": "Other"
+                    },
+                    "text": "Hector"
+                }
+            ],
+            "type": "headword",
+            "word": "Hector"
+        }
+    ]
+}

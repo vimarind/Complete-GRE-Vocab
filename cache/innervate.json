@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "innervate",
+    "results": [
+        {
+            "id": "innervate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "innervation",
+                            "text": "innervation"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 19th century: from in-‘into’ + nerve+ -ate"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "innervate"
+                                },
+                                {
+                                    "inflectedForm": "innervated"
+                                },
+                                {
+                                    "inflectedForm": "innervates"
+                                },
+                                {
+                                    "inflectedForm": "innervating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "iˈnərvāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/innervate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪˈnərveɪt"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈinərˌvāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/innervate_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɪnərˌveɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "supply (an organ or other body part) with nerves."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "anatomy",
+                                            "text": "Anatomy"
+                                        },
+                                        {
+                                            "id": "zoology",
+                                            "text": "Zoology"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "anatomy",
+                                            "text": "Anatomy"
+                                        },
+                                        {
+                                            "id": "zoology",
+                                            "text": "Zoology"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0510800.008",
+                                    "shortDefinitions": [
+                                        "supply organ or other body part with nerves"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "innervate"
+                }
+            ],
+            "type": "headword",
+            "word": "innervate"
+        }
+    ]
+}

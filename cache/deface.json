@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "deface",
+    "results": [
+        {
+            "id": "deface",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "defacer",
+                            "text": "defacer"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French desfacier, from des- (expressing removal) + face ‘face’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "deface"
+                                },
+                                {
+                                    "inflectedForm": "defaced"
+                                },
+                                {
+                                    "inflectedForm": "defaces"
+                                },
+                                {
+                                    "inflectedForm": "defacing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈfās"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/deface_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈfeɪs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "spoil the surface or appearance of (something), for example by drawing or writing on it"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he defaced library books"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0259010.005",
+                                    "shortDefinitions": [
+                                        "spoil surface or appearance of"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "vandalize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disfigure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spoil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ruin"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deform"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sully"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tarnish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "damage"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "deface",
+                                            "sense_id": "t_en_gb0003545.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "deface"
+                }
+            ],
+            "type": "headword",
+            "word": "deface"
+        }
+    ]
+}

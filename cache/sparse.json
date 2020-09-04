@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "sparse",
+    "results": [
+        {
+            "id": "sparse",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "sparseness",
+                            "text": "sparseness"
+                        },
+                        {
+                            "id": "sparsity",
+                            "text": "sparsity"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 18th century (used to describe writing in the sense ‘widely spaced’): from Latin sparsus, past participle of spargere ‘scatter’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sparse"
+                                },
+                                {
+                                    "inflectedForm": "sparser"
+                                },
+                                {
+                                    "inflectedForm": "sparsest"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "spärs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sparse_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "spɑrs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "thinly dispersed or scattered"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "areas of sparse population"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0974170.005",
+                                    "shortDefinitions": [
+                                        "thinly dispersed or scattered"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "austere; meager"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an elegantly sparse chamber"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0974170.009",
+                                            "shortDefinitions": [
+                                                "scanty"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "scanty"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "scant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "scattered"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "thinly distributed"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "scarce"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "infrequent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sporadic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "few and far between"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "sparse",
+                                                    "sense_id": "t_en_gb0013853.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "scanty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scattered"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "thinly distributed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scarce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "infrequent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sporadic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "few and far between"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sparse",
+                                            "sense_id": "t_en_gb0013853.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sparse"
+                }
+            ],
+            "type": "headword",
+            "word": "sparse"
+        }
+    ]
+}

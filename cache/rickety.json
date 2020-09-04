@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "rickety",
+    "results": [
+        {
+            "id": "rickety",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "ricketiness",
+                            "text": "ricketiness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 17th century: from rickets+ -y"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "ricketier"
+                                },
+                                {
+                                    "inflectedForm": "ricketiest"
+                                },
+                                {
+                                    "inflectedForm": "rickety"
+                                },
+                                {
+                                    "inflectedForm": "rickety"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈrikidē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/rickety_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈrɪkɪdi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a structure or piece of equipment) poorly made and likely to collapse"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we went carefully up the rickety stairs"
+                                        },
+                                        {
+                                            "registers": [
+                                                {
+                                                    "id": "figurative",
+                                                    "text": "Figurative"
+                                                }
+                                            ],
+                                            "text": "a rickety banking system"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0872600.006",
+                                    "shortDefinitions": [
+                                        "poorly made and likely to collapse"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "shaky"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unsteady"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unsound"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unsafe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tottering"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crumbling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "decaying"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disintegrating"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tumbledown"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "broken-down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dilapidated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ramshackle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "derelict"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ruinous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "falling to pieces"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "decrepit"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "rickety",
+                                            "sense_id": "t_en_gb0012627.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a person) suffering from rickets"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "poverty was evident in undernourished faces or rickety legs"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0872600.011",
+                                    "shortDefinitions": [
+                                        "affected by rickets"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "rickety"
+                }
+            ],
+            "type": "headword",
+            "word": "rickety"
+        }
+    ]
+}

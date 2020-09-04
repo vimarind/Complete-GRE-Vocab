@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "utterly",
+    "results": [
+        {
+            "id": "utterly",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "utterly"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "usually as submodifier",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈədərlē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/utterly_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈədərli"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "completely and without qualification; absolutely"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he looked utterly ridiculous"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1117400.006",
+                                    "shortDefinitions": [
+                                        "completely and without qualification"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adverb",
+                        "text": "Adverb"
+                    },
+                    "text": "utterly"
+                }
+            ],
+            "type": "headword",
+            "word": "utterly"
+        }
+    ]
+}

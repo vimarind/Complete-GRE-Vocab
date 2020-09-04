@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "culpable",
+    "results": [
+        {
+            "id": "culpable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "culpably",
+                            "text": "culpably"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘deserving punishment’): from Old French coupable, culpable, from Latin culpabilis, from culpare ‘to blame’, from culpa ‘fault, blame’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "culpable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈkəlpəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/culpable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈkəlpəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "deserving blame"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "sometimes you're just as culpable when you watch something as when you actually participate"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0240470.005",
+                                    "shortDefinitions": [
+                                        "deserving blame"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "to blame"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "guilty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "at fault"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in the wrong"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blameworthy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blameable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "censurable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reproachable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reprovable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "found wanting"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "culpable",
+                                            "sense_id": "t_en_gb0003299.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "culpable"
+                }
+            ],
+            "type": "headword",
+            "word": "culpable"
+        }
+    ]
+}

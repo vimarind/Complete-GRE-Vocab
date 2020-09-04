@@ -1,0 +1,775 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "radical",
+    "results": [
+        {
+            "id": "radical",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "radicalness",
+                            "text": "radicalness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the senses ‘forming the root’ and ‘inherent’): from late Latin radicalis, from Latin radix, radic- ‘root’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "radical"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈradək(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/radical_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈrædək(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(especially of change or action) relating to or affecting the fundamental nature of something; far-reaching or thorough"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a radical overhaul of the existing regulatory framework"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0840730.008",
+                                    "shortDefinitions": [
+                                        "relating to or affecting fundamental nature of something"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "forming an inherent or fundamental part of the nature of someone or something"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the assumption of radical differences between the mental attributes of literate and nonliterate peoples"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0840730.010",
+                                            "shortDefinitions": [
+                                                "forming inherent or fundamental part of nature of person or thing"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "fundamental"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "basic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "essential"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "quintessential"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "radical",
+                                                    "sense_id": "t_en_gb0012019.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of surgery or medical treatment) thorough and intended to be completely curative."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "surgery",
+                                                    "text": "Surgery"
+                                                },
+                                                {
+                                                    "id": "medicine",
+                                                    "text": "Medicine"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0840730.011",
+                                            "shortDefinitions": [
+                                                "(of surgery or medical treatment) thorough and intended to be completely curative"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "thoroughgoing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "thorough"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "complete"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "total"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "entire"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "absolute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "utter"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "comprehensive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exhaustive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "root-and-branch"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sweeping"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "far-reaching"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wide-ranging"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "extensive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "profound"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drastic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "severe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "serious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "major"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "desperate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stringent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "violent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forceful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rigorous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "draconian"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "radical",
+                                            "sense_id": "t_en_gb0012019.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "advocating or based on thorough or complete political or social change; representing or supporting an extreme or progressive section of a political party"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a radical American activist"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0840730.013",
+                                    "shortDefinitions": [
+                                        "advocating or based on thorough or complete political or social change"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "characterized by independence of or departure from tradition; innovative or unorthodox"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the daring, avant-garde spirit of the music was too radical for the conservative audience"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0840730.015",
+                                            "shortDefinitions": [
+                                                "characterized by departure from tradition"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "unusual"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "irregular"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unorthodox"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unfamiliar"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "uncommon"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "uncustomary"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unwonted"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rare"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "out of the ordinary"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "atypical"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "singular"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "distinctive"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "individual"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "individualistic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "free-spirited"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "alternative"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "different"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "unconventional",
+                                                    "sense_id": "t_en_gb0015399.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "revolutionary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "progressive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reforming"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reformist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "revisionist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "progressivist"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "radical",
+                                            "sense_id": "t_en_gb0012019.003"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "denoting or relating to the roots of a word."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "linguistics",
+                                            "text": "Linguistics"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "linguistics",
+                                            "text": "Linguistics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0840730.017",
+                                    "shortDefinitions": [
+                                        "denoting or relating to roots of word"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "belonging to the root of a chord."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "music",
+                                                    "text": "Music"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "music",
+                                                    "text": "Music"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0840730.018",
+                                            "shortDefinitions": [
+                                                "belonging to root of chord"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "of the root of a number or quantity."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "mathematics",
+                                            "text": "Mathematics"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "mathematics",
+                                            "text": "Mathematics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0840730.020",
+                                    "shortDefinitions": [
+                                        "of root of number or quantity"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "of, or springing direct from, the root or stem base of a plant."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "botany",
+                                            "text": "Botany"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "botany",
+                                            "text": "Botany"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0840730.022",
+                                    "shortDefinitions": [
+                                        "of, or springing direct from, root or stem base of plant"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "very good; excellent"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Okay, then. Seven o'clock. Radical!"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0840730.024",
+                                    "notes": [
+                                        {
+                                            "text": "usually as exclamation",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "regions": [
+                                        {
+                                            "id": "north_american",
+                                            "text": "North_American"
+                                        }
+                                    ],
+                                    "registers": [
+                                        {
+                                            "id": "informal",
+                                            "text": "Informal"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "very good"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "excellent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wonderful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "marvellous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "magnificent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "superb"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "splendid"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "glorious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sublime"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lovely"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "delightful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "first-class"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "first-rate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "outstanding"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "terrific",
+                                            "sense_id": "t_en_gb0014738.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "radical"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "radicalness",
+                            "text": "radicalness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "radical"
+                                },
+                                {
+                                    "inflectedForm": "radicals"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈradək(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/radical_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈrædək(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who advocates thorough or complete political or social reform; a member of a political party or part of a party pursuing such aims."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0840730.027",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "political_supporter",
+                                            "text": "Political_Supporter"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person who advocates thorough or complete political or social reform"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "revolutionary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "progressive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reformer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "revisionist"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "radical",
+                                            "sense_id": "t_en_gb0012019.004"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "See also free radical"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "free_radical",
+                                            "text": "free radical",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a group of atoms behaving as a unit in a number of compounds."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "chemistry",
+                                            "text": "Chemistry"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "chemistry",
+                                            "text": "Chemistry"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0840730.031",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "particle",
+                                            "text": "Particle"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "group of atoms behaving as unit in several compounds"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the root or base form of a word."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "linguistics",
+                                            "text": "Linguistics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0840730.033",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "word",
+                                            "text": "Word"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "root or base form of word"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "any of the basic set of 214 Chinese characters constituting semantically or functionally significant elements in the composition of other characters and used as a means of classifying characters in dictionaries."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "linguistics",
+                                                    "text": "Linguistics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0840730.034",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "symbol",
+                                                    "text": "Symbol"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "any of basic set of approximately 214 Chinese characters constituting semantically or functionally significant elements in composition of other characters"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a quantity forming or expressed as the root of another."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "mathematics",
+                                            "text": "Mathematics"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "mathematics",
+                                            "text": "Mathematics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0840730.036",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "numeric_value",
+                                            "text": "Numeric_Value"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "quantity forming or expressed as root of another"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a radical sign."
+                                            ],
+                                            "id": "m_en_gbus0840730.037",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "symbol",
+                                                    "text": "Symbol"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "radical sign"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "radical"
+                }
+            ],
+            "type": "headword",
+            "word": "radical"
+        }
+    ]
+}

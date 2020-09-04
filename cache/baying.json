@@ -1,0 +1,391 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "baying",
+    "results": [
+        {
+            "id": "bay",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (denoting the laurel berry): from Old French baie, from Latin baca ‘berry’"
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bay"
+                                },
+                                {
+                                    "inflectedForm": "bayed"
+                                },
+                                {
+                                    "inflectedForm": "baying"
+                                },
+                                {
+                                    "inflectedForm": "bays"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "bay"
+                }
+            ],
+            "type": "headword",
+            "word": "bay"
+        },
+        {
+            "id": "bay",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (as a noun): from Old French (a)bai (noun), (a)baiier (verb) ‘to bark’, of imitative origin"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "500",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bay"
+                                },
+                                {
+                                    "inflectedForm": "bayed"
+                                },
+                                {
+                                    "inflectedForm": "baying"
+                                },
+                                {
+                                    "inflectedForm": "bays"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "bā"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bay_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "beɪ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a dog, especially a large one) bark or howl loudly"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the dogs bayed"
+                                        },
+                                        {
+                                            "text": "a jackal baying at the moon"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0079280.005",
+                                    "shortDefinitions": [
+                                        "bark or howl"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a group of people) shout loudly, typically to demand something"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "as a mob bayed below, the king was dead"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0079280.011",
+                                            "shortDefinitions": [
+                                                "shout to demand something"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "clamour"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "shout"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "call"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "press"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "yell"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "scream"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "shriek"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "roar"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "bay",
+                                                    "sense_id": "t_en_gb0001226.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "bay at"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a pack of wolves baying at the moon"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0079280.012",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "bay at"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "howl"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bark"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "yelp"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "yap"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "growl"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bellow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "roar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clamour"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "snarl"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bay",
+                                            "sense_id": "t_en_gb0001226.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "at_bay",
+                            "text": "at bay"
+                        },
+                        {
+                            "id": "bring_to_bay",
+                            "text": "bring to bay"
+                        },
+                        {
+                            "id": "keep_at_bay",
+                            "text": "keep at bay"
+                        },
+                        {
+                            "id": "stand_at_bay",
+                            "text": "stand at bay"
+                        }
+                    ],
+                    "text": "bay"
+                }
+            ],
+            "type": "headword",
+            "word": "bay"
+        },
+        {
+            "id": "bay",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French baie, from Old Spanish bahia, of unknown origin"
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bay"
+                                },
+                                {
+                                    "inflectedForm": "bayed"
+                                },
+                                {
+                                    "inflectedForm": "baying"
+                                },
+                                {
+                                    "inflectedForm": "bays"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "bay"
+                }
+            ],
+            "type": "headword",
+            "word": "bay"
+        },
+        {
+            "id": "bay",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French baie, from baer ‘to gape’, from medieval Latin batare, of unknown origin"
+                            ],
+                            "homographNumber": "300",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bay"
+                                },
+                                {
+                                    "inflectedForm": "bayed"
+                                },
+                                {
+                                    "inflectedForm": "baying"
+                                },
+                                {
+                                    "inflectedForm": "bays"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "bay"
+                }
+            ],
+            "type": "headword",
+            "word": "bay"
+        },
+        {
+            "id": "bay",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French bai, from Latin badius"
+                            ],
+                            "homographNumber": "400",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bay"
+                                },
+                                {
+                                    "inflectedForm": "bayed"
+                                },
+                                {
+                                    "inflectedForm": "baying"
+                                },
+                                {
+                                    "inflectedForm": "bays"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "bay"
+                }
+            ],
+            "type": "headword",
+            "word": "bay"
+        }
+    ]
+}

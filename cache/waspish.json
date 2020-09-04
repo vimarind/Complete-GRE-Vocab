@@ -1,0 +1,219 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "waspish",
+    "results": [
+        {
+            "id": "waspish",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "waspishly",
+                            "text": "waspishly"
+                        },
+                        {
+                            "id": "waspishness",
+                            "text": "waspishness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "waspish"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈwäspiSH"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/waspish_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈwɑspɪʃ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "readily expressing anger or irritation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he had a waspish tongue"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1142500.005",
+                                    "shortDefinitions": [
+                                        "readily expressing anger or irritation"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "irritable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "touchy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "testy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "irascible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cross"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "snappish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cantankerous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "splenetic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "short-tempered"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ill-tempered"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bad-tempered"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "foul-tempered"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "moody"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crabbed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crotchety"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grumpy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "huffy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "petulant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "peevish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "querulous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "angry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sharp"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "waspish",
+                                            "sense_id": "t_en_gb0016114.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "waspish"
+                }
+            ],
+            "type": "headword",
+            "word": "waspish"
+        },
+        {
+            "id": "Waspish",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivativeOf": [
+                        {
+                            "id": "Wasp",
+                            "text": "Wasp"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "Waspish"
+                                },
+                                {
+                                    "inflectedForm": "Wasp-ish"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "id": "m_en_gbus1142470.014",
+                                    "regions": [
+                                        {
+                                            "id": "north_american",
+                                            "text": "North_American"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "Waspish"
+                }
+            ],
+            "type": "headword",
+            "word": "Waspish"
+        }
+    ]
+}

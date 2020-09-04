@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "reductive",
+    "results": [
+        {
+            "id": "reductive",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "reductively",
+                            "text": "reductively"
+                        },
+                        {
+                            "id": "reductiveness",
+                            "text": "reductiveness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "reductive"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rəˈdəktiv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/reductive_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rəˈdəktɪv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "tending to present a subject or problem in a simplified form, especially one viewed as crude"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "such a conclusion by itself would be reductive"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0854970.006",
+                                    "shortDefinitions": [
+                                        "tending to present subject in simplified form"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(with reference to art) minimal"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he combines his reductive abstract shapes with a rippled surface"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0854970.008",
+                                            "shortDefinitions": [
+                                                "minimal"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to chemical reduction"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "chemistry",
+                                            "text": "Chemistry"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the reductive elimination of acetyl iodide"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0854970.010",
+                                    "shortDefinitions": [
+                                        "relating to chemical reduction"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "reductive"
+                }
+            ],
+            "type": "headword",
+            "word": "reductive"
+        }
+    ]
+}

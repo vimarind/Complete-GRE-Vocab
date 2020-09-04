@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "haven",
+    "results": [
+        {
+            "id": "haven",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Old English hæfen, from Old Norse hǫfn; related to Dutch haven, German Hafen ‘harbor’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "haven"
+                                },
+                                {
+                                    "inflectedForm": "havens"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈhāvən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/haven_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈheɪvən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a place of safety or refuge"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a haven for wildlife"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0454320.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "location",
+                                            "text": "Location"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "place of safety or refuge"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an inlet providing shelter for ships or boats; a harbor or small port."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "nautical",
+                                                    "text": "Nautical"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0454320.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "dock",
+                                                    "text": "Dock"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "inlet providing shelter for ships or boats"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "anchorage"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "harbour"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "port"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "mooring"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "roads"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "haven",
+                                                    "sense_id": "t_en_gb0006819.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "refuge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "retreat"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shelter"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sanctuary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "asylum"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "place of safety"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "place of security"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "port in a storm"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "harbour"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "oasis"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sanctum"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "haven",
+                                            "sense_id": "t_en_gb0006819.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "haven"
+                }
+            ],
+            "type": "headword",
+            "word": "haven"
+        }
+    ]
+}

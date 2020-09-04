@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "nadir",
+    "results": [
+        {
+            "id": "nadir",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in nadir (sense 2 of the noun)): via French from Arabic naẓīr (as-samt) ‘opposite (to the zenith)’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "nadir"
+                                },
+                                {
+                                    "inflectedForm": "nadirs"
+                                },
+                                {
+                                    "inflectedForm": "nadir"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "in singular",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈnādər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/nadir_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈneɪdər"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈnādir"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/nadir_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈneɪdɪr"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the lowest point in the fortunes of a person or organization"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they had reached the nadir of their sufferings"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0675840.018",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "situation",
+                                            "text": "Situation"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "lowest point in fortunes of person or organization"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "The opposite of zenith"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "zenith",
+                                                    "text": "zenith",
+                                                    "type": "opposite of"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "the point on the celestial sphere directly below an observer."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "astronomy",
+                                                    "text": "Astronomy"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "astronomy",
+                                                    "text": "Astronomy"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0675840.022",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "astronomical_point",
+                                                    "text": "Astronomical_Point"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "point on celestial sphere directly below observer"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "the lowest point"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "the all-time low"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "the lowest level"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "low-water mark"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "the bottom"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "as low as one can get"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rock-bottom"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "the depths"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "nadir",
+                                            "sense_id": "t_en_gb0009817.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "nadir"
+                }
+            ],
+            "type": "headword",
+            "word": "nadir"
+        }
+    ]
+}

@@ -1,0 +1,243 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "consummate",
+    "results": [
+        {
+            "id": "consummate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "consummately",
+                            "text": "consummately"
+                        },
+                        {
+                            "id": "consummator",
+                            "text": "consummator"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as an adjective in the sense ‘completed, accomplished’): from Latin consummat- ‘brought to completion’, from the verb consummare, from con- ‘altogether’ + summa ‘sum total’, feminine of summus ‘highest, supreme’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "consummate"
+                                },
+                                {
+                                    "inflectedForm": "consummated"
+                                },
+                                {
+                                    "inflectedForm": "consummates"
+                                },
+                                {
+                                    "inflectedForm": "consummating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈkänsəˌmāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconsummate_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈkɑnsəˌmeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (a marriage or relationship) complete by having sexual intercourse"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "sex",
+                                            "text": "Sex"
+                                        },
+                                        {
+                                            "id": "marriage",
+                                            "text": "Marriage"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they did not consummate their marriage until months after it took place"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0213830.005",
+                                    "shortDefinitions": [
+                                        "make marriage complete by having sex"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "complete (a transaction or attempt); make perfect"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his scheme of colonization was consummated through bloodshed"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0213830.011",
+                                            "shortDefinitions": [
+                                                "complete"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "complete"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "conclude"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "finish"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "accomplish"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "achieve"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "consummate",
+                                                    "sense_id": "t_en_gb0002911.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "consummate"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "consummately",
+                            "text": "consummately"
+                        },
+                        {
+                            "id": "consummator",
+                            "text": "consummator"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "consummate"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈkänsəmət"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconsummate_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈkɑnsəmət"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "showing a high degree of skill and flair; complete or perfect"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she dressed with consummate elegance"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0213830.017",
+                                    "shortDefinitions": [
+                                        "showing great skill and flair"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "perfect"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exemplary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "supreme"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ultimate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "faultless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quintessential"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "consummate",
+                                            "sense_id": "t_en_gb0002911.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "consummate"
+                }
+            ],
+            "type": "headword",
+            "word": "consummate"
+        }
+    ]
+}

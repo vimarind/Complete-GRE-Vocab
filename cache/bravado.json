@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "bravado",
+    "results": [
+        {
+            "id": "bravado",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Spanish bravada, from bravo ‘bold’(see brave, -ado)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bravado"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "brəˈväˌdō"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bravado_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "brəˈvɑˌdoʊ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a bold manner or a show of boldness intended to impress or intimidate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he possesses none of the classic wheeler-dealer's casual bravado"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0122650.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "manner",
+                                            "text": "Manner"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "bold manner or show of boldness intended to impress or intimidate"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "boldness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bold manner"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swagger"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swaggering"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bluster"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swashbuckling"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bravado",
+                                            "sense_id": "t_en_gb0001703.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "bravado"
+                }
+            ],
+            "type": "headword",
+            "word": "bravado"
+        }
+    ]
+}

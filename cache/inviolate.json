@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "inviolate",
+    "results": [
+        {
+            "id": "inviolate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "inviolacy",
+                            "text": "inviolacy"
+                        },
+                        {
+                            "id": "inviolately",
+                            "text": "inviolately"
+                        },
+                        {
+                            "id": "inviolateness",
+                            "text": "inviolateness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin inviolatus, from in- ‘not’ + violare ‘violate’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "inviolate"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈvīələt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/inviolate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈvaɪələt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "free or safe from injury or violation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an international memorial which must remain inviolate"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0520100.005",
+                                    "shortDefinitions": [
+                                        "free or safe from injury or violation"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "untouched"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "undamaged"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unhurt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unharmed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unscathed"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "inviolate",
+                                            "sense_id": "t_en_gb0008187.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "inviolate"
+                }
+            ],
+            "type": "headword",
+            "word": "inviolate"
+        }
+    ]
+}

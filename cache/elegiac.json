@@ -1,0 +1,218 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "elegiac",
+    "results": [
+        {
+            "id": "elegiac",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "elegiacally",
+                            "text": "elegiacally"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from French élégiaque, or via late Latin, from Greek elegeiakos, from elegeia (see elegy)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "elegiac"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌeləˈjīək"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/elegiac_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɛləˈdʒaɪək"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to or characteristic of an elegy"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "prosody",
+                                            "text": "Prosody"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "haunting and elegiac poems"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0317590.005",
+                                    "shortDefinitions": [
+                                        "relating to or characteristic of elegy"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "wistfully mournful"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she watched repeat serials, fixed on their moody and elegiac characterization"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0317590.007",
+                                            "shortDefinitions": [
+                                                "wistfully mournful"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "mournful"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "melancholic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "melancholy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "plaintive"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sorrowful"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sad"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lamenting"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "doleful"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "elegiac",
+                                                    "sense_id": "t_en_gb0004696.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "elegiac"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "elegiacally",
+                            "text": "elegiacally"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "plural",
+                                    "text": "Plural",
+                                    "type": "Number"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "elegiacs"
+                                },
+                                {
+                                    "inflectedForm": "elegiac"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "\"elegiacs\"",
+                                    "type": "wordFormNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌeləˈjīək"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/elegiac_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɛləˈdʒaɪək"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "verses in an elegiac meter."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "prosody",
+                                            "text": "Prosody"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0317590.009",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "verse",
+                                            "text": "Verse"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "verses in elegiac metre"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "elegiac"
+                }
+            ],
+            "type": "headword",
+            "word": "elegiac"
+        }
+    ]
+}

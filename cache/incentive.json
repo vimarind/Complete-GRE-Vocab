@@ -1,0 +1,159 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "incentive",
+    "results": [
+        {
+            "id": "incentive",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin incentivum ‘something that sets the tune or incites’, from incantare ‘to chant or charm’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "incentive"
+                                },
+                                {
+                                    "inflectedForm": "incentives"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈsen(t)iv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/incentive_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈsɛn(t)ɪv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a thing that motivates or encourages one to do something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there is no incentive for customers to conserve water"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0501180.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "motivation",
+                                            "text": "Motivation"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "thing that motivates or encourages someone to do something"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a payment or concession to stimulate greater output or investment"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "tax incentives for investing in depressed areas"
+                                                },
+                                                {
+                                                    "notes": [
+                                                        {
+                                                            "text": "as modifier",
+                                                            "type": "grammaticalNote"
+                                                        }
+                                                    ],
+                                                    "text": "incentive payments"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0501180.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "payment",
+                                                    "text": "Payment"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "payment or concession to stimulate greater output or investment"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "inducement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "motivation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "motive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reason"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stimulus"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stimulant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spur"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impetus"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "encouragement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impulse"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "incentive",
+                                            "sense_id": "t_en_gb0007584.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "incentive"
+                }
+            ],
+            "type": "headword",
+            "word": "incentive"
+        }
+    ]
+}

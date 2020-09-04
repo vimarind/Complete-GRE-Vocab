@@ -1,0 +1,387 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "taxing",
+    "results": [
+        {
+            "id": "taxing",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "taxing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈtaksiNG"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/taxing_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈtæksɪŋ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "physically or mentally demanding"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they find the work too taxing"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1033680.005",
+                                    "shortDefinitions": [
+                                        "physically or mentally demanding"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "demanding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exacting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "challenging"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "burdensome"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "arduous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "onerous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "difficult"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hard"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tough"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "heavy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "laborious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "back-breaking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "strenuous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rigorous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "uphill"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stringent"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "taxing",
+                                            "sense_id": "t_en_gb0014648.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "taxing"
+                }
+            ],
+            "type": "headword",
+            "word": "taxing"
+        },
+        {
+            "id": "tax",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "taxer",
+                            "text": "taxer"
+                        },
+                        {
+                            "id": "taxless",
+                            "text": "taxless"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (also in the sense ‘estimate or determine the amount of a penalty or damages’, surviving in tax (sense 4 of the verb)): from Old French taxer, from Latin taxare ‘to censure, charge, compute’, perhaps from Greek tassein ‘fix’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tax"
+                                },
+                                {
+                                    "inflectedForm": "taxed"
+                                },
+                                {
+                                    "inflectedForm": "taxes"
+                                },
+                                {
+                                    "inflectedForm": "taxing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "taks"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/tax_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "tæks"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "impose a tax on (someone or something)"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "economics",
+                                            "text": "Economics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "hardware and software is taxed at 7.5 percent"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1033420.014",
+                                    "shortDefinitions": [
+                                        "impose tax on"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "levy a tax on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impose a toll on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "charge duty on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exact a tax on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "demand a tax on"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "tax",
+                                            "sense_id": "t_en_gb0014647.003"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "make heavy demands on (someone's powers or resources)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she knew that the ordeal to come would tax all her strength"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1033420.022",
+                                    "shortDefinitions": [
+                                        "make heavy demands on"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "strain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stretch"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put a strain on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make demands on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "weigh heavily on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "weigh down"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "tax",
+                                            "sense_id": "t_en_gb0014647.004"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "confront (someone) with a fault or wrongdoing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "why are you taxing me with these preposterous allegations?"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1033420.024",
+                                    "shortDefinitions": [
+                                        "confront someone with fault or wrongdoing"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "confront"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "accuse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "call to account"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "charge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blame"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "censure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "condemn"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "denounce"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "tax",
+                                            "sense_id": "t_en_gb0014647.005"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "examine and assess (the costs of a case)"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an officer taxing a bill of costs"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1033420.026",
+                                    "shortDefinitions": [
+                                        "examine and assess"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "tax"
+                }
+            ],
+            "type": "headword",
+            "word": "tax"
+        }
+    ]
+}

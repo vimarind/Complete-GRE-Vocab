@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "avuncular",
+    "results": [
+        {
+            "id": "avuncular",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 19th century: from Latin avunculus ‘maternal uncle’, diminutive of avus ‘grandfather’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "avuncular"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈvəNGkyələr"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/avuncular_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈvəŋkjələr"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to an uncle."
+                                    ],
+                                    "id": "m_en_gbus0061400.012",
+                                    "shortDefinitions": [
+                                        "of uncle"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "kind and friendly toward a younger or less experienced person"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an avuncular manner"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0061400.013",
+                                            "shortDefinitions": [
+                                                "kind and friendly toward younger or less experienced person"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "paternal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fatherlike"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "avuncular"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "fatherly",
+                                                    "sense_id": "t_en_gb0005509.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to the relationship between men and their siblings' children."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "anthropology",
+                                            "text": "Anthropology"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "anthropology",
+                                            "text": "Anthropology"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0061400.016",
+                                    "shortDefinitions": [
+                                        "of relationship between men and their siblings' children"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "avuncular"
+                }
+            ],
+            "type": "headword",
+            "word": "avuncular"
+        }
+    ]
+}

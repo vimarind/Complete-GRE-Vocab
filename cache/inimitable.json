@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "inimitable",
+    "results": [
+        {
+            "id": "inimitable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "inimitability",
+                            "text": "inimitability"
+                        },
+                        {
+                            "id": "inimitably",
+                            "text": "inimitably"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from French, or from Latin inimitabilis, from in- ‘not’ + imitabilis (from imitari ‘imitate’)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "inimitable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "iˈnimədəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/inimitable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪˈnɪmədəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "so good or unusual as to be impossible to copy; unique"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the inimitable ambience of Hawaii"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0509780.006",
+                                    "shortDefinitions": [
+                                        "so good or unusual as to be impossible to copy"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "unique"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "distinctive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "individual"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "special"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "idiosyncratic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quirky"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exclusive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rare"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "inimitable",
+                                            "sense_id": "t_en_gb0007874.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "inimitable"
+                }
+            ],
+            "type": "headword",
+            "word": "inimitable"
+        }
+    ]
+}

@@ -1,0 +1,608 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "balk",
+    "results": [
+        {
+            "id": "balk",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Old English balc, from Old Norse bálkr ‘partition’. The original use was ‘unplowed ridge’, later ‘land left unplowed by mistake’, hence ‘blunder, omission’, giving rise to the verb use ‘miss (a chance)’. A late Middle English sense ‘obstacle’ gave rise to the verb senses ‘hesitate’ and ‘hinder’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "balk"
+                                },
+                                {
+                                    "inflectedForm": "balked"
+                                },
+                                {
+                                    "inflectedForm": "balking"
+                                },
+                                {
+                                    "inflectedForm": "balks"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "bôk"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/balk_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "bɔk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "hesitate or be unwilling to accept an idea or undertaking"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "any gardener will at first balk at enclosing the garden"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0068740.027",
+                                    "shortDefinitions": [
+                                        "hesitate"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "thwart or hinder (a plan or person)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the utmost of his influence will be invoked to balk the law"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0068740.040",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "hinder"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "impede"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "obstruct"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "thwart"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hinder"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "prevent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "check"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stop"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "curb"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "halt"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bar"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "block"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "forestall"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "frustrate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stall"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "baffle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "foil"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "defeat"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "beat"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "counteract"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "head off"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "balk",
+                                                    "sense_id": "t_en_gb0001220.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "prevent a person or animal from having (something)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the lions, fearing to be balked of their prey"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0068740.041",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                },
+                                                {
+                                                    "text": "\"balk someone of\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "stop from having"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a horse) refuse to go on."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "riding",
+                                                    "text": "Riding"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0068740.042",
+                                            "shortDefinitions": [
+                                                "refuse to go on"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "miss or refuse (a chance or invitation)."
+                                            ],
+                                            "id": "m_en_gbus0068740.043",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "miss or refuse"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "eschew"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "resist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "refuse to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be unwilling to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "draw the line at"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be reluctant to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "draw back from"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "flinch from"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shrink from"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shy from"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "recoil from"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quail at"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "demur from"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hesitate over"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scruple to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take exception to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "not like to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hate to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "jib at"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "balk",
+                                            "sense_id": "t_en_gb0001220.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a pitcher) make an illegal motion, penalized by an advance of the base runners"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "baseball",
+                                            "text": "Baseball"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "baseball",
+                                            "text": "Baseball"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the rookie balked and permitted Robinson to score"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0068740.045",
+                                    "shortDefinitions": [
+                                        "(of pitcher) make illegal motion, penalized by advance of base runners"
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "baulk"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "balk"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "balk"
+                                },
+                                {
+                                    "inflectedForm": "balks"
+                                },
+                                {
+                                    "inflectedForm": "baulk"
+                                },
+                                {
+                                    "inflectedForm": "baulks"
+                                },
+                                {
+                                    "inflectedForm": "balk"
+                                },
+                                {
+                                    "inflectedForm": "baulk"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "bôk"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/balk_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "bɔk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an illegal motion made by a pitcher that may deceive a base runner."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "baseball",
+                                            "text": "Baseball"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "baseball",
+                                            "text": "Baseball"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0068740.067",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "action_in_sport",
+                                            "text": "Action_In_Sport"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "unlawful action by pitcher"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a roughly squared timber beam."
+                                    ],
+                                    "id": "m_en_gbus0068740.075",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "beam",
+                                            "text": "Beam"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "timber beam"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "joist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "purlin"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "girder"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "support"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "strut"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stay"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "brace"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scantling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "batten"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "transom"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lintel"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stringer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "balk"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "board"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "timber"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plank"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lath"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rafter"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "beam",
+                                            "sense_id": "t_en_gb0001237.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "any area on a pool or billiard table in which play is restricted in some way."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "billiards",
+                                            "text": "Billiards"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0068740.077",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "playing_area",
+                                            "text": "Playing_Area"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "area on billiard table"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a ridge left unplowed between furrows."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "farming",
+                                            "text": "Farming"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0068740.083",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "protrusion",
+                                            "text": "Protrusion"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "unploughed ridge"
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "baulk"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "balk"
+                }
+            ],
+            "type": "headword",
+            "word": "balk"
+        }
+    ]
+}

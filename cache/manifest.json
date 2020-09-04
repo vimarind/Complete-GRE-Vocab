@@ -1,0 +1,687 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "manifest",
+    "results": [
+        {
+            "id": "manifest",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (denoting a manifestation): from Italian manifesto (see manifesto). The current sense dates from the early 17th century"
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "manifest"
+                                },
+                                {
+                                    "inflectedForm": "manifests"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmanəˌfest"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/manifest_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmænəˌfɛst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a document giving comprehensive details of a ship and its cargo and other contents, passengers, and crew for the use of customs officers."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "nautical",
+                                            "text": "Nautical"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0614380.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "list",
+                                            "text": "List"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "document listing ship's contents, cargo, passengers, and crew, for use of customs officers"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a list of passengers or cargo in an aircraft."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "aviation",
+                                                    "text": "Aviation"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0614380.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "list",
+                                                    "text": "List"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "list of passengers or cargo in aircraft"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a list of the cars forming a freight train."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "railways",
+                                                    "text": "Railways"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0614380.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "list",
+                                                    "text": "List"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "list of wagons forming freight train"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "manifest"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "manifest"
+                                },
+                                {
+                                    "inflectedForm": "manifested"
+                                },
+                                {
+                                    "inflectedForm": "manifesting"
+                                },
+                                {
+                                    "inflectedForm": "manifests"
+                                },
+                                {
+                                    "inflectedForm": "manifest"
+                                },
+                                {
+                                    "inflectedForm": "manifested"
+                                },
+                                {
+                                    "inflectedForm": "manifesting"
+                                },
+                                {
+                                    "inflectedForm": "manifests"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmanəˌfest"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/manifest_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmænəˌfɛst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "record in a manifest"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "nautical",
+                                            "text": "Nautical"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "every passenger is manifested at the point of departure"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0614380.011",
+                                    "shortDefinitions": [
+                                        "record in manifest"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "manifest"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "202",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "manifest"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "manifest"
+                }
+            ],
+            "type": "headword",
+            "word": "manifest"
+        },
+        {
+            "id": "manifest",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via Old French from Latin manifestus"
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "manifest"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmanəˌfest"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/manifest_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmænəˌfɛst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "clear or obvious to the eye or mind"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the system's manifest failings"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0614370.005",
+                                    "shortDefinitions": [
+                                        "clear or obvious"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "obvious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clear"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "apparent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "evident"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "patent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "palpable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "distinct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "definite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blatant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "glaring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "barefaced"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "explicit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "transparent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "conspicuous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "undisguised"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unmistakable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unquestionable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "undeniable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "noticeable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perceptible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "visible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "recognizable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "observable"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "manifest",
+                                            "sense_id": "t_en_gb0009147.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "manifest"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "manifest"
+                                },
+                                {
+                                    "inflectedForm": "manifested"
+                                },
+                                {
+                                    "inflectedForm": "manifesting"
+                                },
+                                {
+                                    "inflectedForm": "manifests"
+                                },
+                                {
+                                    "inflectedForm": "manifest"
+                                },
+                                {
+                                    "inflectedForm": "manifested"
+                                },
+                                {
+                                    "inflectedForm": "manifesting"
+                                },
+                                {
+                                    "inflectedForm": "manifests"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmanəˌfest"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/manifest_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmænəˌfɛst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "display or show (a quality or feeling) by one's acts or appearance; demonstrate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Ray manifested signs of severe depression"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0614370.008",
+                                    "shortDefinitions": [
+                                        "show quality or feeling"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "be evidence of; prove"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "bad industrial relations are often manifested in disputes and strikes"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0614370.014",
+                                            "notes": [
+                                                {
+                                                    "text": "often \"be manifested in\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "be evidence of"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "be evidence of"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "be a sign of"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "indicate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "show"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "attest"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "reflect"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bespeak"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "prove"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "establish"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "evidence"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "substantiate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "corroborate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "verify"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "confirm"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "manifest",
+                                                    "sense_id": "t_en_gb0009147.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of an ailment) become apparent through the appearance of symptoms"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "medicine",
+                                                    "text": "Medicine"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a disorder that usually manifests in middle age"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0614370.015",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "become apparent"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a ghost or spirit) appear"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "one deity manifested in the form of a bird"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0614370.016",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "appear"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "display"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "show"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exhibit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "demonstrate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "betray"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "present"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "evince"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reveal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "indicate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make plain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "express"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "declare"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "manifest",
+                                            "sense_id": "t_en_gb0009147.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "manifest"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "102",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "manifest"
+                                },
+                                {
+                                    "inflectedForm": "manifests"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "manifest"
+                }
+            ],
+            "type": "headword",
+            "word": "manifest"
+        }
+    ]
+}

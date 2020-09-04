@@ -1,0 +1,601 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "grouse",
+    "results": [
+        {
+            "id": "grouse",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: perhaps related to medieval Latin gruta or to Old French grue ‘crane’"
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "grouse"
+                                },
+                                {
+                                    "inflectedForm": "grouse"
+                                },
+                                {
+                                    "inflectedForm": "grouse"
+                                },
+                                {
+                                    "inflectedForm": "grouse"
+                                },
+                                {
+                                    "inflectedForm": "grouses"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ɡrous"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/grouse_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɡraʊs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a medium to large game bird with a plump body and feathered legs, the male being larger and more conspicuously colored than the female."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "bird",
+                                            "text": "Bird"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0436380.005",
+                                    "notes": [
+                                        {
+                                            "text": "Family Tetraonidae (or Phasianidae): several genera, especially Lagopus and Tetrao. The family also includes ptarmigans, capercaillies, and prairie chickens",
+                                            "type": "technicalNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "game_bird",
+                                            "text": "Game_Bird"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "medium to large game bird with plump body and feathered legs"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the flesh of the grouse as food."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "food",
+                                                    "text": "Food"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0436380.010",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "meat",
+                                                    "text": "Meat"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "flesh of grouse as food"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "grouse"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "grouse"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "grouse"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "102",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "grouse"
+                                },
+                                {
+                                    "inflectedForm": "groused"
+                                },
+                                {
+                                    "inflectedForm": "grouses"
+                                },
+                                {
+                                    "inflectedForm": "grousing"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "grouse"
+                }
+            ],
+            "type": "headword",
+            "word": "grouse"
+        },
+        {
+            "id": "grouse",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "1920s: of unknown origin"
+                            ],
+                            "homographNumber": "300",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "grouse"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ɡrous"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/grouse_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɡraʊs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "very good (used as a general term of approval)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the car was a grouse tomato red which everyone liked"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0436400.003",
+                                    "regions": [
+                                        {
+                                            "id": "australian",
+                                            "text": "Australian"
+                                        },
+                                        {
+                                            "id": "new_zealand",
+                                            "text": "New_Zealand"
+                                        }
+                                    ],
+                                    "registers": [
+                                        {
+                                            "id": "informal",
+                                            "text": "Informal"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "very good"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "grouse"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "301",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "grouse"
+                                },
+                                {
+                                    "inflectedForm": "grouse"
+                                },
+                                {
+                                    "inflectedForm": "grouse"
+                                },
+                                {
+                                    "inflectedForm": "grouses"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "grouse"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "302",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "grouse"
+                                },
+                                {
+                                    "inflectedForm": "groused"
+                                },
+                                {
+                                    "inflectedForm": "grouses"
+                                },
+                                {
+                                    "inflectedForm": "grousing"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "grouse"
+                }
+            ],
+            "type": "headword",
+            "word": "grouse"
+        },
+        {
+            "id": "grouse",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "grouser",
+                            "text": "grouser"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 19th century: of unknown origin; compare with grouch"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "grouse"
+                                },
+                                {
+                                    "inflectedForm": "groused"
+                                },
+                                {
+                                    "inflectedForm": "grouses"
+                                },
+                                {
+                                    "inflectedForm": "grousing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ɡrous"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/grouse_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɡraʊs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "complain pettily; grumble"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she heard him grousing about his assistant"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0436390.005",
+                                    "shortDefinitions": [
+                                        "complain about something trivial"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "grumble"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "complain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "moan"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "groan"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "protest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "whine"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bleat"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "carp"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cavil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lodge a complaint"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make a complaint"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make a fuss"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "grouse",
+                                            "sense_id": "t_en_gb0006571.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "grouse"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "grouser",
+                            "text": "grouser"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "grouse"
+                                },
+                                {
+                                    "inflectedForm": "grouse"
+                                },
+                                {
+                                    "inflectedForm": "grouse"
+                                },
+                                {
+                                    "inflectedForm": "grouses"
+                                },
+                                {
+                                    "inflectedForm": "grouse"
+                                },
+                                {
+                                    "inflectedForm": "grouse"
+                                },
+                                {
+                                    "inflectedForm": "grouses"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ɡrous"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/grouse_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɡraʊs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a grumble or complaint"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "our biggest grouse was about the noise of the construction work"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0436390.012",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "complaint",
+                                            "text": "Complaint"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "complaint or grumble"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "grumble"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "complaint"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "moan"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "groan"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "whine"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grievance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "objection"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "protest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "protestation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cavil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quibble"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "grouse",
+                                            "sense_id": "t_en_gb0006571.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "grouse"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "grouser",
+                            "text": "grouser"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "homographNumber": "202",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "grouse"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "grouse"
+                }
+            ],
+            "type": "headword",
+            "word": "grouse"
+        }
+    ]
+}

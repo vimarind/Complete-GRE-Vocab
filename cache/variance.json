@@ -1,0 +1,440 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "variance",
+    "results": [
+        {
+            "id": "variance",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: via Old French from Latin variantia ‘difference’, from the verb variare (see vary)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "variance"
+                                },
+                                {
+                                    "inflectedForm": "variances"
+                                },
+                                {
+                                    "inflectedForm": "variance"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈverēəns"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/variance_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈvɛriəns"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "at variance with"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "the fact or quality of being different, divergent, or inconsistent"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "her light tone was at variance with her sudden trembling"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1120890.016",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "difference",
+                                            "text": "Difference"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "fact or quality of being different or inconsistent"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "constructions": [
+                                                {
+                                                    "text": "at variance with"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "the state or fact of disagreeing or quarreling"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they were at variance with all their previous allies"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1120890.019",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "conflict",
+                                                    "text": "Conflict"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "state or fact of disagreeing or quarreling"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "conflicting"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "in conflict"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "contrasting"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "incompatible"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "irreconcilable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "antithetical"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "contradictory"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "clashing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "contrary"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "different"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "differing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "divergent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dissimilar"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "disagreeing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "in disagreement"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "at odds"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "at cross purposes"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "at loggerheads"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "opposed"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "opposing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "opposite"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "in opposition"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "poles apart"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "polar"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "at outs"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "at_variance",
+                                                    "sense_id": "t_en_gb0015852.003"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a discrepancy between two statements or documents."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1120890.021",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "difference",
+                                                    "text": "Difference"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "discrepancy between two statements or documents"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "an official dispensation from a rule or regulation, typically a building regulation."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1120890.022",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "permission",
+                                                    "text": "Permission"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "official dispensation from rule or regulation"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a quantity equal to the square of the standard deviation."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "statistics",
+                                                    "text": "Statistics"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "statistics",
+                                                    "text": "Statistics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1120890.023",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "numeric_value",
+                                                    "text": "Numeric_Value"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "quantity equal to square of standard deviation"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "difference"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "variation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discrepancy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dissimilarity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disagreement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "conflict"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "divergence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deviation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contrast"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "distinction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contradiction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "imbalance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "incongruity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inconsistent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "at odds"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "not in keeping"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "out of keeping"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "out of line"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "out of step"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in opposition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "conflicting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clashing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disagreeing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in disagreement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "differing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contrary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "incompatible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contradictory"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "irreconcilable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "incongruous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discrepant"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "variance",
+                                            "sense_id": "t_en_gb0015852.001"
+                                        },
+                                        {
+                                            "entry_id": "at_variance",
+                                            "sense_id": "t_en_gb0015852.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "variance"
+                }
+            ],
+            "type": "headword",
+            "word": "variance"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "discrete",
+    "results": [
+        {
+            "id": "discrete",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "discreteness",
+                            "text": "discreteness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin discretus ‘separate’; compare with discreet"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "discrete"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "On the difference between discrete and discreet, see discreet",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "diˈskrēt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/discrete_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dɪˈskrit"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "individually separate and distinct"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "statistics",
+                                            "text": "Statistics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "speech sounds are produced as a continuous sound signal rather than discrete units"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0280610.005",
+                                    "shortDefinitions": [
+                                        "individually separate and distinct"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "separate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "distinct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "individual"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "detached"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unattached"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disconnected"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discontinuous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disjunct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disjoined"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "discrete",
+                                            "sense_id": "t_en_gb0004087.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "discrete"
+                }
+            ],
+            "type": "headword",
+            "word": "discrete"
+        }
+    ]
+}

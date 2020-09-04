@@ -1,0 +1,180 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "exonerate",
+    "results": [
+        {
+            "id": "exonerate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "exonerative",
+                            "text": "exonerative"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin exonerat- ‘freed from a burden’, from the verb exonerare, from ex- ‘from’ + onus, oner- ‘a burden’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "exonerate"
+                                },
+                                {
+                                    "inflectedForm": "exonerated"
+                                },
+                                {
+                                    "inflectedForm": "exonerates"
+                                },
+                                {
+                                    "inflectedForm": "exonerating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "iɡˈzänəˌrāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/exonerate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪɡˈzɑnəˌreɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(especially of an official body) absolve (someone) from blame for a fault or wrongdoing, especially after due consideration of the case"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they should exonerate these men from this crime"
+                                        },
+                                        {
+                                            "text": "the court-martial exonerated me"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0341630.007",
+                                    "shortDefinitions": [
+                                        "absolve someone from blame for fault or wrongdoing"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "absolve"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clear"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "acquit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "declare innocent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "find innocent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pronounce not guilty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discharge"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "exonerate",
+                                            "sense_id": "t_en_gb0005249.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "release someone from (a duty or obligation)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Pope Clement V exonerated the king from his oath to the barons"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0341630.018",
+                                    "notes": [
+                                        {
+                                            "text": "\"exonerate someone from\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "release someone from"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "release"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discharge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "relieve"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "free"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "liberate"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "exonerate",
+                                            "sense_id": "t_en_gb0005249.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "exonerate"
+                }
+            ],
+            "type": "headword",
+            "word": "exonerate"
+        }
+    ]
+}

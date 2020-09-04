@@ -1,0 +1,225 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "paradigm",
+    "results": [
+        {
+            "id": "paradigm",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: via late Latin from Greek paradeigma, from paradeiknunai ‘show side by side’, from para- ‘beside’ + deiknunai ‘to show’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "paradigm"
+                                },
+                                {
+                                    "inflectedForm": "paradigms"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈperəˌdīm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/paradigm_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpɛrəˌdaɪm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a typical example or pattern of something; a model"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "philosophy",
+                                            "text": "Philosophy"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there is a new paradigm for public art in this country"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0747490.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "example",
+                                            "text": "Example"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "pattern or model"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a worldview underlying the theories and methodology of a particular scientific subject"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "philosophy",
+                                                    "text": "Philosophy"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the discovery of universal gravitation became the paradigm of successful science"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0747490.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "ideology",
+                                                    "text": "Ideology"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "world view underlying theories of subject"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "specimen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sample"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exemplar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exemplification"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "instance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "case"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "representative case"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "typical case"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "case in point"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "illustration"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "example",
+                                            "sense_id": "t_en_gb0005163.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Often contrasted with syntagm"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "syntagm",
+                                            "text": "syntagm",
+                                            "type": "relates to"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a set of linguistic items that form mutually exclusive choices in particular syntactic roles"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "grammar",
+                                            "text": "Grammar"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "linguistics",
+                                            "text": "Linguistics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "English determiners form a paradigm: we can say “a book” or “his book” but not “a his book.”"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0747490.011",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "syntactic_feature",
+                                            "text": "Syntactic_Feature"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "set of items forming mutually exclusive choices"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(in the traditional grammar of Latin, Greek, and other inflected languages) a table of all the inflected forms of a particular verb, noun, or adjective, serving as a model for other words of the same conjugation or declension."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "grammar",
+                                            "text": "Grammar"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0747490.013",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "list",
+                                            "text": "List"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "table of all inflected forms of word"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "paradigm"
+                }
+            ],
+            "type": "headword",
+            "word": "paradigm"
+        }
+    ]
+}

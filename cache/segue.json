@@ -1,0 +1,261 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "segue",
+    "results": [
+        {
+            "id": "segue",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Italian, literally ‘follows’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "segues"
+                                },
+                                {
+                                    "inflectedForm": "segueing",
+                                    "pronunciations": [
+                                        {
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "ˈseɡwā-iNG"
+                                        },
+                                        {
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "ˈsā-"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "inflectedForm": "segued",
+                                    "pronunciations": [
+                                        {
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "ˈseɡwād"
+                                        },
+                                        {
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "ˈsā-"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "inflectedForm": "segue"
+                                },
+                                {
+                                    "inflectedForm": "segued"
+                                },
+                                {
+                                    "inflectedForm": "segueing"
+                                },
+                                {
+                                    "inflectedForm": "segues"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "no object, with adverbial",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈseˌɡwā"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/segue_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsɛˌɡweɪ"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsāˌɡwā"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/segue_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈseɪˌɡweɪ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(in music and film) move without interruption from one piece of music or scene to another"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "music",
+                                            "text": "Music"
+                                        },
+                                        {
+                                            "id": "film",
+                                            "text": "Film"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "allow one song to segue into the next"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0918030.017",
+                                    "shortDefinitions": [
+                                        "move from one piece of music or scene to another"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "move or shift from one role, state, or condition to another"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "from the humor magazine, the New York-born artist segued into producing films"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0918030.042",
+                                            "shortDefinitions": [
+                                                "transition"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "segue"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "segue"
+                                },
+                                {
+                                    "inflectedForm": "segues"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈseˌɡwā"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/segue_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsɛˌɡweɪ"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsāˌɡwā"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/segue_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈseɪˌɡweɪ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an uninterrupted transition from one piece of music or film scene to another."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "music",
+                                            "text": "Music"
+                                        },
+                                        {
+                                            "id": "film",
+                                            "text": "Film"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0918030.036",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "musical_phrase",
+                                            "text": "Musical_Phrase"
+                                        },
+                                        {
+                                            "id": "film_shot",
+                                            "text": "Film_Shot"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "transition from one piece of music or scene to another"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a transition from one role, state, or condition to another"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "that's actually a perfect segue into my next question"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0918030.043",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "change",
+                                                    "text": "Change"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "transition"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "segue"
+                }
+            ],
+            "type": "headword",
+            "word": "segue"
+        }
+    ]
+}

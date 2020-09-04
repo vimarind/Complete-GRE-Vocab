@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "calamitous",
+    "results": [
+        {
+            "id": "calamitous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "calamitously",
+                            "text": "calamitously"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "calamitous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kəˈlamədəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/calamitous_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kəˈlæmədəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "involving calamity; catastrophic or disastrous"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "such calamitous events as fires, hurricanes, and floods"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0143540.005",
+                                    "shortDefinitions": [
+                                        "involving calamity"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "disastrous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "catastrophic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cataclysmic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "devastating"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dire"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tragic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fatal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ruinous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crippling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "awful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dreadful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "terrible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "woeful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grievous"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "calamitous",
+                                            "sense_id": "t_en_gb0001957.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "calamitous"
+                }
+            ],
+            "type": "headword",
+            "word": "calamitous"
+        }
+    ]
+}

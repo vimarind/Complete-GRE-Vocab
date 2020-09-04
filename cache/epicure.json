@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "epicure",
+    "results": [
+        {
+            "id": "epicure",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "epicurism",
+                            "text": "epicurism"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (denoting a disciple of Epicurus): via medieval Latin from Greek Epikouros ‘Epicurus’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "epicure"
+                                },
+                                {
+                                    "inflectedForm": "epicures"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈepəˌkyo͝or"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/epicure_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɛpəˌkjʊr"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who takes particular pleasure in fine food and drink"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they see themselves as epicures—delighting in food that is properly prepared"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0328640.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "eater",
+                                            "text": "Eater"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person who takes particular pleasure in fine food and drink"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "gourmet"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gastronome"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gourmand"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "connoisseur"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "epicure",
+                                            "sense_id": "t_en_gb0004984.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "epicure"
+                }
+            ],
+            "type": "headword",
+            "word": "epicure"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "disaffected",
+    "results": [
+        {
+            "id": "disaffected",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "disaffectedly",
+                            "text": "disaffectedly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: past participle of disaffect, originally in the sense ‘dislike or disorder’, from dis- (expressing reversal) + affect"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "disaffected"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌdisəˈfektəd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/disaffected_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌdɪsəˈfɛktəd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "dissatisfied with the people in authority and no longer willing to support them"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a military plot by disaffected elements in the army"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0279070.005",
+                                    "shortDefinitions": [
+                                        "dissatisfied"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "dissatisfied"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disgruntled"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discontented"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "malcontent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "restless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "frustrated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fed up"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "disaffected",
+                                            "sense_id": "t_en_gb0004001.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "disaffected"
+                }
+            ],
+            "type": "headword",
+            "word": "disaffected"
+        }
+    ]
+}

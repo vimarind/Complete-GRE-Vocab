@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "asseverate",
+    "results": [
+        {
+            "id": "asseverate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "asseverate"
+                                },
+                                {
+                                    "inflectedForm": "asseverated"
+                                },
+                                {
+                                    "inflectedForm": "asseverates"
+                                },
+                                {
+                                    "inflectedForm": "asseverating"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "reporting verb",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈsevəˌrāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/asseverate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈsɛvəˌreɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "declare or state solemnly or emphatically"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with clause",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "the government has asseverated that a swift trial will be conducted"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "he asseverated the need for a just, fair, and united country"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1185403.004",
+                                    "shortDefinitions": [
+                                        "declare or state solemnly or emphatically"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "asseverate"
+                }
+            ],
+            "type": "headword",
+            "word": "asseverate"
+        }
+    ]
+}

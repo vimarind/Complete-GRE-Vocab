@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "presumptive",
+    "results": [
+        {
+            "id": "presumptive",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "presumptively",
+                            "text": "presumptively"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from French présomptif, -ive, from late Latin praesumptivus, from praesumpt- ‘taken before’, from the verb praesumere (see presume)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "presumptive"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "prəˈzəm(p)tiv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/presumptive_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "prəˈzəm(p)tɪv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "of the nature of a presumption; presumed in the absence of further information"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        },
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a presumptive diagnosis"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0813420.012",
+                                    "shortDefinitions": [
+                                        "of nature of presumption"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "giving grounds for the inference of a fact or of the appropriate interpretation of the law."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0813420.014",
+                                            "shortDefinitions": [
+                                                "giving grounds for inference of fact or of appropriate interpretation of law"
+                                            ]
+                                        },
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "another term for presumptuous"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "presumptuous",
+                                                    "text": "presumptuous",
+                                                    "type": "another term for"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0813420.015"
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "conjectural"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "speculative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tentative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "suppositional"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "notional"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hypothetical"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "presumptive",
+                                            "sense_id": "t_en_gb0011531.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "presumptive"
+                }
+            ],
+            "type": "headword",
+            "word": "presumptive"
+        }
+    ]
+}

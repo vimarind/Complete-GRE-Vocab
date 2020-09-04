@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "ideological",
+    "results": [
+        {
+            "id": "ideological",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "ideological"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌīdēəˈläjəkəl"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌaɪdiəˈlɑdʒəkəl"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌidēəˈläjəkəl"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɪdiəˈlɑdʒəkəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "based on or relating to a system of ideas and ideals, especially concerning economic or political theory and policy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the ideological struggle that underpinned the cold war"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0493770.004",
+                                    "shortDefinitions": [
+                                        "based on or relating to system of ideas and ideals"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "ideological"
+                }
+            ],
+            "type": "headword",
+            "word": "ideological"
+        }
+    ]
+}

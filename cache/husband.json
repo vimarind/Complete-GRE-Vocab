@@ -1,0 +1,222 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "husband",
+    "results": [
+        {
+            "id": "husband",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "husbandhood",
+                            "text": "husbandhood"
+                        },
+                        {
+                            "id": "husbandless",
+                            "text": "husbandless"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Old English (in the senses ‘male head of a household’ and ‘manager, steward’), from Old Norse húsbóndi ‘master of a house’, from hús ‘house’ + bóndi ‘occupier and tiller of the soil’. The original sense of the verb was ‘till, cultivate’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "husband"
+                                },
+                                {
+                                    "inflectedForm": "husbands"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈhəzbənd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/husband_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈhəzbənd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a married man considered in relation to his spouse"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she and her husband are both retired"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0486660.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "husband",
+                                            "text": "Husband"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "married man considered in relation to his spouse"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "spouse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "partner"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "man"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "consort"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "husband",
+                                            "sense_id": "t_en_gb0007235.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "husband"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "husbandhood",
+                            "text": "husbandhood"
+                        },
+                        {
+                            "id": "husbandless",
+                            "text": "husbandless"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "husband"
+                                },
+                                {
+                                    "inflectedForm": "husbanded"
+                                },
+                                {
+                                    "inflectedForm": "husbanding"
+                                },
+                                {
+                                    "inflectedForm": "husbands"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈhəzbənd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/husband_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈhəzbənd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "use (resources) economically; conserve"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the need to husband his remaining strength"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0486660.009",
+                                    "shortDefinitions": [
+                                        "use resources economically"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "use economically"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "use sparingly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "economize on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be frugal with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "manage thriftily"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "husband",
+                                            "sense_id": "t_en_gb0007235.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "husband"
+                }
+            ],
+            "type": "headword",
+            "word": "husband"
+        }
+    ]
+}

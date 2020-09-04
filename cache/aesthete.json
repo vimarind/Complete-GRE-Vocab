@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "aesthete",
+    "results": [
+        {
+            "id": "aesthete",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 19th century: from Greek aisthētēs ‘a person who perceives’, or from aesthetic, on the pattern of the pair athlete, athletic"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "aesthete"
+                                },
+                                {
+                                    "inflectedForm": "aesthetes"
+                                },
+                                {
+                                    "inflectedForm": "esthete"
+                                },
+                                {
+                                    "inflectedForm": "esthetes"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈesˌTHēt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/aesthete_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɛsˌθit"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who has or affects to have a special appreciation of art and beauty."
+                                    ],
+                                    "id": "m_en_gbus0013390.008",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "enthusiast",
+                                            "text": "Enthusiast"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person who is appreciative of and sensitive to art and beauty"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "dandy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fop"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "beau"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "man about town"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bright young thing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "glamour boy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rake"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "exquisite",
+                                            "sense_id": "t_en_gb0005326.004"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "esthete"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "aesthete"
+                }
+            ],
+            "type": "headword",
+            "word": "aesthete"
+        }
+    ]
+}

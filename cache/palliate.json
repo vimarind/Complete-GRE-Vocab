@@ -1,0 +1,269 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "palliate",
+    "results": [
+        {
+            "id": "palliate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "palliation",
+                            "text": "palliation"
+                        },
+                        {
+                            "id": "palliator",
+                            "text": "palliator"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from late Latin palliat- ‘cloaked’, from the verb palliare, from pallium ‘cloak’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "palliate"
+                                },
+                                {
+                                    "inflectedForm": "palliated"
+                                },
+                                {
+                                    "inflectedForm": "palliates"
+                                },
+                                {
+                                    "inflectedForm": "palliating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpalēˌāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/palliate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpæliˌeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (a disease or its symptoms) less severe or unpleasant without removing the cause"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "treatment works by palliating symptoms"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0743180.018",
+                                    "shortDefinitions": [
+                                        "make disease or its symptoms less severe or unpleasant without removing cause"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "allay or moderate (fears or suspicions)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "this eliminated, or at least palliated, suspicions aroused by German unity"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0743180.024",
+                                            "shortDefinitions": [
+                                                "allay or moderate"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "disguise the seriousness or gravity of (an offense)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "there is no way to excuse or palliate his dirty deed"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0743180.025",
+                                            "shortDefinitions": [
+                                                "disguise seriousness or gravity of"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "disguise"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hide"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "gloss over"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "conceal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "whitewash"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cover"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cover up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "camouflage"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cloak"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "mask"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "paper over"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "varnish over"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "palliate",
+                                                    "sense_id": "t_en_gb0010597.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "alleviate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ease"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "relieve"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "soothe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take the edge off"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "assuage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "allay"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dull"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "soften"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lessen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "moderate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "temper"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mitigate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "diminish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "decrease"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blunt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deaden"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abate"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "palliate",
+                                            "sense_id": "t_en_gb0010597.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "palliate"
+                }
+            ],
+            "type": "headword",
+            "word": "palliate"
+        }
+    ]
+}

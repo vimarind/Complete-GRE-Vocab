@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "pendulous",
+    "results": [
+        {
+            "id": "pendulous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "pendulously",
+                            "text": "pendulously"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin pendulus ‘hanging down’ (from pendere ‘hang’) + -ous"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "pendulous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpenjələs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/pendulous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpɛndʒələs"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpend(y)ələs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/pendulous_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpɛnd(j)ələs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "hanging down loosely"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "botany",
+                                            "text": "Botany"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "pendulous branches"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0762180.009",
+                                    "shortDefinitions": [
+                                        "hanging down loosely"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "drooping"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dangling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "droopy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sagging"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "saggy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "floppy"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "pendulous",
+                                            "sense_id": "t_en_gb0010850.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "pendulous"
+                }
+            ],
+            "type": "headword",
+            "word": "pendulous"
+        }
+    ]
+}

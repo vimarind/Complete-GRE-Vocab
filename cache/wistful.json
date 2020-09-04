@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "wistful",
+    "results": [
+        {
+            "id": "wistful",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "wistfulness",
+                            "text": "wistfulness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: apparently from obsolete wistly ‘intently’, influenced by wishful"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "wistful"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈwis(t)fəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/wistful_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈwɪs(t)fəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having or showing a feeling of vague or regretful longing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a wistful smile"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1163420.006",
+                                    "shortDefinitions": [
+                                        "having or showing feeling of vague or regretful longing"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "regretful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "nostalgic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "yearning"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "longing"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "wistful",
+                                            "sense_id": "t_en_gb0016317.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "wistful"
+                }
+            ],
+            "type": "headword",
+            "word": "wistful"
+        }
+    ]
+}

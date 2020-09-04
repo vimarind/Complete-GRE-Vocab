@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "inalienable",
+    "results": [
+        {
+            "id": "inalienable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "inalienability",
+                            "text": "inalienability"
+                        },
+                        {
+                            "id": "inalienably",
+                            "text": "inalienably"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "inalienable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈālēənəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/inalienable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈeɪliənəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "unable to be taken away from or given away by the possessor"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "freedom of religion, the most inalienable of all human rights"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0500390.005",
+                                    "shortDefinitions": [
+                                        "not subject to being taken away from or given away by possessor"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "inviolable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "absolute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sacrosanct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unchallengeable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unassailable"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "inalienable",
+                                            "sense_id": "t_en_gb0007550.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "inalienable"
+                }
+            ],
+            "type": "headword",
+            "word": "inalienable"
+        }
+    ]
+}

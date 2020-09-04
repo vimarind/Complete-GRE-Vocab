@@ -1,0 +1,1212 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "tender",
+    "results": [
+        {
+            "id": "tender",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "tenderer",
+                            "text": "tenderer"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (as a legal term meaning ‘formally offer a plea or evidence, or money to discharge a debt’, also as a noun denoting such an offer): from Old French tendre, from Latin tendere ‘to stretch, hold forth’ (see tend)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tender"
+                                },
+                                {
+                                    "inflectedForm": "tendered"
+                                },
+                                {
+                                    "inflectedForm": "tendering"
+                                },
+                                {
+                                    "inflectedForm": "tenders"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈtendər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/tender_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈtɛndər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "offer or present (something) formally"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he tendered his resignation as leader"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1039080.005",
+                                    "shortDefinitions": [
+                                        "offer or present something formally"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "offer (money) as payment"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she tendered her fare"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1039080.011",
+                                            "shortDefinitions": [
+                                                "offer money as payment"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "make a formal written offer to carry out work, supply goods, or buy land, shares, or another asset for a stated fixed price"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "commerce",
+                                                    "text": "Commerce"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "firms of interior decorators have been tendering for the work"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1039080.012",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "make formal written offer to carry out work"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "bid"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "put in a bid"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "quote"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "give an estimate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "propose a price"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "tender",
+                                                    "sense_id": "t_en_gb0014714.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "make a formal offer giving (a stated fixed price)"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "commerce",
+                                                    "text": "Commerce"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "what price should we tender for a contract?"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1039080.013",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "formally offer stated fixed price for carrying out work etc."
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "offer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "proffer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "present"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put forward"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "propose"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "suggest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "advance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "submit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "set before someone"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "extend"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "render"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "tender",
+                                            "sense_id": "t_en_gb0014714.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "put_something_out_to_tender",
+                            "text": "put something out to tender"
+                        }
+                    ],
+                    "text": "tender"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "tenderer",
+                            "text": "tenderer"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tender"
+                                },
+                                {
+                                    "inflectedForm": "tenders"
+                                },
+                                {
+                                    "inflectedForm": "tender"
+                                },
+                                {
+                                    "inflectedForm": "tenders"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈtendər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/tender_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈtɛndər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an offer to carry out work, supply goods, or buy land, shares, or another asset at a stated fixed price"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "commerce",
+                                            "text": "Commerce"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we invited tenders for up to three more frigates"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "mass noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "being government land, it was sold by tender"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "as modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "a minimum tender price"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1039080.016",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "offer",
+                                            "text": "Offer"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "offer to carry out work, supply goods"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "bid"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "offer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quotation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quote"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "estimate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "estimated price"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "price"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "tender",
+                                            "sense_id": "t_en_gb0014714.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "put_something_out_to_tender",
+                            "text": "put something out to tender"
+                        }
+                    ],
+                    "text": "tender"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "tenderer",
+                            "text": "tenderer"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "homographNumber": "202",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tender"
+                                },
+                                {
+                                    "inflectedForm": "tenderer"
+                                },
+                                {
+                                    "inflectedForm": "tenderest"
+                                },
+                                {
+                                    "inflectedForm": "tender"
+                                },
+                                {
+                                    "inflectedForm": "tender"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "phrases": [
+                        {
+                            "id": "put_something_out_to_tender",
+                            "text": "put something out to tender"
+                        }
+                    ],
+                    "text": "tender"
+                }
+            ],
+            "type": "headword",
+            "word": "tender"
+        },
+        {
+            "id": "tender",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French tendre, from Latin tener ‘tender, delicate’"
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tenderer"
+                                },
+                                {
+                                    "inflectedForm": "tenderest"
+                                },
+                                {
+                                    "inflectedForm": "tender"
+                                },
+                                {
+                                    "inflectedForm": "tenderer"
+                                },
+                                {
+                                    "inflectedForm": "tenderest"
+                                },
+                                {
+                                    "inflectedForm": "tender"
+                                },
+                                {
+                                    "inflectedForm": "tender"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈtendər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/tender_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈtɛndər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "showing gentleness and concern or sympathy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was being so kind and tender"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1039070.010",
+                                    "shortDefinitions": [
+                                        "showing gentleness and affection"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "constructions": [
+                                                {
+                                                    "text": "tender of"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "solicitous of; concerned for"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "be tender of a lady's reputation"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1039070.014",
+                                            "notes": [
+                                                {
+                                                    "text": "predicative",
+                                                    "type": "grammaticalNote"
+                                                },
+                                                {
+                                                    "text": "\"tender of\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "solicitous of"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "caring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "kind"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "kindly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "kind-hearted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "soft-hearted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tender-hearted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "compassionate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sympathetic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "warm"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "warm-hearted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "feeling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fatherly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "motherly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "maternal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gentle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mild"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "benevolent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "generous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "giving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "humane"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "affectionate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fond"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "loving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "emotional"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "warm"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gentle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "soft"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "romantic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sentimental"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "emotional"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "emotive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "touching"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "moving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "poignant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "evocative"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "tender",
+                                            "sense_id": "t_en_gb0014713.001"
+                                        },
+                                        {
+                                            "entry_id": "tender",
+                                            "sense_id": "t_en_gb0014713.002"
+                                        },
+                                        {
+                                            "entry_id": "tender",
+                                            "sense_id": "t_en_gb0014713.003"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of food) easy to cut or chew; not tough"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "tender green beans"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1039070.017",
+                                    "shortDefinitions": [
+                                        "easy to cut or chew"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "easily chewed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "not tough"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chewable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "soft"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "edible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "eatable"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "tender",
+                                            "sense_id": "t_en_gb0014713.004"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a part of the body) sensitive to pain"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the pale, tender skin of her forearm"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1039070.019",
+                                    "shortDefinitions": [
+                                        "sensitive to pain"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a plant) easily injured by severe weather and therefore needing protection"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "horticulture",
+                                                    "text": "Horticulture"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "pelargoniums are colorful but tender plants"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1039070.020",
+                                            "shortDefinitions": [
+                                                "(of plant) easily injured by severe weather and therefore needing protection"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "delicate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "easily damaged"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fragile"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "breakable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "frail"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "tender",
+                                                    "sense_id": "t_en_gb0014713.005"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "requiring tact or careful handling"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the issue of conscription was a particularly tender one"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1039070.021",
+                                            "shortDefinitions": [
+                                                "requiring tact or careful handling"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "difficult"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "delicate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tricky"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "awkward"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "problematic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "troublesome"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ticklish"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "tender",
+                                                    "sense_id": "t_en_gb0014713.008"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "sore"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "painful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sensitive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inflamed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "raw"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "red"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chafed"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "tender",
+                                            "sense_id": "t_en_gb0014713.006"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "young, immature, and vulnerable"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "at the tender age of five"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1039070.023",
+                                    "shortDefinitions": [
+                                        "young, inexperienced, or vulnerable"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "young"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "youthful"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "tender",
+                                            "sense_id": "t_en_gb0014713.007"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a ship) leaning or readily inclined to roll in response to the wind."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "nautical",
+                                            "text": "Nautical"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "nautical",
+                                            "text": "Nautical"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1039070.025",
+                                    "shortDefinitions": [
+                                        "(of ship) leaning or readily inclined to roll in response to wind"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "phrases": [
+                        {
+                            "id": "tender_mercies",
+                            "text": "tender mercies"
+                        }
+                    ],
+                    "text": "tender"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tender"
+                                },
+                                {
+                                    "inflectedForm": "tenders"
+                                },
+                                {
+                                    "inflectedForm": "tender"
+                                },
+                                {
+                                    "inflectedForm": "tenders"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "tender_mercies",
+                            "text": "tender mercies"
+                        }
+                    ],
+                    "text": "tender"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "102",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tender"
+                                },
+                                {
+                                    "inflectedForm": "tendered"
+                                },
+                                {
+                                    "inflectedForm": "tendering"
+                                },
+                                {
+                                    "inflectedForm": "tenders"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "tender_mercies",
+                            "text": "tender mercies"
+                        }
+                    ],
+                    "text": "tender"
+                }
+            ],
+            "type": "headword",
+            "word": "tender"
+        },
+        {
+            "id": "tender",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘attendant, nurse’): from tend or shortening of attender (see attend)"
+                            ],
+                            "homographNumber": "300",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tender"
+                                },
+                                {
+                                    "inflectedForm": "tenders"
+                                },
+                                {
+                                    "inflectedForm": "tender"
+                                },
+                                {
+                                    "inflectedForm": "tenders"
+                                },
+                                {
+                                    "inflectedForm": "tender"
+                                },
+                                {
+                                    "inflectedForm": "tenders"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈtendər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/tender_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈtɛndər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a boat used to ferry people and supplies to and from a ship."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "nautical",
+                                            "text": "Nautical"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1039090.018",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "boat",
+                                            "text": "Boat"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "boat used to ferry people and supplies to and from ship"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a railcar coupled to a steam locomotive to carry fuel and water."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "railways",
+                                            "text": "Railways"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1039090.020",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "railway_vehicle",
+                                            "text": "Railway_Vehicle"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "railcar coupled to steam locomotive to carry fuel and water"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a person who looks after someone else or a machine or place"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Alexei signaled to one of the engine tenders"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1039090.022",
+                                    "notes": [
+                                        {
+                                            "text": "usually in combination or with modifier",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "attendant",
+                                            "text": "Attendant"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person who looks after someone else or machine or place"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "tender"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "301",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tender"
+                                },
+                                {
+                                    "inflectedForm": "tenderer"
+                                },
+                                {
+                                    "inflectedForm": "tenderest"
+                                },
+                                {
+                                    "inflectedForm": "tender"
+                                },
+                                {
+                                    "inflectedForm": "tender"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "tender"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "302",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tender"
+                                },
+                                {
+                                    "inflectedForm": "tendered"
+                                },
+                                {
+                                    "inflectedForm": "tendering"
+                                },
+                                {
+                                    "inflectedForm": "tenders"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "tender"
+                }
+            ],
+            "type": "headword",
+            "word": "tender"
+        }
+    ]
+}

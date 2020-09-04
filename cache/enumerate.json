@@ -1,0 +1,195 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "enumerate",
+    "results": [
+        {
+            "id": "enumerate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "enumerative",
+                            "text": "enumerative"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin enumerat- ‘counted out’, from the verb enumerare, from e- (variant of ex-) ‘out’ + numerus ‘number’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "enumerate"
+                                },
+                                {
+                                    "inflectedForm": "enumerated"
+                                },
+                                {
+                                    "inflectedForm": "enumerates"
+                                },
+                                {
+                                    "inflectedForm": "enumerating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈn(y)o͞oməˌrāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/enumerate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈn(j)uməˌreɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "mention (a number of things) one by one"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there is not space to enumerate all his works"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0327450.005",
+                                    "shortDefinitions": [
+                                        "mention several things one by one"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "establish the number of"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the 2000 census enumerated 10,493 households in the county"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0327450.011",
+                                            "registers": [
+                                                {
+                                                    "id": "formal",
+                                                    "text": "Formal"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "establish number of"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "calculate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "compute"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "count"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "add up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sum up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tally"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "total"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "number"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "put a figure on"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "quantify"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "enumerate",
+                                                    "sense_id": "t_en_gb0004965.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "list"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "itemize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "catalogue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "set out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "set forth"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "enumerate",
+                                            "sense_id": "t_en_gb0004965.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "enumerate"
+                }
+            ],
+            "type": "headword",
+            "word": "enumerate"
+        }
+    ]
+}

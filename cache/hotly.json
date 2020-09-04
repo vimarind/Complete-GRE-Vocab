@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "hotly",
+    "results": [
+        {
+            "id": "hotly",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "hotly"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈhätlē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/hotly_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈhɑtli"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "in a passionate, excited, or angry way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the rumors were hotly denied"
+                                        },
+                                        {
+                                            "text": "hotly debated issues"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0481180.005",
+                                    "shortDefinitions": [
+                                        "intense, or angry way"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "vehemently"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vigorously"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "strenuously"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fiercely"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "passionately"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "heatedly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "with a vengeance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "closely"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swiftly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quickly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hotfoot"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "without delay"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "hotly",
+                                            "sense_id": "t_en_gb0007157.001"
+                                        },
+                                        {
+                                            "entry_id": "hotly",
+                                            "sense_id": "t_en_gb0007157.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adverb",
+                        "text": "Adverb"
+                    },
+                    "text": "hotly"
+                }
+            ],
+            "type": "headword",
+            "word": "hotly"
+        }
+    ]
+}

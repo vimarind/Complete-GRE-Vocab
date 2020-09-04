@@ -1,0 +1,235 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "antithesis",
+    "results": [
+        {
+            "id": "antithesis",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (originally denoting the substitution of one grammatical case for another): from late Latin, from Greek antitithenai ‘set against’, from anti ‘against’ + tithenai ‘to place’. The earliest current sense, denoting a rhetorical or literary device, dates from the early 16th century"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "antitheses",
+                                    "pronunciations": [
+                                        {
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "-ˌsēz"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "inflectedForm": "antitheses"
+                                },
+                                {
+                                    "inflectedForm": "antithesis"
+                                },
+                                {
+                                    "inflectedForm": "antithesis"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "anˈtiTHəsəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/antithesis_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ænˈtɪθəsəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person or thing that is the direct opposite of someone or something else"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "love is the antithesis of selfishness"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0038740.018",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "opposite",
+                                            "text": "Opposite"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "direct opposite"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "constructions": [
+                                                {
+                                                    "text": "antithesis between"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "a contrast or opposition between two things"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the antithesis between occult and rational mentalities"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0038740.021",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "difference",
+                                                    "text": "Difference"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "contrast or opposition"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "contrast"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "opposition"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "antithesis",
+                                                    "sense_id": "t_en_gb0000652.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a figure of speech in which an opposition or contrast of ideas is expressed by parallelism of words that are the opposites of, or strongly contrasted with, each other, such as “hatred stirs up strife, but love covers all sins”"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "rhetoric",
+                                                    "text": "Rhetoric"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his sermons were full of startling antitheses"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0038740.022",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "rhetorical_device",
+                                                    "text": "Rhetorical_Device"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "rhetorical or literary device"
+                                            ]
+                                        },
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "Compare with synthesis"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "synthesis",
+                                                    "text": "synthesis",
+                                                    "type": "see also"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "(in Hegelian philosophy) the negation of the thesis as the second stage in the process of dialectical reasoning."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "philosophy",
+                                                    "text": "Philosophy"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0038740.023",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "reasoning",
+                                                    "text": "Reasoning"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "in philosophy"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "opposite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "direct opposite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "converse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reverse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reversal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inverse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "obverse"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "antithesis",
+                                            "sense_id": "t_en_gb0000652.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "antithesis"
+                }
+            ],
+            "type": "headword",
+            "word": "antithesis"
+        }
+    ]
+}

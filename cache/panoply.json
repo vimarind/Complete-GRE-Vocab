@@ -1,0 +1,195 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "panoply",
+    "results": [
+        {
+            "id": "panoply",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "panoplied",
+                            "text": "panoplied"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (in the sense ‘complete protection for spiritual warfare’, often with biblical allusion to Eph. 6:11, 13): from French panoplie or modern Latin panoplia ‘full armor’, from Greek, from pan ‘all’ + hopla ‘arms’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "panoplies"
+                                },
+                                {
+                                    "inflectedForm": "panoply"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpanəplē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/panoply_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpænəpli"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a complete or impressive collection of things"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a deliciously inventive panoply of insults"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0745500.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "collection",
+                                            "text": "Collection"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "extensive or impressive collection"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a splendid display"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "all the panoply of Western religious liturgy"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0745500.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "view",
+                                                    "text": "View"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "splendid display"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "trappings"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "regalia"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "apparatus"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "panoply",
+                                                    "sense_id": "t_en_gb0010627.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a complete set of arms or suit of armor."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "military_history",
+                                                    "text": "Military_History"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0745500.009",
+                                            "registers": [
+                                                {
+                                                    "id": "historical",
+                                                    "text": "Historical"
+                                                },
+                                                {
+                                                    "id": "literary",
+                                                    "text": "Literary"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "armour",
+                                                    "text": "Armour"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "complete suit of armour"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "protective covering"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "armour plate"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "armour",
+                                                    "sense_id": "t_en_gb0000803.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "array"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "range"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "collection"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "panoply",
+                                            "sense_id": "t_en_gb0010627.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "panoply"
+                }
+            ],
+            "type": "headword",
+            "word": "panoply"
+        }
+    ]
+}

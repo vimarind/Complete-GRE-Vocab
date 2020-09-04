@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "hagiographic",
+    "results": [
+        {
+            "id": "hagiographic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivativeOf": [
+                        {
+                            "id": "hagiography",
+                            "text": "hagiography"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "hagiographic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈˌhaɡēəˈˌɡrafik"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈˌhæɡiəˈˌɡræfɪk"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈˌhāɡēəˈˌɡrafik"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈˌheɪɡiəˈˌɡræfɪk"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈˌhäɡēəˈˌɡrafik"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈˌhɑɡiəˈˌɡræfɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "id": "m_en_gbus0444080.021"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "hagiographic"
+                }
+            ],
+            "type": "headword",
+            "word": "hagiographic"
+        }
+    ]
+}

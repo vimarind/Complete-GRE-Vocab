@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "timorous",
+    "results": [
+        {
+            "id": "timorous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "timorously",
+                            "text": "timorously"
+                        },
+                        {
+                            "id": "timorousness",
+                            "text": "timorousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘feeling fear’): from Old French temoreus, from medieval Latin timorosus, from Latin timor ‘fear’, from timere ‘to fear’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "timorous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈtim(ə)rəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/timorous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈtɪm(ə)rəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "showing or suffering from nervousness, fear, or a lack of confidence"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a timorous voice"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1055420.005",
+                                    "shortDefinitions": [
+                                        "showing or suffering from nervousness or lack of confidence"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "easily frightened"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lacking courage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fearful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "apprehensive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "faint-hearted"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "timorous",
+                                            "sense_id": "t_en_gb0014907.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "timorous"
+                }
+            ],
+            "type": "headword",
+            "word": "timorous"
+        }
+    ]
+}

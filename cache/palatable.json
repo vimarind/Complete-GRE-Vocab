@@ -1,0 +1,162 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "palatable",
+    "results": [
+        {
+            "id": "palatable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "palatability",
+                            "text": "palatability"
+                        },
+                        {
+                            "id": "palatableness",
+                            "text": "palatableness"
+                        },
+                        {
+                            "id": "palatably",
+                            "text": "palatably"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "palatable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpalədəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/palatable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpælədəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of food or drink) pleasant to taste"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a very palatable local red wine"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0742460.005",
+                                    "shortDefinitions": [
+                                        "pleasant to taste"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of an action or proposal) acceptable or satisfactory"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a device that made increased taxation more palatable"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0742460.007",
+                                            "shortDefinitions": [
+                                                "acceptable or satisfactory"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "pleasant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "acceptable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "satisfactory"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pleasing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "agreeable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "easy to take"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "to one's liking"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pleasurable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "nice"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "palatable",
+                                                    "sense_id": "t_en_gb0010587.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "tasty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "appetizing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pleasant-tasting"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "palatable",
+                                            "sense_id": "t_en_gb0010587.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "palatable"
+                }
+            ],
+            "type": "headword",
+            "word": "palatable"
+        }
+    ]
+}

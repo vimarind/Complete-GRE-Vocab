@@ -1,0 +1,400 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "reconcile",
+    "results": [
+        {
+            "id": "reconcile",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "reconcilement",
+                            "text": "reconcilement"
+                        },
+                        {
+                            "id": "reconciler",
+                            "text": "reconciler"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French reconcilier or Latin reconciliare, from Latin re- ‘back’ (also expressing intensive force) + conciliare ‘bring together’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "reconcile"
+                                },
+                                {
+                                    "inflectedForm": "reconciled"
+                                },
+                                {
+                                    "inflectedForm": "reconciles"
+                                },
+                                {
+                                    "inflectedForm": "reconciling"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈrekənˌsīl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/reconcile_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈrɛkənˌsaɪl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "restore friendly relations between"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she wanted to be reconciled with her father"
+                                        },
+                                        {
+                                            "text": "the news reconciled us"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0851580.018",
+                                    "shortDefinitions": [
+                                        "restore friendly relations between"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "cause to coexist in harmony; make or show to be compatible"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a landscape in which inner and outer vision were reconciled"
+                                                },
+                                                {
+                                                    "text": "you may have to adjust your ideal to reconcile it with reality"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0851580.024",
+                                            "shortDefinitions": [
+                                                "cause to coexist in harmony"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "make compatible"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "harmonize"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "square"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "make harmonious"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "synthesize"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "make congruent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cause to be in agreement"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cause to sit easily with"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cause to sit happily with"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "reconcile",
+                                                    "sense_id": "t_en_gb0012204.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "make (one account) consistent with another, especially by allowing for transactions begun but not yet completed"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "finance",
+                                                    "text": "Finance"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "it is not necessary to reconcile the cost accounts to the financial accounts"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0851580.025",
+                                            "shortDefinitions": [
+                                                "make one account consistent with another"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "settle (a disagreement)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "advice on how to reconcile the conflict"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0851580.026",
+                                            "shortDefinitions": [
+                                                "settle"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "reunite"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bring (back) together (again)"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "restore friendly relations between"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "restore harmony between"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "make peace between"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "resolve differences between"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bring to terms"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "settle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "resolve"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "patch up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sort out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "smooth over"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "iron out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "put to rights"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "mend"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "remedy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "heal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cure"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rectify"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "reconcile",
+                                                    "sense_id": "t_en_gb0012204.001"
+                                                },
+                                                {
+                                                    "entry_id": "reconcile",
+                                                    "sense_id": "t_en_gb0012204.003"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "make someone accept (a disagreeable or unwelcome thing)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he could not reconcile himself to the thought of his mother stocking shelves"
+                                                },
+                                                {
+                                                    "text": "he was reconciled to leaving"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0851580.027",
+                                            "notes": [
+                                                {
+                                                    "text": "\"reconcile someone to\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "make someone accept"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "accept"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "come to accept"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "resign oneself to"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "come to terms with"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "learn to live with"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "get used to"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "make the best of"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "submit to"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "accommodate oneself to"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "adjust oneself to"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "become accustomed to"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "acclimatize oneself to"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "reconcile",
+                                                    "sense_id": "t_en_gb0012204.004"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "reconcile"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make harmonious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "restore harmony to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make peaceful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "patch up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "repair"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "smooth out"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "harmonize",
+                                            "sense_id": "t_en_gb0006783.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "reconcile"
+                }
+            ],
+            "type": "headword",
+            "word": "reconcile"
+        }
+    ]
+}

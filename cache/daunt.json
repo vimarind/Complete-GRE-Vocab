@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "daunt",
+    "results": [
+        {
+            "id": "daunt",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French danter, from Latin domitare, frequentative of domare ‘to tame’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "daunt"
+                                },
+                                {
+                                    "inflectedForm": "daunted"
+                                },
+                                {
+                                    "inflectedForm": "daunting"
+                                },
+                                {
+                                    "inflectedForm": "daunts"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "usually \"be daunted\"",
+                                    "type": "wordFormNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dônt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/daunt_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dɔnt"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dänt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/daunt_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dɑnt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (someone) feel intimidated or apprehensive"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "some people are daunted by technology"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0252030.007",
+                                    "shortDefinitions": [
+                                        "make someone feel intimidated or apprehensive"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "intimidate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abash"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take aback"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shake"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ruffle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "throw"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "demoralize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discourage"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "daunt",
+                                            "sense_id": "t_en_gb0003426.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "nothing_daunted",
+                            "text": "nothing daunted"
+                        }
+                    ],
+                    "text": "daunt"
+                }
+            ],
+            "type": "headword",
+            "word": "daunt"
+        }
+    ]
+}

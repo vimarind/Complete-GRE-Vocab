@@ -1,0 +1,159 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "cornucopia",
+    "results": [
+        {
+            "id": "cornucopia",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "cornucopian",
+                            "text": "cornucopian"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: from late Latin, from Latin cornu copiae ‘horn of plenty’ (a mythical horn able to provide whatever is desired)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "cornucopia"
+                                },
+                                {
+                                    "inflectedForm": "cornucopias"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌkôrn(y)əˈkōpēə"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/cornucopia_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌkɔrn(j)əˈkoʊpiə"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a symbol of plenty consisting of a goat's horn overflowing with flowers, fruit, and corn."
+                                    ],
+                                    "id": "m_en_gbus0221230.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "image",
+                                            "text": "Image"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "symbol of plenty consisting of goat's horn overflowing with flowers"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an ornamental container shaped like a goat's horn."
+                                            ],
+                                            "id": "m_en_gbus0221230.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "container",
+                                                    "text": "Container"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "ornamental container shaped like goat's horn"
+                                            ]
+                                        },
+                                        {
+                                            "constructions": [
+                                                {
+                                                    "text": "a cornucopia of"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "an abundant supply of good things of a specified kind"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the festival offers a cornucopia of pleasures"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0221230.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "large_amount",
+                                                    "text": "Large_Amount"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "abundant supply of good things of specified kind"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "abundance"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lot"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "mass"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "host"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "plenitude"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cornucopia"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "riot"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "profusion",
+                                                    "sense_id": "t_en_gb0011664.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cornucopia"
+                }
+            ],
+            "type": "headword",
+            "word": "cornucopia"
+        }
+    ]
+}

@@ -1,0 +1,266 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "hierarchy",
+    "results": [
+        {
+            "id": "hierarchy",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "hierarchic",
+                            "text": "hierarchic"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via Old French and medieval Latin from Greek hierarkhia, from hierarkhēs ‘sacred ruler’ (see hierarch). The earliest sense was ‘system of orders of angels and heavenly beings’; the other senses date from the 17th century"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "hierarchies"
+                                },
+                                {
+                                    "inflectedForm": "hierarchies"
+                                },
+                                {
+                                    "inflectedForm": "hierarchy"
+                                },
+                                {
+                                    "inflectedForm": "hierarchy"
+                                },
+                                {
+                                    "inflectedForm": "the hierarchy"
+                                },
+                                {
+                                    "inflectedForm": "the hierarchy"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈhī(ə)ˌrärkē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/hierarchy_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈhaɪ(ə)ˌrɑrki"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a system or organization in which people or groups are ranked one above the other according to status or authority"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the initiative was with those lower down in the hierarchy"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "mass noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "the trend is to get away from hierarchy and control"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0466350.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "system",
+                                            "text": "System"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "ranking system ordered according to importance"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the clergy of the Catholic or Episcopal Church; the religious authorities"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "religion",
+                                                    "text": "Religion"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the Roman Catholic hierarchy in Romania"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0466350.008",
+                                            "notes": [
+                                                {
+                                                    "text": "\"the hierarchy\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "religious_group",
+                                                    "text": "Religious_Group"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "clergy"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the upper echelons of a hierarchical system; those in authority"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the magazine was read quite widely even by some of the hierarchy"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0466350.010",
+                                            "notes": [
+                                                {
+                                                    "text": "\"the hierarchy\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "class",
+                                                    "text": "Class"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "upper echelons of hierarchical system"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "an arrangement or classification of things according to relative importance or inclusiveness"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a taxonomic hierarchy of phyla, classes, orders, families, genera, and species"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0466350.011",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "system",
+                                                    "text": "System"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "arrangement according to relative importance"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the traditional system of orders of angels and other heavenly beings"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "theology",
+                                                    "text": "Theology"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "theology",
+                                                    "text": "Theology"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the heavenly hierarchy"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0466350.012",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "angelic_order",
+                                                    "text": "Angelic_Order"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "system of orders of angels"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "pecking order"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ranking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grading"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ladder"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "social order"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "social stratum"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "social scale"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "class system"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "hierarchy",
+                                            "sense_id": "t_en_gb0006972.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "hierarchy"
+                }
+            ],
+            "type": "headword",
+            "word": "hierarchy"
+        }
+    ]
+}

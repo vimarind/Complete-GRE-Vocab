@@ -1,0 +1,266 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "amend",
+    "results": [
+        {
+            "id": "amend",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "amendable",
+                            "text": "amendable"
+                        },
+                        {
+                            "id": "amender",
+                            "text": "amender"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French amender, based on Latin emendare (see emend)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "amend"
+                                },
+                                {
+                                    "inflectedForm": "amended"
+                                },
+                                {
+                                    "inflectedForm": "amending"
+                                },
+                                {
+                                    "inflectedForm": "amends"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈmend"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/amend_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈmɛnd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make minor changes in (a text) in order to make it fairer, more accurate, or more up-to-date"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the rule was amended to apply only to nonmembers"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0027900.016",
+                                    "shortDefinitions": [
+                                        "make minor changes in"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "modify formally, as a legal document or legislative bill"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "did she amend her original will later on?"
+                                                },
+                                                {
+                                                    "text": "pressuring Panama to amend its banking laws"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0027900.022",
+                                            "shortDefinitions": [
+                                                "modify formally, as legal document or legislative bill"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "make better; improve"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "if you can amend or alter people's mindset"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0027900.023",
+                                            "shortDefinitions": [
+                                                "make better"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "put right"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a few things had gone wrong, but these had been amended"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0027900.024",
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "put right"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "put right"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "set right"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "set to rights"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "put to rights"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rectify"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "remedy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "restore"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "solve"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sort out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "straighten out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "resolve"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "deal with"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "correct"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "repair"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "mend"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fix"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "redress"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "make good"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "retrieve",
+                                                    "sense_id": "t_en_gb0012573.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "revise"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "alter"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "change"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "modify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "qualify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "adapt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "adjust"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "amend",
+                                            "sense_id": "t_en_gb0000527.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "amend"
+                }
+            ],
+            "type": "headword",
+            "word": "amend"
+        }
+    ]
+}

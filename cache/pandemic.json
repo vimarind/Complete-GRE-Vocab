@@ -1,0 +1,197 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "pandemic",
+    "results": [
+        {
+            "id": "pandemic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Greek pandēmos (from pan ‘all’ + dēmos ‘people’) + -ic"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "pandemic"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "On the difference between pandemic, endemic, and epidemic, see epidemic",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "panˈdemik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/pandemic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "pænˈdɛmɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a disease) prevalent over a whole country or the world."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "pathology",
+                                            "text": "Pathology"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0744690.005",
+                                    "shortDefinitions": [
+                                        "(of disease) prevalent over whole country or world"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "widespread"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prevalent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pervasive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rife"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rampant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "epidemic"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "pandemic",
+                                            "sense_id": "t_en_gb0010618.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "pandemic"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "pandemic"
+                                },
+                                {
+                                    "inflectedForm": "pandemics"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "On the difference between pandemic, endemic, and epidemic, see epidemic",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "panˈdemik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/pandemic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "pænˈdɛmɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an outbreak of a pandemic disease"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "pathology",
+                                            "text": "Pathology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the results may have been skewed by an influenza pandemic"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0744690.008",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "disease_outbreak",
+                                            "text": "Disease_Outbreak"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "outbreak of pandemic disease"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "disease"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sickness"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "plague",
+                                            "sense_id": "t_en_gb0011144.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "pandemic"
+                }
+            ],
+            "type": "headword",
+            "word": "pandemic"
+        }
+    ]
+}

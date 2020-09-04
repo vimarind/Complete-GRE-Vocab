@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "filial",
+    "results": [
+        {
+            "id": "filial",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "filially",
+                            "text": "filially"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French, or from ecclesiastical Latin filialis, from filius ‘son’, filia ‘daughter’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "filial"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfilyəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/filial_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfɪljəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "of or due from a son or daughter"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a display of filial affection"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0361300.011",
+                                    "shortDefinitions": [
+                                        "of or due from son or daughter"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "See also F1"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "F1",
+                                                    "text": "F1",
+                                                    "type": "see also"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "denoting the generation or generations after the parental generation."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "biology",
+                                                    "text": "Biology"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "biology",
+                                                    "text": "Biology"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0361300.013",
+                                            "shortDefinitions": [
+                                                "denoting generation or generations after parental generation"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "dutiful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "devoted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "loyal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "faithful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "compliant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "respectful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dedicated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "affectionate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "loving"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "filial",
+                                            "sense_id": "t_en_gb0005646.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "filial"
+                }
+            ],
+            "type": "headword",
+            "word": "filial"
+        }
+    ]
+}

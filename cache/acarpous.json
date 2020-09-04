@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "acarpous",
+    "results": [
+        {
+            "id": "acarpous",
+            "language": "en-gb",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 19th century. From ancient Greek ἄκαρπος without fruit, barren (from ἀ- + κάρπος fruit: see carpo-) + -ous; compare -carpous"
+                            ],
+                            "pronunciations": [
+                                {
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "(ˌ)eɪˈkɑːpəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "Not producing fruit; unfruitful, sterile; (Botany). Frequently figurative: failing to achieve the desired results, unproductive; barren."
+                                    ],
+                                    "id": "m_en_gb_oed940.003"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-gb",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "acarpous"
+                }
+            ],
+            "type": "headword",
+            "word": "acarpous"
+        }
+    ]
+}

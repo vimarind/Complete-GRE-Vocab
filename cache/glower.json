@@ -1,0 +1,243 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "glower",
+    "results": [
+        {
+            "id": "glower",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "glowering",
+                            "text": "glowering"
+                        },
+                        {
+                            "id": "gloweringly",
+                            "text": "gloweringly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: perhaps a Scots variant of synonymous dialect glore, or from obsolete glow ‘to stare’, both possibly of Scandinavian origin"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "glower"
+                                },
+                                {
+                                    "inflectedForm": "glowered"
+                                },
+                                {
+                                    "inflectedForm": "glowering"
+                                },
+                                {
+                                    "inflectedForm": "glowers"
+                                },
+                                {
+                                    "inflectedForm": "glowering"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈɡlou(ə)r"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/glower_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɡlaʊ(ə)r"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "have an angry or sullen look on one's face; scowl"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she glowered at him suspiciously"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0418070.005",
+                                    "shortDefinitions": [
+                                        "have angry or sullen look on one's face"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "scowl"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "glare"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stare angrily"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "look daggers"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "frown"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lour"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give a someone black look"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pull a face"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "glower",
+                                            "sense_id": "t_en_gb0006393.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "glower"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "glowering",
+                            "text": "glowering"
+                        },
+                        {
+                            "id": "gloweringly",
+                            "text": "gloweringly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "glower"
+                                },
+                                {
+                                    "inflectedForm": "glowers"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "in singular",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈɡlou(ə)r"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/glower_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɡlaʊ(ə)r"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an angry or sullen look"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the angry glower on the face of the policeman"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0418070.012",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "facial_expression",
+                                            "text": "Facial_Expression"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "angry or sullen look"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "scowl"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "glare"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "angry stare"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "frown"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "black look"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "glower",
+                                            "sense_id": "t_en_gb0006393.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "glower"
+                }
+            ],
+            "type": "headword",
+            "word": "glower"
+        }
+    ]
+}

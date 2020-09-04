@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "dissonance",
+    "results": [
+        {
+            "id": "dissonance",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French, from late Latin dissonantia, from Latin dissonant- ‘disagreeing in sound’, from the verb dissonare"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "dissonance"
+                                },
+                                {
+                                    "inflectedForm": "dissonances"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈdisənəns"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/dissonance_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈdɪsənəns"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "lack of harmony among musical notes"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "music",
+                                            "text": "Music"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "music",
+                                            "text": "Music"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an unusual degree of dissonance for such choral styles"
+                                        },
+                                        {
+                                            "text": "the harsh dissonances give a sound that is quite untypical of the Renaissance"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0283830.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "sound",
+                                            "text": "Sound"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "lack of harmony among musical notes"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a tension or clash resulting from the combination of two disharmonious or unsuitable elements"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "dissonance between campaign rhetoric and personal behavior"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0283830.010",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "state",
+                                                    "text": "State"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "tension or clash resulting from combination of two disharmonious"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "inharmoniousness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "discordance"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "atonality"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cacophony"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "dissonance",
+                                                    "sense_id": "t_en_gb0004250.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "inharmoniousness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discordance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "atonality"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cacophony"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "dissonance",
+                                            "sense_id": "t_en_gb0004250.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "dissonance"
+                }
+            ],
+            "type": "headword",
+            "word": "dissonance"
+        }
+    ]
+}

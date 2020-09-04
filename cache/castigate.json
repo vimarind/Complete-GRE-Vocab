@@ -1,0 +1,195 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "castigate",
+    "results": [
+        {
+            "id": "castigate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "castigation",
+                            "text": "castigation"
+                        },
+                        {
+                            "id": "castigative",
+                            "text": "castigative"
+                        },
+                        {
+                            "id": "castigatory",
+                            "text": "castigatory"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin castigare ‘reprove’, from castus ‘pure, chaste’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "castigate"
+                                },
+                                {
+                                    "inflectedForm": "castigated"
+                                },
+                                {
+                                    "inflectedForm": "castigates"
+                                },
+                                {
+                                    "inflectedForm": "castigating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈkastəˌɡāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/castigate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈkæstəˌɡeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "reprimand (someone) severely"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was castigated for not setting a good example"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0157700.005",
+                                    "registers": [
+                                        {
+                                            "id": "formal",
+                                            "text": "Formal"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "reprimand someone severely"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "reprimand"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rebuke"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "admonish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chastise"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chide"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "upbraid"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reprove"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reproach"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scold"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remonstrate with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "berate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take to task"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pull up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lambast"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "read someone the Riot Act"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give someone a piece of one's mind"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "haul over the coals"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lecture"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "criticize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "censure"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "castigate",
+                                            "sense_id": "t_en_gb0002091.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "castigate"
+                }
+            ],
+            "type": "headword",
+            "word": "castigate"
+        }
+    ]
+}

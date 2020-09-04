@@ -1,0 +1,177 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "inure",
+    "results": [
+        {
+            "id": "inure",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "inurement",
+                            "text": "inurement"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English inure, enure, from an Anglo-Norman French phrase meaning ‘in use or practice’, from en ‘in’ + Old French euvre ‘work’ (from Latin opera)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "enure"
+                                },
+                                {
+                                    "inflectedForm": "enured"
+                                },
+                                {
+                                    "inflectedForm": "enures"
+                                },
+                                {
+                                    "inflectedForm": "enuring"
+                                },
+                                {
+                                    "inflectedForm": "inure"
+                                },
+                                {
+                                    "inflectedForm": "inured"
+                                },
+                                {
+                                    "inflectedForm": "inures"
+                                },
+                                {
+                                    "inflectedForm": "inuring"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈn(y)o͝or"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/inure_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈn(j)ʊr"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "accustom (someone) to something, especially something unpleasant"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "these children have been inured to violence"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0519260.008",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        },
+                                        {
+                                            "text": "usually \"be inured to\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "accustom someone to something"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "harden"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "toughen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "season"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "temper"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "condition"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "inure",
+                                            "sense_id": "t_en_gb0008153.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "come into operation; take effect"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a release given to one of two joint contractors inures to the benefit of both"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0519260.017",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        },
+                                        {
+                                            "text": "\"inure for/to\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "come into operation"
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "enure"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "inure"
+                }
+            ],
+            "type": "headword",
+            "word": "inure"
+        }
+    ]
+}

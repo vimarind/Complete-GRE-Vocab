@@ -1,0 +1,198 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "divergent",
+    "results": [
+        {
+            "id": "divergent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "divergency",
+                            "text": "divergency"
+                        },
+                        {
+                            "id": "divergently",
+                            "text": "divergently"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "divergent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈvərjənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/divergent_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈvərdʒənt"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dīˈvərjənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/divergent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "daɪˈvərdʒənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "divergent from"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "tending to be different or develop in different directions"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "divergent interpretations"
+                                        },
+                                        {
+                                            "text": "varieties of English can remain astonishingly divergent from one another"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0285350.009",
+                                    "shortDefinitions": [
+                                        "tending to be different or develop in different directions"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of thought) using a variety of premises, especially unfamiliar premises, as bases for inference, and avoiding common limiting assumptions in making deductions"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "psychology",
+                                                    "text": "Psychology"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "psychology",
+                                                    "text": "Psychology"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "divergent thinking"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0285350.011",
+                                            "shortDefinitions": [
+                                                "(of thought) using variety of premises as bases for inference"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "differing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "varying"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "different"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dissimilar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unlike"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unalike"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disparate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contrasting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contrastive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "antithetical"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "divergent",
+                                            "sense_id": "t_en_gb0004304.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a series) increasing indefinitely as more of its terms are added."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "mathematics",
+                                            "text": "Mathematics"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "mathematics",
+                                            "text": "Mathematics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0285350.013",
+                                    "shortDefinitions": [
+                                        "(of series) increasing indefinitely as more of its terms are added"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "divergent"
+                }
+            ],
+            "type": "headword",
+            "word": "divergent"
+        }
+    ]
+}

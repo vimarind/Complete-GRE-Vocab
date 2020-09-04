@@ -1,0 +1,697 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "liberal",
+    "results": [
+        {
+            "id": "liberal",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "liberalness",
+                            "text": "liberalness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: via Old French from Latin liberalis, from liber ‘free (man)’. The original sense was ‘suitable for a free man’, hence ‘suitable for a gentleman’ (one not tied to a trade), surviving in liberal arts. Another early sense ‘generous’ (compare with liberal (sense 4 of the adjective)) gave rise to an obsolete meaning ‘free from restraint’, leading to liberal (sense 1 of the adjective) (late 18th century)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "liberal"
+                                },
+                                {
+                                    "inflectedForm": "Liberal"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈlib(ə)rəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/liberal_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈlɪb(ə)rəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "willing to respect or accept behavior or opinions different from one's own; open to new ideas"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they have more liberal views toward marriage and divorce than some people"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0578940.006",
+                                    "shortDefinitions": [
+                                        "respectful of different behaviour or opinions"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "Often contrasted with conservative (sense 2 of the adjective)"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "conservative",
+                                                    "text": "conservative",
+                                                    "type": "relates to"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "(in a political context) favoring policies that are socially progressive and promote social welfare."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "politics",
+                                                    "text": "Politics"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she is under attack from the right wing for making her own liberal political views known"
+                                                },
+                                                {
+                                                    "text": "the strategy was to portray the press as members of a liberal elite"
+                                                },
+                                                {
+                                                    "text": "they favor liberal ideologies over conservative ones"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0578940.009",
+                                            "shortDefinitions": [
+                                                "favouring socially progressive polices"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "regarding many traditional beliefs as dispensable, invalidated by modern thought, or liable to change."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "theology",
+                                                    "text": "Theology"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "theology",
+                                                    "text": "Theology"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0578940.016",
+                                            "shortDefinitions": [
+                                                "regarding many traditional beliefs as dispensable"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "tolerant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unprejudiced"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unbigoted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "broad-minded"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "open-minded"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "enlightened"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forbearing"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "liberal",
+                                            "sense_id": "t_en_gb0008730.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to or denoting a political and social philosophy that promotes individual rights, civil liberties, democracy, and free enterprise"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a liberal democratic state"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0578940.008",
+                                    "shortDefinitions": [
+                                        "favourable to individual rights"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "progressive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "advanced"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "modern"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forward-looking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forward-thinking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "progressivist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "go-ahead"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "enlightened"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reformist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "radical"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "liberal",
+                                            "sense_id": "t_en_gb0008730.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to a Liberal party or (in the UK) the Liberal Democrat Party"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the Liberal leader"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0578940.013",
+                                    "shortDefinitions": [
+                                        "relating to Liberals or Liberal Party"
+                                    ],
+                                    "variantForms": [
+                                        {
+                                            "text": "Liberal"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "given, used, or occurring in generous amounts"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "liberal amounts of wine had been consumed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0578940.022",
+                                    "shortDefinitions": [
+                                        "given or used in generous amounts"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "constructions": [
+                                                {
+                                                    "text": "liberal with"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "(of a person) giving generously"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Sam was too liberal with the wine"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0578940.023",
+                                            "shortDefinitions": [
+                                                "giving generously"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "generous"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "magnanimous"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "open-handed"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unsparing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unstinting"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ungrudging"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lavish"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "free"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "munificent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bountiful"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "beneficent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "benevolent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "big-hearted"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "kind-hearted"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "kind"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "philanthropic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "charitable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "altruistic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unselfish"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "liberal",
+                                                    "sense_id": "t_en_gb0008730.006"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "abundant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "copious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ample"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plentiful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "generous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lavish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "luxuriant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "profuse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "considerable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prolific"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rich"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "liberal",
+                                            "sense_id": "t_en_gb0008730.005"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of education) concerned with broadening a person's general knowledge and experience, rather than with technical or professional training"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "education",
+                                            "text": "Education"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the provision of liberal adult education"
+                                        },
+                                        {
+                                            "text": "a liberal arts university"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0578940.018",
+                                    "shortDefinitions": [
+                                        "concerned with broadening general knowledge"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "wide-ranging"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "broad-based"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "general"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "humanistic"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "liberal",
+                                            "sense_id": "t_en_gb0008730.003"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(especially of an interpretation of a law) broadly construed or understood; not strictly literal or exact"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they could have given the 1968 Act a more liberal interpretation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0578940.020",
+                                    "shortDefinitions": [
+                                        "not strictly literal"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "flexible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "broad"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "loose"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rough"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "non-restrictive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "free"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "general"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "non-literal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "non-specific"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "not literal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "not strict"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "not close"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "liberal",
+                                            "sense_id": "t_en_gb0008730.004"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "liberal"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "liberalness",
+                            "text": "liberalness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "liberal"
+                                },
+                                {
+                                    "inflectedForm": "liberals"
+                                },
+                                {
+                                    "inflectedForm": "Liberal"
+                                },
+                                {
+                                    "inflectedForm": "Liberals"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈlib(ə)rəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/liberal_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈlɪb(ə)rəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Often contrasted with conservative (noun)"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "conservative",
+                                            "text": "conservative",
+                                            "type": "relates to"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a supporter of policies that are socially progressive and promote social welfare."
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "are we dealing with a polarization between liberals and conservatives?"
+                                        },
+                                        {
+                                            "text": "Justice Ruth Bader Ginsburg dissented from the decision, joined by the court's liberals"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0578940.025",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "person",
+                                            "text": "Person"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person of liberal views"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a supporter of a political and social philosophy that promotes individual rights, civil liberties, democracy, and free enterprise"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "classical liberals emphasized the right of the individual to make decisions, even if the results dismayed their neighbors or injured themselves"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0578940.050",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "person",
+                                            "text": "Person"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "supporter of political philosophy promoting individual rights and civil liberties"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a supporter or member of a Liberal party or (in the UK) the Liberal Democrat Party"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the Liberals are looking to defend a seat in Tuebrook and Stoneycroft"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0578940.028",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "political_supporter",
+                                            "text": "Political_Supporter"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "member of Liberal Party"
+                                    ],
+                                    "variantForms": [
+                                        {
+                                            "text": "Liberal"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "liberal"
+                }
+            ],
+            "type": "headword",
+            "word": "liberal"
+        }
+    ]
+}

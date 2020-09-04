@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "discernible",
+    "results": [
+        {
+            "id": "discernible",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "discernibly",
+                            "text": "discernibly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "discernible"
+                                },
+                                {
+                                    "inflectedForm": "discernable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "diˈsərnəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/discernible_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dɪˈsərnəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "able to be discerned; perceptible"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the scandal had no discernible effect on his career"
+                                        },
+                                        {
+                                            "text": "the inscription was barely discernible"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0279710.007",
+                                    "shortDefinitions": [
+                                        "able to be discerned"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "visible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "detectable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "noticeable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perceptible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "observable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perceivable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "distinguishable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "recognizable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "identifiable"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "discernible",
+                                            "sense_id": "t_en_gb0004038.001"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "discernable"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "discernible"
+                }
+            ],
+            "type": "headword",
+            "word": "discernible"
+        }
+    ]
+}

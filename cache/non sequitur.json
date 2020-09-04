@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "non sequitur",
+    "results": [
+        {
+            "id": "non_sequitur",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Latin, literally ‘it does not follow’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "non sequitur"
+                                },
+                                {
+                                    "inflectedForm": "non sequiturs"
+                                },
+                                {
+                                    "inflectedForm": "non"
+                                },
+                                {
+                                    "inflectedForm": "sequitur"
+                                },
+                                {
+                                    "inflectedForm": "nonsequitur"
+                                },
+                                {
+                                    "inflectedForm": "nonsequiturs"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌnän ˈsekwədər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/non_sequitur_1_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌnɑn ˈsɛkwədər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a conclusion or statement that does not logically follow from the previous argument or statement"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "logic",
+                                            "text": "Logic"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his weird mixed metaphors and non sequiturs"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0698980.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "proposition",
+                                            "text": "Proposition"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "conclusion or statement that does not logically follow"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "non sequitur"
+                }
+            ],
+            "type": "headword",
+            "word": "non sequitur"
+        }
+    ]
+}

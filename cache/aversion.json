@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "aversion",
+    "results": [
+        {
+            "id": "aversion",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (originally denoting the action of turning away or averting one's eyes): from Latin aversio(n-), from avertere ‘turn away from’ (see avert)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "aversion"
+                                },
+                                {
+                                    "inflectedForm": "aversions"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈvərZHən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/aversion_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈvərʒən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "aversion to"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a strong dislike or disinclination"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "psychology",
+                                            "text": "Psychology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he had a deep-seated aversion to most forms of exercise"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0060850.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "dislike",
+                                            "text": "Dislike"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "strong dislike or disinclination"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a person or thing that arouses strong feelings of dislike"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "my dog's pet aversion is visitors, particularly males"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0060850.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "cause",
+                                                    "text": "Cause"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "person or thing that arouses strong dislike"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "dislike of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "distaste for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disinclination"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abhorrence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hatred"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "loathing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "detestation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "odium"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "antipathy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hostility"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "aversion",
+                                            "sense_id": "t_en_gb0001023.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "aversion"
+                }
+            ],
+            "type": "headword",
+            "word": "aversion"
+        }
+    ]
+}

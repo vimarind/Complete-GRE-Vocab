@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "canard",
+    "results": [
+        {
+            "id": "canard",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 19th century: from French, literally ‘duck’, also ‘hoax’, from Old French caner ‘to quack’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "canard"
+                                },
+                                {
+                                    "inflectedForm": "canards"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kəˈnär(d)"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/canard_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kəˈnɑr(d)"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an unfounded rumor or story"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the old canard that LA is a cultural wasteland"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0147250.007",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "falsehood",
+                                            "text": "Falsehood"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "unfounded rumour or story"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "piece of gossip"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "report"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "story"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "whisper"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "canard"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "rumour",
+                                            "sense_id": "t_en_gb0012786.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a small winglike projection attached to an aircraft forward of the main wing to provide extra stability or control, sometimes replacing the tail."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "aviation",
+                                            "text": "Aviation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0147250.015",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "aircraft_part",
+                                            "text": "Aircraft_Part"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "small projection attached to aircraft forward of main wing to provide extra stability"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "canard"
+                }
+            ],
+            "type": "headword",
+            "word": "canard"
+        }
+    ]
+}

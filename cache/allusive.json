@@ -1,0 +1,149 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "allusive",
+    "results": [
+        {
+            "id": "allusive",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "allusively",
+                            "text": "allusively"
+                        },
+                        {
+                            "id": "allusiveness",
+                            "text": "allusiveness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "allusive"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈlo͞osiv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/allusive_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈlusɪv"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈlo͞oziv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/allusive_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈluzɪv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a remark or reference) working by suggestion rather than explicit mention"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "allusive references to the body"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0024760.011",
+                                    "shortDefinitions": [
+                                        "using or containing suggestion rather than explicit mention"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "figurative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "representative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "illustrative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "emblematic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "allegorical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "parabolic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "non-literal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "allusive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "denotative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "connotative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "suggestive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mnemonic"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "symbolic",
+                                            "sense_id": "t_en_gb0014552.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "allusive"
+                }
+            ],
+            "type": "headword",
+            "word": "allusive"
+        }
+    ]
+}

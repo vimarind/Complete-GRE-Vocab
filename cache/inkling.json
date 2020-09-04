@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "inkling",
+    "results": [
+        {
+            "id": "inkling",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘a mention in an undertone, a hint’): from the rare verb inkle ‘utter in an undertone’, of unknown origin"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "inkling"
+                                },
+                                {
+                                    "inflectedForm": "inklings"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈiNGkliNG"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/inkling_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɪŋklɪŋ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a slight knowledge or suspicion; a hint"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the records give us an inkling of how people saw the world"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0510210.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "idea",
+                                            "text": "Idea"
+                                        },
+                                        {
+                                            "id": "knowledge",
+                                            "text": "Knowledge"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "slight knowledge or suspicion"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "idea"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vague idea"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "notion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "glimmering"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "inkling",
+                                            "sense_id": "t_en_gb0007892.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "inkling"
+                }
+            ],
+            "type": "headword",
+            "word": "inkling"
+        }
+    ]
+}

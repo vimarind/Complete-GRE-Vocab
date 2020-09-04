@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "tonicity",
+    "results": [
+        {
+            "id": "tonicity",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tonicity"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "tōˈnisədē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/tonicity_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "toʊˈnɪsədi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "muscle tone."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "physiology",
+                                            "text": "Physiology"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1060710.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "attribute",
+                                            "text": "Attribute"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "muscle tone"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the pattern of tones or stress in speech."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "phonetics",
+                                            "text": "Phonetics"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "linguistics",
+                                            "text": "Linguistics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1060710.009",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "speech_sound",
+                                            "text": "Speech_Sound"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "pattern of tones or stress in speech"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the state of a solution in respect of osmotic pressure"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the tonicity of the fluid"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1060710.011",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "state",
+                                            "text": "State"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "state of solution in respect of osmotic pressure"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "tonicity"
+                }
+            ],
+            "type": "headword",
+            "word": "tonicity"
+        }
+    ]
+}

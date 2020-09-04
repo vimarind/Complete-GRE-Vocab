@@ -1,0 +1,211 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "populist",
+    "results": [
+        {
+            "id": "populist",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "populistic",
+                            "text": "populistic"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 19th century (originally referring to a US political party): from Latin populus ‘people’+ -ist"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "populist"
+                                },
+                                {
+                                    "inflectedForm": "populists"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpäpyələst"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/populist_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpɑpjələst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person, especially a politician, who strives to appeal to ordinary people who feel that their concerns are disregarded by established elite groups"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he ran as a populist on an anticorruption platform"
+                                        },
+                                        {
+                                            "text": "right-wing populists seem poised to make electoral gains"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0800440.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "advocate",
+                                            "text": "Advocate"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "politician who seeks to appeal to ordinary people"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "populist"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "populistic",
+                            "text": "populistic"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "populist"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpäpyələst"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/populist_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpɑpjələst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to or characteristic of a political approach that strives to appeal to ordinary people who feel that their concerns are disregarded by established elite groups"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "party leaders plan to reprise the populist rhetoric that they used in the tax fight"
+                                        },
+                                        {
+                                            "text": "a populist opposition leader"
+                                        },
+                                        {
+                                            "text": "populist tabloid newspapers"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0800440.011",
+                                    "shortDefinitions": [
+                                        "relating to or characteristic of populist or populists"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "appealing to or aimed at ordinary people"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "it seems their efforts in creating a populist movement for chamber music are paying off"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0800440.026",
+                                            "shortDefinitions": [
+                                                "appealing to ordinary people"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "elected"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "representative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "parliamentary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "popular"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of the people"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "populist"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "democratic",
+                                            "sense_id": "t_en_gb0003662.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "populist"
+                }
+            ],
+            "type": "headword",
+            "word": "populist"
+        }
+    ]
+}

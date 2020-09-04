@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "inclement",
+    "results": [
+        {
+            "id": "inclement",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "inclemency",
+                            "text": "inclemency"
+                        },
+                        {
+                            "id": "inclemently",
+                            "text": "inclemently"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from French inclément or Latin inclement-, from in- ‘not’ + clement- ‘clement’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "inclement"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈklemənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/inclement_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈklɛmənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of the weather) unpleasantly cold or wet"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "walkers should be prepared for inclement weather"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0501690.005",
+                                    "shortDefinitions": [
+                                        "unpleasantly cold or wet"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "cold"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chilly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bitter"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bleak"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "raw"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wintry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "freezing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "snowy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "icy"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "inclement",
+                                            "sense_id": "t_en_gb0007600.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "inclement"
+                }
+            ],
+            "type": "headword",
+            "word": "inclement"
+        }
+    ]
+}

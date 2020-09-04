@@ -1,0 +1,613 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "repose",
+    "results": [
+        {
+            "id": "repose",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘put back in the same position’): from re-‘again’ + the verb pose, suggested by Latin reponere ‘replace’, from re- (expressing intensive force) + ponere ‘to place’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "repose"
+                                },
+                                {
+                                    "inflectedForm": "reposed"
+                                },
+                                {
+                                    "inflectedForm": "reposes"
+                                },
+                                {
+                                    "inflectedForm": "reposing"
+                                },
+                                {
+                                    "inflectedForm": "repose"
+                                },
+                                {
+                                    "inflectedForm": "reposed"
+                                },
+                                {
+                                    "inflectedForm": "reposes"
+                                },
+                                {
+                                    "inflectedForm": "reposing"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "\"repose something in\"",
+                                    "type": "wordFormNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rəˈpōz"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/repose_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rəˈpoʊz"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "place something, especially one's confidence or trust, in"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we have never betrayed the trust that you have reposed in us"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0863090.005",
+                                    "shortDefinitions": [
+                                        "place something in"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "repose"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "repose"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "repose"
+                }
+            ],
+            "type": "headword",
+            "word": "repose"
+        },
+        {
+            "id": "repose",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French repos (noun), reposer (verb), from late Latin repausare, from re- (expressing intensive force) + pausare ‘to pause’"
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "repose"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rəˈpōz"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/repose_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rəˈpoʊz"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "in repose"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a state of rest, sleep, or tranquility"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "\n              in repose her face looked relaxed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0863080.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "inaction",
+                                            "text": "Inaction"
+                                        },
+                                        {
+                                            "id": "sleep",
+                                            "text": "Sleep"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "state of rest or tranquillity"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "composure"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he had lost none of his grace or his repose"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0863080.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "positive_condition",
+                                                    "text": "Positive_Condition"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "state of being calm and composed"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "peace"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "peace and quiet"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "peacefulness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "quiet"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "quietness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "quietude"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "calm"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "calmness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tranquillity"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stillness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "composure"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "calmness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "serenity"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tranquillity"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "equanimity"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "peace of mind"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "repose",
+                                                    "sense_id": "t_en_gb0012437.002"
+                                                },
+                                                {
+                                                    "entry_id": "repose",
+                                                    "sense_id": "t_en_gb0012437.003"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "harmonious arrangement of colors and forms, providing a restful visual effect"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "art",
+                                                    "text": "Art"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "art",
+                                                    "text": "Art"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "many of the qualities of the great Piero della Francescas—the sense of grand stasis, of timeless repose—seem strongly reincarnated in this work"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0863080.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "appearance",
+                                                    "text": "Appearance"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "harmonious arrangement of colours and forms"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "rest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "relaxation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inactivity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "restfulness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stillness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "idleness"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "repose",
+                                            "sense_id": "t_en_gb0012437.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "repose"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "repose"
+                                },
+                                {
+                                    "inflectedForm": "reposed"
+                                },
+                                {
+                                    "inflectedForm": "reposes"
+                                },
+                                {
+                                    "inflectedForm": "reposing"
+                                },
+                                {
+                                    "inflectedForm": "repose"
+                                },
+                                {
+                                    "inflectedForm": "reposed"
+                                },
+                                {
+                                    "inflectedForm": "reposes"
+                                },
+                                {
+                                    "inflectedForm": "reposing"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "no object, with adverbial of place",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rəˈpōz"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/repose_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rəˈpoʊz"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "be lying, situated, or kept in a particular place"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the diamond now reposes in the Louvre"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0863080.011",
+                                    "shortDefinitions": [
+                                        "be situated or kept in particular place"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "lie down in rest"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "how sweetly he would repose in the four-poster bed"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0863080.017",
+                                            "shortDefinitions": [
+                                                "lie down in rest"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "lie"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lie down"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "recline"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stretch out"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "repose",
+                                                    "sense_id": "t_en_gb0012437.006"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "lay something to rest in or on (something)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I'll go to him, and repose our distresses on his friendly bosom"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0863080.018",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                },
+                                                {
+                                                    "text": "\"repose something on/in\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                {
+                                                    "id": "literary",
+                                                    "text": "Literary"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "lay something to rest in or on"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "put"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "place"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lay"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lodge"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "set"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "consign"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "invest"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "entrust"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "repose",
+                                                    "sense_id": "t_en_gb0012437.005"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "give rest to"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he halted to repose his wayworn soldiers"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0863080.019",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "give rest to"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "lie"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be placed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be set"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be situated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be positioned"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be supported"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rest"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "repose",
+                                            "sense_id": "t_en_gb0012437.004"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "repose"
+                }
+            ],
+            "type": "headword",
+            "word": "repose"
+        }
+    ]
+}

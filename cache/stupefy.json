@@ -1,0 +1,275 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "stupefy",
+    "results": [
+        {
+            "id": "stupefy",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "stupefier",
+                            "text": "stupefier"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from French stupéfier, from Latin stupefacere, from stupere ‘be struck senseless’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "stupefies"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "stupefying"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "stupefied"
+                                },
+                                {
+                                    "inflectedForm": "stupefied"
+                                },
+                                {
+                                    "inflectedForm": "stupefies"
+                                },
+                                {
+                                    "inflectedForm": "stupefy"
+                                },
+                                {
+                                    "inflectedForm": "stupefying"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈst(y)o͞opəˌfī"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/stupefy_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈst(j)upəˌfaɪ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (someone) unable to think or feel properly"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the offense of administering drugs to a woman with intent to stupefy her"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1005400.005",
+                                    "shortDefinitions": [
+                                        "make someone unable to think or feel properly"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "astonish and shock"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the amount they spend on clothes would appall their parents and stupefy their grandparents"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1005400.015",
+                                            "shortDefinitions": [
+                                                "astonish and shock"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "shock"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stun"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "astound"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dumbfound"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "overwhelm"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stagger"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "amaze"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "astonish"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "startle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "confound"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "take aback"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "shake up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "leave open-mouthed"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "take someone's breath away"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "stupefy",
+                                                    "sense_id": "t_en_gb0014286.003"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "stun"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "daze"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "befuddle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "knock senseless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "knock unconscious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "knock out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lay out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "benumb"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "numb"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drug"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sedate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "anaesthetize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give anaesthetic to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tranquillize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "narcotize"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "stupefy",
+                                            "sense_id": "t_en_gb0014286.001"
+                                        },
+                                        {
+                                            "entry_id": "stupefy",
+                                            "sense_id": "t_en_gb0014286.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "stupefy"
+                }
+            ],
+            "type": "headword",
+            "word": "stupefy"
+        }
+    ]
+}

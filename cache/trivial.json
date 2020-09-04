@@ -1,0 +1,216 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "trivial",
+    "results": [
+        {
+            "id": "trivial",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "trivially",
+                            "text": "trivially"
+                        },
+                        {
+                            "id": "trivialness",
+                            "text": "trivialness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘belonging to the trivium’): from medieval Latin trivialis, from Latin trivium (see trivium)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "trivial"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈtrivēəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/trivial_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈtrɪviəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "of little value or importance"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "huge fines were imposed for trivial offenses"
+                                        },
+                                        {
+                                            "text": "trivial details"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1076600.012",
+                                    "shortDefinitions": [
+                                        "of little value or importance"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person) concerned only with trifling or unimportant things."
+                                            ],
+                                            "id": "m_en_gbus1076600.014",
+                                            "shortDefinitions": [
+                                                "concerned only with trifling or unimportant things"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "frivolous"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "superficial"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "shallow"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unthinking"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "empty-headed"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "feather-brained"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lightweight"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "foolish"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "silly"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "trivial",
+                                                    "sense_id": "t_en_gb0015178.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "denoting a subgroup that either contains only the identity element or is identical with the given group."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "mathematics",
+                                                    "text": "Mathematics"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "mathematics",
+                                                    "text": "Mathematics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1076600.015",
+                                            "shortDefinitions": [
+                                                "denoting subgroup that either contains only identity element or is identical with given group"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "unimportant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "insignificant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inconsequential"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "minor"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of little account"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of no account"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of little consequence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of no consequence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of little importance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of no importance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "not worth bothering about"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "not worth mentioning"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "trivial",
+                                            "sense_id": "t_en_gb0015178.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "trivial"
+                }
+            ],
+            "type": "headword",
+            "word": "trivial"
+        }
+    ]
+}

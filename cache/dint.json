@@ -1,0 +1,298 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "dint",
+    "results": [
+        {
+            "id": "dint",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English dynt ‘stroke with a weapon’, reinforced in Middle English by the related Old Norse word dyntr; of unknown ultimate origin. Compare with dent"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "dint"
+                                },
+                                {
+                                    "inflectedForm": "dints"
+                                },
+                                {
+                                    "inflectedForm": "dint"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dint"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/dint_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dɪnt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an impression or hollow in a surface"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the soft dints at the top of a coconut"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0277080.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "indentation",
+                                            "text": "Indentation"
+                                        },
+                                        {
+                                            "id": "damage",
+                                            "text": "Damage"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "dent or hollow"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "dent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "indentation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "depression"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dip"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dimple"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cleft"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hollow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crater"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pit"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "dint",
+                                            "sense_id": "t_en_gb0003978.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a blow or stroke, typically one made with a weapon in fighting."
+                                    ],
+                                    "id": "m_en_gbus0277080.010",
+                                    "registers": [
+                                        {
+                                            "id": "archaic",
+                                            "text": "Archaic"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "blow",
+                                            "text": "Blow"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "blow or stroke"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "force of attack; impact"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I perceive you feel the dint of pity"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0277080.011",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "attribute",
+                                                    "text": "Attribute"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "impact"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "by_dint_of",
+                            "text": "by dint of"
+                        }
+                    ],
+                    "text": "dint"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "dint"
+                                },
+                                {
+                                    "inflectedForm": "dinted"
+                                },
+                                {
+                                    "inflectedForm": "dinting"
+                                },
+                                {
+                                    "inflectedForm": "dints"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dint"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/dint_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dɪnt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "mark (a surface) with impressions or hollows"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "as adjective \"dinted\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "text": "the metal was dull and dinted"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0277080.014",
+                                    "shortDefinitions": [
+                                        "mark with dents or hollows"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "make holes in"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make hollows in"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hole"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "indent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "depress"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dint"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pothole"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "pit",
+                                            "sense_id": "t_en_gb0011116.006"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "by_dint_of",
+                            "text": "by dint of"
+                        }
+                    ],
+                    "text": "dint"
+                }
+            ],
+            "type": "headword",
+            "word": "dint"
+        }
+    ]
+}

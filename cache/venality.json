@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "venality",
+    "results": [
+        {
+            "id": "venality",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivativeOf": [
+                        {
+                            "id": "venal",
+                            "text": "venal"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "venality"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "vēˈnalədē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/venality_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "viˈnælədi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "id": "m_en_gbus1123370.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "venality"
+                }
+            ],
+            "type": "headword",
+            "word": "venality"
+        }
+    ]
+}

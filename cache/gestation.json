@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "gestation",
+    "results": [
+        {
+            "id": "gestation",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "gestational",
+                            "text": "gestational"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (denoting an excursion on horseback, in a carriage, etc., considered as exercise): from Latin gestatio(n-), from gestare ‘carry, carry in the womb’, frequentative of gerere ‘carry’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "gestation"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "jeˈstāSH(ə)n"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/gestation_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dʒɛˈsteɪʃ(ə)n"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the process of carrying or being carried in the womb between conception and birth."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "zoology",
+                                            "text": "Zoology"
+                                        },
+                                        {
+                                            "id": "physiology",
+                                            "text": "Physiology"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0411480.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "biological_process",
+                                            "text": "Biological_Process"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "process or period of developing inside womb between conception and birth"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the development of something over a period of time"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "various ideas are in the process of gestation"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0411480.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "process",
+                                                    "text": "Process"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "development of something over period of time"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "development"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "origination"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "drafting"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "formation"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "evolution"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "emergence"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "coming into being"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "materializing"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "gestation",
+                                                    "sense_id": "t_en_gb0006311.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "pregnancy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "development"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "incubation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "maturation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ripening"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "gestation",
+                                            "sense_id": "t_en_gb0006311.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "gestation"
+                }
+            ],
+            "type": "headword",
+            "word": "gestation"
+        }
+    ]
+}

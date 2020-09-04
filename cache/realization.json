@@ -1,0 +1,398 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "realization",
+    "results": [
+        {
+            "id": "realization",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "realisation"
+                                },
+                                {
+                                    "inflectedForm": "realization"
+                                },
+                                {
+                                    "inflectedForm": "realisation"
+                                },
+                                {
+                                    "inflectedForm": "realisations"
+                                },
+                                {
+                                    "inflectedForm": "realization"
+                                },
+                                {
+                                    "inflectedForm": "realizations"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌrē(ə)ləˈzāSH(ə)n"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/realization_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌri(ə)ləˈzeɪʃ(ə)n"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an act of becoming fully aware of something as a fact"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there was a growing realization of the need to create common economic structures"
+                                        },
+                                        {
+                                            "text": "realization dawned suddenly"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0849080.007",
+                                    "notes": [
+                                        {
+                                            "text": "in singular",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "cognitive_process",
+                                            "text": "Cognitive_Process"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "act of becoming fully aware of something as fact"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "awareness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "understanding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "comprehension"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "consciousness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "apprehension"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cognizance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "appreciation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "recognition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perception"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discernment"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "realization",
+                                            "sense_id": "t_en_gb0012138.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the fulfillment or achievement of something desired or anticipated"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he did not live to see the realization of his dream"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0849080.013",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "success",
+                                            "text": "Success"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "achievement of something desired or anticipated"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an actual, complete, or dramatic form given to a concept or work"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "music",
+                                                    "text": "Music"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a perfect realization of Bartók's Second Violin Concerto on disc"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0849080.014",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "creative_work",
+                                                    "text": "Creative_Work"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "actual form given to concept or work"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the way in which a particular linguistic feature is used in speech or writing on a particular occasion"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "linguistics",
+                                                    "text": "Linguistics"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "linguistics",
+                                                    "text": "Linguistics"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "verbal sequences were produced using segmental realization"
+                                                },
+                                                {
+                                                    "notes": [
+                                                        {
+                                                            "text": "count noun",
+                                                            "type": "grammaticalNote"
+                                                        }
+                                                    ],
+                                                    "text": "vowels have a startlingly wide range of realizations"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0849080.023",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "syntactic_feature",
+                                                    "text": "Syntactic_Feature"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "way in which particular linguistic feature is used in speech"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "an instance or embodiment of an abstract group as the set of symmetry operations of some object or set."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "mathematics",
+                                                    "text": "Mathematics"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "mathematics",
+                                                    "text": "Mathematics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0849080.024",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "formula",
+                                                    "text": "Formula"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "instance or embodiment of abstract group as set of symmetry operations of some object"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a particular series which might be generated by a specified random process."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "statistics",
+                                                    "text": "Statistics"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "statistics",
+                                                    "text": "Statistics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0849080.025",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "mathematical_set",
+                                                    "text": "Mathematical_Set"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "particular series which might be generated by specified random process"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "actualization"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fulfilment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "achievement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "accomplishment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "attainment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bringing to fruition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bringing into being"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "consummation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "effecting"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "realization",
+                                            "sense_id": "t_en_gb0012138.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the action of converting an asset into cash"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "finance",
+                                            "text": "Finance"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the realization of his assets in Spain"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0849080.027",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "transaction",
+                                            "text": "Transaction"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "conversion of asset into cash"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a sale of goods"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "commerce",
+                                                    "text": "Commerce"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "auction realizations"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0849080.028",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "transaction",
+                                                    "text": "Transaction"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "sale of goods"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "realisation"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "realization"
+                }
+            ],
+            "type": "headword",
+            "word": "realization"
+        }
+    ]
+}

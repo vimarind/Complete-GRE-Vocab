@@ -1,0 +1,527 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "maintain",
+    "results": [
+        {
+            "id": "maintain",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "maintainability",
+                            "text": "maintainability"
+                        },
+                        {
+                            "id": "maintainable",
+                            "text": "maintainable"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (also in the sense ‘practice an action habitually’): from Old French maintenir, from Latin manu tenere ‘hold in the hand’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "maintain"
+                                },
+                                {
+                                    "inflectedForm": "maintained"
+                                },
+                                {
+                                    "inflectedForm": "maintaining"
+                                },
+                                {
+                                    "inflectedForm": "maintains"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "mānˈtān"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/maintain_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "meɪnˈteɪn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cause or enable (a condition or state of affairs) to continue"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the need to maintain close links between industry and schools"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0609180.007",
+                                    "shortDefinitions": [
+                                        "preserve"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "keep (something) at the same level or rate"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "agricultural prices will have to be maintained"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0609180.018",
+                                            "shortDefinitions": [
+                                                "prevent from changing"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "keep (a building, machine, or road) in good condition or in working order by checking or repairing it regularly"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the Department for Transport is responsible for maintaining the main roads in England"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0609180.019",
+                                            "shortDefinitions": [
+                                                "keep in good condition"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "keep in good condition"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "keep in repair"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "keep up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "service"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rebuild"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "conserve"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "preserve"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "keep intact"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "care for"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "take good care of"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "look after"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "maintain",
+                                                    "sense_id": "t_en_gb0009082.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "continue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "keep"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "keep going"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "keep up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "keep alive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "keep in existence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "carry on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "preserve"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "conserve"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prolong"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perpetuate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sustain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bolster"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bolster up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prop up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "retain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "support"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bear"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "maintain",
+                                            "sense_id": "t_en_gb0009082.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "provide with necessities for life or existence"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the allowance covers the basic costs of maintaining a child"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0609180.022",
+                                    "shortDefinitions": [
+                                        "provide with support"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "keep (a military unit) supplied with equipment and other requirements"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "military",
+                                                    "text": "Military"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an English garrison was maintained there in the seventeenth century"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0609180.023",
+                                            "shortDefinitions": [
+                                                "supply"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "support"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "provide for"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "keep"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "finance"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "maintain",
+                                                    "sense_id": "t_en_gb0009082.003"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "give one's support to; uphold"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the king swears he will maintain the laws of God"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0609180.024",
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "defend"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "uphold"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "defend"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fight for"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "champion"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "support"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "back"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "advocate"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "maintain",
+                                                    "sense_id": "t_en_gb0009082.005"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "support"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "provide for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "keep"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "finance"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "maintain",
+                                            "sense_id": "t_en_gb0009082.003"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "state something strongly to be the case; assert"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "he has always maintained his innocence"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with clause",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "he had persistently maintained that he would not stand against his old friend"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with direct speech",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "“It was not an ideology at all,” she maintained"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0609180.026",
+                                    "notes": [
+                                        {
+                                            "text": "reporting verb",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "assert"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "insist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "insist on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "declare"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "assert"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "protest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "state"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "aver"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "say"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "announce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "affirm"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "avow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "profess"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "claim"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "allege"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contend"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "argue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swear"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swear to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hold to"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "maintain",
+                                            "sense_id": "t_en_gb0009082.004"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "maintain"
+                }
+            ],
+            "type": "headword",
+            "word": "maintain"
+        }
+    ]
+}

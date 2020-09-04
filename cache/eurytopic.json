@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "eurytopic",
+    "results": [
+        {
+            "id": "eurytopic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "eurytopic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈyərətäpik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/eurytopic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈjərətɑpɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Often contrasted with stenotopic"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "stenotopic",
+                                            "text": "stenotopic",
+                                            "type": "relates to"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "(of an organism) able to tolerate a wide range of habitats or ecological conditions."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "ecology",
+                                            "text": "Ecology"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "ecology",
+                                            "text": "Ecology"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0336990.007",
+                                    "shortDefinitions": [
+                                        "(of organism) able to tolerate wide range of habitats"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "eurytopic"
+                }
+            ],
+            "type": "headword",
+            "word": "eurytopic"
+        }
+    ]
+}

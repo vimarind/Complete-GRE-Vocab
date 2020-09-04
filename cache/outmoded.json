@@ -1,0 +1,218 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "outmoded",
+    "results": [
+        {
+            "id": "outmoded",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "outmodedly",
+                            "text": "outmodedly"
+                        },
+                        {
+                            "id": "outmodedness",
+                            "text": "outmodedness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "outmoded"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌoutˈmōdəd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/outmoded_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌaʊtˈmoʊdəd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "old-fashioned"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an outmoded Victorian building"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0732130.005",
+                                    "shortDefinitions": [
+                                        "old-fashioned"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "out of date"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "old-fashioned"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "outdated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "out of fashion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "outworn"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "behind the times"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ancient"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "archaic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "antiquated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "obsolescent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dead"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "obsolete"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disused"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "defunct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abandoned"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tired"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exhausted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stale"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hackneyed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "superannuated"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "outmoded",
+                                            "sense_id": "t_en_gb0010451.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "outmoded"
+                }
+            ],
+            "type": "headword",
+            "word": "outmoded"
+        },
+        {
+            "id": "outmode",
+            "language": "en-gb",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century; earliest use found in Duchess of Newcastle (?1623–1673), writer. From out- + mode"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "outmoded"
+                                },
+                                {
+                                    "inflectedForm": "outmodes"
+                                },
+                                {
+                                    "inflectedForm": "outmoding"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌaʊtˈməʊd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "To cause to be out of fashion, render obsolete or old-fashioned."
+                                    ],
+                                    "id": "m_en_gb_oed259609.003"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-gb",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "outmode"
+                }
+            ],
+            "type": "headword",
+            "word": "outmode"
+        }
+    ]
+}

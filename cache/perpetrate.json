@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "perpetrate",
+    "results": [
+        {
+            "id": "perpetrate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "perpetration",
+                            "text": "perpetration"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin perpetrat- ‘performed’, from the verb perpetrare, from per- ‘to completion’ + patrare ‘bring about’. In Latin the act perpetrated might be good or bad; in English the verb was first used in the statutes referring to crime, hence the negative association"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "perpetrate"
+                                },
+                                {
+                                    "inflectedForm": "perpetrated"
+                                },
+                                {
+                                    "inflectedForm": "perpetrates"
+                                },
+                                {
+                                    "inflectedForm": "perpetrating"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "To perpetrate something is to commit it: the gang perpetrated outrages against several citizens. To perpetuate something is to cause it to continue or to keep happening: the stories only serve to perpetuate the legend that the house is haunted",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpərpəˌtrāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/perpetrate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpərpəˌtreɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "carry out or commit (a harmful, illegal, or immoral action)"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "crime",
+                                            "text": "Crime"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a crime has been perpetrated against a sovereign state"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0768030.005",
+                                    "shortDefinitions": [
+                                        "carry out or commit"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "commit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "carry out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perform"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "execute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "do"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "effect"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bring about"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be guilty of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be to blame for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be responsible for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "accomplish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inflict"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wreak"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "perpetrate",
+                                            "sense_id": "t_en_gb0010940.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "perpetrate"
+                }
+            ],
+            "type": "headword",
+            "word": "perpetrate"
+        }
+    ]
+}

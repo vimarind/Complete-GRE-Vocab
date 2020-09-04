@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "counterintuitive",
+    "results": [
+        {
+            "id": "counterintuitive",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "counterintuitively",
+                            "text": "counterintuitively"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "counter-intuitive"
+                                },
+                                {
+                                    "inflectedForm": "counterintuitive"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌkoun(t)ərinˈt(y)o͞oədiv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/counterintuitive_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌkaʊn(t)ərɪnˈt(j)uədɪv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "contrary to intuition or to common-sense expectation (but often nevertheless true)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this explanation sounds perversely counterintuitive"
+                                        },
+                                        {
+                                            "text": "computer analyses have in the past produced a number of counterintuitive results"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0225640.005",
+                                    "shortDefinitions": [
+                                        "contrary to intuition or to common-sense expectation"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "counterintuitive"
+                }
+            ],
+            "type": "headword",
+            "word": "counterintuitive"
+        }
+    ]
+}

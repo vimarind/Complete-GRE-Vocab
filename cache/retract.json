@@ -1,0 +1,306 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "retract",
+    "results": [
+        {
+            "id": "retract",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "retractive",
+                            "text": "retractive"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin retract- ‘drawn back’, from the verb retrahere (from re- ‘back’ + trahere ‘drag’); the senses ‘withdraw (a statement’) and ‘go back on’ via Old French from retractare ‘reconsider’ (based on trahere ‘drag’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "retract"
+                                },
+                                {
+                                    "inflectedForm": "retracted"
+                                },
+                                {
+                                    "inflectedForm": "retracting"
+                                },
+                                {
+                                    "inflectedForm": "retracts"
+                                },
+                                {
+                                    "inflectedForm": "retract"
+                                },
+                                {
+                                    "inflectedForm": "retracted"
+                                },
+                                {
+                                    "inflectedForm": "retracting"
+                                },
+                                {
+                                    "inflectedForm": "retracts"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rəˈtrakt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/retract_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rəˈtrækt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "draw back"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "aviation",
+                                            "text": "Aviation"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she retracted her hand as if she'd been burnt"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "the tentacle retracted quickly"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0867910.006",
+                                    "shortDefinitions": [
+                                        "draw or be drawn back or back in"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of an animal) draw (a part of itself) back into its body"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the cat retracted her claws"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0867910.015",
+                                            "shortDefinitions": [
+                                                "draw part of itself back into its body"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "pull in"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "draw in"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pull back"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sheathe"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "put away"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "retract",
+                                                    "sense_id": "t_en_gb0012569.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "pull in"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "draw in"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pull back"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sheathe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put away"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "retract",
+                                            "sense_id": "t_en_gb0012569.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "withdraw (a statement or accusation) as untrue or unjustified"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he retracted his allegations"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0867910.013",
+                                    "shortDefinitions": [
+                                        "withdraw statement or accusation as untrue or unjustified"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "withdraw or go back on (an undertaking)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the parish council was forced to retract a previous resolution"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0867910.014",
+                                            "shortDefinitions": [
+                                                "withdraw or go back on"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "take back"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "withdraw"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unsay"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "recant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disown"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disavow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disclaim"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abjure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "repudiate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "renounce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reverse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "revoke"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rescind"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "annul"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cancel"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "go back on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "backtrack on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "do a U-turn on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "row back on"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "retract",
+                                            "sense_id": "t_en_gb0012569.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "retract"
+                }
+            ],
+            "type": "headword",
+            "word": "retract"
+        }
+    ]
+}

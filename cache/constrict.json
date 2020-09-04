@@ -1,0 +1,279 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "constrict",
+    "results": [
+        {
+            "id": "constrict",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "constrictive",
+                            "text": "constrictive"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 18th century: from Latin constrict- ‘bound tightly together’, from the verb constringere (see constrain)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "constrict"
+                                },
+                                {
+                                    "inflectedForm": "constricted"
+                                },
+                                {
+                                    "inflectedForm": "constricting"
+                                },
+                                {
+                                    "inflectedForm": "constricts"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kənˈstrikt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconstrict_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kənˈstrɪkt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make narrower, especially by encircling pressure"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "physiology",
+                                            "text": "Physiology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "chemicals that constrict the blood vessels"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0213350.005",
+                                    "shortDefinitions": [
+                                        "make narrower"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "become narrower"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he felt his throat constrict"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0213350.011",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "become narrower"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a snake) coil around (prey) in order to asphyxiate it"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "zoology",
+                                                    "text": "Zoology"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "boas constrict and suffocate their prey"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0213350.012",
+                                            "shortDefinitions": [
+                                                "coil round prey"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "choke"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "choke to death"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "suffocate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "smother"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stifle"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "asphyxiate",
+                                                    "sense_id": "t_en_gb0000871.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "inhibit or restrict"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the fear and the reality of crime constrict many people's lives"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0213350.013",
+                                            "shortDefinitions": [
+                                                "restrict"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "impede"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "restrict"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "inhibit"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "obstruct"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "limit"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "interfere with"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hinder"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hamper"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "check"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "curb"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "constrict",
+                                                    "sense_id": "t_en_gb0002898.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "narrow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "become narrower"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make narrower"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tighten"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "compress"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contract"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "become smaller"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make smaller"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shrink"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "draw in"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "constrict",
+                                            "sense_id": "t_en_gb0002898.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "constrict"
+                }
+            ],
+            "type": "headword",
+            "word": "constrict"
+        }
+    ]
+}

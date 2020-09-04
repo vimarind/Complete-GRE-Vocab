@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "unviable",
+    "results": [
+        {
+            "id": "unviable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "unviability",
+                            "text": "unviability"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "unviable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌənˈvīəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/unviable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌənˈvaɪəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "not capable of working successfully; not feasible"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the commission found the plan to be financially unviable"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1112520.005",
+                                    "shortDefinitions": [
+                                        "not capable of working successfully"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "unviable"
+                }
+            ],
+            "type": "headword",
+            "word": "unviable"
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "ornate",
+    "results": [
+        {
+            "id": "ornate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "ornately",
+                            "text": "ornately"
+                        },
+                        {
+                            "id": "ornateness",
+                            "text": "ornateness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin ornatus ‘adorned’, past participle of ornare"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "ornate"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ôrˈnāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/ornate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɔrˈneɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "made in an intricate shape or decorated with complex patterns"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "art",
+                                            "text": "Art"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an ornate wrought-iron railing"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0727210.005",
+                                    "shortDefinitions": [
+                                        "elaborately or highly decorated"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of literary style) using unusual words and complex constructions"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "peculiarly ornate and metaphorical language"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0727210.007",
+                                            "shortDefinitions": [
+                                                "using unusual words and complex constructions"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "elaborate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "over-elaborate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "flowery"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "florid"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "flamboyant"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "ornate",
+                                                    "sense_id": "t_en_gb0010400.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of musical composition or performance) using many ornaments such as grace notes and trills."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "music",
+                                                    "text": "Music"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0727210.008",
+                                            "shortDefinitions": [
+                                                "(of musical composition or performance) using many ornaments such as grace notes and trills"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "elaborate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "decorated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "embellished"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "adorned"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ornamented"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fancy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "over-elaborate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fussy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "busy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ostentatious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "showy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "baroque"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rococo"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "florid"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wedding-cake"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gingerbread"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "ornate",
+                                            "sense_id": "t_en_gb0010400.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "ornate"
+                }
+            ],
+            "type": "headword",
+            "word": "ornate"
+        }
+    ]
+}

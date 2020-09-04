@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "apposite",
+    "results": [
+        {
+            "id": "apposite",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "appositely",
+                            "text": "appositely"
+                        },
+                        {
+                            "id": "appositeness",
+                            "text": "appositeness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Latin appositus, past participle of apponere ‘apply’, from ad- ‘towards’ + ponere ‘put’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "apposite"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈapəzət"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/apposite_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈæpəzət"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "apposite to"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "apt in the circumstances or in relation to something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an apposite quotation"
+                                        },
+                                        {
+                                            "text": "the observations are apposite to the discussion"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0042260.005",
+                                    "shortDefinitions": [
+                                        "apt in circumstances or in relation to something"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "appropriate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "suitable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fitting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "apt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "befitting"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "apposite",
+                                            "sense_id": "t_en_gb0000716.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "apposite"
+                }
+            ],
+            "type": "headword",
+            "word": "apposite"
+        }
+    ]
+}

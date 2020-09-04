@@ -1,0 +1,219 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "exemplify",
+    "results": [
+        {
+            "id": "exemplify",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "exemplification",
+                            "text": "exemplification"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from medieval Latin exemplificare, from Latin exemplum ‘sample’ (see example)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "exemplifies"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "exemplifying"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "exemplified"
+                                },
+                                {
+                                    "inflectedForm": "exemplified"
+                                },
+                                {
+                                    "inflectedForm": "exemplifies"
+                                },
+                                {
+                                    "inflectedForm": "exemplify"
+                                },
+                                {
+                                    "inflectedForm": "exemplifying"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "iɡˈzempləˌfī"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/exemplify_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪɡˈzɛmpləˌfaɪ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "be a typical example of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "rock bands that best exemplify the spirit of the age"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0340600.020",
+                                    "shortDefinitions": [
+                                        "be typical example of"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "give an example of; illustrate by giving an example."
+                                            ],
+                                            "id": "m_en_gbus0340600.030",
+                                            "shortDefinitions": [
+                                                "give example of"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "illustrate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "give an example of"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "give an instance of"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "demonstrate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "instance"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "exemplify",
+                                                    "sense_id": "t_en_gb0005219.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "make an attested copy of (a document) under an official seal."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0340600.031",
+                                            "shortDefinitions": [
+                                                "make attested copy of document under official seal"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "typify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "epitomize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be a typical example of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "serve as a typical example of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "represent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be representative of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "symbolize"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "exemplify",
+                                            "sense_id": "t_en_gb0005219.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "exemplify"
+                }
+            ],
+            "type": "headword",
+            "word": "exemplify"
+        }
+    ]
+}

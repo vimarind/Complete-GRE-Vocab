@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "intemperance",
+    "results": [
+        {
+            "id": "intemperance",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "intemperance"
+                                },
+                                {
+                                    "inflectedForm": "intemperances"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈtemp(ə)rəns"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/intemperance_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈtɛmp(ə)rəns"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "lack of moderation or restraint"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his occasional intemperance of tone"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0514540.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "behaviour",
+                                            "text": "Behaviour"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "lack of moderation or restraint"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "excessive indulgence, especially in alcohol."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "sociology",
+                                                    "text": "Sociology"
+                                                },
+                                                {
+                                                    "id": "alcoholic",
+                                                    "text": "Alcoholic"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0514540.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "mistake",
+                                                    "text": "Mistake"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "excessive indulgence"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "overindulgence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overconsumption"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "intemperateness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "immoderation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lack of restraint"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abandon"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lack of self-control"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drinking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hard drinking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "heavy drinking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "alcoholism"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "alcohol abuse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dipsomania"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "intemperance",
+                                            "sense_id": "t_en_gb0008039.001"
+                                        },
+                                        {
+                                            "entry_id": "intemperance",
+                                            "sense_id": "t_en_gb0008039.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "intemperance"
+                }
+            ],
+            "type": "headword",
+            "word": "intemperance"
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "entice",
+    "results": [
+        {
+            "id": "entice",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "enticer",
+                            "text": "enticer"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (also in the sense ‘incite, provoke’; formerly also as intice): from Old French enticier, probably from a base meaning ‘set on fire’, based on an alteration of Latin titio ‘firebrand’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "entice"
+                                },
+                                {
+                                    "inflectedForm": "enticed"
+                                },
+                                {
+                                    "inflectedForm": "entices"
+                                },
+                                {
+                                    "inflectedForm": "enticing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈtīs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/entice_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈtaɪs"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "enˈtīs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/entice_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɛnˈtaɪs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "attract or tempt by offering pleasure or advantage"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a show that should entice a new audience into the theater"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with object and infinitive",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "the whole purpose of bribes is to entice governments to act against the public interest"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0326700.008",
+                                    "shortDefinitions": [
+                                        "attract or tempt by offering pleasure or advantage"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "tempt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "allure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "attract"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dangle a carrot in front of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tempting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "alluring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "attractive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "appealing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fetching"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inviting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "glamorous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "captivating"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "seductive"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "entice",
+                                            "sense_id": "t_en_gb0004937.001"
+                                        },
+                                        {
+                                            "entry_id": "enticing",
+                                            "sense_id": "t_en_gb0004940.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "entice"
+                }
+            ],
+            "type": "headword",
+            "word": "entice"
+        }
+    ]
+}

@@ -1,0 +1,368 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "sectarian",
+    "results": [
+        {
+            "id": "sectarian",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from sectary+ -an, reinforced by sect"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sectarian"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌsekˈterēən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sectarian_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌsɛkˈtɛriən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "denoting or concerning a sect or sects"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "religion",
+                                            "text": "Religion"
+                                        },
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "ethnic and sectarian differences"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0916730.005",
+                                    "shortDefinitions": [
+                                        "denoting or concerning sect or sects"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of an action) carried out on the grounds of membership of a sect, denomination, or other group"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "religion",
+                                                    "text": "Religion"
+                                                },
+                                                {
+                                                    "id": "politics",
+                                                    "text": "Politics"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a sectarian attack"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0916730.007",
+                                            "shortDefinitions": [
+                                                "(of action) carried out on grounds of membership of group"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "rigidly following the doctrines of a sect or other group"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "religion",
+                                                    "text": "Religion"
+                                                },
+                                                {
+                                                    "id": "politics",
+                                                    "text": "Politics"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the sectarian Bolshevism advocated by Moscow"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0916730.008",
+                                            "shortDefinitions": [
+                                                "rigidly following doctrines of sect or other group"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "factional"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "schismatic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cliquish"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "clannish"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "partisan"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "parti pris"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "sectarian",
+                                                    "sense_id": "t_en_gb0013116.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sectarian"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sectarian"
+                                },
+                                {
+                                    "inflectedForm": "sectarians"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌsekˈterēən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sectarian_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌsɛkˈtɛriən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a member of a sect"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "religion",
+                                            "text": "Religion"
+                                        },
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a Jewish sectarian who preached the redemption of the Gentiles"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0916730.010",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "religionist",
+                                            "text": "Religionist"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "member of sect"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a person who rigidly follows the doctrines of a sect or other group"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "religion",
+                                                    "text": "Religion"
+                                                },
+                                                {
+                                                    "id": "politics",
+                                                    "text": "Politics"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he became a target as a sectarian who had apparently denounced one liberal-minded reformer as “degenerate”"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0916730.013",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "political_supporter",
+                                                    "text": "Political_Supporter"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "person who rigidly follows doctrines of sect"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "activist"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "extremist"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "radical"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "enthusiast"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "supporter"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "follower"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "devotee"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "Young Turk"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "zealot"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fanatic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sectarian"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "partisan"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "militant",
+                                                    "sense_id": "t_en_gb0009435.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "separatist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dissenter"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dissident"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "nonconformist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "free thinker"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "renegade"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disruptor"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "recusant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "schismatic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "revisionist"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sectarian",
+                                            "sense_id": "t_en_gb0013116.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "sectarian"
+                }
+            ],
+            "type": "headword",
+            "word": "sectarian"
+        }
+    ]
+}

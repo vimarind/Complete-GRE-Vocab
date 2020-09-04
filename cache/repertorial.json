@@ -1,0 +1,52 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "repertorial",
+    "results": [
+        {
+            "id": "repertorial",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivativeOf": [
+                        {
+                            "id": "repertory",
+                            "text": "repertory"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "repertorial"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌrepə(r)ˈtôrēəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "id": "m_en_gbus0862510.017"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "repertorial"
+                }
+            ],
+            "type": "headword",
+            "word": "repertorial"
+        }
+    ]
+}

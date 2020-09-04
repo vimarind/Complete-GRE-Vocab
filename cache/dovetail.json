@@ -1,0 +1,318 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "dovetail",
+    "results": [
+        {
+            "id": "dovetail",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "dovetail"
+                                },
+                                {
+                                    "inflectedForm": "dovetails"
+                                },
+                                {
+                                    "inflectedForm": "dovetail joint"
+                                },
+                                {
+                                    "inflectedForm": "dovetail joints"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈdəvˌtāl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/dovetail_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈdəvˌteɪl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a joint formed by one or more tapered projections (tenons) on one piece which interlock with corresponding notches or recesses (mortises) in another."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "carpentry",
+                                            "text": "Carpentry"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0294250.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "joint",
+                                            "text": "Joint"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "joint formed by projections interlocking with notches"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a tenon used in a dovetail joint, typically wider at its extremity."
+                                            ],
+                                            "id": "m_en_gbus0294250.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "component",
+                                                    "text": "Component"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "projection used in dovetail joint"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "dovetail joint"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "dovetail"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "dovetail"
+                                },
+                                {
+                                    "inflectedForm": "dovetailed"
+                                },
+                                {
+                                    "inflectedForm": "dovetailing"
+                                },
+                                {
+                                    "inflectedForm": "dovetails"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈdəvˌtāl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/dovetail_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈdəvˌteɪl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "join together by means of a dovetail."
+                                    ],
+                                    "id": "m_en_gbus0294250.022",
+                                    "shortDefinitions": [
+                                        "join together by dovetail"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "fit or cause to fit together easily and conveniently"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "notes": [
+                                                        {
+                                                            "text": "with object",
+                                                            "type": "grammaticalNote"
+                                                        }
+                                                    ],
+                                                    "text": "plan to enable parents to dovetail their career and family commitments"
+                                                },
+                                                {
+                                                    "notes": [
+                                                        {
+                                                            "text": "no object",
+                                                            "type": "grammaticalNote"
+                                                        }
+                                                    ],
+                                                    "text": "flights that dovetail with the working day"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0294250.028",
+                                            "shortDefinitions": [
+                                                "fit together easily and conveniently"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "fit in"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "go together"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "be consistent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "agree"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "accord"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "concur"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "coincide"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "match"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fit"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "be in agreement"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "conform"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "equate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "harmonize"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fall in"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "be in tune"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "correlate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "correspond"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tally"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "dovetail",
+                                                    "sense_id": "t_en_gb0004408.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "joint"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "join"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fit together"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "link"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "interlock"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "splice"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mortise"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tenon"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "dovetail",
+                                            "sense_id": "t_en_gb0004408.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "dovetail"
+                }
+            ],
+            "type": "headword",
+            "word": "dovetail"
+        }
+    ]
+}

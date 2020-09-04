@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "sagacious",
+    "results": [
+        {
+            "id": "sagacious",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "sagaciously",
+                            "text": "sagaciously"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin sagax, sagac- ‘wise’+ -ious"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sagacious"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "səˈɡāSHəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sagacious_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "səˈɡeɪʃəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having or showing keen mental discernment and good judgment; shrewd"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they were sagacious enough to avoid any outright confrontation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0892960.005",
+                                    "shortDefinitions": [
+                                        "having or showing keen mental discernment and good judgement"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "wise"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clever"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "intelligent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "showing great knowledge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "with great knowledge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "knowledgeable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sensible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sage"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sagacious",
+                                            "sense_id": "t_en_gb0012840.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sagacious"
+                }
+            ],
+            "type": "headword",
+            "word": "sagacious"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "seine",
+    "results": [
+        {
+            "id": "seine",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "seiner",
+                            "text": "seiner"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English segne, of West Germanic origin, via Latin from Greek sagēnē; reinforced in Middle English by Old French saine"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "seine"
+                                },
+                                {
+                                    "inflectedForm": "seines"
+                                },
+                                {
+                                    "inflectedForm": "seine net"
+                                },
+                                {
+                                    "inflectedForm": "seine nets"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "sān"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/seine_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "seɪn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a fishing net which hangs vertically in the water with floats at the top and weights at the bottom edge, the ends being drawn together to encircle the fish"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "angling",
+                                            "text": "Angling"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "as modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "a seine boat"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0918180.007",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "net",
+                                            "text": "Net"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "fishing net which hangs vertically in water with floats at top and weights at bottom edge"
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "seine net"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "seine"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "seiner",
+                            "text": "seiner"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "seine"
+                                },
+                                {
+                                    "inflectedForm": "seined"
+                                },
+                                {
+                                    "inflectedForm": "seines"
+                                },
+                                {
+                                    "inflectedForm": "seining"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "sān"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/seine_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "seɪn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "fish (an area) with a seine"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "angling",
+                                            "text": "Angling"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the fishermen then seine the weir"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0918180.012",
+                                    "shortDefinitions": [
+                                        "fish area with seine"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "catch (fish) with a seine"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "angling",
+                                                    "text": "Angling"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they seine whitefish and salmon"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0918180.018",
+                                            "shortDefinitions": [
+                                                "catch fish with seine"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "seine"
+                }
+            ],
+            "type": "headword",
+            "word": "seine"
+        },
+        {
+            "id": "Seine",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "proper",
+                                    "text": "Proper",
+                                    "type": "Properness"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "sen"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/seine_1_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "sɛn"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "sān"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/seine_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "seɪn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a river in northern France. Rising north of Dijon, it flows northwest for 473 miles (761 km) through the cities of Troyes and Paris to the English Channel near Le Havre."
+                                    ],
+                                    "id": "m_en_gbus0918190.010",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "river",
+                                            "text": "River"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "river of northern France"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "Seine"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "Seine"
+                                },
+                                {
+                                    "inflectedForm": "River Seine"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "other",
+                        "text": "Other"
+                    },
+                    "text": "Seine"
+                }
+            ],
+            "type": "headword",
+            "word": "Seine"
+        }
+    ]
+}

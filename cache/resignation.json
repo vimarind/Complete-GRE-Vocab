@@ -1,0 +1,288 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "resignation",
+    "results": [
+        {
+            "id": "resignation",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via Old French from medieval Latin resignatio(n-), from resignare ‘unseal, cancel’ (see resign)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "resignation"
+                                },
+                                {
+                                    "inflectedForm": "resignations"
+                                },
+                                {
+                                    "inflectedForm": "resignation"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌrezəɡˈnāSH(ə)n"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/resignation_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌrɛzəɡˈneɪʃ(ə)n"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an act of retiring or giving up a position"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he announced his resignation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0865000.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "departure",
+                                            "text": "Departure"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "act of resigning from job or office"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a document conveying someone's intention of retiring"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I'm thinking of handing in my resignation"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0865000.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "document",
+                                                    "text": "Document"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "document conveying someone's intention of resigning"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "notice"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "notice to quit"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "letter of resignation"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "resignation",
+                                                    "sense_id": "t_en_gb0012502.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "an act of ending a game by conceding defeat without being checkmated."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "chess",
+                                                    "text": "Chess"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "chess",
+                                                    "text": "Chess"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0865000.010",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "chess_move",
+                                                    "text": "Chess_Move"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "act of ending game by conceding defeat without being checkmated"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "departure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "leaving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "standing down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stepping down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "retirement"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "resignation",
+                                            "sense_id": "t_en_gb0012502.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the acceptance of something undesirable but inevitable"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a shrug of resignation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0865000.012",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "mental_attitude",
+                                            "text": "Mental_Attitude"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "acceptance of something undesirable but inevitable"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "patience"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forbearance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tolerance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stoicism"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "endurance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fortitude"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sufferance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lack of protest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lack of complaint"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "acceptance of the inevitable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fatalism"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "acceptance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "acquiescence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "compliance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "passivity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "passiveness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "non-resistance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "submission"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "docility"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "phlegm"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "resignation",
+                                            "sense_id": "t_en_gb0012502.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "resignation"
+                }
+            ],
+            "type": "headword",
+            "word": "resignation"
+        }
+    ]
+}

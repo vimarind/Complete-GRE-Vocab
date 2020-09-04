@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "unpropitious",
+    "results": [
+        {
+            "id": "unpropitious",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "unpropitiously",
+                            "text": "unpropitiously"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "unpropitious"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌənprəˈpiSHəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/unpropitious_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌənprəˈpɪʃəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a circumstance) not giving or indicating a good chance of success; unfavorable"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his reports were submitted at a financially unpropitious time"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1107140.006",
+                                    "shortDefinitions": [
+                                        "not giving or indicating good chance of success"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "adverse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disadvantageous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unadvantageous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unfavourable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unlucky"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "untoward"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unwelcome"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "unfortunate",
+                                            "sense_id": "t_en_gb0015508.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "unpropitious"
+                }
+            ],
+            "type": "headword",
+            "word": "unpropitious"
+        }
+    ]
+}

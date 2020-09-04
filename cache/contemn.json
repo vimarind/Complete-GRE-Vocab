@@ -1,0 +1,167 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "contemn",
+    "results": [
+        {
+            "id": "contemn",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "contemner",
+                            "text": "contemner"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin contemnere, from con- (expressing intensive force) + temnere ‘despise’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "contemn"
+                                },
+                                {
+                                    "inflectedForm": "contemned"
+                                },
+                                {
+                                    "inflectedForm": "contemning"
+                                },
+                                {
+                                    "inflectedForm": "contemns"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kənˈtem"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xcontemn_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kənˈtɛm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "treat or regard with contempt"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it lay in Deronda's nature usually to contemn the feeble"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0214250.006",
+                                    "registers": [
+                                        {
+                                            "id": "archaic",
+                                            "text": "Archaic"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "treat or regard with contempt"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "despise"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scorn"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "treat with contempt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "feel contempt for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "look down on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disdain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "slight"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "undervalue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disregard"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deride"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "jeer at"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scoff at"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mock"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "revile"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spurn"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "contemn",
+                                            "sense_id": "t_en_gb0002920.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "contemn"
+                }
+            ],
+            "type": "headword",
+            "word": "contemn"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "whereas",
+    "results": [
+        {
+            "id": "whereas",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from where + as"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "whereas"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌ(h)werˈaz"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/whereas_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌ(h)wɛrˈæz"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "in contrast or comparison with the fact that"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "you treat the matter lightly, whereas I myself was never more serious"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1153430.005",
+                                    "shortDefinitions": [
+                                        "in contrast or comparison with fact that"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(especially in legal preambles) taking into consideration the fact that."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1153430.007",
+                                            "shortDefinitions": [
+                                                "taking into consideration fact that"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "whereas"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "but",
+                                            "sense_id": "t_en_gb0001906.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "conjunction",
+                        "text": "Conjunction"
+                    },
+                    "text": "whereas"
+                }
+            ],
+            "type": "headword",
+            "word": "whereas"
+        }
+    ]
+}

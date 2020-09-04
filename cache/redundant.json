@@ -1,0 +1,231 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "redundant",
+    "results": [
+        {
+            "id": "redundant",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "redundantly",
+                            "text": "redundantly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (in the sense ‘abundant’): from Latin redundant- ‘surging up’, from the verb redundare (see redound)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "redundant"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rəˈdəndənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/redundant_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rəˈdəndənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "not or no longer needed or useful; superfluous"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "many of the old skills had become redundant"
+                                        },
+                                        {
+                                            "text": "this redundant brewery has been converted into a library"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0855000.005",
+                                    "shortDefinitions": [
+                                        "no longer needed or useful"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person) no longer employed because there is no more work available"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "eight permanent staff were made redundant"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0855000.007",
+                                            "regions": [
+                                                {
+                                                    "id": "british",
+                                                    "text": "British"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "no longer in employment because there is no more work available"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "sacked"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dismissed"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "laid off"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "discharged"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "redundant",
+                                                    "sense_id": "t_en_gb0012246.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of words or data) able to be omitted without loss of meaning or function"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "linguistics",
+                                                    "text": "Linguistics"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "our peculiar affection for redundant phrases"
+                                                },
+                                                {
+                                                    "text": "most of the inflectional endings are redundant"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0855000.008",
+                                            "shortDefinitions": [
+                                                "able to be omitted without loss of meaning or function"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a component) not strictly necessary to functioning but included in case of failure in another component"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "civil_engineering",
+                                                    "text": "Civil_Engineering"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "engineering",
+                                                    "text": "Engineering"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the modules are linked using a redundant fiber-optic cable"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0855000.009",
+                                            "shortDefinitions": [
+                                                "not strictly necessary to functioning"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "unnecessary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "not required"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inessential"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unessential"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "needless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unneeded"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "uncalled for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dispensable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disposable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expendable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unwanted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "useless"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "redundant",
+                                            "sense_id": "t_en_gb0012246.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "redundant"
+                }
+            ],
+            "type": "headword",
+            "word": "redundant"
+        }
+    ]
+}

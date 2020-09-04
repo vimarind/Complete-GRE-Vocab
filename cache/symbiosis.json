@@ -1,0 +1,159 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "symbiosis",
+    "results": [
+        {
+            "id": "symbiosis",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 19th century: modern Latin, from Greek sumbiōsis ‘a living together’, from sumbioun ‘live together’, from sumbios ‘companion’"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "symbioses",
+                                    "pronunciations": [
+                                        {
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "-ˌsēz"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "inflectedForm": "symbiosis"
+                                },
+                                {
+                                    "inflectedForm": "symbioses"
+                                },
+                                {
+                                    "inflectedForm": "symbiosis"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌsimbīˈōsəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/symbiosis_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌsɪmbaɪˈoʊsəs"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌsimbēˈōsəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/symbiosis_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌsɪmbiˈoʊsəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Compare with antibiosis"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "antibiosis",
+                                            "text": "antibiosis",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "interaction between two different organisms living in close physical association, typically to the advantage of both."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1022710.013",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "biological_process",
+                                            "text": "Biological_Process"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "interaction between two different organisms living in close physical association"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a mutually beneficial relationship between different people or groups"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "biology",
+                                                    "text": "Biology"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a perfect mother and daughter symbiosis"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1022710.015",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "relationship",
+                                                    "text": "Relationship"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "mutually beneficial relationship between different people or groups"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "symbiosis"
+                }
+            ],
+            "type": "headword",
+            "word": "symbiosis"
+        }
+    ]
+}

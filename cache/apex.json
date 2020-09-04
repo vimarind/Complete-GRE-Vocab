@@ -1,0 +1,411 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "apex",
+    "results": [
+        {
+            "id": "apex",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin, ‘peak, tip’"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "apexes"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "apices",
+                                    "pronunciations": [
+                                        {
+                                            "dialects": [
+                                                "American English"
+                                            ],
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "ˈāpəsēz"
+                                        },
+                                        {
+                                            "audioFile": "https://audio.oxforddictionaries.com/en/mp3/apices_us_1.mp3",
+                                            "dialects": [
+                                                "American English"
+                                            ],
+                                            "phoneticNotation": "IPA",
+                                            "phoneticSpelling": "ˈeɪpəsiz"
+                                        },
+                                        {
+                                            "dialects": [
+                                                "American English"
+                                            ],
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "ˈapəˌsēz"
+                                        },
+                                        {
+                                            "audioFile": "https://audio.oxforddictionaries.com/en/mp3/apices_us_4.mp3",
+                                            "dialects": [
+                                                "American English"
+                                            ],
+                                            "phoneticNotation": "IPA",
+                                            "phoneticSpelling": "ˈæpəˌsiz"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "inflectedForm": "apex"
+                                },
+                                {
+                                    "inflectedForm": "apexes"
+                                },
+                                {
+                                    "inflectedForm": "apices"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈāpeks"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/apex_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈeɪpɛks"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the top or highest part of something, especially one forming a point"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the living room extends right up into the apex of the roof"
+                                        },
+                                        {
+                                            "registers": [
+                                                {
+                                                    "id": "figurative",
+                                                    "text": "Figurative"
+                                                }
+                                            ],
+                                            "text": "the apex of his career was when he hoisted aloft the World Cup"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0040060.023",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "part",
+                                            "text": "Part"
+                                        },
+                                        {
+                                            "id": "level",
+                                            "text": "Level"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "highest part"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the highest point in a plane or solid figure, relative to a base line or plane."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "geometry",
+                                                    "text": "Geometry"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "geometry",
+                                                    "text": "Geometry"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0040060.027",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "mathematical_point",
+                                                    "text": "Mathematical_Point"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "highest point in geometrical figure"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the growing point of a shoot."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "botany",
+                                                    "text": "Botany"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "botany",
+                                                    "text": "Botany"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0040060.028",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "plant_part",
+                                                    "text": "Plant_Part"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "growing point of shoot"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the highest level of a hierarchy, organization, or other power structure regarded as a triangle or pyramid"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the central bank is at the apex of the financial system"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0040060.029",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "status",
+                                                    "text": "Status"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "highest level of hierarchy"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "tip"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "peak"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "summit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pinnacle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "top"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "highest part"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "highest point"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vertex"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "apex",
+                                            "sense_id": "t_en_gb0000665.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "apex"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "apex"
+                                },
+                                {
+                                    "inflectedForm": "apexed"
+                                },
+                                {
+                                    "inflectedForm": "apexes"
+                                },
+                                {
+                                    "inflectedForm": "apexing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈāpeks"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/apex_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈeɪpɛks"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "reach a high point or climax"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "melodic lines build up to the chorus and it apexes at the solo"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0040060.041",
+                                    "shortDefinitions": [
+                                        "reach high point or climax"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "apex"
+                }
+            ],
+            "type": "headword",
+            "word": "apex"
+        },
+        {
+            "id": "Apex",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "1970s: from Advance Purchase Excursion"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "Apex"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈāpeks"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/apex_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈeɪpɛks"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a system of reduced fares for scheduled airline flights and railroad journeys that must be booked and paid for before a certain period in advance of departure"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "railways",
+                                            "text": "Railways"
+                                        },
+                                        {
+                                            "id": "aviation",
+                                            "text": "Aviation"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Apex fares"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0040070.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "system",
+                                            "text": "System"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "system of reduced fares for scheduled airline flights and railway journeys which must be booked and paid for before certain period in advance"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "Apex"
+                }
+            ],
+            "type": "headword",
+            "word": "Apex"
+        }
+    ]
+}

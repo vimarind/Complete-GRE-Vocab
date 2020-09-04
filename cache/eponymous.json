@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "eponymous",
+    "results": [
+        {
+            "id": "eponymous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "eponymously",
+                            "text": "eponymously"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "eponymous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈpänəməs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/eponymous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈpɑnəməs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person) giving their name to something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the eponymous hero of the novel"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0329740.005",
+                                    "shortDefinitions": [
+                                        "giving their name to something"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a thing) named after a particular person"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Roseanne's eponymous hit TV series"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0329740.007",
+                                            "shortDefinitions": [
+                                                "named after particular person or group"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "eponymous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "identifying"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "titular",
+                                            "sense_id": "t_en_gb0014946.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "eponymous"
+                }
+            ],
+            "type": "headword",
+            "word": "eponymous"
+        }
+    ]
+}

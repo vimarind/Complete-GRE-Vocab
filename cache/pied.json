@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "pied",
+    "results": [
+        {
+            "id": "pied",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (originally in the sense ‘black and white like a magpie’): from pie+ -ed"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "pied"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "pīd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/pied_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "paɪd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having two or more different colors"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "pied dogs from the Pyrenees"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0779510.006",
+                                    "shortDefinitions": [
+                                        "having two or more different colours"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "black and white"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "brown and white"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pied"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "skewbald"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "piebald",
+                                            "sense_id": "t_en_gb0011061.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "pied"
+                }
+            ],
+            "type": "headword",
+            "word": "pied"
+        }
+    ]
+}

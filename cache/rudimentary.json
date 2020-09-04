@@ -1,0 +1,200 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "rudimentary",
+    "results": [
+        {
+            "id": "rudimentary",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "rudimentarily",
+                            "text": "rudimentarily"
+                        },
+                        {
+                            "id": "rudimentariness",
+                            "text": "rudimentariness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "rudimentary"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌro͞odəˈment(ə)rē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/rudimentary_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌrudəˈmɛnt(ə)ri"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "involving or limited to basic principles"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he received a rudimentary education"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0887450.005",
+                                    "shortDefinitions": [
+                                        "involving or limited to basic principles"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "relating to an immature, undeveloped, or basic form"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "zoology",
+                                                    "text": "Zoology"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a rudimentary stage of evolution"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0887450.007",
+                                            "shortDefinitions": [
+                                                "relating to immature, undeveloped, or basic form"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "primitive"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "crude"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "simple"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unsophisticated"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rough"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rough and ready"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "makeshift"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rude"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "vestigial"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "undeveloped"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "incomplete"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "embryonic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "immature"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "rudimentary",
+                                                    "sense_id": "t_en_gb0012766.002"
+                                                },
+                                                {
+                                                    "entry_id": "rudimentary",
+                                                    "sense_id": "t_en_gb0012766.003"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "basic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "elementary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "introductory"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "early"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "primary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "initial"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "first"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "rudimentary",
+                                            "sense_id": "t_en_gb0012766.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "rudimentary"
+                }
+            ],
+            "type": "headword",
+            "word": "rudimentary"
+        }
+    ]
+}

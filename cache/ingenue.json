@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "ingenue",
+    "results": [
+        {
+            "id": "ing%C3%A9nue",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "French, feminine of ingénu ‘ingenuous’, from Latin ingenuus (see ingenuous)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "ingénue"
+                                },
+                                {
+                                    "inflectedForm": "ingénues"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌanjəˈno͞o"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/ingenue_1_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌændʒəˈnu"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈänjəˌno͞o"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/ingenue_1_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɑndʒəˌnu"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an innocent or unsophisticated young woman, especially in a play or film."
+                                    ],
+                                    "id": "m_en_gbus0509020.008",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "novice",
+                                            "text": "Novice"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "innocent or unsophisticated young woman"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "unworldly person"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "naive person"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "innocent",
+                                            "sense_id": "t_en_gb0007907.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "ingénue"
+                }
+            ],
+            "type": "headword",
+            "word": "ingénue"
+        }
+    ]
+}

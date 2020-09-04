@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "figurative",
+    "results": [
+        {
+            "id": "figurative",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "figurativeness",
+                            "text": "figurativeness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from late Latin figurativus, from figurare ‘to form or fashion’, from figura (see figure)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "figurative"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfiɡyərədiv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/figurative_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfɪɡjərədɪv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "departing from a literal use of words; metaphorical"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "gold, in the figurative language of the people, was “the tears wept by the sun.”"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0360860.006",
+                                    "shortDefinitions": [
+                                        "departing from literal use of words"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "metaphorical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "non-literal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "symbolic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "allegorical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "representative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "emblematic"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "figurative",
+                                            "sense_id": "t_en_gb0005637.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of an artist or work of art) representing forms that are recognizably derived from life."
+                                    ],
+                                    "id": "m_en_gbus0360860.009",
+                                    "shortDefinitions": [
+                                        "representing forms that are recognizably derived from life"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "figurative"
+                }
+            ],
+            "type": "headword",
+            "word": "figurative"
+        }
+    ]
+}

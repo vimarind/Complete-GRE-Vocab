@@ -1,0 +1,288 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "torque",
+    "results": [
+        {
+            "id": "torque",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "torquey",
+                            "text": "torquey"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 19th century: from Latin torquere ‘to twist’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "torque"
+                                },
+                                {
+                                    "inflectedForm": "torques"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "tôrk"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/torque_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "tɔrk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a twisting force that tends to cause rotation"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "physics",
+                                            "text": "Physics"
+                                        },
+                                        {
+                                            "id": "mechanics",
+                                            "text": "Mechanics"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "mechanics",
+                                            "text": "Mechanics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the three-liter engine has lots of torque"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "during the excitation of each phase the motor produces equal positive and negative torques"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1063070.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "force",
+                                            "text": "Force"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "force that tends to cause rotation"
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "variant spelling of torc"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "torc",
+                                            "text": "torc",
+                                            "type": "variant spelling of"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1063070.010"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "torque"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "torquey",
+                            "text": "torquey"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "torque"
+                                },
+                                {
+                                    "inflectedForm": "torqued"
+                                },
+                                {
+                                    "inflectedForm": "torques"
+                                },
+                                {
+                                    "inflectedForm": "torquing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "tôrk"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/torque_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "tɔrk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "apply torque or a twisting force to (an object)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he gently torqued the hip joint"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1063070.012",
+                                    "shortDefinitions": [
+                                        "apply torque or twisting force to"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "torque"
+                }
+            ],
+            "type": "headword",
+            "word": "torque"
+        },
+        {
+            "id": "torc",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 19th century: from French torque, from Latin torques (see torch)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "torc"
+                                },
+                                {
+                                    "inflectedForm": "torcs"
+                                },
+                                {
+                                    "inflectedForm": "torque"
+                                },
+                                {
+                                    "inflectedForm": "torques"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "tôrk"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/torc_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "tɔrk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a neck ornament consisting of a band of twisted metal, worn especially by the ancient Gauls and Britons."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "jewellery",
+                                            "text": "Jewellery"
+                                        },
+                                        {
+                                            "id": "archaeology",
+                                            "text": "Archaeology"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1062630.008",
+                                    "registers": [
+                                        {
+                                            "id": "historical",
+                                            "text": "Historical"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "jewellery",
+                                            "text": "Jewellery"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "neck ornament consisting of band of twisted metal"
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "torque"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "torc"
+                }
+            ],
+            "type": "headword",
+            "word": "torc"
+        }
+    ]
+}

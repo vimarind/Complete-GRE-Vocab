@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "supersede",
+    "results": [
+        {
+            "id": "supersede",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "supersedence",
+                            "text": "supersedence"
+                        },
+                        {
+                            "id": "supersedure",
+                            "text": "supersedure"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the sense ‘postpone, defer’): from Old French superseder, from Latin supersedere ‘be superior to’, from super- ‘above’ + sedere ‘sit’. The current sense dates from the mid 17th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "supersede"
+                                },
+                                {
+                                    "inflectedForm": "superseded"
+                                },
+                                {
+                                    "inflectedForm": "supersedes"
+                                },
+                                {
+                                    "inflectedForm": "superseding"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "See supercede",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌso͞opərˈsēd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/supersede_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌsupərˈsid"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "take the place of (a person or thing previously in authority or use); supplant"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the older models have now been superseded"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1015240.005",
+                                    "shortDefinitions": [
+                                        "take place of"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "replace"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "supplant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take the place of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take over from"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "substitute for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "displace"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "oust"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overthrow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remove"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unseat"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "override"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "supersede",
+                                            "sense_id": "t_en_gb0014430.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "supersede"
+                }
+            ],
+            "type": "headword",
+            "word": "supersede"
+        }
+    ]
+}

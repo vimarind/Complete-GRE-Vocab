@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "plangent",
+    "results": [
+        {
+            "id": "plangent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "plangency",
+                            "text": "plangency"
+                        },
+                        {
+                            "id": "plangently",
+                            "text": "plangently"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 19th century: from Latin plangent- ‘lamenting’, from the verb plangere"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "plangent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈplanjənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/plangent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈplændʒənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a sound) loud, reverberating, and often melancholy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the plangent sound of a harpsichord"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0787190.006",
+                                    "registers": [
+                                        {
+                                            "id": "literary",
+                                            "text": "Literary"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "loud and resonant, with mournful tone"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "melancholy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mournful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plaintive"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "plangent",
+                                            "sense_id": "t_en_gb0011152.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "plangent"
+                }
+            ],
+            "type": "headword",
+            "word": "plangent"
+        }
+    ]
+}

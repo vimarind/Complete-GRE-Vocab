@@ -1,0 +1,176 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "permutation",
+    "results": [
+        {
+            "id": "permutation",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "permutational",
+                            "text": "permutational"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘exchange, barter’): via Old French from Latin permutatio(n-), from the verb permutare ‘change completely’ (see permute)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "permutation"
+                                },
+                                {
+                                    "inflectedForm": "permutations"
+                                },
+                                {
+                                    "inflectedForm": "permutation"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌpərmyo͝oˈtāSH(ə)n"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/permutation_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌpərmjʊˈteɪʃ(ə)n"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a way, especially one of several possible variations, in which a set or number of things can be ordered or arranged"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "mathematics",
+                                            "text": "Mathematics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his thoughts raced ahead to fifty different permutations of what he must do"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0767760.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "mathematical_set",
+                                            "text": "Mathematical_Set"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "each of several possible ways in which set or number of things can be ordered"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the action of changing the arrangement, especially the linear order, of a set of items."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "mathematics",
+                                                    "text": "Mathematics"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "mathematics",
+                                                    "text": "Mathematics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0767760.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "calculation",
+                                                    "text": "Calculation"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "action of changing arrangement of set of items"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "arrangement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "order"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grouping"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disposition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "presentation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sorting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "organization"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "combination"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "variation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "transformation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "transposition"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "permutation",
+                                            "sense_id": "t_en_gb0010935.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "permutation"
+                }
+            ],
+            "type": "headword",
+            "word": "permutation"
+        }
+    ]
+}

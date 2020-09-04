@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "holistic",
+    "results": [
+        {
+            "id": "holistic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "holistic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "hōˈlistik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/holistic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "hoʊˈlɪstɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "characterized by comprehension of the parts of something as intimately interconnected and explicable only by reference to the whole."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "philosophy",
+                                            "text": "Philosophy"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "philosophy",
+                                            "text": "Philosophy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0473420.006",
+                                    "shortDefinitions": [
+                                        "characterized by belief that parts of something are intimately interconnected and explicable only by reference to whole"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "characterized by the treatment of the whole person, taking into account mental and social factors, rather than just the symptoms of a disease."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "medicine",
+                                                    "text": "Medicine"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "medicine",
+                                                    "text": "Medicine"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0473420.008",
+                                            "shortDefinitions": [
+                                                "characterized by treatment of whole person, taking into account mental and social factors"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "holistic"
+                }
+            ],
+            "type": "headword",
+            "word": "holistic"
+        }
+    ]
+}

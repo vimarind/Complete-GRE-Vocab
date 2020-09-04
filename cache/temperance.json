@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "temperance",
+    "results": [
+        {
+            "id": "temperance",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Anglo-Norman French temperaunce, from Latin temperantia ‘moderation’, from temperare ‘restrain’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "temperance"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈtemp(ə)rəns"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/temperance_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈtɛmp(ə)rəns"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "abstinence from alcoholic drink"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "drink",
+                                            "text": "Drink"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "as modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "the temperance movement"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1038350.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "abstinence",
+                                            "text": "Abstinence"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "abstinence from alcoholic drink"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "teetotalism"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abstinence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abstention"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sobriety"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "temperance",
+                                            "sense_id": "t_en_gb0014689.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "temperance"
+                }
+            ],
+            "type": "headword",
+            "word": "temperance"
+        }
+    ]
+}

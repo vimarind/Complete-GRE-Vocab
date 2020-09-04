@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "bogus",
+    "results": [
+        {
+            "id": "bogus",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "bogusly",
+                            "text": "bogusly"
+                        },
+                        {
+                            "id": "bogusness",
+                            "text": "bogusness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 18th century (originally US, denoting a machine for making counterfeit money): of unknown origin"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bogus"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbōɡəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bogus_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈboʊɡəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "not genuine or true; fake"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a bogus insurance claim"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0110570.005",
+                                    "shortDefinitions": [
+                                        "not genuine or true"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "fake"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "faked"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spurious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "false"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fraudulent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sham"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deceptive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "misleading"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pretended"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bogus",
+                                            "sense_id": "t_en_gb0001576.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "bogus"
+                }
+            ],
+            "type": "headword",
+            "word": "bogus"
+        }
+    ]
+}

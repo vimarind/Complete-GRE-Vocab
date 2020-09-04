@@ -1,0 +1,190 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "disseminate",
+    "results": [
+        {
+            "id": "disseminate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "disseminator",
+                            "text": "disseminator"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin disseminat- ‘scattered’, from the verb disseminare, from dis- ‘abroad’ + semen, semin- ‘seed’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "disseminate"
+                                },
+                                {
+                                    "inflectedForm": "disseminated"
+                                },
+                                {
+                                    "inflectedForm": "disseminates"
+                                },
+                                {
+                                    "inflectedForm": "disseminating"
+                                },
+                                {
+                                    "inflectedForm": "disseminated"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈseməˌnāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/disseminate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈsɛməˌneɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "spread (something, especially information) widely"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "health authorities should foster good practice by disseminating information"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0283460.005",
+                                    "shortDefinitions": [
+                                        "spread something widely"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "spread throughout an organ or the body"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "medicine",
+                                                    "text": "Medicine"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "medicine",
+                                                    "text": "Medicine"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "there is a subset of these low-grade tumors that can disseminate and migrate"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0283460.011",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "spread throughout organ or body"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "spread"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "circulate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "distribute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disperse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "diffuse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "proclaim"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "promulgate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "propagate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "publicize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "communicate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pass on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make known"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put about"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "disseminate",
+                                            "sense_id": "t_en_gb0004226.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "disseminate"
+                }
+            ],
+            "type": "headword",
+            "word": "disseminate"
+        }
+    ]
+}

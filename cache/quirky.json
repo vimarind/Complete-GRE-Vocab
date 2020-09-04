@@ -1,0 +1,170 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "quirky",
+    "results": [
+        {
+            "id": "quirky",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "quirkily",
+                            "text": "quirkily"
+                        },
+                        {
+                            "id": "quirkiness",
+                            "text": "quirkiness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "quirkier"
+                                },
+                                {
+                                    "inflectedForm": "quirkiest"
+                                },
+                                {
+                                    "inflectedForm": "quirkier"
+                                },
+                                {
+                                    "inflectedForm": "quirkiest"
+                                },
+                                {
+                                    "inflectedForm": "quirky"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈkwərkē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/quirky_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈkwərki"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "characterized by peculiar or unexpected traits"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "her sense of humor was decidedly quirky"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0838640.007",
+                                    "shortDefinitions": [
+                                        "having or characterized by peculiar or unexpected traits or aspects"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "eccentric"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "idiosyncratic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unconventional"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unorthodox"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unusual"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "off-centre"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "strange"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bizarre"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "weird"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "peculiar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "odd"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "freakish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "outlandish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "offbeat"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "out of the ordinary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Bohemian"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "alternative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "zany"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "quirky",
+                                            "sense_id": "t_en_gb0011986.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "quirky"
+                }
+            ],
+            "type": "headword",
+            "word": "quirky"
+        }
+    ]
+}

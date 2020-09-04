@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "ire",
+    "results": [
+        {
+            "id": "ire",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "ireful",
+                            "text": "ireful"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: via Old French from Latin ira"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "ire"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈī(ə)r"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/ire_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈaɪ(ə)r"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "anger"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the plans provoked the ire of conservationists"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0521610.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "anger",
+                                            "text": "Anger"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "anger"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "anger"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fury"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wrath"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hot temper"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "outrage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "temper"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crossness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spleen"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "ire",
+                                            "sense_id": "t_en_gb0008207.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "ire"
+                }
+            ],
+            "type": "headword",
+            "word": "ire"
+        }
+    ]
+}

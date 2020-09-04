@@ -1,0 +1,280 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "checkered",
+    "results": [
+        {
+            "id": "checker",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "checker"
+                                },
+                                {
+                                    "inflectedForm": "checkered"
+                                },
+                                {
+                                    "inflectedForm": "checkering"
+                                },
+                                {
+                                    "inflectedForm": "checkers"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "checker"
+                }
+            ],
+            "type": "headword",
+            "word": "checker"
+        },
+        {
+            "id": "checker",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from exchequer. The original sense ‘chessboard’ gave rise to chequered meaning ‘marked like a chessboard’; hence the sense ‘pattern of squares’ (early 16th century)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "checker"
+                                },
+                                {
+                                    "inflectedForm": "checkered"
+                                },
+                                {
+                                    "inflectedForm": "checkering"
+                                },
+                                {
+                                    "inflectedForm": "checkers"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈCHekər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/checker_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈtʃɛkər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "divide into or mark with an arrangement of squares of different color or character"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a great plain checkered with corn and green mosses"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1182036.020",
+                                    "shortDefinitions": [
+                                        "divide into or mark with arrangement of squares"
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "chequer"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "checker"
+                }
+            ],
+            "type": "headword",
+            "word": "checker"
+        },
+        {
+            "id": "checkered",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "checkered"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈCHekərd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/checkered_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈtʃɛkərd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having a pattern consisting of alternating squares of different colors"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a blue and white chequered tablecloth"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0173610.007",
+                                    "shortDefinitions": [
+                                        "having pattern consisting of alternating squares of different colours"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "checked"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "multicoloured"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "many-coloured"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "harlequin"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "varicoloured"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "particoloured"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "chequered",
+                                            "sense_id": "t_en_gb0002260.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "marked by periods of varied fortune or discreditable incidents"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the checkered history of postwar Britain"
+                                        },
+                                        {
+                                            "text": "his checkered past might hurt his electability"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0173610.011",
+                                    "shortDefinitions": [
+                                        "marked by periods of varied fortune or discreditable incidents"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "varied"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mixed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "eventful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "full of ups and downs"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "up and down"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "chequered",
+                                            "sense_id": "t_en_gb0002260.002"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "chequered"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "checkered"
+                }
+            ],
+            "type": "headword",
+            "word": "checkered"
+        }
+    ]
+}

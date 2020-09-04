@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "inquest",
+    "results": [
+        {
+            "id": "inquest",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English from Old French enqueste, based on Latin inquirere (see inquire)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "inquest"
+                                },
+                                {
+                                    "inflectedForm": "inquests"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈiNGˌkwest"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/inquest_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɪŋˌkwɛst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a judicial inquiry to ascertain the facts relating to an incident, such as a death."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0511400.015",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "legal_proceeding",
+                                            "text": "Legal_Proceeding"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "judicial inquiry into facts of incident"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "inquiry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "investigation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inquisition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "probe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "review"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "study"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "survey"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "analysis"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "examination"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exploration"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scrutinization"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "inquest",
+                                            "sense_id": "t_en_gb0007925.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "inquest"
+                }
+            ],
+            "type": "headword",
+            "word": "inquest"
+        }
+    ]
+}

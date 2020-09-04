@@ -1,0 +1,177 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "supplant",
+    "results": [
+        {
+            "id": "supplant",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "supplanter",
+                            "text": "supplanter"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French supplanter or Latin supplantare ‘trip up’, from sub- ‘from below’ + planta ‘sole’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "supplant"
+                                },
+                                {
+                                    "inflectedForm": "supplanted"
+                                },
+                                {
+                                    "inflectedForm": "supplanting"
+                                },
+                                {
+                                    "inflectedForm": "supplants"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "səˈplant"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/supplant_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "səˈplænt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "supersede and replace"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "another discovery could supplant the original finding"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1015770.005",
+                                    "shortDefinitions": [
+                                        "supersede and replace"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "replace"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "displace"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "supersede"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take the place of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take over from"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "substitute for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "undermine"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "override"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "oust"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "usurp"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overthrow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remove"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "topple"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unseat"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "depose"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dethrone"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "eject"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dispel"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "supplant",
+                                            "sense_id": "t_en_gb0014439.001"
+                                        },
+                                        {
+                                            "entry_id": "supplant",
+                                            "sense_id": "t_en_gb0014439.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "supplant"
+                }
+            ],
+            "type": "headword",
+            "word": "supplant"
+        }
+    ]
+}

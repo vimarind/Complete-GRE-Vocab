@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "pariah",
+    "results": [
+        {
+            "id": "pariah",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Tamil paṛaiyar, plural of paṛaiyan ‘(hereditary) drummer’, from paṛai ‘a drum’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "pariah"
+                                },
+                                {
+                                    "inflectedForm": "pariahs"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "pəˈrīə"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/pariah_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "pəˈraɪə"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an outcast"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they were treated as social pariahs"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0749610.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "disliked_person",
+                                            "text": "Disliked_Person"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "outcast"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "outcast"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "persona non grata"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "leper"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reject"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "untouchable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "undesirable"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "pariah",
+                                            "sense_id": "t_en_gb0010675.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a member of a low caste in southern India."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "hinduism",
+                                            "text": "Hinduism"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0749610.010",
+                                    "registers": [
+                                        {
+                                            "id": "historical",
+                                            "text": "Historical"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "hindu",
+                                            "text": "Hindu"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "member of indigenous people of southern India"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "pariah"
+                }
+            ],
+            "type": "headword",
+            "word": "pariah"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "sophomoric",
+    "results": [
+        {
+            "id": "sophomoric",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sophomoric"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌsäf(ə)ˈmôrik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sophomoric_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌsɑf(ə)ˈmɔrɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to or characteristic of a sophomore"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "my sophomoric years"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0968990.005",
+                                    "shortDefinitions": [
+                                        "relating to or characteristic of sophomore"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "pretentious or juvenile"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "sophomoric double entendres"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0968990.007",
+                                            "shortDefinitions": [
+                                                "pretentious or juvenile"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "affected"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ostentatious"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "chi-chi"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "showy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "flashy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tinselly"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "conspicuous"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "flaunty"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tasteless"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "kitschy"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "pretentious",
+                                                    "sense_id": "t_en_gb0011540.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sophomoric"
+                }
+            ],
+            "type": "headword",
+            "word": "sophomoric"
+        }
+    ]
+}

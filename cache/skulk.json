@@ -1,0 +1,226 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "skulk",
+    "results": [
+        {
+            "id": "skulk",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "skulker",
+                            "text": "skulker"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: of Scandinavian origin; compare with Norwegian skulka ‘lurk’, and Danish skulke, Swedish skolka ‘shirk’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "skulk"
+                                },
+                                {
+                                    "inflectedForm": "skulked"
+                                },
+                                {
+                                    "inflectedForm": "skulking"
+                                },
+                                {
+                                    "inflectedForm": "skulks"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "skəlk"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/skulk_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "skəlk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "keep out of sight, typically with a sinister or cowardly motive"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "don't skulk outside the door like a spy!"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0952480.005",
+                                    "shortDefinitions": [
+                                        "keep out of sight"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "move stealthily or furtively"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he spent most of his time skulking about the corridors"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0952480.011",
+                                            "notes": [
+                                                {
+                                                    "text": "with adverbial of direction",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "move stealthily or furtively"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "lurk"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "loiter"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hide"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "conceal oneself"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lie in wait"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "keep out of sight"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "skulk",
+                                                    "sense_id": "t_en_gb0013564.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "shirk one's duties or responsibilities"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "we were accused of skulking"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0952480.012",
+                                            "shortDefinitions": [
+                                                "shirk one's duties or responsibilities"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "skulk"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "skulker",
+                            "text": "skulker"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "skulk"
+                                },
+                                {
+                                    "inflectedForm": "skulks"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "skəlk"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/skulk_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "skəlk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a group of foxes"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the skulk howls away into the night"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0952480.014",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "animal_group",
+                                            "text": "Animal_Group"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "group of foxes"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "skulk"
+                }
+            ],
+            "type": "headword",
+            "word": "skulk"
+        }
+    ]
+}

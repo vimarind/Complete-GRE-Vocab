@@ -1,0 +1,185 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "paroxysm",
+    "results": [
+        {
+            "id": "paroxysm",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "paroxysmal",
+                            "text": "paroxysmal"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from French paroxysme, via medieval Latin from Greek paroxusmos, from paroxunein ‘exasperate’, from para- ‘beyond’ + oxunein ‘sharpen’ (from oxus ‘sharp’)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "paroxysm"
+                                },
+                                {
+                                    "inflectedForm": "paroxysms"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈperəkˌsizəm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/paroxysm_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpɛrəkˌsɪzəm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "a paroxysm of"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a sudden attack or violent expression of a particular emotion or activity"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "\n              a paroxysm of weeping"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0750820.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "emotional_outburst",
+                                            "text": "Emotional_Outburst"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "sudden attack or outburst of particular emotion or activity"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a sudden recurrence or attack of a disease; a sudden worsening of symptoms"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "medicine",
+                                                    "text": "Medicine"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "medicine",
+                                                    "text": "Medicine"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "paroxysms of ataxia and shaking"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0750820.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "physiological_attack",
+                                                    "text": "Physiological_Attack"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "sudden recurrence or attack of disease"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "spasm"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "attack"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "burst"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bout"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "convulsion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "seizure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "outburst"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "outbreak"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "eruption"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "explosion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "flare-up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "access"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "paroxysm",
+                                            "sense_id": "t_en_gb0010689.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "paroxysm"
+                }
+            ],
+            "type": "headword",
+            "word": "paroxysm"
+        }
+    ]
+}

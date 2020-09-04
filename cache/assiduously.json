@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "assiduously",
+    "results": [
+        {
+            "id": "assiduously",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "assiduously"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈsijo͞oəslē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/assiduously_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈsɪdʒuəsli"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "with great care and perseverance"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "leaders worked assiduously to hammer out an action plan"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0052710.005",
+                                    "shortDefinitions": [
+                                        "with great care and perseverance"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adverb",
+                        "text": "Adverb"
+                    },
+                    "text": "assiduously"
+                }
+            ],
+            "type": "headword",
+            "word": "assiduously"
+        }
+    ]
+}

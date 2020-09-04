@@ -1,0 +1,185 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "perilous",
+    "results": [
+        {
+            "id": "perilous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "perilousness",
+                            "text": "perilousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French perillous, from Latin periculosus, from periculum ‘danger’ (see peril)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "perilous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈperələs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/perilous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpɛrələs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "full of danger or risk"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a perilous journey south"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0766300.005",
+                                    "shortDefinitions": [
+                                        "full of danger or risk"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "exposed to imminent risk of disaster or ruin"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the economy is in a perilous state"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0766300.007",
+                                            "shortDefinitions": [
+                                                "exposed to imminent risk of disaster or ruin"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "dangerous"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "risky"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "perilous"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hazardous"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "precarious"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "life-threatening"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "high-risk"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "treacherous"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "insecure"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unsound"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "vulnerable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "exposed"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "defenceless"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "unsafe",
+                                                    "sense_id": "t_en_gb0015641.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "dangerous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fraught with danger"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hazardous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "risky"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unsafe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "treacherous"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "perilous",
+                                            "sense_id": "t_en_gb0010909.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "perilous"
+                }
+            ],
+            "type": "headword",
+            "word": "perilous"
+        }
+    ]
+}

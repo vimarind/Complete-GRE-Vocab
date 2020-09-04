@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "collude",
+    "results": [
+        {
+            "id": "collude",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "colluder",
+                            "text": "colluder"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: from Latin colludere ‘have a secret agreement’, from col- ‘together’ + ludere ‘to play’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "collude"
+                                },
+                                {
+                                    "inflectedForm": "colluded"
+                                },
+                                {
+                                    "inflectedForm": "colludes"
+                                },
+                                {
+                                    "inflectedForm": "colluding"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kəˈlo͞od"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/collude_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kəˈlud"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cooperate in a secret or unlawful way in order to deceive or gain an advantage over others"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the president accused his opponents of colluding with foreigners"
+                                        },
+                                        {
+                                            "text": "university leaders colluded in price-rigging"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0200260.005",
+                                    "shortDefinitions": [
+                                        "cooperate in secret or unlawful way"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "conspire"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "connive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "intrigue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be hand in glove"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plot"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "participate in a conspiracy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "collaborate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scheme"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "collude",
+                                            "sense_id": "t_en_gb0002536.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "collude"
+                }
+            ],
+            "type": "headword",
+            "word": "collude"
+        }
+    ]
+}

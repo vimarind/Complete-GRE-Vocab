@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "plutocracy",
+    "results": [
+        {
+            "id": "plutocracy",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Greek ploutokratia, from ploutos ‘wealth’ + kratos ‘strength, authority’"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "plutocracies"
+                                },
+                                {
+                                    "inflectedForm": "plutocracy"
+                                },
+                                {
+                                    "inflectedForm": "plutocracies"
+                                },
+                                {
+                                    "inflectedForm": "plutocracy"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "See aristocracy",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "plo͞oˈtäkrəsē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/plutocracy_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "pluˈtɑkrəsi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "government by the wealthy"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the attack on the Bank of England was a gesture against the very symbol of plutocracy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0791850.007",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "political_system",
+                                            "text": "Political_System"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "government by wealthy"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a country or society governed by the wealthy"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "politics",
+                                                    "text": "Politics"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "no one can accept public policies which turn a democracy into a plutocracy"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0791850.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "nation",
+                                                    "text": "Nation"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "state or society governed by wealthy"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "an elite or ruling class of people whose power derives from their wealth"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "officials were drawn from the new plutocracy"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0791850.012",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "class",
+                                                    "text": "Class"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "elite or ruling class whose power derives from their wealth"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "plutocracy"
+                }
+            ],
+            "type": "headword",
+            "word": "plutocracy"
+        }
+    ]
+}

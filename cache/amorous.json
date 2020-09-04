@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "amorous",
+    "results": [
+        {
+            "id": "amorous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "amorously",
+                            "text": "amorously"
+                        },
+                        {
+                            "id": "amorousness",
+                            "text": "amorousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: via Old French from medieval Latin amorosus, from Latin amor ‘love’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "amorous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈam(ə)rəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/amorous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈæm(ə)rəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "showing, feeling, or relating to sexual desire"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she rejected his amorous advances"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0029280.005",
+                                    "shortDefinitions": [
+                                        "showing, feeling, or relating to sexual desire"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "lustful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sexual"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "erotic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "amatory"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ardent"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "amorous",
+                                            "sense_id": "t_en_gb0000545.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "amorous"
+                }
+            ],
+            "type": "headword",
+            "word": "amorous"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "ramification",
+    "results": [
+        {
+            "id": "ramification",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from French, from ramifier ‘form branches’ (see ramify)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "ramification"
+                                },
+                                {
+                                    "inflectedForm": "ramifications"
+                                },
+                                {
+                                    "inflectedForm": "ramification"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "usually \"ramifications\"",
+                                    "type": "wordFormNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌraməfəˈkāSH(ə)n"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/ramification_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌræməfəˈkeɪʃ(ə)n"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a consequence of an action or event, especially when complex or unwelcome"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "any change is bound to have legal ramifications"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0843820.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "effect",
+                                            "text": "Effect"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "complex or unwelcome consequence of action or event"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a subdivision of a complex structure or process perceived as comparable to a tree's branches"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an extended family with its ramifications of neighboring in-laws"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0843820.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "part",
+                                                    "text": "Part"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "subdivision of complex structure or process"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the action or state of ramifying or being ramified"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a coronary angiogram showed ramification of the right coronary artery close to the ostium"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0843820.009",
+                                            "registers": [
+                                                {
+                                                    "id": "formal",
+                                                    "text": "Formal"
+                                                },
+                                                {
+                                                    "id": "technical",
+                                                    "text": "Technical"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "natural_process",
+                                                    "text": "Natural_Process"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "action of ramifying or state of being ramified"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "consequence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "result"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "aftermath"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "outcome"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "effect"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "upshot"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "issue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sequel"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "ramification",
+                                            "sense_id": "t_en_gb0012048.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "ramification"
+                }
+            ],
+            "type": "headword",
+            "word": "ramification"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "fiasco",
+    "results": [
+        {
+            "id": "fiasco",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 19th century: from Italian, literally ‘bottle, flask’, in the phrase far fiasco, literally ‘make a bottle’, figuratively ‘fail in a performance’: the reason for the figurative sense is unexplained"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "fiascos"
+                                },
+                                {
+                                    "inflectedForm": "fiasco"
+                                },
+                                {
+                                    "inflectedForm": "fiascos"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "fēˈaskō"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/fiasco_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "fiˈæskoʊ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a thing that is a complete failure, especially in a ludicrous or humiliating way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his plans turned into a fiasco"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0358680.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "failure",
+                                            "text": "Failure"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "complete failure"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "failure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disaster"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "catastrophe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "debacle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shambles"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "farce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mess"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wreck"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ruin"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ruination"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blunder"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "botch"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abortion"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "fiasco",
+                                            "sense_id": "t_en_gb0005611.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "fiasco"
+                }
+            ],
+            "type": "headword",
+            "word": "fiasco"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "panacea",
+    "results": [
+        {
+            "id": "panacea",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "panacean",
+                            "text": "panacean"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: via Latin from Greek panakeia, from panakēs ‘all-healing’, from pan ‘all’ + akos ‘remedy’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "panacea"
+                                },
+                                {
+                                    "inflectedForm": "panaceas"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌpanəˈsēə"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/panacea_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌpænəˈsiə"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a solution or remedy for all difficulties or diseases"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "pharmaceutics",
+                                            "text": "Pharmaceutics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the panacea for all corporate ills"
+                                        },
+                                        {
+                                            "text": "the time-honored panacea, cod liver oil"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0744170.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "drug",
+                                            "text": "Drug"
+                                        },
+                                        {
+                                            "id": "solution",
+                                            "text": "Solution"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "solution or remedy for all difficulties or diseases"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "universal cure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cure-all"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cure for all ills"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "universal remedy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sovereign remedy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "heal-all"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "nostrum"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "elixir"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wonder drug"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perfect solution"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "magic formula"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "magic bullet"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "panacea",
+                                            "sense_id": "t_en_gb0010615.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "panacea"
+                }
+            ],
+            "type": "headword",
+            "word": "panacea"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "burdensome",
+    "results": [
+        {
+            "id": "burdensome",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "burdensome"
+                                },
+                                {
+                                    "inflectedForm": "burdensome"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbərdnsəm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/burdensome_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbərdnsəm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "difficult to carry out or fulfill; taxing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the burdensome responsibilities of professional life"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0135570.005",
+                                    "shortDefinitions": [
+                                        "difficult to carry out or fulfil"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "undesirably restrictive"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "bureaucratically burdensome assessment procedures"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0135570.006",
+                                            "shortDefinitions": [
+                                                "undesirably restrictive"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "onerous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "oppressive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "troublesome"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "weighty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "worrisome"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vexatious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "irksome"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trying"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crushing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inconvenient"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "awkward"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "a nuisance"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "burdensome",
+                                            "sense_id": "t_en_gb0001873.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "burdensome"
+                }
+            ],
+            "type": "headword",
+            "word": "burdensome"
+        }
+    ]
+}

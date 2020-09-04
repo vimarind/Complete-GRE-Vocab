@@ -1,0 +1,459 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "hound",
+    "results": [
+        {
+            "id": "hound",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English hund (in the general sense ‘dog’), of Germanic origin; related to Dutch hond and German Hund, from an Indo-European root shared by Greek kuōn, kun- ‘dog’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "hound"
+                                },
+                                {
+                                    "inflectedForm": "hounds"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "hound"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/hound_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "haʊnd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a dog of a breed used for hunting, especially one able to track by scent."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "breed",
+                                            "text": "Breed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0481670.016",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "dog",
+                                            "text": "Dog"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "dog of breed used for hunting"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a person who avidly pursues something"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he has a reputation as a publicity hound"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0481670.020",
+                                            "notes": [
+                                                {
+                                                    "text": "with modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "person",
+                                                    "text": "Person"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "person who avidly pursues something"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a despicable or contemptible man."
+                                            ],
+                                            "id": "m_en_gbus0481670.021",
+                                            "registers": [
+                                                {
+                                                    "id": "informal",
+                                                    "text": "Informal"
+                                                },
+                                                {
+                                                    "id": "dated",
+                                                    "text": "Dated"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "disliked_person",
+                                                    "text": "Disliked_Person"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "despicable or contemptible man"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "scoundrel"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "villain"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rogue"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rascal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "brute"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "animal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "weasel"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "snake"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "monster"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ogre"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "wretch"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "devil"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "good-for-nothing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "reprobate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "wrongdoer"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "evil-doer"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "bastard",
+                                                    "sense_id": "t_en_gb0001196.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "used in names of dogfishes, e.g., nurse hound, smooth hound."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "fish",
+                                                    "text": "Fish"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0481670.022",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "shark",
+                                                    "text": "Shark"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "used in names of dogfishes"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "dog"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hunting dog"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "canine"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mongrel"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cur"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "hound",
+                                            "sense_id": "t_en_gb0007159.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "hound"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "hound"
+                                },
+                                {
+                                    "inflectedForm": "hounded"
+                                },
+                                {
+                                    "inflectedForm": "hounding"
+                                },
+                                {
+                                    "inflectedForm": "hounds"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "hound"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/hound_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "haʊnd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "harass, persecute, or pursue relentlessly"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his opponents used the allegations to hound him out of office"
+                                        },
+                                        {
+                                            "text": "a tenacious attorney general who had hounded Jimmy Hoffa and other labor bosses"
+                                        },
+                                        {
+                                            "text": "he led the race from start to finish but was hounded all the way by Phillips"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0481670.026",
+                                    "shortDefinitions": [
+                                        "harass, persecute, or pursue relentlessly"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "harass"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "persecute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "harry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pester"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bother"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trouble"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "annoy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "badger"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "torment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bedevil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "keep after"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "force"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pressure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pressurize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "propel"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "push"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "urge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "coerce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impel"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dragoon"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "strong-arm"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pursue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chase"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "follow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shadow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give chase to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "follow on the heels of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be hot on someone's heels"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "hound",
+                                            "sense_id": "t_en_gb0007159.003"
+                                        },
+                                        {
+                                            "entry_id": "hound",
+                                            "sense_id": "t_en_gb0007159.004"
+                                        },
+                                        {
+                                            "entry_id": "hound",
+                                            "sense_id": "t_en_gb0007159.005"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "hound"
+                }
+            ],
+            "type": "headword",
+            "word": "hound"
+        }
+    ]
+}

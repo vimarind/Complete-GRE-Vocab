@@ -1,0 +1,150 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "retrenchment",
+    "results": [
+        {
+            "id": "retrenchment",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "retrenchment"
+                                },
+                                {
+                                    "inflectedForm": "retrenchments"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rēˈtren(t)SHmənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/retrenchment_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "riˈtrɛn(t)ʃmənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the reduction of costs or spending in response to economic difficulty"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "economics",
+                                            "text": "Economics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this period of retrenchment will see companies shed staff"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "closures and retrenchments have become the order of the day"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0868030.004",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "decrease",
+                                            "text": "Decrease"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "reduction of costs or spending in response to economic difficulty"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the action of dismissing an employee from a job"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he ordered the retrenchment of 420 civil servants"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0868030.007",
+                                            "regions": [
+                                                {
+                                                    "id": "australian",
+                                                    "text": "Australian"
+                                                },
+                                                {
+                                                    "id": "south_african",
+                                                    "text": "South_African"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "decrease",
+                                                    "text": "Decrease"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "action of making employee redundant"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "reduction in the extent or quantity of something"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the retrenchment of the welfare state"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0868030.008",
+                                            "registers": [
+                                                {
+                                                    "id": "formal",
+                                                    "text": "Formal"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "decrease",
+                                                    "text": "Decrease"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "reduction in extent or quantity of something"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "retrenchment"
+                }
+            ],
+            "type": "headword",
+            "word": "retrenchment"
+        }
+    ]
+}

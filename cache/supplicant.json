@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "supplicant",
+    "results": [
+        {
+            "id": "supplicant",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "supplicant"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsəplək(ə)nt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/supplicant_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsəplək(ə)nt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "making or expressing a plea, especially to someone in power or authority"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a supplicant serf before an ill-tempered monarch"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1186425.004",
+                                    "shortDefinitions": [
+                                        "making plea"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "supplicant"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "supplicant"
+                                },
+                                {
+                                    "inflectedForm": "supplicants"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsəplək(ə)nt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/supplicant_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsəplək(ə)nt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person making a humble or earnest plea to someone in power or authority"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we are equals and not supplicants begging for work"
+                                        },
+                                        {
+                                            "text": "supplicants prostrate themselves on the floor"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1186425.007",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "person",
+                                            "text": "Person"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person making humble or earnest plea to someone in power or authority"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "supplicant"
+                }
+            ],
+            "type": "headword",
+            "word": "supplicant"
+        }
+    ]
+}

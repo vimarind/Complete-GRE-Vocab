@@ -1,0 +1,210 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "adamant",
+    "results": [
+        {
+            "id": "adamant",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "adamance",
+                            "text": "adamance"
+                        },
+                        {
+                            "id": "adamancy",
+                            "text": "adamancy"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English (as a noun), from Old French adamaunt-, via Latin from Greek adamas, adamant-, ‘untameable, invincible’ (later used to denote the hardest metal or stone, hence diamond), from a- ‘not’ + daman ‘to tame’. The phrase to be adamant dates from the 1930s, although adjectival use had been implied in such collocations as ‘an adamant heart’ since the 16th century"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "adamant"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈadəmənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/adamant_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈædəmənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "refusing to be persuaded or to change one's mind"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he is adamant that he is not going to resign"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0008720.005",
+                                    "shortDefinitions": [
+                                        "refusing to be persuaded or to change one's mind"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "unshakeable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "immovable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inflexible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unwavering"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "uncompromising"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "resolute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "resolved"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "determined"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "firm"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rigid"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "steadfast"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "adamant",
+                                            "sense_id": "t_en_gb0000224.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "adamant"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "adamance",
+                            "text": "adamance"
+                        },
+                        {
+                            "id": "adamancy",
+                            "text": "adamancy"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "adamant"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈadəmənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/adamant_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈædəmənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a legendary rock or mineral to which many, often contradictory, properties were attributed, formerly associated with diamond or lodestone."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "rock",
+                                            "text": "Rock"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0008720.008",
+                                    "registers": [
+                                        {
+                                            "id": "archaic",
+                                            "text": "Archaic"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "rock",
+                                            "text": "Rock"
+                                        },
+                                        {
+                                            "id": "mineral",
+                                            "text": "Mineral"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "legendary rock or mineral to which many properties were attributed"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "adamant"
+                }
+            ],
+            "type": "headword",
+            "word": "adamant"
+        }
+    ]
+}

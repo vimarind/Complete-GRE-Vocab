@@ -1,0 +1,191 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "bauble",
+    "results": [
+        {
+            "id": "bauble",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French baubel ‘child's toy’, of unknown origin"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bauble"
+                                },
+                                {
+                                    "inflectedForm": "baubles"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbôbəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bauble_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbɔbəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a small, showy trinket or decoration"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "clutch bags embellished with glittering baubles"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0078960.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "decoration",
+                                            "text": "Decoration"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "small, showy trinket or decoration"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "something that is superficially attractive but useless or worthless"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "people in quest of honors are wasting time and effort to secure baubles"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0078960.010",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "minor_thing",
+                                                    "text": "Minor_Thing"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "something of no importance or worth"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "trinket"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "knick-knack"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ornament"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "toy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "novelty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "curiosity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gimmick"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plaything"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trifle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "frippery"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gewgaw"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gimcrack"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bagatelle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bibelot"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "furbelow"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bauble",
+                                            "sense_id": "t_en_gb0001219.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a baton formerly used as an emblem by jesters."
+                                    ],
+                                    "id": "m_en_gbus0078960.012",
+                                    "registers": [
+                                        {
+                                            "id": "historical",
+                                            "text": "Historical"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "regalia",
+                                            "text": "Regalia"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "baton formerly used as emblem by jesters"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "bauble"
+                }
+            ],
+            "type": "headword",
+            "word": "bauble"
+        }
+    ]
+}

@@ -1,0 +1,269 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "vigor",
+    "results": [
+        {
+            "id": "vigor",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "vigourless",
+                            "text": "vigourless"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French, from Latin vigor, from vigere ‘be lively’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "vigor"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈviɡər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/vigor_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈvɪɡər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "physical strength and good health"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I was 79, but still full of vigor and vitality"
+                                        },
+                                        {
+                                            "text": "he has managed to retain his youthful vigor"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1129660.007",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "physiological_state",
+                                            "text": "Physiological_State"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "physical strength and good health"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "effort, energy, and enthusiasm"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they set about the new task with vigor"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1129660.010",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "characteristic",
+                                                    "text": "Characteristic"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "effort, energy, and enthusiasm"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "robustness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "healthiness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "good health"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hardiness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "strength"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stamina"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sturdiness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fitness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "good shape"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "good trim"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "good condition"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fine fettle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "toughness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ruggedness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "muscle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "power"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "vigour",
+                                                    "sense_id": "t_en_gb0015958.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "robustness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "healthiness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "good health"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hardiness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "strength"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stamina"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sturdiness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fitness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "good shape"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "good trim"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "good condition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fine fettle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "toughness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ruggedness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "muscle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "power"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "vigour",
+                                            "sense_id": "t_en_gb0015958.001"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "vigour"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "in_vigour",
+                            "text": "in vigour"
+                        }
+                    ],
+                    "text": "vigor"
+                }
+            ],
+            "type": "headword",
+            "word": "vigor"
+        }
+    ]
+}

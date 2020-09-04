@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "concoct",
+    "results": [
+        {
+            "id": "concoct",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "concocter",
+                            "text": "concocter"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin concoct-, literally ‘cooked together’, from concoquere. The original sense was ‘refine metals or minerals by heating’, later ‘cook’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "concoct"
+                                },
+                                {
+                                    "inflectedForm": "concocted"
+                                },
+                                {
+                                    "inflectedForm": "concocting"
+                                },
+                                {
+                                    "inflectedForm": "concocts"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kənˈkäkt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconcoct_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kənˈkɑkt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (a dish or meal) by combining various ingredients"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they concoct relish from corn that is so naturally sweet no extra sugar is needed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0208650.005",
+                                    "shortDefinitions": [
+                                        "make dish or meal by combining various ingredients"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "create or devise (a story or plan)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they concocted a preposterous but entertaining story"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0208650.015",
+                                            "shortDefinitions": [
+                                                "create or devise"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "make up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "think up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dream up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fabricate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "invent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "contrive"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "manufacture"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "trump up"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "concoct",
+                                                    "sense_id": "t_en_gb0002742.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "prepare"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put together"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "assemble"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "concoct",
+                                            "sense_id": "t_en_gb0002742.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "concoct"
+                }
+            ],
+            "type": "headword",
+            "word": "concoct"
+        }
+    ]
+}

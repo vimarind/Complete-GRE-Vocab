@@ -1,0 +1,174 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "sclerotic",
+    "results": [
+        {
+            "id": "sclerotic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "sclerotitis",
+                            "text": "sclerotitis"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sclerotic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "skləˈrädik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sclerotic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "skləˈrɑdɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "of or having sclerosis."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0908910.007",
+                                    "shortDefinitions": [
+                                        "of or having sclerosis"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "becoming rigid and unresponsive; losing the ability to adapt"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "sclerotic management"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0908910.010",
+                                    "shortDefinitions": [
+                                        "becoming rigid and unresponsive"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to the sclera."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "anatomy",
+                                            "text": "Anatomy"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "anatomy",
+                                            "text": "Anatomy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0908910.012",
+                                    "shortDefinitions": [
+                                        "relating to sclera"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sclerotic"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "sclerotitis",
+                            "text": "sclerotitis"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sclerotic"
+                                },
+                                {
+                                    "inflectedForm": "sclerotics"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "skləˈrädik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sclerotic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "skləˈrɑdɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "another term for sclera"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "sclera",
+                                            "text": "sclera",
+                                            "type": "another term for"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0908910.014"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "sclerotic"
+                }
+            ],
+            "type": "headword",
+            "word": "sclerotic"
+        }
+    ]
+}

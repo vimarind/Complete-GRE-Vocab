@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "incubation",
+    "results": [
+        {
+            "id": "incubation",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "incubative",
+                            "text": "incubative"
+                        },
+                        {
+                            "id": "incubatory",
+                            "text": "incubatory"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin incubatio(n-) ‘brooding’, from the verb incubare (see incubate)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "incubation"
+                                },
+                                {
+                                    "inflectedForm": "incubations"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌiNGkyəˈbāSH(ə)n"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/incubation_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɪŋkjəˈbeɪʃ(ə)n"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the process of incubating eggs, cells, bacteria, a disease, etc."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        },
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the chick hatches after a month's incubation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0502820.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "biological_process",
+                                            "text": "Biological_Process"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "process of incubating eggs, cells, bacteria, disease"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "pregnancy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "development"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "incubation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "maturation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ripening"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "gestation",
+                                            "sense_id": "t_en_gb0006311.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "incubation"
+                }
+            ],
+            "type": "headword",
+            "word": "incubation"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "facile",
+    "results": [
+        {
+            "id": "facile",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "facilely",
+                            "text": "facilely"
+                        },
+                        {
+                            "id": "facileness",
+                            "text": "facileness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the sense ‘easily accomplished’): from French, or from Latin facilis ‘easy’, from facere ‘do, make’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "facile"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfasəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/facile_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfæsəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(especially of a theory or argument) appearing neat and comprehensive only by ignoring the true complexities of an issue; superficial"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "facile generalizations"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0346520.007",
+                                    "shortDefinitions": [
+                                        "ignoring true complexities of issue"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person) having a superficial or simplistic knowledge or approach"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a man of facile and shallow intellect"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0346520.009",
+                                            "shortDefinitions": [
+                                                "having superficial or simplistic knowledge or approach"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "simplistic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "superficial"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "oversimple"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "oversimplified"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "schematic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "black and white"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "facile",
+                                            "sense_id": "t_en_gb0005396.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(especially of success in sports) easily achieved; effortless"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a facile victory"
+                                        },
+                                        {
+                                            "text": "he was revealed to be a facile liar"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0346520.011",
+                                    "shortDefinitions": [
+                                        "easily achieved"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "effortless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "easy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "undemanding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unexacting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "painless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trouble-free"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unchallenged"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "facile",
+                                            "sense_id": "t_en_gb0005396.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "facile"
+                }
+            ],
+            "type": "headword",
+            "word": "facile"
+        }
+    ]
+}

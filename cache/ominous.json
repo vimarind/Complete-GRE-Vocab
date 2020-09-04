@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "ominous",
+    "results": [
+        {
+            "id": "ominous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "ominousness",
+                            "text": "ominousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Latin ominosus, from omen, omin- ‘omen’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "ominous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈämənəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/ominous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɑmənəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "giving the impression that something bad or unpleasant is going to happen; threatening; inauspicious"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there were ominous dark clouds gathering overhead"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0718210.005",
+                                    "shortDefinitions": [
+                                        "giving worrying impression that something bad is going to happen"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "threatening"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "menacing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "baleful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forbidding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sinister"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "doomy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inauspicious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unpropitious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "portentous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unfavourable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dire"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unpromising"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "ominous",
+                                            "sense_id": "t_en_gb0010286.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "ominous"
+                }
+            ],
+            "type": "headword",
+            "word": "ominous"
+        }
+    ]
+}

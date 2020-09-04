@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "profligacy",
+    "results": [
+        {
+            "id": "profligacy",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "profligacies"
+                                },
+                                {
+                                    "inflectedForm": "profligacy"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpräfləɡəsē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/profligacy_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈprɑfləɡəsi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "reckless extravagance or wastefulness in the use of resources"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the government returned to fiscal profligacy"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "his financial prudence corrected the profligacies of Nero"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0819200.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "behaviour",
+                                            "text": "Behaviour"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "reckless extravagance or wastefulness in use of resources"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "licentious or dissolute behavior"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the emperor's sexual profligacy"
+                                        },
+                                        {
+                                            "text": "an era of extreme decadence and profligacy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0819200.009",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "behaviour",
+                                            "text": "Behaviour"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "licentious or dissolute behaviour"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "profligacy"
+                }
+            ],
+            "type": "headword",
+            "word": "profligacy"
+        }
+    ]
+}

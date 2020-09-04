@@ -1,0 +1,189 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "enchant",
+    "results": [
+        {
+            "id": "enchant",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the senses ‘put under a spell’ and ‘delude’; formerly also as inchant): from French enchanter, from Latin incantare, from in- ‘in’ + cantare ‘sing’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "enchant"
+                                },
+                                {
+                                    "inflectedForm": "enchanted"
+                                },
+                                {
+                                    "inflectedForm": "enchanting"
+                                },
+                                {
+                                    "inflectedForm": "enchants"
+                                },
+                                {
+                                    "inflectedForm": "enchanted"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈCHant"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/enchant_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈtʃænt"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "enˈCHant"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/enchant_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɛnˈtʃænt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "fill (someone) with great delight; charm"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Isabel was enchanted with the idea"
+                                        },
+                                        {
+                                            "text": "the scenery began to enchant her"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0322450.008",
+                                    "shortDefinitions": [
+                                        "fill someone with great delight"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "captivate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "charm"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "delight"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dazzle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "enrapture"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "entrance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "enthral"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "beguile"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bewitch"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spellbind"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ensnare"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fascinate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hypnotize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mesmerize"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "enchant",
+                                            "sense_id": "t_en_gb0004808.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "put (someone or something) under a spell; bewitch"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Marcia had enchanted the rope so that it simply regenerated when any length was cut off"
+                                        },
+                                        {
+                                            "text": "you have been enchanted by some spirits"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0322450.026",
+                                    "shortDefinitions": [
+                                        "put under spell"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "enchant"
+                }
+            ],
+            "type": "headword",
+            "word": "enchant"
+        }
+    ]
+}

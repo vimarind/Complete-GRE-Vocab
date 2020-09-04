@@ -1,0 +1,201 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "entreat",
+    "results": [
+        {
+            "id": "entreat",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "entreatment",
+                            "text": "entreatment"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘treat, act towards (someone)’; formerly also as intreat): from Old French entraitier, based on traitier ‘to treat’, from Latin tractare ‘to handle’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "entreat"
+                                },
+                                {
+                                    "inflectedForm": "entreated"
+                                },
+                                {
+                                    "inflectedForm": "entreating"
+                                },
+                                {
+                                    "inflectedForm": "entreats"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈtrēt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/entreat_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈtrit"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "enˈtrēt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/entreat_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɛnˈtrit"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "ask someone earnestly or anxiously to do something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with object and infinitive",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "his friends entreated him not to go"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0327110.009",
+                                    "notes": [
+                                        {
+                                            "text": "reporting verb",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "ask someone earnestly or anxiously to do something"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "ask earnestly or anxiously for (something)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a message had been sent, entreating aid for the Navajos"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0327110.019",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "ask earnestly or anxiously for"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "implore"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "beseech"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "beg"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plead with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "supplicate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pray"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ask"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "request"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "entreat",
+                                            "sense_id": "t_en_gb0004955.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "treat (someone) in a specified manner"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the King, I fear, hath ill entreated her"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0327110.021",
+                                    "notes": [
+                                        {
+                                            "text": "with object and adverbial",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "registers": [
+                                        {
+                                            "id": "archaic",
+                                            "text": "Archaic"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "treat someone in specified manner"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "entreat"
+                }
+            ],
+            "type": "headword",
+            "word": "entreat"
+        }
+    ]
+}

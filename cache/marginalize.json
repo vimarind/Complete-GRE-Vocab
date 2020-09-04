@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "marginalize",
+    "results": [
+        {
+            "id": "marginalize",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "marginalise"
+                                },
+                                {
+                                    "inflectedForm": "marginalised"
+                                },
+                                {
+                                    "inflectedForm": "marginalises"
+                                },
+                                {
+                                    "inflectedForm": "marginalising"
+                                },
+                                {
+                                    "inflectedForm": "marginalize"
+                                },
+                                {
+                                    "inflectedForm": "marginalized"
+                                },
+                                {
+                                    "inflectedForm": "marginalizes"
+                                },
+                                {
+                                    "inflectedForm": "marginalizing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmärjənəˌlīz"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/marginalize_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmɑrdʒənəˌlaɪz"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "treat (a person, group, or concept) as insignificant or peripheral"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "attempts to marginalize those who disagree"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0617920.006",
+                                    "shortDefinitions": [
+                                        "treat as insignificant or peripheral"
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "marginalise"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "marginalize"
+                }
+            ],
+            "type": "headword",
+            "word": "marginalize"
+        }
+    ]
+}

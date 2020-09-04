@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "reprisal",
+    "results": [
+        {
+            "id": "reprisal",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Anglo-Norman French reprisaille, from medieval Latin reprisalia (neuter plural), based on Latin repraehens- ‘seized’, from the verb repraehendere (see reprehend). The current sense dates from the early 18th century"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "reprisal"
+                                },
+                                {
+                                    "inflectedForm": "reprisals"
+                                },
+                                {
+                                    "inflectedForm": "reprisal"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rəˈprīzəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/reprisal_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rəˈpraɪzəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an act of retaliation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "three youths died in the reprisals that followed"
+                                        },
+                                        {
+                                            "text": "the threat of reprisal"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0863370.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "action",
+                                            "text": "Action"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "act of retaliation"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the forcible seizure of a foreign subject or their goods as an act of retaliation."
+                                            ],
+                                            "id": "m_en_gbus0863370.008",
+                                            "registers": [
+                                                {
+                                                    "id": "historical",
+                                                    "text": "Historical"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "action",
+                                                    "text": "Action"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "forcible seizure of foreign subject"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "retaliation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "counterattack"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "counterstroke"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "comeback"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "reprisal",
+                                            "sense_id": "t_en_gb0012449.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "reprisal"
+                }
+            ],
+            "type": "headword",
+            "word": "reprisal"
+        }
+    ]
+}

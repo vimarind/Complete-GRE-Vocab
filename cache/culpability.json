@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "culpability",
+    "results": [
+        {
+            "id": "culpability",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "culpability"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌkəlpəˈbilədē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/culpability_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌkəlpəˈbɪlədi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "responsibility for a fault or wrong; blame"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a level of moral culpability"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0240460.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "personal_attribute",
+                                            "text": "Personal_Attribute"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "responsibility for fault or wrong"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "guilt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blame"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fault"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "responsibility"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "accountability"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "liability"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "answerability"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "culpability",
+                                            "sense_id": "t_en_gb0003298.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "culpability"
+                }
+            ],
+            "type": "headword",
+            "word": "culpability"
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "alleviate",
+    "results": [
+        {
+            "id": "alleviate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "alleviative",
+                            "text": "alleviative"
+                        },
+                        {
+                            "id": "alleviator",
+                            "text": "alleviator"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from late Latin alleviat- ‘lightened’, from the verb alleviare, from Latin allevare, from ad- ‘to’ + levare ‘raise’, influenced by levis ‘light’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "alleviate"
+                                },
+                                {
+                                    "inflectedForm": "alleviated"
+                                },
+                                {
+                                    "inflectedForm": "alleviates"
+                                },
+                                {
+                                    "inflectedForm": "alleviating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈlēvēˌāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/alleviate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈliviˌeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (suffering, deficiency, or a problem) less severe"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he couldn't prevent her pain, only alleviate it"
+                                        },
+                                        {
+                                            "text": "measures to alleviate unemployment"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0023680.005",
+                                    "shortDefinitions": [
+                                        "make suffering, deficiency, or problem less severe"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "reduce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ease"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "relieve"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take the edge off"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deaden"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dull"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "diminish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lessen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "weaken"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lighten"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "attenuate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "allay"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "assuage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "palliate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "damp"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "soothe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "help"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "soften"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "temper"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "control"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "still"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quell"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tone down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blunt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dilute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "moderate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mitigate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "modify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lull"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pacify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "placate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mollify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sweeten"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "alleviate",
+                                            "sense_id": "t_en_gb0000457.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "alleviate"
+                }
+            ],
+            "type": "headword",
+            "word": "alleviate"
+        }
+    ]
+}

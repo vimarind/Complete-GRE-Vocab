@@ -1,0 +1,399 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "rue",
+    "results": [
+        {
+            "id": "rue",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English hrēow ‘repentance’, hrēowan ‘affect with contrition’, of Germanic origin; related to Dutch rouw ‘mourning’ and German Reue ‘remorse’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "rues"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "rueing"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "ruing"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "rued"
+                                },
+                                {
+                                    "inflectedForm": "rue"
+                                },
+                                {
+                                    "inflectedForm": "rued"
+                                },
+                                {
+                                    "inflectedForm": "rueing"
+                                },
+                                {
+                                    "inflectedForm": "rues"
+                                },
+                                {
+                                    "inflectedForm": "ruing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ro͞o"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/rue_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ru"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "bitterly regret (something one has done or allowed to happen)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Ferguson will rue the day he turned down that offer"
+                                        },
+                                        {
+                                            "text": "she might live to rue this impetuous decision"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0887510.008",
+                                    "shortDefinitions": [
+                                        "bitterly regret and wish it undone"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "regret"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be sorry about"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "feel apologetic about"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "feel remorseful about"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "feel remorse for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "repent of"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "rue",
+                                            "sense_id": "t_en_gb0012768.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "rue"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "rue"
+                                },
+                                {
+                                    "inflectedForm": "rue"
+                                },
+                                {
+                                    "inflectedForm": "rues"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ro͞o"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/rue_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ru"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "repentance; regret"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "with rue my heart is laden"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0887510.016",
+                                    "registers": [
+                                        {
+                                            "id": "archaic",
+                                            "text": "Archaic"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "sadness",
+                                            "text": "Sadness"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "repentance"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "compassion; pity"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "tears of pitying rue"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0887510.018",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "feeling",
+                                                    "text": "Feeling"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "compassion"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "rue"
+                }
+            ],
+            "type": "headword",
+            "word": "rue"
+        },
+        {
+            "id": "rue",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French, via Latin from Greek rhutē"
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "rue"
+                                },
+                                {
+                                    "inflectedForm": "rue"
+                                },
+                                {
+                                    "inflectedForm": "rues"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ro͞o"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/rue_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ru"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a perennial evergreen shrub with bitter strong-scented lobed leaves which are used in herbal medicine."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "plant",
+                                            "text": "Plant"
+                                        },
+                                        {
+                                            "id": "complementary_medicine",
+                                            "text": "Complementary_Medicine"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0887520.005",
+                                    "notes": [
+                                        {
+                                            "text": "Ruta graveolens, family Rutaceae",
+                                            "type": "technicalNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "shrub",
+                                            "text": "Shrub"
+                                        },
+                                        {
+                                            "id": "complementary_drug",
+                                            "text": "Complementary_Drug"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "perennial evergreen shrub with bitter strong-scented lobed leaves which are used in herbal medicine"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "used in names of other plants that resemble rue, especially in leaf shape, e.g., goat's-rue, meadow rue, wall rue."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "plant",
+                                                    "text": "Plant"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0887520.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "plant",
+                                                    "text": "Plant"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "used in names of other plants that resemble rue"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "rue"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "rue"
+                                },
+                                {
+                                    "inflectedForm": "rued"
+                                },
+                                {
+                                    "inflectedForm": "rueing"
+                                },
+                                {
+                                    "inflectedForm": "rues"
+                                },
+                                {
+                                    "inflectedForm": "ruing"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "rue"
+                }
+            ],
+            "type": "headword",
+            "word": "rue"
+        }
+    ]
+}

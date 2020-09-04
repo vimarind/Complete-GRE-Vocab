@@ -1,0 +1,211 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "archetype",
+    "results": [
+        {
+            "id": "archetype",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "archetypical",
+                            "text": "archetypical"
+                        },
+                        {
+                            "id": "archetypically",
+                            "text": "archetypically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: via Latin from Greek arkhetupon ‘something moulded first as a model’, from arkhe- ‘primitive’ + tupos ‘a model’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "archetype"
+                                },
+                                {
+                                    "inflectedForm": "archetypes"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈärkəˌtīp"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/archetype_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɑrkəˌtaɪp"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a very typical example of a certain person or thing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the book is a perfect archetype of the genre"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0045050.015",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "example",
+                                            "text": "Example"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "very typical example of certain person or thing"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an original that has been imitated"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the archetype of faith is Abraham"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0045050.018",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "antecedent",
+                                                    "text": "Antecedent"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "original that has been imitated"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "typification"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "type"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "prototype"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "representative"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stereotype"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "archetype",
+                                                    "sense_id": "t_en_gb0000775.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a recurrent symbol or motif in literature, art, or mythology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "mythological archetypes of good and evil"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0045050.019",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "idea",
+                                                    "text": "Idea"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "recurrent symbol or motif in literature or mythology"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(in Jungian psychology) a primitive mental image inherited from the earliest human ancestors, and supposed to be present in the collective unconscious."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "psychology",
+                                                    "text": "Psychology"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "psychoanalysis",
+                                                    "text": "Psychoanalysis"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0045050.020",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "idea",
+                                                    "text": "Idea"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "(in Jungian psychology) primitive mental image inherited from earliest human ancestors"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "personification"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "embodiment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "incarnation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "paragon"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "epitome",
+                                            "sense_id": "t_en_gb0004995.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "archetype"
+                }
+            ],
+            "type": "headword",
+            "word": "archetype"
+        }
+    ]
+}

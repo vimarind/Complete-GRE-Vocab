@@ -1,0 +1,244 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "virtual",
+    "results": [
+        {
+            "id": "virtual",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "virtuality",
+                            "text": "virtuality"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (also in the sense ‘possessing certain virtues’): from medieval Latin virtualis, from Latin virtus ‘virtue’, suggested by late Latin virtuosus"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "virtual"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈvərCH(o͞o)əl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/virtual_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈvərtʃ(u)əl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "almost or nearly as described, but not completely or according to strict definition"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the virtual absence of border controls"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1131610.019",
+                                    "shortDefinitions": [
+                                        "almost or nearly as described, but not completely"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "See also virtual reality"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "virtual_reality",
+                                                    "text": "virtual reality",
+                                                    "type": "see also"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "not physically existing as such but made by software to appear to do so"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "computing",
+                                                    "text": "Computing"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "computing",
+                                                    "text": "Computing"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a virtual computer"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1131610.021",
+                                            "shortDefinitions": [
+                                                "not physically existing as such but made by software"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "carried out, accessed, or stored by means of a computer, especially over a network"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "computing",
+                                                    "text": "Computing"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a virtual library"
+                                                },
+                                                {
+                                                    "text": "virtual learning"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1131610.022",
+                                            "shortDefinitions": [
+                                                "carried out, accessed, or stored by means of computer"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "relating to the points at which rays would meet if produced backward."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "optics",
+                                                    "text": "Optics"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "optics",
+                                                    "text": "Optics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1131610.023",
+                                            "shortDefinitions": [
+                                                "relating to points at which rays would meet if produced backward"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "denoting particles or interactions with extremely short lifetimes and (owing to the uncertainty principle) indefinitely great energies, postulated as intermediates in some processes."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "physics",
+                                                    "text": "Physics"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "physics",
+                                                    "text": "Physics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1131610.024",
+                                            "shortDefinitions": [
+                                                "denoting particles or interactions with extremely short lifetimes and owing to uncertainty principle indefinitely great energies"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "effective"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in effect"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "near"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "near enough"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "essential"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "practical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "for all practical purposes"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "to all intents and purposes"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in all but name"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "indirect"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "implied"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "implicit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unacknowledged"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tacit"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "virtual",
+                                            "sense_id": "t_en_gb0015979.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "virtual"
+                }
+            ],
+            "type": "headword",
+            "word": "virtual"
+        }
+    ]
+}

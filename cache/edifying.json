@@ -1,0 +1,271 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "edifying",
+    "results": [
+        {
+            "id": "edifying",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "edifyingly",
+                            "text": "edifyingly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "edifying"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈedəˌfīiNG"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/edifying_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɛdəˌfaɪɪŋ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "providing moral or intellectual instruction"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "edifying literature"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0312010.005",
+                                    "shortDefinitions": [
+                                        "providing moral or intellectual instruction"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "moral"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ethical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "good"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "nice"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clean"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "virtuous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "innocent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chaste"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "wholesome",
+                                            "sense_id": "t_en_gb0016247.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "edifying"
+                }
+            ],
+            "type": "headword",
+            "word": "edifying"
+        },
+        {
+            "id": "edify",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French edifier, from Latin aedificare ‘build’, from aedis ‘dwelling’ + facere ‘make’ (compare with edifice). The word originally meant ‘construct a building’, also ‘strengthen’, hence to ‘build up’ morally"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "edifies"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "edifying"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "edified"
+                                },
+                                {
+                                    "inflectedForm": "edified"
+                                },
+                                {
+                                    "inflectedForm": "edifies"
+                                },
+                                {
+                                    "inflectedForm": "edify"
+                                },
+                                {
+                                    "inflectedForm": "edifying"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈedəˌfī"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/edify_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɛdəˌfaɪ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "instruct or improve (someone) morally or intellectually"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Rachel had edified their childhood with frequent readings from Belloc"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0312000.005",
+                                    "registers": [
+                                        {
+                                            "id": "formal",
+                                            "text": "Formal"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "instruct or improve someone morally or intellectually"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "educate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "instruct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "teach"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "school"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tutor"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "coach"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "train"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "guide"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "edify",
+                                            "sense_id": "t_en_gb0004624.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "edify"
+                }
+            ],
+            "type": "headword",
+            "word": "edify"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "sufficient",
+    "results": [
+        {
+            "id": "sufficient",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘legally satisfactory’): from Old French, or from Latin sufficient- ‘meeting the need of’ (see suffice)"
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "səˈfiSHənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sufficient_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "səˈfɪʃənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "sufficient for"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "enough; adequate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they had sufficient resources to survive"
+                                        },
+                                        {
+                                            "text": "she had a small private income that was sufficient for her needs"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1010210.005",
+                                    "shortDefinitions": [
+                                        "enough"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "enough"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "adequate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plenty of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ample"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abundant"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sufficient",
+                                            "sense_id": "t_en_gb0014370.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sufficient"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sufficient"
+                                },
+                                {
+                                    "inflectedForm": "sufficient"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "determiner",
+                        "text": "Determiner"
+                    },
+                    "text": "sufficient"
+                }
+            ],
+            "type": "headword",
+            "word": "sufficient"
+        }
+    ]
+}

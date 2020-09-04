@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "loath",
+    "results": [
+        {
+            "id": "loath",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "loathness",
+                            "text": "loathness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English lāth ‘hostile, spiteful’, of Germanic origin; related to Dutch leed, German Leid ‘sorrow’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "loath"
+                                },
+                                {
+                                    "inflectedForm": "loth"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "predicative, with infinitive",
+                                    "type": "grammaticalNote"
+                                },
+                                {
+                                    "text": "Although different in meaning, loath and loathe are often confused. Loath is an adjective (also spelled loth) meaning ‘reluctant or unwilling’, as in I was loath to leave, whereas loathe is a verb meaning ‘feel intense dislike or disgust for’, as in she loathed him on sight. The spelling loathe for the adjective is becoming very common, and is regarded by some as a legitimate variant",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "lōTH"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/loath_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "loʊθ"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "lōT͟H"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/loath_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "loʊð"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "reluctant; unwilling"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I was loath to leave"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0589520.009",
+                                    "shortDefinitions": [
+                                        "reluctant"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "reluctant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unwilling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disinclined"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ill-disposed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "not in the mood"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "loath",
+                                            "sense_id": "t_en_gb0008858.001"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "loth"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "loath"
+                }
+            ],
+            "type": "headword",
+            "word": "loath"
+        }
+    ]
+}

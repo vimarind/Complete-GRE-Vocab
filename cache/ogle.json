@@ -1,0 +1,199 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "ogle",
+    "results": [
+        {
+            "id": "ogle",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "ogler",
+                            "text": "ogler"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 17th century: probably from Low German or Dutch; compare with Low German oegeln, frequentative of oegen ‘look at’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "ogle"
+                                },
+                                {
+                                    "inflectedForm": "ogled"
+                                },
+                                {
+                                    "inflectedForm": "ogles"
+                                },
+                                {
+                                    "inflectedForm": "ogling"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈōɡəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/ogle_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈoʊɡəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "stare at in a lecherous manner"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was ogling her breasts"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "men who had turned up to ogle"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0714280.005",
+                                    "shortDefinitions": [
+                                        "stare at in lecherous manner"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "leer at"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stare at"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gaze at"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "eye"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make eyes at"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make sheep's eyes at"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "ogle",
+                                            "sense_id": "t_en_gb0010273.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "ogle"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "ogler",
+                            "text": "ogler"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "ogle"
+                                },
+                                {
+                                    "inflectedForm": "ogles"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈōɡəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/ogle_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈoʊɡəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a lecherous look"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a vaguely erotic ogle"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0714280.013",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "look",
+                                            "text": "Look"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "lecherous look"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "ogle"
+                }
+            ],
+            "type": "headword",
+            "word": "ogle"
+        }
+    ]
+}

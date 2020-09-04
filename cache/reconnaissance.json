@@ -1,0 +1,171 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "reconnaissance",
+    "results": [
+        {
+            "id": "reconnaissance",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 19th century: from French, from reconnaître ‘recognize’ (see reconnoiter)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "reconnaissance"
+                                },
+                                {
+                                    "inflectedForm": "reconnaissances"
+                                },
+                                {
+                                    "inflectedForm": "reconnaissance"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rəˈkänəsəns"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/reconnaissance_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rəˈkɑnəsəns"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "military observation of a region to locate an enemy or ascertain strategic features"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "military",
+                                            "text": "Military"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an excellent aircraft for low-level reconnaissance"
+                                        },
+                                        {
+                                            "text": "after a reconnaissance our forces took the island"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "as modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "reconnaissance missions"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0851660.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "investigation",
+                                            "text": "Investigation"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "military observation of region to locate enemy or ascertain strategic features"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "preliminary surveying or research"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "conducting client reconnaissance"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0851660.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "investigation",
+                                                    "text": "Investigation"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "preliminary surveying or research"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "preliminary survey"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "survey"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exploration"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "observation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "investigation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "examination"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inspection"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "probe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scrutiny"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scan"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "reconnaissance",
+                                            "sense_id": "t_en_gb0012209.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "reconnaissance"
+                }
+            ],
+            "type": "headword",
+            "word": "reconnaissance"
+        }
+    ]
+}

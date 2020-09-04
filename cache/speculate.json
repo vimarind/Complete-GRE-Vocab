@@ -1,0 +1,192 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "speculate",
+    "results": [
+        {
+            "id": "speculate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Latin speculat- ‘observed from a vantage point’, from the verb speculari, from specula ‘watchtower’, from specere ‘to look’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "speculate"
+                                },
+                                {
+                                    "inflectedForm": "speculated"
+                                },
+                                {
+                                    "inflectedForm": "speculates"
+                                },
+                                {
+                                    "inflectedForm": "speculating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈspekyəˌlāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/speculate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈspɛkjəˌleɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "form a theory or conjecture about a subject without firm evidence"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "my colleagues speculate about my private life"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with clause",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "observers speculated that the authorities wished to improve their image"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0976060.007",
+                                    "shortDefinitions": [
+                                        "form theory or conjecture about subject without firm evidence"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "conjecture"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "theorize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "form theories"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hypothesize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make suppositions"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "postulate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "guess"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make guesses"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "surmise"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "speculate",
+                                            "sense_id": "t_en_gb0013883.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "invest in stocks, property, or other ventures in the hope of gain but with the risk of loss"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "commerce",
+                                            "text": "Commerce"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he didn't look as though he had the money to speculate in stocks"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0976060.014",
+                                    "shortDefinitions": [
+                                        "invest in stocks, property, or other ventures in hope of gain but with risk of loss"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "gamble"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take a chance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take a risk"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "venture"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take a venture"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wager"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "speculate",
+                                            "sense_id": "t_en_gb0013883.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "speculate"
+                }
+            ],
+            "type": "headword",
+            "word": "speculate"
+        }
+    ]
+}

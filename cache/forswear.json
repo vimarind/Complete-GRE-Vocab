@@ -1,0 +1,292 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "forswear",
+    "results": [
+        {
+            "id": "forswear",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English forswerian(see for-, swear)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        },
+                                        {
+                                            "id": "past",
+                                            "text": "Past",
+                                            "type": "Tense"
+                                        }
+                                    ],
+                                    "inflectedForm": "forswore"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        },
+                                        {
+                                            "id": "pastParticiple",
+                                            "text": "Past Participle",
+                                            "type": "Non Finiteness"
+                                        }
+                                    ],
+                                    "inflectedForm": "forsworn"
+                                },
+                                {
+                                    "inflectedForm": "forswear"
+                                },
+                                {
+                                    "inflectedForm": "forswearing"
+                                },
+                                {
+                                    "inflectedForm": "forswears"
+                                },
+                                {
+                                    "inflectedForm": "forswore"
+                                },
+                                {
+                                    "inflectedForm": "forsworn"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "fôrˈswer"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/forswear_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "fɔrˈswɛr"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "agree to give up or do without (something)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he would never forswear the religion of his people"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0382640.026",
+                                    "registers": [
+                                        {
+                                            "id": "formal",
+                                            "text": "Formal"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "agree to give up or do without"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "swear falsely; commit perjury"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I swore that I would lead us safely home and I do not mean to be forsworn"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0382640.036",
+                                            "notes": [
+                                                {
+                                                    "text": "\"forswear oneself/be forsworn\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "swear falsely"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "say something untrue"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tell an untruth"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tell a lie"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tell a falsehood"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fib"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fabricate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "invent a story"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "make up a story"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "falsify"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dissemble"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dissimulate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bear false witness"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "lie",
+                                                    "sense_id": "t_en_gb0008746.003"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "renounce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swear off"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forgo"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abjure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reject"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "relinquish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abstain from"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "refrain from"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shun"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "avoid"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "eschew"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "do without"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "go without"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "steer clear of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give a wide berth to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "have nothing to do with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "decline"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "refuse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "repudiate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spurn"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "forswear",
+                                            "sense_id": "t_en_gb0005975.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "forswear"
+                }
+            ],
+            "type": "headword",
+            "word": "forswear"
+        }
+    ]
+}

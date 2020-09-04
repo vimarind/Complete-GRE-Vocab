@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "philanthropist",
+    "results": [
+        {
+            "id": "philanthropist",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "philanthropist"
+                                },
+                                {
+                                    "inflectedForm": "philanthropists"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "fəˈlanTHrəpəst"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/philanthropist_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "fəˈlænθrəpəst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who seeks to promote the welfare of others, especially by the generous donation of money to good causes"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the trust was founded by an American philanthropist"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0773510.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "good_person",
+                                            "text": "Good_Person"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person who seeks to promote welfare of others"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "benefactor"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "benefactress"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "humanitarian"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "patron"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "patroness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "donor"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contributor"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "giver"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sponsor"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "backer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "helper"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "altruist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "good Samaritan"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "philanthropist",
+                                            "sense_id": "t_en_gb0011026.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "philanthropist"
+                }
+            ],
+            "type": "headword",
+            "word": "philanthropist"
+        }
+    ]
+}

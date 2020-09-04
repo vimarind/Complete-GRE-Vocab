@@ -1,0 +1,157 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "chivalrous",
+    "results": [
+        {
+            "id": "chivalrous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "chivalrously",
+                            "text": "chivalrously"
+                        },
+                        {
+                            "id": "chivalrousness",
+                            "text": "chivalrousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘characteristic of a medieval knight’): from Old French chevalerous, from chevalier (see chevalier)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "chivalrous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈSHivəlrəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/chivalrous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈʃɪvəlrəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "courteous and gallant, especially toward women (typically used of a man or his behavior)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "shall I be chivalrous and offer you my coat?"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0178430.005",
+                                    "shortDefinitions": [
+                                        "courteous and gallant"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "relating to the historical notion of chivalry"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the concept of chivalrous combat"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0178430.007",
+                                            "shortDefinitions": [
+                                                "relating to historical concept of chivalry"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "knightly"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "noble"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "chivalric"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "chivalrous",
+                                                    "sense_id": "t_en_gb0002290.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "gallant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gentlemanly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "honourable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "respectful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "thoughtful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "considerate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "protective"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "attentive"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "chivalrous",
+                                            "sense_id": "t_en_gb0002290.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "chivalrous"
+                }
+            ],
+            "type": "headword",
+            "word": "chivalrous"
+        }
+    ]
+}

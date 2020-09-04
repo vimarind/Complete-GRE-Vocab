@@ -1,0 +1,351 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "divorced",
+    "results": [
+        {
+            "id": "divorced",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "divorced"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "diˈvôrst"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/divorced_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dɪˈvɔrst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "no longer married because the marriage has been legally dissolved"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a divorced couple"
+                                        },
+                                        {
+                                            "text": "my parents are divorced"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1190926.004",
+                                    "shortDefinitions": [
+                                        "no longer married"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "divorced"
+                }
+            ],
+            "type": "headword",
+            "word": "divorced"
+        },
+        {
+            "id": "divorce",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "divorcement",
+                            "text": "divorcement"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: the noun from Old French divorce, from Latin divortium, based on divertere (see divert); the verb from Old French divorcer, from late Latin divortiare, from divortium"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "divorce"
+                                },
+                                {
+                                    "inflectedForm": "divorced"
+                                },
+                                {
+                                    "inflectedForm": "divorces"
+                                },
+                                {
+                                    "inflectedForm": "divorcing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈvôrs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/divorce_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈvɔrs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "legally dissolve one's marriage with (someone)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "they divorced eight years later"
+                                        },
+                                        {
+                                            "text": "he divorced his first wife after 10 months"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0286000.012",
+                                    "shortDefinitions": [
+                                        "legally dissolve marriage with"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "split up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "split up with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "end one's marriage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "end one's marriage to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "get a divorce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "get a divorce from"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "separate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "separate from"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "part"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "part from"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "split"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "split from"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "break up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "break up with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "part company"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "part company with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dissolve one's marriage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dissolve one's marriage to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "annul one's marriage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "annul one's marriage to"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "divorce",
+                                            "sense_id": "t_en_gb0004322.003"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "separate or dissociate (something) from something else"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we knew how to divorce an issue from an individual"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0286000.018",
+                                    "shortDefinitions": [
+                                        "separate or dissociate"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "distance or dissociate oneself from (something)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he wanted to divorce himself from all contact with the syndicate"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0286000.019",
+                                            "notes": [
+                                                {
+                                                    "text": "\"divorce oneself from\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "dissociate oneself from"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "separate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disconnect"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "divide"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disunite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sever"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disjoin"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "split"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dissociate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "detach"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "isolate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "alienate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "set apart"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "keep apart"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cut off"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "divorce",
+                                            "sense_id": "t_en_gb0004322.004"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "divorce"
+                }
+            ],
+            "type": "headword",
+            "word": "divorce"
+        }
+    ]
+}

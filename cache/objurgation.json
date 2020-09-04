@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "objurgation",
+    "results": [
+        {
+            "id": "objurgation",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivativeOf": [
+                        {
+                            "id": "objurgate",
+                            "text": "objurgate"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "objurgation"
+                                },
+                                {
+                                    "inflectedForm": "objurgations"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌäbjərˈɡāSHən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "id": "m_en_gbus0708790.016",
+                                    "registers": [
+                                        {
+                                            "id": "rare",
+                                            "text": "Rare"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "objurgation"
+                }
+            ],
+            "type": "headword",
+            "word": "objurgation"
+        }
+    ]
+}

@@ -1,0 +1,590 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "eclipse",
+    "results": [
+        {
+            "id": "eclipse",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French e(s)clipse (noun), eclipser (verb), via Latin from Greek ekleipsis, from ekleipein ‘fail to appear, be eclipsed’, from ek ‘out’ + leipein ‘to leave’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "eclipse"
+                                },
+                                {
+                                    "inflectedForm": "eclipses"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈklips"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/eclipse_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈklɪps"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an obscuring of the light from one celestial body by the passage of another between it and the observer or between it and its source of illumination"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "astronomy",
+                                            "text": "Astronomy"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an eclipse of the sun"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0310400.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "eclipse",
+                                            "text": "Eclipse"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "obscuring of light from celestial body"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a loss of significance, power, or prominence in relation to another person or thing"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the election result marked the eclipse of the traditional right and center"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0310400.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "situation",
+                                                    "text": "Situation"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "loss of significance or power"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "decline"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fall"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "failure"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "decay"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "deterioration"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "degeneration"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "weakening"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ebb"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "waning"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "withering"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "descent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sinking"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "slide"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tumble"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "regression"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lapse"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "collapse"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "comedown"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "crash"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "outshining"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "overshadowing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "surpassing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "excelling"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "outclassing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "outstripping"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "outdistancing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "outdoing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "transcending"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dwarfing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "upstaging"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "shaming"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "eclipse",
+                                                    "sense_id": "t_en_gb0004608.002"
+                                                },
+                                                {
+                                                    "entry_id": "eclipse",
+                                                    "sense_id": "t_en_gb0004608.003"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "blotting out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blocking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "covering"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "obscuring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hiding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "concealing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "veiling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shrouding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "darkening"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "eclipse",
+                                            "sense_id": "t_en_gb0004608.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a phase during which the distinctive markings of a bird (especially a male duck) are obscured by molting of the breeding plumage"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "zoology",
+                                            "text": "Zoology"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "ornithology",
+                                            "text": "Ornithology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "as modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "eclipse plumage"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0310400.011",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "period",
+                                            "text": "Period"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "phase when bird's markings are obscured"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "in_eclipse",
+                            "text": "in eclipse"
+                        }
+                    ],
+                    "text": "eclipse"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "eclipse"
+                                },
+                                {
+                                    "inflectedForm": "eclipsed"
+                                },
+                                {
+                                    "inflectedForm": "eclipses"
+                                },
+                                {
+                                    "inflectedForm": "eclipsing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈklips"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/eclipse_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈklɪps"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a celestial body) obscure the light from or to (another celestial body)"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "astronomy",
+                                            "text": "Astronomy"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "as the last piece of the sun was eclipsed by the moon"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0310400.013",
+                                    "shortDefinitions": [
+                                        "subject celestial body to eclipse"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "deprive (someone or something) of significance, power, or prominence"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the state of the economy has eclipsed the environment as the main issue"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0310400.019",
+                                            "shortDefinitions": [
+                                                "deprive of significance or power"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "outshine"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "overshadow"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "put in the shade"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "surpass"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "exceed"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "excel"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "be superior to"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "outclass"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "outstrip"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "outdistance"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "outdo"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "top"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cap"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "trump"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "transcend"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tower above"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tower over"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dwarf"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "upstage"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "shame"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "put to shame"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "eclipse",
+                                                    "sense_id": "t_en_gb0004608.005"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "obscure or block out (light)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a sea of blue sky violently eclipsed by showers"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0310400.020",
+                                            "registers": [
+                                                {
+                                                    "id": "literary",
+                                                    "text": "Literary"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "obscure or block out light"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "blot out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "block"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cover"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "obscure"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "veil"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "shroud"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hide"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "conceal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "obliterate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "darken"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dim"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "eclipse",
+                                                    "sense_id": "t_en_gb0004608.004"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "in_eclipse",
+                            "text": "in eclipse"
+                        }
+                    ],
+                    "text": "eclipse"
+                }
+            ],
+            "type": "headword",
+            "word": "eclipse"
+        }
+    ]
+}

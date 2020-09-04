@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "arcane",
+    "results": [
+        {
+            "id": "arcane",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "arcanely",
+                            "text": "arcanely"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin arcanus, from arcere ‘to shut up’, from arca ‘chest’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "arcane"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ärˈkān"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/arcane_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɑrˈkeɪn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "understood by few; mysterious or secret"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "modern math and its arcane notation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0044580.005",
+                                    "shortDefinitions": [
+                                        "understood by few"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "mysterious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "secret"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hidden"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "concealed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "covert"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clandestine"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "enigmatic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dark"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "arcane",
+                                            "sense_id": "t_en_gb0000765.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "arcane"
+                }
+            ],
+            "type": "headword",
+            "word": "arcane"
+        }
+    ]
+}

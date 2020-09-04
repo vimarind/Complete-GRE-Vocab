@@ -1,0 +1,172 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "banality",
+    "results": [
+        {
+            "id": "banality",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "banalities"
+                                },
+                                {
+                                    "inflectedForm": "banalities"
+                                },
+                                {
+                                    "inflectedForm": "banality"
+                                },
+                                {
+                                    "inflectedForm": "banality"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "bəˈnalədē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/banality_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "bəˈnælədi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the fact or condition of being banal; unoriginality"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there is an essential banality to the story he tells"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0070430.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "negative_condition",
+                                            "text": "Negative_Condition"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "fact or condition of being banal"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "something that is banal"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the banalities of contemporary celebrity culture"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0070430.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "statement",
+                                                    "text": "Statement"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "something that is banal"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "triteness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "platitudinousness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vapidity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pedestrianism"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "conventionality"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "predictability"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "staleness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unimaginativeness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lack of originality"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lack of inspiration"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prosaicness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dullness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ordinariness"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "banality",
+                                            "sense_id": "t_en_gb0001126.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "banality"
+                }
+            ],
+            "type": "headword",
+            "word": "banality"
+        }
+    ]
+}

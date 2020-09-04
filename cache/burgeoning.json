@@ -1,0 +1,256 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "burgeoning",
+    "results": [
+        {
+            "id": "burgeoning",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "burgeoning"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbərjəniNG"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/burgeoning_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbərdʒənɪŋ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "beginning to grow or increase rapidly; flourishing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "manufacturers are eager to cash in on the burgeoning demand"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1193624.004",
+                                    "shortDefinitions": [
+                                        "beginning to grow rapidly"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "burgeoning"
+                }
+            ],
+            "type": "headword",
+            "word": "burgeoning"
+        },
+        {
+            "id": "burgeon",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French bourgeonner ‘put out buds’, from borjon ‘bud’, based on late Latin burra ‘wool’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "burgeon"
+                                },
+                                {
+                                    "inflectedForm": "burgeoned"
+                                },
+                                {
+                                    "inflectedForm": "burgeoning"
+                                },
+                                {
+                                    "inflectedForm": "burgeons"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbərjən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/burgeon_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbərdʒən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "begin to grow or increase rapidly; flourish"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the city's suburbs have burgeoned, sprawling out from the center"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0135740.005",
+                                    "shortDefinitions": [
+                                        "begin to grow or increase rapidly"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "put forth young shoots; bud."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "botany",
+                                                    "text": "Botany"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0135740.012",
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                },
+                                                {
+                                                    "id": "literary",
+                                                    "text": "Literary"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "put forth young shoots"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "grow rapidly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "increase exponentially"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "increase rapidly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expand"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spring up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shoot up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swell"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "explode"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "boom"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mushroom"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "proliferate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "snowball"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "multiply"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "become more numerous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "escalate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rocket"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "skyrocket"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "run riot"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put on a spurt"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "burgeon",
+                                            "sense_id": "t_en_gb0001878.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "burgeon"
+                }
+            ],
+            "type": "headword",
+            "word": "burgeon"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "impunity",
+    "results": [
+        {
+            "id": "impunity",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin impunitas, from impunis ‘unpunished’, from in- ‘not’ + poena ‘penalty’ or punire ‘punish’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "impunity"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "imˈpyo͞onədē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/impunity_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪmˈpjunədi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "with impunity"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "exemption from punishment or freedom from the injurious consequences of an action"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the impunity enjoyed by military officers implicated in civilian killings"
+                                        },
+                                        {
+                                            "text": "protesters burned flags on the streets with impunity"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0500050.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "freedom",
+                                            "text": "Freedom"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "exemption from punishment or freedom from injurious consequences of action"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "immunity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "indemnity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exemption from punishment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "freedom from punishment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exemption"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "non-liability"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "licence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unpunished"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "with no ill consequences"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "with no ill effects"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "without being punished"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "without punishment"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "impunity",
+                                            "sense_id": "t_en_gb0007531.001"
+                                        },
+                                        {
+                                            "entry_id": "with_impunity",
+                                            "sense_id": "t_en_gb0007531.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "impunity"
+                }
+            ],
+            "type": "headword",
+            "word": "impunity"
+        }
+    ]
+}

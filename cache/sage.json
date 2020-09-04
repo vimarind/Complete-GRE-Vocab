@@ -1,0 +1,480 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "sage",
+    "results": [
+        {
+            "id": "sage",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French sauge, from Latin salvia ‘healing plant’, from salvus ‘safe’"
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sage"
+                                },
+                                {
+                                    "inflectedForm": "sage"
+                                },
+                                {
+                                    "inflectedForm": "sages"
+                                },
+                                {
+                                    "inflectedForm": "white sage"
+                                },
+                                {
+                                    "inflectedForm": "white sages"
+                                },
+                                {
+                                    "inflectedForm": "sage"
+                                },
+                                {
+                                    "inflectedForm": "sages"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "sāj"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sage_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "seɪdʒ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an aromatic plant with grayish-green leaves that are used as a culinary herb, native to southern Europe and the Mediterranean."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "plant",
+                                            "text": "Plant"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0893040.006",
+                                    "notes": [
+                                        {
+                                            "text": "Salvia officinalis, family Labiatae",
+                                            "type": "technicalNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "labiate_plant",
+                                            "text": "Labiate_Plant"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "aromatic plant whose greyish-green leaves are used as culinary herb"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "used in names of aromatic plants of the mint family that resemble sage, e.g. wood sage."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "plant",
+                                                    "text": "Plant"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0893040.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "labiate_plant",
+                                                    "text": "Labiate_Plant"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "used in names of aromatic plants of mint family"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "either of two bushy North American plants with silvery-gray leaves."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "plant",
+                                            "text": "Plant"
+                                        },
+                                        {
+                                            "id": "amerindian",
+                                            "text": "Amerindian"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0893040.012",
+                                    "notes": [
+                                        {
+                                            "text": "an aromatic plant that is burned by some North American Indians for its cleansing properties and as an incense (Artemisia ludoviciana, family Compositae)",
+                                            "type": "technicalNote"
+                                        },
+                                        {
+                                            "text": "a plant of the goosefoot family (Krascheninnikovia lanata, family Chenopodiaceae)",
+                                            "type": "technicalNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "plant",
+                                            "text": "Plant"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "plant of goosefoot family"
+                                    ],
+                                    "variantForms": [
+                                        {
+                                            "text": "white sage"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "short for sagebrush"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "sagebrush",
+                                            "text": "sagebrush",
+                                            "type": "abbreviation of"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0893040.019",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "herb",
+                                            "text": "Herb"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "sage"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sage"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sage"
+                }
+            ],
+            "type": "headword",
+            "word": "sage"
+        },
+        {
+            "id": "sage",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "sageness",
+                            "text": "sageness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (as an adjective): from Old French, from Latin sapere ‘be wise’"
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sage"
+                                },
+                                {
+                                    "inflectedForm": "sage"
+                                },
+                                {
+                                    "inflectedForm": "sages"
+                                },
+                                {
+                                    "inflectedForm": "white sage"
+                                },
+                                {
+                                    "inflectedForm": "white sages"
+                                },
+                                {
+                                    "inflectedForm": "sage"
+                                },
+                                {
+                                    "inflectedForm": "sages"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "sāj"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sage_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "seɪdʒ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a profoundly wise man, especially one who features in ancient history or legend"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the sayings of the numerous venerable sages"
+                                        },
+                                        {
+                                            "text": "I'm not much of a sage, I'm afraid"
+                                        },
+                                        {
+                                            "registers": [
+                                                {
+                                                    "id": "ironic",
+                                                    "text": "Ironic"
+                                                }
+                                            ],
+                                            "text": "I asked a sage on the news desk"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0893050.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "expert",
+                                            "text": "Expert"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "profoundly wise man"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "wise man"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wise woman"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "learned man"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "learned woman"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "man of letters"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "woman of letters"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "philosopher"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scholar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "thinker"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "savant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Solomon"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Nestor"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Solon"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sage",
+                                            "sense_id": "t_en_gb0012842.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "sage"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "sageness",
+                            "text": "sageness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sage"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "sāj"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sage_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "seɪdʒ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having, showing, or indicating profound wisdom"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they nodded in agreement with these sage remarks"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0893050.009",
+                                    "shortDefinitions": [
+                                        "profoundly wise"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "wise"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "learned"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clever"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "intelligent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "showing great knowledge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "with great knowledge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "knowledgeable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sensible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "intellectual"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scholarly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sagacious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "erudite"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sage",
+                                            "sense_id": "t_en_gb0012842.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sage"
+                }
+            ],
+            "type": "headword",
+            "word": "sage"
+        }
+    ]
+}

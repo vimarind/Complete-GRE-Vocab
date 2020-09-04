@@ -1,0 +1,279 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "phenomena",
+    "results": [
+        {
+            "id": "phenomenon",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: via late Latin from Greek phainomenon ‘thing appearing to view’, based on phainein ‘to show’"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "phenomena",
+                                    "pronunciations": [
+                                        {
+                                            "dialects": [
+                                                "American English"
+                                            ],
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "fəˈnämənə"
+                                        },
+                                        {
+                                            "audioFile": "https://audio.oxforddictionaries.com/en/mp3/phenomena_us_1.mp3",
+                                            "dialects": [
+                                                "American English"
+                                            ],
+                                            "phoneticNotation": "IPA",
+                                            "phoneticSpelling": "fəˈnɑmənə"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "inflectedForm": "phenomena"
+                                },
+                                {
+                                    "inflectedForm": "phenomenon"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "The word phenomenon comes from Greek, and its plural form is phenomena, as in these phenomena are not fully understood. It is a mistake to treat phenomena as if it were a singular form, as in this is a strange phenomena",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "fəˈnäməˌnän"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/phenomenon_us_3_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "fəˈnɑməˌnɑn"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "fəˈnäməˌnən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/phenomenon_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "fəˈnɑməˌnən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a fact or situation that is observed to exist or happen, especially one whose cause or explanation is in question"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "glaciers are unique and interesting natural phenomena"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0773170.011",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "natural_phenomenon",
+                                            "text": "Natural_Phenomenon"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "fact or situation that is observed to exist"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "occurrence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "event"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "happening"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fact"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "situation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "circumstance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "experience"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "case"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "incident"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "episode"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sight"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "appearance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "thing"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "phenomenon",
+                                            "sense_id": "t_en_gb0011022.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a remarkable person, thing, or event"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the band was a pop phenomenon just for their sales figures alone"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0773170.015",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "liked_thing",
+                                            "text": "Liked_Thing"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "remarkable person or thing"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "marvel"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sensation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wonder"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prodigy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "miracle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rarity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "nonpareil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "curiosity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spectacle"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "phenomenon",
+                                            "sense_id": "t_en_gb0011022.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the object of a person's perception; what the senses or the mind notice."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "philosophy",
+                                            "text": "Philosophy"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "philosophy",
+                                            "text": "Philosophy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0773170.017",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "object",
+                                            "text": "Object"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "object of person's perception"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "phenomenon"
+                }
+            ],
+            "type": "headword",
+            "word": "phenomenon"
+        }
+    ]
+}

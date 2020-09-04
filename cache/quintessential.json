@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "quintessential",
+    "results": [
+        {
+            "id": "quintessential",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "quintessential"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌkwin(t)əˈsen(t)SHəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/quintessential_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌkwɪn(t)əˈsɛn(t)ʃəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "representing the most perfect or typical example of a quality or class"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was the quintessential tough guy—strong, silent, and self-contained"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0838510.005",
+                                    "shortDefinitions": [
+                                        "representing most perfect or typical example of quality or class"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "typical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prototypical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stereotypical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "archetypal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "classic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "model"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "essential"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "standard"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stock"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "representative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "true to type"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "conventional"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "quintessential",
+                                            "sense_id": "t_en_gb0011983.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "quintessential"
+                }
+            ],
+            "type": "headword",
+            "word": "quintessential"
+        }
+    ]
+}

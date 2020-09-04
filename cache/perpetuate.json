@@ -1,0 +1,179 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "perpetuate",
+    "results": [
+        {
+            "id": "perpetuate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "perpetuance",
+                            "text": "perpetuance"
+                        },
+                        {
+                            "id": "perpetuator",
+                            "text": "perpetuator"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: from Latin perpetuat- ‘made permanent’, from the verb perpetuare, from perpetuus ‘continuing throughout’ (see perpetual)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "perpetuate"
+                                },
+                                {
+                                    "inflectedForm": "perpetuated"
+                                },
+                                {
+                                    "inflectedForm": "perpetuates"
+                                },
+                                {
+                                    "inflectedForm": "perpetuating"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "See perpetrate",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "pərˈpeCHəˌwāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/perpetuate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "pərˈpɛtʃəˌweɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (something, typically an undesirable situation or an unfounded belief) continue indefinitely"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the law perpetuated the interests of the ruling class"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0768110.005",
+                                    "shortDefinitions": [
+                                        "make something continue indefinitely"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "preserve (something valued) from oblivion or extinction"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "how did these first humans survive to perpetuate the species?"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0768110.015",
+                                            "shortDefinitions": [
+                                                "preserve something valued from oblivion or extinction"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "keep alive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "keep going"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "keep in existence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "preserve"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "conserve"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sustain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "maintain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "continue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "extend"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "carry on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "keep up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cause to continue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prolong"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "perpetuate",
+                                            "sense_id": "t_en_gb0010942.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "perpetuate"
+                }
+            ],
+            "type": "headword",
+            "word": "perpetuate"
+        }
+    ]
+}

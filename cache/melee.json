@@ -1,0 +1,156 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "melee",
+    "results": [
+        {
+            "id": "melee",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from French mêlée, from an Old French variant of meslee (see medley)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "melee"
+                                },
+                                {
+                                    "inflectedForm": "melees"
+                                },
+                                {
+                                    "inflectedForm": "mêlée"
+                                },
+                                {
+                                    "inflectedForm": "mêlées"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmāˌlā"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/melee_1_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmeɪˌleɪ"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "māˈlā"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/melee_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "meɪˈleɪ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a confused fight, skirmish, or scuffle"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "several people were hurt in the melee"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0631080.008",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "conflict",
+                                            "text": "Conflict"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "confused fight or scuffle"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a confused mass of people"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the melee of people that was always thronging the streets"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0631080.012",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "crowd",
+                                                    "text": "Crowd"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "confused crowd of people"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "tumult"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disturbance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rumpus"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "commotion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disorder"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "melee",
+                                            "sense_id": "t_en_gb0009326.001"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "mêlée"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "melee"
+                }
+            ],
+            "type": "headword",
+            "word": "melee"
+        }
+    ]
+}

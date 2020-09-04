@@ -1,0 +1,573 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "tout",
+    "results": [
+        {
+            "id": "tout",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "touter",
+                            "text": "touter"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English tute ‘look out’, of Germanic origin; related to Dutch tuit ‘spout, nozzle’. Later senses were ‘watch, spy on’ (late 17th century) and ‘solicit custom’ (mid 18th century). The noun was first recorded (early 18th century) in the slang use ‘thieves' lookout’"
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tout"
+                                },
+                                {
+                                    "inflectedForm": "touted"
+                                },
+                                {
+                                    "inflectedForm": "touting"
+                                },
+                                {
+                                    "inflectedForm": "touts"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "tout"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/tout_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "taʊt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "attempt to sell (something), typically by pestering people in an aggressive or bold manner"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Jim was touting his wares"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1065020.006",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "attempt to sell something"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "attempt to persuade people of the merits of (someone or something)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the headquarters facility was touted as the best in the country"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1065020.012",
+                                            "shortDefinitions": [
+                                                "attempt to persuade people of merits of"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "commend"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "endorse"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "praise"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "recommend"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "support"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "urge"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "push"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "speak of"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "talk of"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "tout",
+                                                    "sense_id": "t_en_gb0015024.003"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "scalp (a ticket)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he made his fortune touting tickets"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1065020.013",
+                                            "regions": [
+                                                {
+                                                    "id": "british",
+                                                    "text": "British"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "sell ticket for event at price higher than official one"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "peddle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sell"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hawk"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "offer for sale"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "market"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "vend"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "tout",
+                                                    "sense_id": "t_en_gb0015024.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "offer racing tips for a share of any resulting winnings."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "gambling",
+                                            "text": "Gambling"
+                                        },
+                                        {
+                                            "id": "racing",
+                                            "text": "Racing"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1065020.015",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "regions": [
+                                        {
+                                            "id": "north_american",
+                                            "text": "North_American"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "offer racing tips for share of any resulting winnings"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "spy out the movements and condition of (a racehorse in training) in order to gain information to be used when betting."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "gambling",
+                                                    "text": "Gambling"
+                                                },
+                                                {
+                                                    "id": "racing",
+                                                    "text": "Racing"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1065020.016",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "regions": [
+                                                {
+                                                    "id": "british",
+                                                    "text": "British"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "spy out movements and condition of"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "tout"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "touter",
+                            "text": "touter"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tout"
+                                },
+                                {
+                                    "inflectedForm": "touts"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "tout"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/tout_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "taʊt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person soliciting custom or business, typically in an aggressive or bold manner."
+                                    ],
+                                    "id": "m_en_gbus1065020.032",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "worker",
+                                            "text": "Worker"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person soliciting custom or business"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a person who buys tickets for an event to resell them at a profit; a scalper."
+                                            ],
+                                            "id": "m_en_gbus1065020.035",
+                                            "regions": [
+                                                {
+                                                    "id": "british",
+                                                    "text": "British"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "trader",
+                                                    "text": "Trader"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "person who buys tickets for event to resell them at profit"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "illegal salesman"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "tout",
+                                                    "sense_id": "t_en_gb0015024.004"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a person who offers racing tips for a share of any resulting winnings."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "gambling",
+                                            "text": "Gambling"
+                                        },
+                                        {
+                                            "id": "racing",
+                                            "text": "Racing"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1065020.037",
+                                    "regions": [
+                                        {
+                                            "id": "north_american",
+                                            "text": "North_American"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "worker",
+                                            "text": "Worker"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person who offers racing tips for share of any resulting winnings"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "an informer."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "crime",
+                                            "text": "Crime"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1065020.039",
+                                    "regions": [
+                                        {
+                                            "id": "northern_irish",
+                                            "text": "Northern_Irish"
+                                        },
+                                        {
+                                            "id": "scottish",
+                                            "text": "Scottish"
+                                        }
+                                    ],
+                                    "registers": [
+                                        {
+                                            "id": "informal",
+                                            "text": "Informal"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "informer",
+                                            "text": "Informer"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "informer"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "tout"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "touter",
+                            "text": "touter"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "homographNumber": "102",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tout"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "determiner",
+                        "text": "Determiner"
+                    },
+                    "text": "tout"
+                }
+            ],
+            "type": "headword",
+            "word": "tout"
+        },
+        {
+            "id": "tout",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "French, suggested by le tout Paris ‘all (of) Paris’, used to refer to Parisian high society"
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tout"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "often \"le tout\"",
+                                    "type": "wordFormNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "to͞o"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/tout_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "tu"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "used before the name of a city to refer to its high society or people of importance"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "le tout Washington adored him"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1065030.006",
+                                    "shortDefinitions": [
+                                        "used before name of city to refer to its high society"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "determiner",
+                        "text": "Determiner"
+                    },
+                    "text": "tout"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tout"
+                                },
+                                {
+                                    "inflectedForm": "touts"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "tout"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "202",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tout"
+                                },
+                                {
+                                    "inflectedForm": "touted"
+                                },
+                                {
+                                    "inflectedForm": "touting"
+                                },
+                                {
+                                    "inflectedForm": "touts"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "tout"
+                }
+            ],
+            "type": "headword",
+            "word": "tout"
+        }
+    ]
+}

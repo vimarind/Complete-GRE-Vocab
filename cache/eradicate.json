@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "eradicate",
+    "results": [
+        {
+            "id": "eradicate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "eradicable",
+                            "text": "eradicable"
+                        },
+                        {
+                            "id": "eradicant",
+                            "text": "eradicant"
+                        },
+                        {
+                            "id": "eradicator",
+                            "text": "eradicator"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘pull up by the roots’): from Latin eradicat- ‘torn up by the roots’, from the verb eradicare, from e- (variant of ex-) ‘out’ + radix, radic- ‘root’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "eradicate"
+                                },
+                                {
+                                    "inflectedForm": "eradicated"
+                                },
+                                {
+                                    "inflectedForm": "eradicates"
+                                },
+                                {
+                                    "inflectedForm": "eradicating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈradəˌkāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/eradicate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈrædəˌkeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "destroy completely; put an end to"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this disease has been eradicated from the world"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0330900.005",
+                                    "shortDefinitions": [
+                                        "destroy completely"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "get rid of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "eliminate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "do away with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remove"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "suppress"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "eradicate",
+                                            "sense_id": "t_en_gb0005021.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "eradicate"
+                }
+            ],
+            "type": "headword",
+            "word": "eradicate"
+        }
+    ]
+}

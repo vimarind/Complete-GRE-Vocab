@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "e.g.",
+    "results": [
+        {
+            "id": "e.g.",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "from Latin exempli gratia ‘for the sake of example’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "abbreviation",
+                                    "text": "Abbreviation",
+                                    "type": "Residual"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌēˈjē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/e_g_1_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌiˈdʒi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "for example"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "life events (e.g. birth, death and marriage)"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0313570.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "example",
+                                            "text": "Example"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "for example"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "for instance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "e.g."
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "to give an example"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "to give an instance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "by way of illustration"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "as an illustration"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "to illustrate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "such as"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "as"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "like"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "for_example",
+                                            "sense_id": "t_en_gb0005163.004"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "residual",
+                        "text": "Residual"
+                    },
+                    "text": "e.g."
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "e.g."
+                                },
+                                {
+                                    "inflectedForm": "eg"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "other",
+                        "text": "Other"
+                    },
+                    "text": "e.g."
+                }
+            ],
+            "type": "headword",
+            "word": "e.g."
+        }
+    ]
+}

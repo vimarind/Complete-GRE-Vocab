@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "simultaneous",
+    "results": [
+        {
+            "id": "simultaneous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "simultaneity",
+                            "text": "simultaneity"
+                        },
+                        {
+                            "id": "simultaneousness",
+                            "text": "simultaneousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: based on Latin simul ‘at the same time’, probably influenced by late Latin momentaneus"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "simultaneous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌsīməlˈtānēəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/simultaneous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌsaɪməlˈteɪniəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "occurring, operating, or done at the same time"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a simultaneous withdrawal of all troops"
+                                        },
+                                        {
+                                            "text": "simultaneous translation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0947190.005",
+                                    "shortDefinitions": [
+                                        "occurring, operating, or done at same time"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "concurrent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "happening at the same time"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "done at the same time"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contemporaneous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "concomitant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "coinciding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "coincident"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "synchronous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "synchronized"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "synchronic"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "simultaneous",
+                                            "sense_id": "t_en_gb0013497.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "simultaneous"
+                }
+            ],
+            "type": "headword",
+            "word": "simultaneous"
+        }
+    ]
+}

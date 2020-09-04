@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "approbation",
+    "results": [
+        {
+            "id": "approbation",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "approbative",
+                            "text": "approbative"
+                        },
+                        {
+                            "id": "approbatory",
+                            "text": "approbatory"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via Old French from Latin approbatio(n-), from the verb approbare (see approbate)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "approbation"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌaprəˈbāSHən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/approbation_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌæprəˈbeɪʃən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "approval or praise"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the opera met with high approbation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0042550.007",
+                                    "registers": [
+                                        {
+                                            "id": "formal",
+                                            "text": "Formal"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "praise",
+                                            "text": "Praise"
+                                        },
+                                        {
+                                            "id": "approval",
+                                            "text": "Approval"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "approval or praise"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "approval"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "acceptance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "assent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "endorsement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "encouragement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "recognition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "appreciation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "support"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "respect"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "admiration"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "commendation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "congratulations"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "approbation",
+                                            "sense_id": "t_en_gb0000734.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "approbation"
+                }
+            ],
+            "type": "headword",
+            "word": "approbation"
+        }
+    ]
+}

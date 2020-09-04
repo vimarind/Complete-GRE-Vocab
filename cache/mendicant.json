@@ -1,0 +1,213 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "mendicant",
+    "results": [
+        {
+            "id": "mendicant",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "mendicancy",
+                            "text": "mendicancy"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin mendicant- ‘begging’, from the verb mendicare, from mendicus ‘beggar’, from mendum ‘fault’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "mendicant"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmendəkənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/mendicant_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmɛndəkənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "given to begging."
+                                    ],
+                                    "id": "m_en_gbus0632250.005",
+                                    "shortDefinitions": [
+                                        "given to begging"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "of or denoting one of the religious orders that originally relied solely on alms"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a mendicant friar"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0632250.007",
+                                            "shortDefinitions": [
+                                                "of one of religious orders who originally relied solely on alms"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "begging"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cadging"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "mendicant",
+                                            "sense_id": "t_en_gb0009349.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "mendicant"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "mendicancy",
+                            "text": "mendicancy"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "mendicant"
+                                },
+                                {
+                                    "inflectedForm": "mendicants"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmendəkənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/mendicant_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmɛndəkənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a beggar."
+                                    ],
+                                    "id": "m_en_gbus0632250.009",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "poor_person",
+                                            "text": "Poor_Person"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "beggar"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a member of a mendicant order."
+                                            ],
+                                            "id": "m_en_gbus0632250.012",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "monastic",
+                                                    "text": "Monastic"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "member of mendicant order"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "beggar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "beggarman"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "beggarwoman"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tramp"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vagrant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vagabond"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "mendicant",
+                                            "sense_id": "t_en_gb0009349.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "mendicant"
+                }
+            ],
+            "type": "headword",
+            "word": "mendicant"
+        }
+    ]
+}

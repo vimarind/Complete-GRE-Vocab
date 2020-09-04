@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "embryonic",
+    "results": [
+        {
+            "id": "embryonic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "embryonically",
+                            "text": "embryonically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 19th century: from late Latin embryo, embryon- ‘embryo’+ -ic"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "embryonic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌembrēˈänik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/embryonic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɛmbriˈɑnɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to an embryo"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "slight differences in embryonic development"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0320140.008",
+                                    "shortDefinitions": [
+                                        "relating to embryo"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "fetal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unborn"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unhatched"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "embryonic",
+                                            "sense_id": "t_en_gb0004761.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a system, idea, or organization) in a rudimentary stage with potential for further development"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the plan is still in its embryonic stages"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0320140.011",
+                                    "shortDefinitions": [
+                                        "in rudimentary stage with potential for development"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "rudimentary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "undeveloped"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unformed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "immature"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "incomplete"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "incipient"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inchoate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "just beginning"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "embryonic",
+                                            "sense_id": "t_en_gb0004761.002"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "pronunciations": [
+                                        {
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "ˈembrēənəl"
+                                        }
+                                    ],
+                                    "text": "embryonal"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "embryonic"
+                }
+            ],
+            "type": "headword",
+            "word": "embryonic"
+        }
+    ]
+}

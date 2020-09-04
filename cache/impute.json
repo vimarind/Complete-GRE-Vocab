@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "impute",
+    "results": [
+        {
+            "id": "impute",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "imputable",
+                            "text": "imputable"
+                        },
+                        {
+                            "id": "imputative",
+                            "text": "imputative"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French imputer, from Latin imputare ‘enter in the account’, from in- ‘in, towards’ + putare ‘reckon’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "impute"
+                                },
+                                {
+                                    "inflectedForm": "imputed"
+                                },
+                                {
+                                    "inflectedForm": "imputes"
+                                },
+                                {
+                                    "inflectedForm": "imputing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "imˈpyo͞ot"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/impute_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪmˈpjut"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "represent (something, especially something undesirable) as being done, caused, or possessed by someone; attribute"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the crimes imputed to Richard"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0500080.016",
+                                    "shortDefinitions": [
+                                        "represent (something"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "assign (a value) to something by inference from the value of the products or processes to which it contributes"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "finance",
+                                                    "text": "Finance"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "finance",
+                                                    "text": "Finance"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "by imputing the interest rates they potentially introduce a measurement error"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0500080.022",
+                                            "shortDefinitions": [
+                                                "assign value to something by inference from value of products or processes"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "ascribe (righteousness, guilt, etc.) to someone by virtue of a similar quality in another"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "theology",
+                                                    "text": "Theology"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "theology",
+                                                    "text": "Theology"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Christ's righteousness has been imputed to us"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0500080.023",
+                                            "shortDefinitions": [
+                                                "ascribe (righteousness, guilt, etc.) to someone by virtue of similar quality in another"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "attribute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ascribe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "assign"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "credit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "accredit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chalk up"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "impute",
+                                            "sense_id": "t_en_gb0007534.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "impute"
+                }
+            ],
+            "type": "headword",
+            "word": "impute"
+        }
+    ]
+}

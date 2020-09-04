@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "derogative",
+    "results": [
+        {
+            "id": "derogative",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivativeOf": [
+                        {
+                            "id": "derogate",
+                            "text": "derogate"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "derogative"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "diˈräɡətiv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "id": "m_en_gbus0267140.024",
+                                    "registers": [
+                                        {
+                                            "id": "formal",
+                                            "text": "Formal"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "derogative"
+                }
+            ],
+            "type": "headword",
+            "word": "derogative"
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "recidivist",
+    "results": [
+        {
+            "id": "recidivist",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "recidivistic",
+                            "text": "recidivistic"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 19th century: from French récidiviste, from récidiver ‘fall back’, based on Latin recidivus ‘falling back’, from the verb recidere, from re- ‘back’ + cadere ‘to fall’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "recidivist"
+                                },
+                                {
+                                    "inflectedForm": "recidivists"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rəˈsidəvəst"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/recidivist_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rəˈsɪdəvəst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a convicted criminal who reoffends, especially repeatedly."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "crime",
+                                            "text": "Crime"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0850900.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "criminal",
+                                            "text": "Criminal"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "convicted criminal who reoffends"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "recidivist"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "recidivistic",
+                            "text": "recidivistic"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "recidivist"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rəˈsidəvəst"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/recidivist_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rəˈsɪdəvəst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to recidivists"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "crime",
+                                            "text": "Crime"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the third lowest recidivist rate in the country"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0850900.009",
+                                    "shortDefinitions": [
+                                        "relating to recidivists"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "denoting a person who repeatedly reoffends"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "crime",
+                                                    "text": "Crime"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "research reveals that murderers are less likely to be recidivist than other criminals"
+                                                },
+                                                {
+                                                    "text": "the families of recidivist prisoners"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0850900.011",
+                                            "shortDefinitions": [
+                                                "tending to reoffend"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "non-practising"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lacking faith"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "backsliding"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "recidivist"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "apostate"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "lapsed",
+                                                    "sense_id": "t_en_gb0008545.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "recidivist"
+                }
+            ],
+            "type": "headword",
+            "word": "recidivist"
+        }
+    ]
+}

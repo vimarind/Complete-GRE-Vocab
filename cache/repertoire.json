@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "repertoire",
+    "results": [
+        {
+            "id": "repertoire",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 19th century: from French répertoire, from late Latin repertorium (see repertory)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "repertoire"
+                                },
+                                {
+                                    "inflectedForm": "repertoires"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈrepə(r)ˌtwär"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/repertoire_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈrɛpə(r)ˌtwɑr"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a stock of plays, dances, or pieces that a company or a performer knows or is prepared to perform."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "music",
+                                            "text": "Music"
+                                        },
+                                        {
+                                            "id": "dance",
+                                            "text": "Dance"
+                                        },
+                                        {
+                                            "id": "theatre",
+                                            "text": "Theatre"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0862500.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "collection",
+                                            "text": "Collection"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "stock of plays, dances, or items that company or performer knows or is prepared to perform"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the whole body of items which are regularly performed"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "music",
+                                                    "text": "Music"
+                                                },
+                                                {
+                                                    "id": "theatre",
+                                                    "text": "Theatre"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the mainstream concert repertoire"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0862500.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "collection",
+                                                    "text": "Collection"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "whole body of items which are regularly performed"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a stock of skills or types of behavior that a person habitually uses"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his repertoire of threats, stares, and denigratory gestures"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0862500.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "collection",
+                                                    "text": "Collection"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "stock of skills or types of behaviour that person habitually uses"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "collection"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stock"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "range"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "repertory"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "repertoire",
+                                            "sense_id": "t_en_gb0012421.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "repertoire"
+                }
+            ],
+            "type": "headword",
+            "word": "repertoire"
+        }
+    ]
+}

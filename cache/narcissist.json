@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "narcissist",
+    "results": [
+        {
+            "id": "narcissist",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "narcissist"
+                                },
+                                {
+                                    "inflectedForm": "narcissists"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈnärsəsəst"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/narcissist_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈnɑrsəsəst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who has an excessive interest in or admiration of themselves"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "psychology",
+                                            "text": "Psychology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "narcissists who think the world revolves around them"
+                                        },
+                                        {
+                                            "text": "narcissists preening themselves in front of the mirror"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0678210.004",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "person",
+                                            "text": "Person"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "excessively self-admiring person"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "narcissist"
+                }
+            ],
+            "type": "headword",
+            "word": "narcissist"
+        }
+    ]
+}

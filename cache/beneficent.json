@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "beneficent",
+    "results": [
+        {
+            "id": "beneficent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "beneficence",
+                            "text": "beneficence"
+                        },
+                        {
+                            "id": "beneficently",
+                            "text": "beneficently"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin beneficent- (stem of beneficentior, comparative of beneficus ‘favorable, generous’), from bene facere ‘do good (to)’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "beneficent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "bəˈnefəsənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/beneficent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "bəˈnɛfəsənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person) generous or doing good"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a beneficent landowner"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0086950.007",
+                                    "shortDefinitions": [
+                                        "generous or doing good"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "resulting in good"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a beneficent democracy"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0086950.009",
+                                            "shortDefinitions": [
+                                                "resulting in good"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "benevolent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "charitable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "altruistic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "humane"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "humanitarian"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "neighbourly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "public-spirited"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "philanthropic"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "beneficent",
+                                            "sense_id": "t_en_gb0001343.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "beneficent"
+                }
+            ],
+            "type": "headword",
+            "word": "beneficent"
+        }
+    ]
+}

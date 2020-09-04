@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "caret",
+    "results": [
+        {
+            "id": "caret",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 17th century: from Latin, ‘is lacking’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "caret"
+                                },
+                                {
+                                    "inflectedForm": "carets"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈkerət"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/caret_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈkɛrət"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a mark (‸, ⁁) placed below the line to indicate a proposed insertion in a printed or written text."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "printing",
+                                            "text": "Printing"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0153430.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "symbol",
+                                            "text": "Symbol"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "mark (‸, ⁁) placed below line to indicate proposed insertion in text"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "caret"
+                }
+            ],
+            "type": "headword",
+            "word": "caret"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "invective",
+    "results": [
+        {
+            "id": "invective",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (originally as an adjective meaning ‘reviling, abusive’): from Old French invectif, -ive, from late Latin invectivus ‘attacking’, from invehere (see inveigh). The noun is from late Latin invectiva (oratio) ‘abusive or censorious (language)’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "invective"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈvektiv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/invective_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈvɛktɪv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "insulting, abusive, or highly critical language"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he let out a stream of invective"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0519500.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "criticism",
+                                            "text": "Criticism"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "insulting, abusive, or highly critical language"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "abuse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "insults"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vituperation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expletives"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swear words"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swearing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "curses"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bad language"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "foul language"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "invective",
+                                            "sense_id": "t_en_gb0008163.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "invective"
+                }
+            ],
+            "type": "headword",
+            "word": "invective"
+        }
+    ]
+}

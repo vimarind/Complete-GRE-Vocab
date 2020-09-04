@@ -1,0 +1,218 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "penitent",
+    "results": [
+        {
+            "id": "penitent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "penitently",
+                            "text": "penitently"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French, from Latin paenitent- ‘repenting’, from the verb paenitere"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "penitent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpenətnt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/penitent_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpɛnətnt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "feeling or showing sorrow and regret for having done wrong; repentant"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a penitent expression"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0762550.005",
+                                    "shortDefinitions": [
+                                        "feeling or showing sorrow and regret for having done wrong"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "repentant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contrite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "regretful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remorseful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sorry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "apologetic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "conscience-stricken"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rueful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ashamed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shamefaced"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abject"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "penitent",
+                                            "sense_id": "t_en_gb0010859.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "penitent"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "penitently",
+                            "text": "penitently"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "penitent"
+                                },
+                                {
+                                    "inflectedForm": "penitents"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpenətnt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/penitent_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpɛnətnt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who repents their sins or wrongdoings and (in the Christian Church) seeks forgiveness from God."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "christian",
+                                            "text": "Christian"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0762550.008",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "christian",
+                                            "text": "Christian"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person who repents their sins and in Christian Church seeks forgiveness from God"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(in the Roman Catholic Church) a person who confesses their sins to a priest and submits to the penance that he imposes."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "roman_catholic_church",
+                                                    "text": "Roman_Catholic_Church"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0762550.011",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "christian",
+                                                    "text": "Christian"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "(in Roman Catholic Church) person who confesses their sins to priest and submits to penance that he imposes"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "penitent"
+                }
+            ],
+            "type": "headword",
+            "word": "penitent"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "toothsome",
+    "results": [
+        {
+            "id": "toothsome",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "toothsomely",
+                            "text": "toothsomely"
+                        },
+                        {
+                            "id": "toothsomeness",
+                            "text": "toothsomeness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "toothsome"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈto͞oTHsəm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/toothsome_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈtuθsəm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of food) temptingly tasty"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a toothsome morsel"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1061420.007",
+                                    "shortDefinitions": [
+                                        "temptingly tasty"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person) good-looking; attractive"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a toothsome bimbo"
+                                                },
+                                                {
+                                                    "text": "I thought he was toothsome"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1061420.009",
+                                            "registers": [
+                                                {
+                                                    "id": "informal",
+                                                    "text": "Informal"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "good-looking"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "tasty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "delicious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "luscious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mouth-watering"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "delectable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "succulent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "palatable"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "toothsome",
+                                            "sense_id": "t_en_gb0014980.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "toothsome"
+                }
+            ],
+            "type": "headword",
+            "word": "toothsome"
+        }
+    ]
+}

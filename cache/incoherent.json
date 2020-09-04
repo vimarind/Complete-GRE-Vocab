@@ -1,0 +1,221 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "incoherent",
+    "results": [
+        {
+            "id": "incoherent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "incoherency",
+                            "text": "incoherency"
+                        },
+                        {
+                            "id": "incoherently",
+                            "text": "incoherently"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "incoherent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌinkōˈhirənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/incoherent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɪnkoʊˈhɪrənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of spoken or written language) expressed in an incomprehensible or confusing way; unclear"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he screamed some incoherent threat"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0501880.007",
+                                    "shortDefinitions": [
+                                        "expressed unclearly"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person) unable to speak intelligibly"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I splutter several more times before becoming incoherent"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0501880.009",
+                                            "shortDefinitions": [
+                                                "unable to speak intelligibly"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "delirious"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "raving"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "babbling"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hysterical"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "irrational"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "incoherent",
+                                                    "sense_id": "t_en_gb0007610.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of an ideology, policy, or system) internally inconsistent; illogical"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the film is ideologically incoherent"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0501880.010",
+                                            "shortDefinitions": [
+                                                "not logical or consistent"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "unclear"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "confused"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "muddled"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unintelligible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "incomprehensible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hard to follow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disjointed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disconnected"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unconnected"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disordered"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mixed up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "garbled"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "jumbled"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scrambled"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "incoherent",
+                                            "sense_id": "t_en_gb0007610.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of waves) having no definite or stable phase relationship."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "physics",
+                                            "text": "Physics"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "physics",
+                                            "text": "Physics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0501880.012",
+                                    "shortDefinitions": [
+                                        "having no definite phase relationship"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "incoherent"
+                }
+            ],
+            "type": "headword",
+            "word": "incoherent"
+        }
+    ]
+}

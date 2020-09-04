@@ -1,0 +1,279 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "conciliate",
+    "results": [
+        {
+            "id": "conciliate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "conciliative",
+                            "text": "conciliative"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (in conciliate (sense 2)): from Latin conciliat- ‘combined, gained’, from the verb conciliare, from concilium (see council)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "conciliate"
+                                },
+                                {
+                                    "inflectedForm": "conciliated"
+                                },
+                                {
+                                    "inflectedForm": "conciliates"
+                                },
+                                {
+                                    "inflectedForm": "conciliating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kənˈsilēˌāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconciliate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kənˈsɪliˌeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "stop (someone) from being angry or discontented; placate; pacify"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "concessions were made to conciliate the peasantry"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0208530.006",
+                                    "shortDefinitions": [
+                                        "placate"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "act as a mediator"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he sought to conciliate in the dispute"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0208530.012",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "act as mediator"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "mediate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "act as a peacemaker"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "act as a mediator"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "arbitrate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "make peace"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "restore harmony"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "reconcile differences"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "clear the air"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "conciliate",
+                                                    "sense_id": "t_en_gb0002732.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "reconcile; make compatible"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "all complaints about charges will be conciliated if possible"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0208530.013",
+                                            "registers": [
+                                                {
+                                                    "id": "formal",
+                                                    "text": "Formal"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "reconcile"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "reconcile"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "make up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "settle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "conciliate"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "patch_something_up",
+                                                    "sense_id": "t_en_gb0010750.008"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "appease"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "placate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pacify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mollify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "propitiate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "assuage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "calm down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "soothe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "humour"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reconcile"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disarm"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "win over"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make peace with"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "conciliate",
+                                            "sense_id": "t_en_gb0002732.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "gain (esteem or goodwill)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the arts which conciliate popularity"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0208530.015",
+                                    "registers": [
+                                        {
+                                            "id": "archaic",
+                                            "text": "Archaic"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "gain esteem"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "conciliate"
+                }
+            ],
+            "type": "headword",
+            "word": "conciliate"
+        }
+    ]
+}

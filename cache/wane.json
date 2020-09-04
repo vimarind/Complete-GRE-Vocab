@@ -1,0 +1,464 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "wane",
+    "results": [
+        {
+            "id": "wane",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "waney",
+                            "text": "waney"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from wane"
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "wane"
+                                },
+                                {
+                                    "inflectedForm": "wanes"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "wān"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/wane_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "weɪn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the amount by which a plank or log is beveled or falls short of a squared shape"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I cut the log into slabs without removing the outside wane"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1139970.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "measure",
+                                            "text": "Measure"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "amount by which plank or log is bevelled or falls short of squared shape"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "wane"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "waney",
+                            "text": "waney"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "wane"
+                                },
+                                {
+                                    "inflectedForm": "waned"
+                                },
+                                {
+                                    "inflectedForm": "wanes"
+                                },
+                                {
+                                    "inflectedForm": "waning"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "wane"
+                }
+            ],
+            "type": "headword",
+            "word": "wane"
+        },
+        {
+            "id": "wane",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English wanian ‘lessen’, of Germanic origin; related to Latin vanus ‘vain’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "wane"
+                                },
+                                {
+                                    "inflectedForm": "waned"
+                                },
+                                {
+                                    "inflectedForm": "wanes"
+                                },
+                                {
+                                    "inflectedForm": "waning"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "wān"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/wane_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "weɪn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of the moon) have a progressively smaller part of its visible surface illuminated, so that it appears to decrease in size."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "astronomy",
+                                            "text": "Astronomy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1139960.015",
+                                    "shortDefinitions": [
+                                        "(of moon) have progressively smaller part of its visible surface illuminated, so that it appears to decrease in size"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(especially of a condition or feeling) decrease in vigor, power, or extent; become weaker"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "confidence in the dollar waned"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1139960.021",
+                                            "shortDefinitions": [
+                                                "decrease in vigor or extent"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "decrease"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "decline"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "diminish"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dwindle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "shrink"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "contract"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "taper off"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tail off"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "subside"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "slacken"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "droop"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sink"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ebb"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dim"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fade"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fade away"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "grow faint"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lessen"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dissolve"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "peter out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "wind down"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fall off"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "attenuate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "be on the way out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "abate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fail"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "recede"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "slump"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "flag"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "atrophy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "become weak"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "weaken"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "give in"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "give way"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "melt away"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "deteriorate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "crumble"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "wither"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "disintegrate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "degenerate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "evaporate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "collapse"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "go downhill"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "draw to a close"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "vanish"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "die out"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "wane",
+                                                    "sense_id": "t_en_gb0016076.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "disappear"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "decrease"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "diminish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dwindle"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "wane",
+                                            "sense_id": "t_en_gb0016076.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "on_the_wane",
+                            "text": "on the wane"
+                        }
+                    ],
+                    "text": "wane"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "wane"
+                                },
+                                {
+                                    "inflectedForm": "wanes"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "on_the_wane",
+                            "text": "on the wane"
+                        }
+                    ],
+                    "text": "wane"
+                }
+            ],
+            "type": "headword",
+            "word": "wane"
+        }
+    ]
+}

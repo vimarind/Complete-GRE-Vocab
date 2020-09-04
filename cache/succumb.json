@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "succumb",
+    "results": [
+        {
+            "id": "succumb",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the sense ‘bring low, overwhelm’): from Old French succomber or Latin succumbere, from sub- ‘under’ + a verb related to cubare ‘to lie’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "succumb"
+                                },
+                                {
+                                    "inflectedForm": "succumbed"
+                                },
+                                {
+                                    "inflectedForm": "succumbing"
+                                },
+                                {
+                                    "inflectedForm": "succumbs"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "səˈkəm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/succumb_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "səˈkəm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "fail to resist pressure, temptation, or some other negative force"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he has become the latest to succumb to the strain"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1009470.005",
+                                    "shortDefinitions": [
+                                        "fail to resist pressure, temptation, or some other negative force"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "die from the effect of a disease or injury"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "after a few blows there, the porcupine succumbs"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1009470.011",
+                                            "shortDefinitions": [
+                                                "die from effect of disease or injury"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "die from"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "die of"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pass away as a result of"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "be a fatality of"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "succumb",
+                                                    "sense_id": "t_en_gb0014360.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "yield"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give in"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give way"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "submit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "surrender"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "capitulate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cave in"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "succumb",
+                                            "sense_id": "t_en_gb0014360.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "succumb"
+                }
+            ],
+            "type": "headword",
+            "word": "succumb"
+        }
+    ]
+}

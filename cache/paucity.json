@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "paucity",
+    "results": [
+        {
+            "id": "paucity",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French paucite or Latin paucitas, from paucus ‘few’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "paucities"
+                                },
+                                {
+                                    "inflectedForm": "paucity"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "in singular",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpôsədē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/paucity_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpɔsədi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "paucity of"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "the presence of something only in small or insufficient quantities or amounts; scarcity"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a paucity of information"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0756040.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "lack",
+                                            "text": "Lack"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "presence of something in only small or insufficient quantities or amounts"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "insufficiency"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deficiency"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scantness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scarcity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scarceness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sparseness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dearth"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "paucity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "poverty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shortage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "want"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lack"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "undersupply"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "inadequacy",
+                                            "sense_id": "t_en_gb0007544.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "paucity"
+                }
+            ],
+            "type": "headword",
+            "word": "paucity"
+        }
+    ]
+}

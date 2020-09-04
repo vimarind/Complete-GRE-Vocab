@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "boon",
+    "results": [
+        {
+            "id": "boon",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (originally in the sense ‘request for a favor’): from Old Norse bón"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "boon"
+                                },
+                                {
+                                    "inflectedForm": "boons"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "bo͞on"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/boon_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "bun"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "a boon to"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a thing that is helpful or beneficial"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the navigation system will be a boon to both civilian and military users"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0114130.006",
+                                    "notes": [
+                                        {
+                                            "text": "usually in singular",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "help",
+                                            "text": "Help"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "thing that is helpful or beneficial"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "blessing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "godsend"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bonus"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "good thing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "benefit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "help"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "aid"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "advantage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "asset"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "privilege"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "luxury"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "boon",
+                                            "sense_id": "t_en_gb0001611.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a favor or request"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "may I have the inestimable boon of a few minutes' conversation?"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0114130.010",
+                                    "registers": [
+                                        {
+                                            "id": "archaic",
+                                            "text": "Archaic"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "request",
+                                            "text": "Request"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "favour or request"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "boon"
+                }
+            ],
+            "type": "headword",
+            "word": "boon"
+        }
+    ]
+}

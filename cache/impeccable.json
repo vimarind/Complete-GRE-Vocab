@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "impeccable",
+    "results": [
+        {
+            "id": "impeccable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "impeccability",
+                            "text": "impeccability"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (in the theological sense): from Latin impeccabilis, from in- ‘not’ + peccare ‘to sin’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "impeccable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "imˈpekəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/impeccable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪmˈpɛkəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of behavior, performance, or appearance) in accordance with the highest standards of propriety; faultless"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a man of impeccable character"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0498290.005",
+                                    "shortDefinitions": [
+                                        "in accordance with highest standards"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "not liable to sin."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "theology",
+                                                    "text": "Theology"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "theology",
+                                                    "text": "Theology"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0498290.007",
+                                            "registers": [
+                                                {
+                                                    "id": "rare",
+                                                    "text": "Rare"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "not liable to sin"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "flawless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "faultless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unblemished"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spotless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stainless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "untarnished"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perfect"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exemplary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ideal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "model"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "impeccable",
+                                            "sense_id": "t_en_gb0007428.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "impeccable"
+                }
+            ],
+            "type": "headword",
+            "word": "impeccable"
+        }
+    ]
+}

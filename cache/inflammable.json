@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "inflammable",
+    "results": [
+        {
+            "id": "inflammable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "inflammability",
+                            "text": "inflammability"
+                        },
+                        {
+                            "id": "inflammableness",
+                            "text": "inflammableness"
+                        },
+                        {
+                            "id": "inflammably",
+                            "text": "inflammably"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from French, or from Latin inflammare (see inflame)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "inflammable"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "The words inflammable and flammable both have the same meaning, ‘easily set on fire.’ This might seem surprising, given that the prefix in- normally has a negative meaning (as in indirect and insufficient), and so it might be expected that inflammable would mean the opposite of flammable, i.e., ‘not easily set on fire.’ In fact, inflammable is formed using a different Latin prefix in-, which has the meaning ‘into’ and here has the effect of intensifying the meaning of the word in English. Flammable is a far commoner word than inflammable and carries less risk of confusion",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈflaməb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/inflammable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈflæməb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "easily set on fire"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "inflammable and poisonous gases"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0507790.005",
+                                    "shortDefinitions": [
+                                        "easily set on fire"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "flammable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "combustible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "incendiary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "explosive"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "inflammable",
+                                            "sense_id": "t_en_gb0007815.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "inflammable"
+                }
+            ],
+            "type": "headword",
+            "word": "inflammable"
+        }
+    ]
+}

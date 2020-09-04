@@ -1,0 +1,263 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "revamp",
+    "results": [
+        {
+            "id": "revamp",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "revamp"
+                                },
+                                {
+                                    "inflectedForm": "revamped"
+                                },
+                                {
+                                    "inflectedForm": "revamping"
+                                },
+                                {
+                                    "inflectedForm": "revamps"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rēˈvamp"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/revamp_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "riˈvæmp"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "give new and improved form, structure, or appearance to"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an attempt to revamp the museum's image"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0868830.005",
+                                    "shortDefinitions": [
+                                        "give new and improved form, structure, or appearance"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "renovate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "redecorate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "refurbish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "recondition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rehabilitate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rebuild"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reconstruct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overhaul"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make over"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "revamp",
+                                            "sense_id": "t_en_gb0012579.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "revamp"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "revamp"
+                                },
+                                {
+                                    "inflectedForm": "revamps"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "usually in singular",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈrēˌvamp"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/revamp_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈriˌvæmp"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an act of improving the form, structure, or appearance of something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the brand was given a $1 million revamp"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0868830.014",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "organizing",
+                                            "text": "Organizing"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "act of improving form, structure, or appearance of something"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a new and improved version"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the show was a revamp of an old idea"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0868830.017",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "version",
+                                                    "text": "Version"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "new and improved version"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "reorganization"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "restructuring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rearrangement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "change"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reshuffle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "regrouping"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "redistribution"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overhaul"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "revamp"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "makeover"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "shake-up",
+                                            "sense_id": "t_en_gb0013319.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "revamp"
+                }
+            ],
+            "type": "headword",
+            "word": "revamp"
+        }
+    ]
+}

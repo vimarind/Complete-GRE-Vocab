@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "irksome",
+    "results": [
+        {
+            "id": "irksome",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "irksomely",
+                            "text": "irksomely"
+                        },
+                        {
+                            "id": "irksomeness",
+                            "text": "irksomeness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "irksome"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈərksəm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/irksome_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈərksəm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "irritating; annoying"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an irksome journey"
+                                        },
+                                        {
+                                            "text": "petty regulations were becoming very irksome"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0522000.005",
+                                    "shortDefinitions": [
+                                        "irritating"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "irritating"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "annoying"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vexing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vexatious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "galling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exasperating"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "displeasing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grating"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disagreeable"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "irksome",
+                                            "sense_id": "t_en_gb0008211.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "irksome"
+                }
+            ],
+            "type": "headword",
+            "word": "irksome"
+        }
+    ]
+}

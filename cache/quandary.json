@@ -1,0 +1,157 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "quandary",
+    "results": [
+        {
+            "id": "quandary",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: perhaps partly from Latin quando ‘when’"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "quandaries"
+                                },
+                                {
+                                    "inflectedForm": "quandaries"
+                                },
+                                {
+                                    "inflectedForm": "quandary"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈkwänd(ə)rē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/quandary_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈkwɑnd(ə)ri"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "in a quandary"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a state of perplexity or uncertainty over what to do in a difficult situation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Kate is in a quandary"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0835200.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "state",
+                                            "text": "State"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "state of perplexity or uncertainty over what to do in difficult situation"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a difficult situation; a practical dilemma"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a legal quandary"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0835200.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "difficulty",
+                                                    "text": "Difficulty"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "difficult situation"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "dilemma"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plight"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "predicament"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "state of uncertainty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "state of perplexity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unfortunate situation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "difficult situation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "awkward situation"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "quandary",
+                                            "sense_id": "t_en_gb0011945.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "quandary"
+                }
+            ],
+            "type": "headword",
+            "word": "quandary"
+        }
+    ]
+}

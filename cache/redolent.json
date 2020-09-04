@@ -1,0 +1,181 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "redolent",
+    "results": [
+        {
+            "id": "redolent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "redolence",
+                            "text": "redolence"
+                        },
+                        {
+                            "id": "redolently",
+                            "text": "redolently"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘fragrant’): from Old French, or from Latin redolent- ‘giving out a strong smell’, from re(d)- ‘back, again’ + olere ‘to smell’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "redolent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈredlənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/redolent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈrɛdlənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "redolent of"
+                                        },
+                                        {
+                                            "text": "redolent with"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "strongly reminiscent or suggestive of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "names redolent of history and tradition"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0854310.006",
+                                    "notes": [
+                                        {
+                                            "text": "\"redolent of/with\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "strongly reminiscent or suggestive of"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "strongly smelling of"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the church was old, dark, and redolent of incense"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0854310.008",
+                                            "registers": [
+                                                {
+                                                    "id": "literary",
+                                                    "text": "Literary"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "strongly smelling of"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "evocative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "suggestive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reminiscent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remindful"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "redolent",
+                                            "sense_id": "t_en_gb0012239.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "fragrant or sweet-smelling"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a rich, inky, redolent wine"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0854310.010",
+                                    "registers": [
+                                        {
+                                            "id": "archaic",
+                                            "text": "Archaic"
+                                        },
+                                        {
+                                            "id": "literary",
+                                            "text": "Literary"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "fragrant or sweet-smelling"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "smelling of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reeking of"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "redolent",
+                                            "sense_id": "t_en_gb0012239.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "redolent"
+                }
+            ],
+            "type": "headword",
+            "word": "redolent"
+        }
+    ]
+}

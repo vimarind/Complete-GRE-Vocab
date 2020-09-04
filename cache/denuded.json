@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "denuded",
+    "results": [
+        {
+            "id": "denude",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "denudation",
+                            "text": "denudation"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin denudare, from de- ‘completely’ + nudare ‘to bare’ (from nudus ‘naked’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "denude"
+                                },
+                                {
+                                    "inflectedForm": "denuded"
+                                },
+                                {
+                                    "inflectedForm": "denudes"
+                                },
+                                {
+                                    "inflectedForm": "denuding"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈn(y)o͞od"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/denude_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈn(j)ud"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "strip (something) of its covering, possessions, or assets; make bare"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "almost overnight the Arctic was denuded of animals"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0265030.005",
+                                    "shortDefinitions": [
+                                        "strip something of its covering or assets"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "divest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "strip"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clear"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deprive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bereave"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rob"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "denude",
+                                            "sense_id": "t_en_gb0003690.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "denude"
+                }
+            ],
+            "type": "headword",
+            "word": "denude"
+        }
+    ]
+}

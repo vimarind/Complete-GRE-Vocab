@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "malfeasance",
+    "results": [
+        {
+            "id": "malfeasance",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "malfeasant",
+                            "text": "malfeasant"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 17th century: from Anglo-Norman French malfaisance, from mal- ‘evil’ + Old French faisance ‘activity’. Compare with misfeasance"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "malfeasance"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌmalˈfēzəns"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/malfeasance_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌmælˈfizəns"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "wrongdoing, especially by a public official."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0611070.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "criminal_practice",
+                                            "text": "Criminal_Practice"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "wrongdoing"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "deceit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deception"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "duplicity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lying"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "falseness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "falsity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "falsehood"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "untruthfulness"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "dishonesty",
+                                            "sense_id": "t_en_gb0004129.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "malfeasance"
+                }
+            ],
+            "type": "headword",
+            "word": "malfeasance"
+        }
+    ]
+}

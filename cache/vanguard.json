@@ -1,0 +1,198 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "vanguard",
+    "results": [
+        {
+            "id": "vanguard",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "vanguardism",
+                            "text": "vanguardism"
+                        },
+                        {
+                            "id": "vanguardist",
+                            "text": "vanguardist"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (denoting the foremost part of an army): shortening of Old French avan(t)garde, from avant ‘before’ + garde ‘guard’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "vanguard"
+                                },
+                                {
+                                    "inflectedForm": "vanguards"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈvanˌɡärd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/vanguard_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈvænˌɡɑrd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a group of people leading the way in new developments or ideas"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the experimental spirit of the modernist vanguard"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1120160.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "social_group",
+                                            "text": "Social_Group"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "group of people leading way in new developments"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "constructions": [
+                                                {
+                                                    "text": "in the vanguard of"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "a position at the forefront of new developments or ideas"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the prototype was in the vanguard of technical development"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1120160.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "level",
+                                                    "text": "Level"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "position at forefront of new developments or ideas"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "forefront"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "van"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "advance guard"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "avant-garde"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "spearhead"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "front"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "front line"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "front rank"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fore"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lead"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "leading position"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cutting edge"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "driving force"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "vanguard",
+                                                    "sense_id": "t_en_gb0015845.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the foremost part of an advancing army or naval force."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "military",
+                                            "text": "Military"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1120160.010",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "military_unit",
+                                            "text": "Military_Unit"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "foremost part of advancing army"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "vanguard"
+                }
+            ],
+            "type": "headword",
+            "word": "vanguard"
+        }
+    ]
+}

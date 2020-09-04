@@ -1,0 +1,204 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "bedlam",
+    "results": [
+        {
+            "id": "bedlam",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: early form of Bethlehem, referring to the hospital of St Mary of Bethlehem in London, used as an institution for the insane"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bedlam"
+                                },
+                                {
+                                    "inflectedForm": "bedlam"
+                                },
+                                {
+                                    "inflectedForm": "bedlams"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbedləm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bedlam_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbɛdləm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a scene of uproar and confusion"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there was bedlam in the courtroom"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0082610.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "commotion",
+                                            "text": "Commotion"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "scene of uproar and confusion"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "uproar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pandemonium"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "commotion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mayhem"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "confusion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unrest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "furore"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "upheaval"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hubbub"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hurly-burly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "turmoil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "riot"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ruckus"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tumult"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disarray"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "turbulence"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bedlam",
+                                            "sense_id": "t_en_gb0001271.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "an institution for the care of mentally ill people."
+                                    ],
+                                    "id": "m_en_gbus0082610.009",
+                                    "registers": [
+                                        {
+                                            "id": "archaic",
+                                            "text": "Archaic"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "medical_institution",
+                                            "text": "Medical_Institution"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "institution for the care of mentally ill people"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "psychiatric hospital"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "psychiatric unit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hospital"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "home"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "institution"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "asylum",
+                                            "sense_id": "t_en_gb0000929.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "bedlam"
+                }
+            ],
+            "type": "headword",
+            "word": "bedlam"
+        }
+    ]
+}

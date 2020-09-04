@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "conjectural",
+    "results": [
+        {
+            "id": "conjectural",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "conjecturally",
+                            "text": "conjecturally"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: via French from Latin conjecturalis, from conjectura ‘inference’ (see conjecture)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "conjectural"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kənˈjekCHərəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconjectural_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kənˈdʒɛktʃərəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "based on or involving conjecture"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "logic",
+                                            "text": "Logic"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "much of the racial history of Madagascar remains conjectural"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0211240.005",
+                                    "shortDefinitions": [
+                                        "based on or involving conjecture"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "speculative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "suppositional"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "theoretical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hypothetical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "putative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "academic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "notional"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abstract"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "conjectural",
+                                            "sense_id": "t_en_gb0002826.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "conjectural"
+                }
+            ],
+            "type": "headword",
+            "word": "conjectural"
+        }
+    ]
+}

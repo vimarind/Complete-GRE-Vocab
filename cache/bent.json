@@ -1,0 +1,1444 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "bent",
+    "results": [
+        {
+            "id": "bent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100",
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "bent"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "bɛnt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "past and past participle of bend"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "bend",
+                                            "text": "bend",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0087500.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "bent_out_of_shape",
+                            "text": "bent out of shape"
+                        }
+                    ],
+                    "text": "bent"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "bent"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "bɛnt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "sharply curved or having an angle"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a piece of bent wire"
+                                        },
+                                        {
+                                            "text": "his bent shoulders"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0087500.010",
+                                    "shortDefinitions": [
+                                        "sharply curved"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "twisted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crooked"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "warped"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contorted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deformed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "misshapen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "out of shape"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "irregular"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bent",
+                                            "sense_id": "t_en_gb0001352.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "bent on"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "determined to do or have"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a missionary bent on saving souls"
+                                        },
+                                        {
+                                            "text": "a mob bent on violence"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0087500.018",
+                                    "notes": [
+                                        {
+                                            "text": "\"bent on\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "determined to do or have"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "intent on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "determined on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "set on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "insistent on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fixed on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "resolved on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hell-bent on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "firm about"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "committed to"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bent_on",
+                                            "sense_id": "t_en_gb0001352.004"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "dishonest; corrupt"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "crime",
+                                            "text": "Crime"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a bent cop"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0087500.013",
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "registers": [
+                                        {
+                                            "id": "informal",
+                                            "text": "Informal"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "dishonest"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "stolen."
+                                            ],
+                                            "id": "m_en_gbus0087500.014",
+                                            "shortDefinitions": [
+                                                "stolen"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "stolen"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "illegally obtained"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "under the counter"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "illegal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "illicit"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unlawful"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "smuggled"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bootleg"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "contraband"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "hot",
+                                                    "sense_id": "t_en_gb0007147.011"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "corrupt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "corruptible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bribable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "buyable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "venal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fraudulent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swindling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grafting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "criminal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lawless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "villainous"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bent",
+                                            "sense_id": "t_en_gb0001352.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "homosexual (typically used of a man)."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "sex",
+                                            "text": "Sex"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0087500.016",
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "registers": [
+                                        {
+                                            "id": "offensive",
+                                            "text": "Offensive"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "homosexual"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "gay"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lesbian"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lesbigay"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "homosexual",
+                                            "sense_id": "t_en_gb0007084.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "phrases": [
+                        {
+                            "id": "bent_out_of_shape",
+                            "text": "bent out of shape"
+                        }
+                    ],
+                    "text": "bent"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "102",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bent"
+                                },
+                                {
+                                    "inflectedForm": "bents"
+                                },
+                                {
+                                    "inflectedForm": "bent"
+                                },
+                                {
+                                    "inflectedForm": "bents"
+                                },
+                                {
+                                    "inflectedForm": "bent grass"
+                                },
+                                {
+                                    "inflectedForm": "bent grasses"
+                                },
+                                {
+                                    "inflectedForm": "common bent"
+                                },
+                                {
+                                    "inflectedForm": "common bents"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "bent"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "bɛnt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "bent for"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a natural talent or inclination"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a man of religious bent"
+                                        },
+                                        {
+                                            "text": "she had no natural bent for literature"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0087500.020",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "skill",
+                                            "text": "Skill"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "natural talent or inclination"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "inclination"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "predisposition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disposition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "instinct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "orientation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "leaning"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tendency"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "penchant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bias"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "predilection"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "proclivity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "propensity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "talent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gift"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "flair"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ability"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "knack"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "aptitude"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "facility"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "faculty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "skill"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "capability"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "capacity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forte"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "genius"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bent",
+                                            "sense_id": "t_en_gb0001352.005"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "bent_out_of_shape",
+                            "text": "bent out of shape"
+                        }
+                    ],
+                    "text": "bent"
+                }
+            ],
+            "type": "headword",
+            "word": "bent"
+        },
+        {
+            "id": "bent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old English beonet (recorded in place names), of West Germanic origin; related to German Binse"
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bent"
+                                },
+                                {
+                                    "inflectedForm": "bents"
+                                },
+                                {
+                                    "inflectedForm": "bent"
+                                },
+                                {
+                                    "inflectedForm": "bents"
+                                },
+                                {
+                                    "inflectedForm": "bent grass"
+                                },
+                                {
+                                    "inflectedForm": "bent grasses"
+                                },
+                                {
+                                    "inflectedForm": "common bent"
+                                },
+                                {
+                                    "inflectedForm": "common bents"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "bent"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "bɛnt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a stiff grass which is used for lawns and is a component of pasture and hay grasses."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "plant",
+                                            "text": "Plant"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0087510.006",
+                                    "notes": [
+                                        {
+                                            "text": "Agrostis and other genera, family Graminae: several species, including common bent (A. capillaris or 'tenuis')",
+                                            "type": "technicalNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "grass",
+                                            "text": "Grass"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "stiff grass"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the stiff flowering stalk of a grass"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "those nasty bents of ryegrass that are very efficient at ducking the mower"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0087510.020",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "stem",
+                                                    "text": "Stem"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "stiff flowering stalk of grass"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "any stiff-stemmed or rushlike grass or sedge."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "plant",
+                                                    "text": "Plant"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0087510.021",
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "grass",
+                                                    "text": "Grass"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "stiff or rushlike grass or sedge"
+                                            ]
+                                        }
+                                    ],
+                                    "variantForms": [
+                                        {
+                                            "text": "bent grass"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a heath or unenclosed pasture."
+                                    ],
+                                    "id": "m_en_gbus0087510.023",
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "registers": [
+                                        {
+                                            "id": "archaic",
+                                            "text": "Archaic"
+                                        },
+                                        {
+                                            "id": "dialect",
+                                            "text": "Dialect"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "field",
+                                            "text": "Field"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "heath or unenclosed pasture"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "bent"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bent"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "bent"
+                }
+            ],
+            "type": "headword",
+            "word": "bent"
+        },
+        {
+            "id": "bend",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "bendable",
+                            "text": "bendable"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English bendan ‘put in bonds, tension a bow by means of a string’, of Germanic origin; related to band"
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "pastParticiple",
+                                            "text": "Past Participle",
+                                            "type": "Non Finiteness"
+                                        },
+                                        {
+                                            "id": "past",
+                                            "text": "Past",
+                                            "type": "Tense"
+                                        }
+                                    ],
+                                    "inflectedForm": "bent",
+                                    "pronunciations": [
+                                        {
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "bent"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "inflectedForm": "bend"
+                                },
+                                {
+                                    "inflectedForm": "bending"
+                                },
+                                {
+                                    "inflectedForm": "bends"
+                                },
+                                {
+                                    "inflectedForm": "bent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "bend"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bend_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "bɛnd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "shape or force (something straight) into a curve or angle"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the rising wind bent the long grass"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0086700.008",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "shape something straight into curve"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of something straight) be shaped or forced into a curve or angle"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the oar bent as Lance heaved angrily at it"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0086700.014",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "be shaped into curve"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a road, river, or path) deviate from a straight line in a specified direction; have a sharply curved course"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the road bent left and then right"
+                                                },
+                                                {
+                                                    "text": "the river slowly bends around Davenport"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0086700.015",
+                                            "notes": [
+                                                {
+                                                    "text": "no object, usually with adverbial of direction",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "deviate from straight line"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "turn"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "curve"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "incline"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "swing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "veer"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "swerve"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "deviate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "diverge"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fork"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "change course"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "bend",
+                                                    "sense_id": "t_en_gb0001339.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "curve"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crook"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make crooked"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make curved"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "flex"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "angle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hook"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "arc"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "arch"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "buckle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "warp"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contort"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "distort"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deform"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bend",
+                                            "sense_id": "t_en_gb0001339.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a person) incline the body downward from the vertical"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I bent over my plate"
+                                        },
+                                        {
+                                            "text": "he bent down and picked her up"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with infinitive",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "he bent to tie his shoelaces"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0086700.017",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "incline body downwards"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "move (a jointed part of the body) to an angled position"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "extend your left leg and bend your right"
+                                                },
+                                                {
+                                                    "text": "Irene bent her head over her work"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0086700.018",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "move body part to angled position"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "stoop"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crouch"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "squat"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "kneel"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hunch"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bend",
+                                            "sense_id": "t_en_gb0001339.003"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "force or be forced to submit"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "they want to bend me to their will"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "a refusal to bend to mob rule"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0086700.020",
+                                    "shortDefinitions": [
+                                        "force or be forced to submit"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "interpret or modify (a rule) to suit oneself or somebody else"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "we cannot bend the rules, even for Darren"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0086700.021",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "modify rule to suit someone"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "mould"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shape"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "manipulate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "direct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "force"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "press"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "influence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "incline"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sway"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bias"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "warp"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impress"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "compel"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "persuade"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bend",
+                                            "sense_id": "t_en_gb0001339.004"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "direct or devote (one's attention or energies) to a task"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Eric bent all his efforts to persuading them to donate some blankets"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "she bent once more to the task of diverting the wedding guests"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0086700.023",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "direct one's attention to task"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "direct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "point"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "aim"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "turn"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "train"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "steer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "set"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bend",
+                                            "sense_id": "t_en_gb0001339.005"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "attach (a sail or rope) by means of a knot"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "nautical",
+                                            "text": "Nautical"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "nautical",
+                                            "text": "Nautical"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "sailors were bending sails to the spars"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0086700.025",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "attach sail or cable with knot"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "around_the_bend",
+                            "text": "around the bend"
+                        },
+                        {
+                            "id": "bend_one%27s_elbow",
+                            "text": "bend one's elbow"
+                        },
+                        {
+                            "id": "bend_someone%27s_ear",
+                            "text": "bend someone's ear"
+                        }
+                    ],
+                    "text": "bend"
+                }
+            ],
+            "type": "headword",
+            "word": "bend"
+        },
+        {
+            "id": "bend",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Anglo-Norman French bande, Old French bende ‘flat strip’"
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bend"
+                                },
+                                {
+                                    "inflectedForm": "bending"
+                                },
+                                {
+                                    "inflectedForm": "bends"
+                                },
+                                {
+                                    "inflectedForm": "bent"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "bend"
+                }
+            ],
+            "type": "headword",
+            "word": "bend"
+        }
+    ]
+}

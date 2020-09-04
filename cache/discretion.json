@@ -1,0 +1,184 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "discretion",
+    "results": [
+        {
+            "id": "discretion",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘discernment’): via Old French from Latin discretio(n-) ‘separation’ (in late Latin ‘discernment’), from discernere (see discern)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "discretion"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈskreSH(ə)n"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/discretion_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈskrɛʃ(ə)n"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "the soul of discretion"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "the quality of behaving or speaking in such a way as to avoid causing offense or revealing private information"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she knew she could rely on his discretion"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0280630.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "characteristic",
+                                            "text": "Characteristic"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "quality of behaving or speaking in such way as to avoid causing offence or revealing confidential information"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "circumspection"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "care"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "carefulness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "caution"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wariness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chariness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "guardedness"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "discretion",
+                                            "sense_id": "t_en_gb0004089.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "at the discretion of"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "the freedom to decide what should be done in a particular situation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it is up to local authorities to use their discretion in setting the charges"
+                                        },
+                                        {
+                                            "text": "a pass-fail grading system may be used at the discretion of the department"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0280630.009",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "freedom",
+                                            "text": "Freedom"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "freedom to decide what should be done in particular situation"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "choice"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "option"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "judgement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "preference"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disposition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "volition"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "discretion",
+                                            "sense_id": "t_en_gb0004089.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "discretion_is_the_better_part_of_valor",
+                            "text": "discretion is the better part of valor"
+                        }
+                    ],
+                    "text": "discretion"
+                }
+            ],
+            "type": "headword",
+            "word": "discretion"
+        }
+    ]
+}

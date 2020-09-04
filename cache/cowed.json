@@ -1,0 +1,222 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "cowed",
+    "results": [
+        {
+            "id": "cow",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: probably from Old Norse kúga ‘oppress’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "cow"
+                                },
+                                {
+                                    "inflectedForm": "cowed"
+                                },
+                                {
+                                    "inflectedForm": "cowing"
+                                },
+                                {
+                                    "inflectedForm": "cows"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "usually \"be cowed\"",
+                                    "type": "wordFormNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kou"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/cow_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kaʊ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cause (someone) to submit to one's wishes by intimidation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the intellectuals had been cowed into silence"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0228160.005",
+                                    "shortDefinitions": [
+                                        "cause someone to submit to one's wishes by intimidation"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "intimidate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "daunt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "browbeat"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bully"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "badger"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dragoon"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bludgeon"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tyrannize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overawe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "awe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dismay"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dishearten"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unnerve"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "subdue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scare"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "terrorize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "frighten"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "petrify"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "cow",
+                                            "sense_id": "t_en_gb0003145.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "cow"
+                }
+            ],
+            "type": "headword",
+            "word": "cow"
+        },
+        {
+            "id": "cow",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English cū, of Germanic origin; related to Dutch koe and German Kuh, from an Indo-European root shared by Latin bos and Greek bous"
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "cow"
+                                },
+                                {
+                                    "inflectedForm": "cowed"
+                                },
+                                {
+                                    "inflectedForm": "cowing"
+                                },
+                                {
+                                    "inflectedForm": "cows"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "have_a_cow",
+                            "text": "have a cow"
+                        },
+                        {
+                            "id": "till_the_cows_come_home",
+                            "text": "till the cows come home"
+                        }
+                    ],
+                    "text": "cow"
+                }
+            ],
+            "type": "headword",
+            "word": "cow"
+        }
+    ]
+}

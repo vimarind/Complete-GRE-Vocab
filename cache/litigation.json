@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "litigation",
+    "results": [
+        {
+            "id": "litigation",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "litigative",
+                            "text": "litigative"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "litigation"
+                                },
+                                {
+                                    "inflectedForm": "litigations"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌlidəˈɡāSH(ə)n"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/litigation_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌlɪdəˈɡeɪʃ(ə)n"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the process of taking legal action"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the company wishes to avoid litigation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0587170.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "legal_proceeding",
+                                            "text": "Legal_Proceeding"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "process of taking legal action"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "legal proceeding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "legal proceedings"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "legal action"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lawsuit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "legal dispute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "legal case"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "case"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "legal contest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "action"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cause"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "judicial proceeding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "judicial proceedings"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "suit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "suit at law"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "legal process"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prosecution"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bringing of charges"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "indictment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trial"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "litigation",
+                                            "sense_id": "t_en_gb0008835.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "litigation"
+                }
+            ],
+            "type": "headword",
+            "word": "litigation"
+        }
+    ]
+}

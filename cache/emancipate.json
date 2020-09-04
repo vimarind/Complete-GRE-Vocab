@@ -1,0 +1,228 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "emancipate",
+    "results": [
+        {
+            "id": "emancipate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "emancipatory",
+                            "text": "emancipatory"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin emancipat- ‘transferred as property’, from the verb emancipare, from e- (variant of ex-) ‘out’ + mancipium ‘slave’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "emancipate"
+                                },
+                                {
+                                    "inflectedForm": "emancipated"
+                                },
+                                {
+                                    "inflectedForm": "emancipates"
+                                },
+                                {
+                                    "inflectedForm": "emancipating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈmansəˌpāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/emancipate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈmænsəˌpeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "set free, especially from legal, social, or political restrictions"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the citizen must be emancipated from the obsessive secrecy of government"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0319420.005",
+                                    "shortDefinitions": [
+                                        "set free"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "set (a child) free from the authority of its father or parents"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the plaintiffs had not been entirely emancipated from their father's control"
+                                                },
+                                                {
+                                                    "notes": [
+                                                        {
+                                                            "text": "as adjective \"emancipated\"",
+                                                            "type": "wordFormNote"
+                                                        }
+                                                    ],
+                                                    "text": "an emancipated minor"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0319420.011",
+                                            "shortDefinitions": [
+                                                "set child free from authority of its parents"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "free from slavery"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "it is estimated that he emancipated 8,000 slaves"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0319420.012",
+                                            "shortDefinitions": [
+                                                "free someone from slavery"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "free"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "liberate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "set free"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "release"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "let loose"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "let out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "set free"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "set loose"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "discharge"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "emancipate",
+                                                    "sense_id": "t_en_gb0004729.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "liberated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "independent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unconstrained"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unrepressed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "uninhibited"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "free and easy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "free"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "free-spirited"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "emancipated",
+                                            "sense_id": "t_en_gb0004730.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "emancipate"
+                }
+            ],
+            "type": "headword",
+            "word": "emancipate"
+        }
+    ]
+}

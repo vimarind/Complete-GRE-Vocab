@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "tremulous",
+    "results": [
+        {
+            "id": "tremulous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "tremulously",
+                            "text": "tremulously"
+                        },
+                        {
+                            "id": "tremulousness",
+                            "text": "tremulousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin tremulus (from tremere ‘tremble’) + -ous"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tremulous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈtremyələs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/tremulous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈtrɛmjələs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "shaking or quivering slightly"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Barbara's voice was tremulous"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1072470.011",
+                                    "shortDefinitions": [
+                                        "shaking or quivering slightly"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "timid; nervous"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he gave a tremulous smile"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1072470.013",
+                                            "shortDefinitions": [
+                                                "timid"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "tremulous"
+                }
+            ],
+            "type": "headword",
+            "word": "tremulous"
+        }
+    ]
+}

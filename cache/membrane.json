@@ -1,0 +1,310 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "membrane",
+    "results": [
+        {
+            "id": "membrane",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "membranaceous",
+                            "text": "membranaceous"
+                        },
+                        {
+                            "id": "membraneous",
+                            "text": "membraneous"
+                        },
+                        {
+                            "id": "membranous",
+                            "text": "membranous"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin membrana, from membrum ‘limb’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "membrane"
+                                },
+                                {
+                                    "inflectedForm": "membranes"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmemˌbrān"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/membrane_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmɛmˌbreɪn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a thin sheet of tissue or layer of cells acting as a boundary, lining, or partition in an organism"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "anatomy",
+                                            "text": "Anatomy"
+                                        },
+                                        {
+                                            "id": "zoology",
+                                            "text": "Zoology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the nucleus is a distinct region with a membrane around it"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "the mucous membrane"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0631580.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "membrane",
+                                            "text": "Membrane"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "pliable sheet of tissue or layer of cells acting as boundary"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a thin pliable sheet of material forming a barrier or lining"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "zoology",
+                                                    "text": "Zoology"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the concrete should include a membrane to prevent water seepage"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0631580.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "material",
+                                                    "text": "Material"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "thin pliable sheet of material"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "layer"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "laminate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sheet"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "skin"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "film"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "veil"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "diaphragm"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "partition"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "drum"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tissue"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pellicle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "integument"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "overlay"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "covering"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "coat"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "membrane",
+                                                    "sense_id": "t_en_gb0009335.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a microscopic double layer of lipids and proteins that bounds cells and organelles and forms structures within cells."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "biology",
+                                                    "text": "Biology"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "biology",
+                                                    "text": "Biology"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0631580.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "cell_part",
+                                                    "text": "Cell_Part"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "microscopic double layer of lipids and proteins forming boundary of cells or organelles"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "layer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "laminate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sheet"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "skin"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "film"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "veil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "diaphragm"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "partition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drum"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tissue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pellicle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "integument"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overlay"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "covering"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "coat"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "membrane",
+                                            "sense_id": "t_en_gb0009335.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "membrane"
+                }
+            ],
+            "type": "headword",
+            "word": "membrane"
+        }
+    ]
+}

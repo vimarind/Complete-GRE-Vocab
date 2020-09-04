@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "hapless",
+    "results": [
+        {
+            "id": "hapless",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "haplessly",
+                            "text": "haplessly"
+                        },
+                        {
+                            "id": "haplessness",
+                            "text": "haplessness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from hap (in the early sense ‘good fortune’) + -less"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "hapless"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈhapləs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/hapless_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈhæpləs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(especially of a person) unfortunate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "if you're one of the many hapless car buyers who've been shafted"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0449990.005",
+                                    "shortDefinitions": [
+                                        "unfortunate"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "unfortunate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unlucky"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "luckless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "out of luck"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ill-starred"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ill-fated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "jinxed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cursed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "doomed"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "hapless",
+                                            "sense_id": "t_en_gb0006737.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "hapless"
+                }
+            ],
+            "type": "headword",
+            "word": "hapless"
+        }
+    ]
+}

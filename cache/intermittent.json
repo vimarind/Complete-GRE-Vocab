@@ -1,0 +1,141 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "intermittent",
+    "results": [
+        {
+            "id": "intermittent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "intermittence",
+                            "text": "intermittence"
+                        },
+                        {
+                            "id": "intermittency",
+                            "text": "intermittency"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin intermittent- ‘ceasing’, from the verb intermittere (see intermit)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "intermittent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌin(t)ərˈmitnt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/intermittent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɪn(t)ərˈmɪtnt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "occurring at irregular intervals; not continuous or steady"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "intermittent rain"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0516470.005",
+                                    "shortDefinitions": [
+                                        "occurring at irregular intervals"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "sporadic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "irregular"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fitful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spasmodic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "broken"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fragmentary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discontinuous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disconnected"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "isolated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "odd"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "random"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "patchy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scattered"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "intermittent",
+                                            "sense_id": "t_en_gb0008081.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "intermittent"
+                }
+            ],
+            "type": "headword",
+            "word": "intermittent"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "dissident",
+    "results": [
+        {
+            "id": "dissident",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (in the sense ‘differing in opinion or character’): from Latin dissident- ‘sitting apart, disagreeing’, from dis- ‘apart’ + sedere ‘sit’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "dissident"
+                                },
+                                {
+                                    "inflectedForm": "dissidents"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈdisədənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/dissident_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈdɪsədənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who opposes official policy, especially that of an authoritarian state"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a dissident who had been jailed by a military regime"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0283620.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "dissenter",
+                                            "text": "Dissenter"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person who opposes official policy"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "dissenter"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "objector"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "protester"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disputant"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "dissident",
+                                            "sense_id": "t_en_gb0004235.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "dissident"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "dissident"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈdisədənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/dissident_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈdɪsədənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "in opposition to official policy"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there is only one explicitly dissident voice to be heard"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0283620.009",
+                                    "shortDefinitions": [
+                                        "in opposition to official policy"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "dissentient"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dissenting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disagreeing"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "dissident",
+                                            "sense_id": "t_en_gb0004235.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "dissident"
+                }
+            ],
+            "type": "headword",
+            "word": "dissident"
+        }
+    ]
+}

@@ -1,0 +1,333 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "regress",
+    "results": [
+        {
+            "id": "regress",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as a noun): from Latin regressus, from regredi ‘go back, return’, from re- ‘back’ + gradi ‘to walk’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "regress"
+                                },
+                                {
+                                    "inflectedForm": "regressed"
+                                },
+                                {
+                                    "inflectedForm": "regresses"
+                                },
+                                {
+                                    "inflectedForm": "regressing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rəˈɡres"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/regress_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rəˈɡrɛs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "return to a former or less developed state"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "art has been regressing toward adolescence for more than a generation now"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0857820.007",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "return to former or less developed state"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "return mentally to a former stage of life or a supposed previous life, especially through hypnosis or mental illness"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "psychology",
+                                                    "text": "Psychology"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "notes": [
+                                                        {
+                                                            "text": "no object",
+                                                            "type": "grammaticalNote"
+                                                        }
+                                                    ],
+                                                    "text": "she claims to be able to regress to the Roman era"
+                                                },
+                                                {
+                                                    "notes": [
+                                                        {
+                                                            "text": "with object",
+                                                            "type": "grammaticalNote"
+                                                        }
+                                                    ],
+                                                    "text": "I regressed Sylvia to early childhood"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0857820.017",
+                                            "shortDefinitions": [
+                                                "return mentally to former stage of life or supposed previous life"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "revert"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "retrogress"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "relapse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lapse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "backslide"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "go backwards"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "slip back"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drift back"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "subside"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sink back"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "regress",
+                                            "sense_id": "t_en_gb0012290.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "calculate the coefficient or coefficients of regression of (a variable) against or on another variable"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "statistics",
+                                            "text": "Statistics"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "statistics",
+                                            "text": "Statistics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a model in which C and Y are regressed on the same variables"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0857820.019",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "calculate coefficient or coefficients of regression of variable against or on another variable"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "move in a retrograde direction"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "astronomy",
+                                            "text": "Astronomy"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "astronomy",
+                                            "text": "Astronomy"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a planet regularly regresses"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0857820.021",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "move in retrograde direction"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "regress"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "regress"
+                                },
+                                {
+                                    "inflectedForm": "regresses"
+                                },
+                                {
+                                    "inflectedForm": "regress"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈrēˌɡres"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/regress_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈriˌɡrɛs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the action of returning to a former or less developed state"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the regress is a return to Puritan values"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "a regress to the nursery"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0857820.028",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "action",
+                                            "text": "Action"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "action of returning to former or less developed state"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a series of statements in which a logical procedure is continually reapplied to its own result without approaching a useful conclusion (e.g. defining something in terms of itself)."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "philosophy",
+                                            "text": "Philosophy"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "philosophy",
+                                            "text": "Philosophy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0857820.032",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "reasoning",
+                                            "text": "Reasoning"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "series of statements in which logical procedure is continually reapplied to its own result without approaching useful conclusion"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "regress"
+                }
+            ],
+            "type": "headword",
+            "word": "regress"
+        }
+    ]
+}

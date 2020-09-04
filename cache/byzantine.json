@@ -1,0 +1,304 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "byzantine",
+    "results": [
+        {
+            "id": "Byzantine",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "Byzantinism",
+                            "text": "Byzantinism"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Latin Byzantinus, from Byzantium"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "Byzantine"
+                                },
+                                {
+                                    "inflectedForm": "byzantine"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbizənˌtēn"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/byzantine_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbɪzənˌtin"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbizənˌtīn"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/byzantine_1_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbɪzənˌtaɪn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to Byzantium (now Istanbul), the Byzantine Empire, or the Eastern Orthodox Church."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "christian",
+                                            "text": "Christian"
+                                        },
+                                        {
+                                            "id": "roman_history",
+                                            "text": "Roman_History"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0140690.009",
+                                    "shortDefinitions": [
+                                        "relating to Byzantium and Byzantine Empire"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "of an ornate artistic and architectural style that developed in the Byzantine Empire and spread especially to Italy and Russia. The art is generally rich and stylized (as in religious icons) and the architecture typified by many-domed, highly decorated churches."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "architecture",
+                                                    "text": "Architecture"
+                                                },
+                                                {
+                                                    "id": "church_architecture",
+                                                    "text": "Church_Architecture"
+                                                },
+                                                {
+                                                    "id": "art",
+                                                    "text": "Art"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0140690.011",
+                                            "shortDefinitions": [
+                                                "of ornate artistic/architectural style"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a system or situation) excessively complicated, and typically involving a great deal of administrative detail"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Byzantine insurance regulations"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0140690.013",
+                                    "shortDefinitions": [
+                                        "excessively complicated and detailed"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "characterized by deviousness or underhanded procedure"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he has the most Byzantine mind in politics"
+                                                },
+                                                {
+                                                    "text": "Byzantine intrigues"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0140690.015",
+                                            "shortDefinitions": [
+                                                "devious or underhand"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "complicated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "detailed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "intricate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "complex"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "involved"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tortuous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "convoluted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "serpentine"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tangled"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "knotty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "confusing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bewildering"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "baffling"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "elaborate",
+                                            "sense_id": "t_en_gb0004675.001"
+                                        }
+                                    ],
+                                    "variantForms": [
+                                        {
+                                            "text": "byzantine"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "Byzantine"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "Byzantinism",
+                            "text": "Byzantinism"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "Byzantine"
+                                },
+                                {
+                                    "inflectedForm": "Byzantines"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbizənˌtēn"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/byzantine_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbɪzənˌtin"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbizənˌtīn"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/byzantine_1_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbɪzənˌtaɪn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a citizen of Byzantium or the Byzantine Empire."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "roman_history",
+                                            "text": "Roman_History"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0140690.018",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "european",
+                                            "text": "European"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "citizen of Byzantium etc."
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "Byzantine"
+                }
+            ],
+            "type": "headword",
+            "word": "Byzantine"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "aerie",
+    "results": [
+        {
+            "id": "aerie",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from medieval Latin aeria, aerea, eyria, probably from Old French aire, from Latin area ‘level piece of ground’, in late Latin ‘nest of a bird of prey’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "aerie"
+                                },
+                                {
+                                    "inflectedForm": "aeries"
+                                },
+                                {
+                                    "inflectedForm": "eyrie"
+                                },
+                                {
+                                    "inflectedForm": "eyries"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈerē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/aerie_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɛri"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈirē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/aerie_us_4.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɪri"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a large nest of a bird of prey, especially an eagle, typically built high in a tree or on a cliff."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "zoology",
+                                            "text": "Zoology"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0345630.011",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "nest",
+                                            "text": "Nest"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "large nest of eagle or other bird of prey"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "roost"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "eyrie"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "nest",
+                                            "sense_id": "t_en_gb0009951.001"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "eyrie"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "aerie"
+                }
+            ],
+            "type": "headword",
+            "word": "aerie"
+        }
+    ]
+}

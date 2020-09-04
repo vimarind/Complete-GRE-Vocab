@@ -1,0 +1,304 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "underwrite",
+    "results": [
+        {
+            "id": "underwrite",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        },
+                                        {
+                                            "id": "past",
+                                            "text": "Past",
+                                            "type": "Tense"
+                                        }
+                                    ],
+                                    "inflectedForm": "underwrote"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        },
+                                        {
+                                            "id": "pastParticiple",
+                                            "text": "Past Participle",
+                                            "type": "Non Finiteness"
+                                        }
+                                    ],
+                                    "inflectedForm": "underwritten"
+                                },
+                                {
+                                    "inflectedForm": "underwrite"
+                                },
+                                {
+                                    "inflectedForm": "underwrites"
+                                },
+                                {
+                                    "inflectedForm": "underwriting"
+                                },
+                                {
+                                    "inflectedForm": "underwritten"
+                                },
+                                {
+                                    "inflectedForm": "underwrote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌəndə(r)ˈrīt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/underwrite_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌəndə(r)ˈraɪt"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈəndə(r)ˌrīt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/underwrite_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈəndə(r)ˌraɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "sign and accept liability under (an insurance policy), thus guaranteeing payment in case loss or damage occurs."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "commerce",
+                                            "text": "Commerce"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1097460.011",
+                                    "shortDefinitions": [
+                                        "sign and accept liability under insurance policy, thus guaranteeing payment in case loss or damage occurs"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "accept (a liability or risk) under an insurance policy"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the insurance companies have underwritten just over half the risk"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1097460.021",
+                                            "shortDefinitions": [
+                                                "accept liability or risk in this way"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a bank or other financial institution) pledge to buy all the unsold shares in (an issue of new securities)."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "finance",
+                                            "text": "Finance"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1097460.023",
+                                    "shortDefinitions": [
+                                        "(of bank or other financial institution) pledge to buy all unsold shares in"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "undertake to finance or otherwise support or guarantee (something)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they were willing to underwrite the construction of a ship"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1097460.024",
+                                            "shortDefinitions": [
+                                                "undertake to finance or otherwise support or guarantee"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "sponsor"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "support"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "back"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "insure"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "indemnify"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "provide security for"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "take the risk for"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "subsidize"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "contribute to"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pay for"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "provide capital for"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "finance"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fund"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "underwrite",
+                                                    "sense_id": "t_en_gb0015444.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "write (something) below something else, especially other written matter"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "each subscriber should underwrite his reason for the place he allots his candidate"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1097460.026",
+                                    "registers": [
+                                        {
+                                            "id": "archaic",
+                                            "text": "Archaic"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "write something below something else"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "write"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inscribe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pencil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scribble"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scrawl"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dash off"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "add"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sign",
+                                            "sense_id": "t_en_gb0013468.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "underwrite"
+                }
+            ],
+            "type": "headword",
+            "word": "underwrite"
+        }
+    ]
+}

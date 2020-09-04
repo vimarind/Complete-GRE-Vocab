@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "elucidate",
+    "results": [
+        {
+            "id": "elucidate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "elucidative",
+                            "text": "elucidative"
+                        },
+                        {
+                            "id": "elucidatory",
+                            "text": "elucidatory"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from late Latin elucidat- ‘made clear’, from the verb elucidare, from e- (variant of ex-) ‘out’ + lucidus ‘lucid’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "elucidate"
+                                },
+                                {
+                                    "inflectedForm": "elucidated"
+                                },
+                                {
+                                    "inflectedForm": "elucidates"
+                                },
+                                {
+                                    "inflectedForm": "elucidating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ēˈlo͞osəˌdāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/elucidate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "iˈlusəˌdeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (something) clear; explain"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "work such as theirs will help to elucidate this matter"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with clause",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "in what follows I shall try to elucidate what I believe the problems to be"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "they would not elucidate further"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0319080.005",
+                                    "shortDefinitions": [
+                                        "make something clear"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "explain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make clear"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make plain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "illuminate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shed light on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "throw light on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clarify"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "elucidate",
+                                            "sense_id": "t_en_gb0004719.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "elucidate"
+                }
+            ],
+            "type": "headword",
+            "word": "elucidate"
+        }
+    ]
+}

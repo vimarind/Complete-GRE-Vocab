@@ -1,0 +1,373 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "concession",
+    "results": [
+        {
+            "id": "concession",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin concessio(n-), from the verb concedere (see concede)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "concession"
+                                },
+                                {
+                                    "inflectedForm": "concessions"
+                                },
+                                {
+                                    "inflectedForm": "concession"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kənˈseSHən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconcession_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kənˈsɛʃən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a thing that is granted, especially in response to demands; a thing conceded"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the strikers returned to work having won some concessions"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0208350.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "agreement",
+                                            "text": "Agreement"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "thing conceded"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the action of conceding, granting, or yielding something"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "this strict rule was relaxed by concession"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0208350.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "agreement",
+                                                    "text": "Agreement"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "action of conceding"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "admission"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "acknowledgement"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "acceptance"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "recognition"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "confession"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "surrender"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "yielding"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "giving up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ceding"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "relinquishment"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sacrifice"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "handover"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "concession",
+                                                    "sense_id": "t_en_gb0002731.002"
+                                                },
+                                                {
+                                                    "entry_id": "concession",
+                                                    "sense_id": "t_en_gb0002731.003"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a gesture, especially a token one, made in recognition of a demand or prevailing standard"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "her only concession to fashion was her ornate silver ring"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0208350.011",
+                                            "notes": [
+                                                {
+                                                    "text": "\"a concession to\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "action",
+                                                    "text": "Action"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "gesture in recognition of demand"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "compromise"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "adjustment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "modification"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "concession",
+                                            "sense_id": "t_en_gb0002731.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a preferential allowance or rate given by an organization"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "tax concessions"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0208350.013",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "price",
+                                            "text": "Price"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "preferential allowance"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the right to use land or other property for a specified purpose, granted by a government, company, or other controlling body"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "commerce",
+                                            "text": "Commerce"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "new logging concessions"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0208350.016",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "right",
+                                            "text": "Right"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "right to use land"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a commercial operation within the premises of a larger concern, typically selling refreshments"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "commerce",
+                                                    "text": "Commerce"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "operates the concessions at the stadium"
+                                                },
+                                                {
+                                                    "notes": [
+                                                        {
+                                                            "text": "as modifier",
+                                                            "type": "grammaticalNote"
+                                                        }
+                                                    ],
+                                                    "text": "public restrooms and concession stands"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0208350.017",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "business",
+                                                    "text": "Business"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "commercial operation within larger concern"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "store"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "retail store"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "outlet"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "retail outlet"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "reseller"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cash and carry"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "shop",
+                                                    "sense_id": "t_en_gb0013392.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a piece of land into which surveyed land is divided, itself further divided into lots."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "surveying",
+                                                    "text": "Surveying"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0208350.019",
+                                            "regions": [
+                                                {
+                                                    "id": "canadian",
+                                                    "text": "Canadian"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "area",
+                                                    "text": "Area"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "piece of land"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "right"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "privilege"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "favour"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "concession",
+                                            "sense_id": "t_en_gb0002731.005"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "concession"
+                }
+            ],
+            "type": "headword",
+            "word": "concession"
+        }
+    ]
+}

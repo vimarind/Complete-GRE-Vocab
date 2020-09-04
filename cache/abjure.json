@@ -1,0 +1,206 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "abjure",
+    "results": [
+        {
+            "id": "abjure",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "abjuration",
+                            "text": "abjuration"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin abjurare, from ab- ‘away’ + jurare ‘swear’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "abjure"
+                                },
+                                {
+                                    "inflectedForm": "abjured"
+                                },
+                                {
+                                    "inflectedForm": "abjures"
+                                },
+                                {
+                                    "inflectedForm": "abjuring"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "abˈjo͝or"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/abjure_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "æbˈdʒʊr"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əbˈjo͝or"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/abjure_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əbˈdʒʊr"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "solemnly renounce (a belief, cause, or claim)"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his refusal to abjure the Catholic faith"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0001870.008",
+                                    "registers": [
+                                        {
+                                            "id": "formal",
+                                            "text": "Formal"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "solemnly renounce"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "renounce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "relinquish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reject"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dispense with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forgo"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forswear"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disavow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abandon"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deny"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gainsay"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disclaim"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "repudiate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spurn"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abnegate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wash one's hands of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drop"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "do away with"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "abjure",
+                                            "sense_id": "t_en_gb0000034.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "abjure_the_realm",
+                            "text": "abjure the realm"
+                        }
+                    ],
+                    "text": "abjure"
+                }
+            ],
+            "type": "headword",
+            "word": "abjure"
+        }
+    ]
+}

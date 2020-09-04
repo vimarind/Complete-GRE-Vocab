@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "cataclysmic",
+    "results": [
+        {
+            "id": "cataclysmic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "cataclysmically",
+                            "text": "cataclysmically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "cataclysmic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌkadəˈklizmik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/cataclysmic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌkædəˈklɪzmɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to or denoting a violent natural event"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "geology",
+                                            "text": "Geology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a cataclysmic earthquake"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0158300.005",
+                                    "shortDefinitions": [
+                                        "(of natural event) large-scale and violent"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "used to emphasize the extent of something bad or unwelcome"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the concert was a cataclysmic failure"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0158300.008",
+                                            "registers": [
+                                                {
+                                                    "id": "informal",
+                                                    "text": "Informal"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "very unpleasant or unsuccessful"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "disastrous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "catastrophic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "calamitous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tragic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "devastating"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ruinous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "terrible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "violent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "awful"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "cataclysmic",
+                                            "sense_id": "t_en_gb0002099.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "cataclysmic"
+                }
+            ],
+            "type": "headword",
+            "word": "cataclysmic"
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "hardy",
+    "results": [
+        {
+            "id": "hardy",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "hardily",
+                            "text": "hardily"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘bold, daring’): from Old French hardi, past participle of hardir ‘become bold’, of Germanic origin; related to hard"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "hardier"
+                                },
+                                {
+                                    "inflectedForm": "hardiest"
+                                },
+                                {
+                                    "inflectedForm": "hardier"
+                                },
+                                {
+                                    "inflectedForm": "hardiest"
+                                },
+                                {
+                                    "inflectedForm": "hardy"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈhärdē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/hardy_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈhɑrdi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "robust; capable of enduring difficult conditions"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a hardy breed of cattle"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0451470.007",
+                                    "shortDefinitions": [
+                                        "capable of enduring difficult conditions"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a plant) able to survive outside during winter"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "horticulture",
+                                                    "text": "Horticulture"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a favorite flowering shrub for early spring, vigorous and hardy"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0451470.011",
+                                            "shortDefinitions": [
+                                                "(of plant) able to survive outside during winter"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "robust"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "healthy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "strong"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sturdy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tough"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rugged"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hearty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lusty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vigorous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hale and hearty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fit as a fiddle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fighting fit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in fine fettle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in good health"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in good condition"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "hardy",
+                                            "sense_id": "t_en_gb0006772.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "hardy"
+                }
+            ],
+            "type": "headword",
+            "word": "hardy"
+        },
+        {
+            "id": "Hardy%2C_Thomas",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "Hardy"
+                                },
+                                {
+                                    "inflectedForm": "Thomas Hardy"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "other",
+                        "text": "Other"
+                    },
+                    "text": "Hardy, Thomas"
+                }
+            ],
+            "type": "headword",
+            "word": "Hardy, Thomas"
+        }
+    ]
+}

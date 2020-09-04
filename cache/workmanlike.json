@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "workmanlike",
+    "results": [
+        {
+            "id": "workmanlike",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "workmanlike"
+                                },
+                                {
+                                    "inflectedForm": "workman-like"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈwərkmənˌlīk"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/workmanlike_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈwərkmənˌlaɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "showing efficient competence"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a steady, workmanlike approach"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1167860.005",
+                                    "shortDefinitions": [
+                                        "showing efficient competence but not inspiration"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "efficient"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "competent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "satisfactory"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "workmanlike",
+                                            "sense_id": "t_en_gb0016385.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "workmanlike"
+                }
+            ],
+            "type": "headword",
+            "word": "workmanlike"
+        }
+    ]
+}

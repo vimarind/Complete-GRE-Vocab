@@ -1,0 +1,249 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "abound",
+    "results": [
+        {
+            "id": "abound",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘overflow, be abundant’): from Old French abunder, from Latin abundare ‘overflow’, from ab- ‘from’ + undare ‘surge’ (from unda ‘a wave’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "abound"
+                                },
+                                {
+                                    "inflectedForm": "abounded"
+                                },
+                                {
+                                    "inflectedForm": "abounding"
+                                },
+                                {
+                                    "inflectedForm": "abounds"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈbound"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/abound_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈbaʊnd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "exist in large numbers or amounts"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "rumors of a further scandal abound"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0002530.005",
+                                    "shortDefinitions": [
+                                        "exist in large numbers or amounts"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "have in large numbers or amounts"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "this land abounds with wildlife"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0002530.011",
+                                            "notes": [
+                                                {
+                                                    "text": "\"abound in/with\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "have in large numbers or amounts"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "be full of"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "overflow with"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "teem with"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "be packed with"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "be crowded with"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "be thronged with"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "be jammed with"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "abound_with",
+                                                    "sense_id": "t_en_gb0000057.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "be plentiful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be abundant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be numerous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "proliferate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "superabound"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "thrive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "flourish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be thick on the ground"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abundant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plentiful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "superabundant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "considerable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "copious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ample"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lavish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "luxuriant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "profuse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "boundless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "munificent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bountiful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prolific"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inexhaustible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "generous"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "abound",
+                                            "sense_id": "t_en_gb0000057.001"
+                                        },
+                                        {
+                                            "entry_id": "abounding",
+                                            "sense_id": "t_en_gb0000058.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "abound"
+                }
+            ],
+            "type": "headword",
+            "word": "abound"
+        }
+    ]
+}

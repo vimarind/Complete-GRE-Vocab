@@ -1,0 +1,390 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "pioneering",
+    "results": [
+        {
+            "id": "pioneering",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "pioneering"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌpīəˈniriNG"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/pioneering_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌpaɪəˈnɪrɪŋ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "involving new ideas or methods"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his pioneering work on consciousness"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0783260.005",
+                                    "shortDefinitions": [
+                                        "involving new ideas or methods"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "unusual"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "irregular"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unorthodox"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unfamiliar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "uncommon"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "uncustomary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unwonted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rare"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "out of the ordinary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "atypical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "singular"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "distinctive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "individual"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "individualistic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "free-spirited"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "alternative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "different"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "unconventional",
+                                            "sense_id": "t_en_gb0015399.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "pioneering"
+                }
+            ],
+            "type": "headword",
+            "word": "pioneering"
+        },
+        {
+            "id": "pioneer",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century (as a military term denoting a member of the infantry): from French pionnier ‘foot soldier, pioneer’, Old French paonier, from paon, from Latin pedo, pedon- (see pawn)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "pioneer"
+                                },
+                                {
+                                    "inflectedForm": "pioneered"
+                                },
+                                {
+                                    "inflectedForm": "pioneering"
+                                },
+                                {
+                                    "inflectedForm": "pioneers"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌpīəˈnir"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/pioneer_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌpaɪəˈnɪr"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "develop or be the first to use or apply (a new method, area of knowledge, or activity)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he has pioneered a number of innovative techniques"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0783240.015",
+                                    "shortDefinitions": [
+                                        "develop or invent something new"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "open up (a road or terrain) as a pioneer."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "military",
+                                                    "text": "Military"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0783240.021",
+                                            "shortDefinitions": [
+                                                "open up road or terrain as pioneer"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "settle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "settle in"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "establish a colony in"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "people"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "populate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pioneer"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "open up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "found"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "colonize",
+                                                    "sense_id": "t_en_gb0002539.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "develop"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "introduce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "evolve"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "start"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "begin"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "launch"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "instigate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "initiate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put in place"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take the initiative in"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take the lead in"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spearhead"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "institute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "establish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "found"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give birth to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be the father of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be the mother of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "originate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "set in motion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "create"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "open up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lay the groundwork for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lead the way for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prepare the way for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lay the foundations of"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "pioneer",
+                                            "sense_id": "t_en_gb0011101.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "pioneer"
+                }
+            ],
+            "type": "headword",
+            "word": "pioneer"
+        }
+    ]
+}

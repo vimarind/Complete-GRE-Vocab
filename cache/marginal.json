@@ -1,0 +1,339 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "marginal",
+    "results": [
+        {
+            "id": "marginal",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "marginality",
+                            "text": "marginality"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from medieval Latin marginalis, from margo, margin- (see margin)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "marginal"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmärjənl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/marginal_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmɑrdʒənl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to or situated at the edge or margin of something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "marginal notes"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0617870.018",
+                                    "shortDefinitions": [
+                                        "relating to margin"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "of secondary or minor importance; not central"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "it seems likely to make only a marginal difference"
+                                                },
+                                                {
+                                                    "text": "a marginal criminal element"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0617870.020",
+                                            "shortDefinitions": [
+                                                "unimportant"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "slight"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "small"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tiny"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "minute"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "low"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "minor"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "insignificant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "minimal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "negligible"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "marginal",
+                                                    "sense_id": "t_en_gb0009188.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a decision or distinction) very narrow"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a marginal offside decision"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0617870.021",
+                                            "shortDefinitions": [
+                                                "borderline"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "borderline"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "disputable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "questionable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "doubtful"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "marginal",
+                                                    "sense_id": "t_en_gb0009188.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "relating to water adjacent to the land's edge or coast"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "geography",
+                                                    "text": "Geography"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "water lilies and marginal aquatics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0617870.023",
+                                            "shortDefinitions": [
+                                                "relating to water adjacent to land"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(chiefly of costs or benefits) relating to or resulting from small or unit changes."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "commerce",
+                                                    "text": "Commerce"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0617870.024",
+                                            "shortDefinitions": [
+                                                "resulting from small changes in cost"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of taxation) relating to increases in income."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "economics",
+                                                    "text": "Economics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0617870.025",
+                                            "shortDefinitions": [
+                                                "relating to increases in income"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a parliamentary seat) having a small majority and therefore at risk in an election."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "electoral",
+                                                    "text": "Electoral"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0617870.026",
+                                            "regions": [
+                                                {
+                                                    "id": "british",
+                                                    "text": "British"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "held by small majority"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "close to the limit of profitability, especially through difficulty of exploitation"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "farming",
+                                                    "text": "Farming"
+                                                },
+                                                {
+                                                    "id": "economics",
+                                                    "text": "Economics"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "marginal farmland"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0617870.027",
+                                            "shortDefinitions": [
+                                                "close of limit of profitability"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "marginal"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "marginality",
+                            "text": "marginality"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "marginal"
+                                },
+                                {
+                                    "inflectedForm": "marginals"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmärjənl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/marginal_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmɑrdʒənl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a plant that grows in water adjacent to the edge of land."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "horticulture",
+                                            "text": "Horticulture"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0617870.037",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "aquatic_plant",
+                                            "text": "Aquatic_Plant"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "water plant growing close to land"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "marginal"
+                }
+            ],
+            "type": "headword",
+            "word": "marginal"
+        }
+    ]
+}

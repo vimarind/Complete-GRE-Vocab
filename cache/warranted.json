@@ -1,0 +1,223 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "warranted",
+    "results": [
+        {
+            "id": "warrant",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "warranter",
+                            "text": "warranter"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the senses ‘protector’ and ‘safeguard’, also, as a verb, ‘keep safe from danger’): from variants of Old French guarant (noun), guarantir (verb), of Germanic origin; compare with guarantee"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "warrant"
+                                },
+                                {
+                                    "inflectedForm": "warranted"
+                                },
+                                {
+                                    "inflectedForm": "warranting"
+                                },
+                                {
+                                    "inflectedForm": "warrants"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈwôrənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/warrant_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈwɔrənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "justify or necessitate (a certain course of action)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "that offense is serious enough to warrant a court martial"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1141400.031",
+                                    "shortDefinitions": [
+                                        "justify or necessitate"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "officially affirm or guarantee"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the vendor warrants the accuracy of the report"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1141400.039",
+                                            "shortDefinitions": [
+                                                "officially affirm or guarantee"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "guarantee"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "affirm"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "swear"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "promise"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "vow"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pledge"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "give an undertaking"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "undertake"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "state"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "assert"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "declare"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "aver"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "proclaim"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pronounce"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "profess"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "attest"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "warrant",
+                                                    "sense_id": "t_en_gb0016104.005"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "justify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vindicate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "call for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sanction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "validate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be a justification for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be a reason for"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "warrant",
+                                            "sense_id": "t_en_gb0016104.004"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "I_warrant",
+                            "text": "I warrant"
+                        }
+                    ],
+                    "text": "warrant"
+                }
+            ],
+            "type": "headword",
+            "word": "warrant"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "matriarch",
+    "results": [
+        {
+            "id": "matriarch",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin mater ‘mother’, on the false analogy of patriarch"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "matriarch"
+                                },
+                                {
+                                    "inflectedForm": "matriarchs"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmātrēˌärk"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/matriarch_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmeɪtriˌɑrk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a woman who is the head of a family or tribe"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "in some cultures the mother proceeds to the status of a matriarch"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0624070.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "leader",
+                                            "text": "Leader"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "woman who is head of family or tribe"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an older woman who is powerful within a family or organization"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a domineering matriarch"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0624070.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "leader",
+                                                    "text": "Leader"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "older woman who is powerful within family or organization"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "matriarch"
+                }
+            ],
+            "type": "headword",
+            "word": "matriarch"
+        }
+    ]
+}

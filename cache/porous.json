@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "porous",
+    "results": [
+        {
+            "id": "porous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "porosity",
+                            "text": "porosity"
+                        },
+                        {
+                            "id": "porously",
+                            "text": "porously"
+                        },
+                        {
+                            "id": "porousness",
+                            "text": "porousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French poreux, based on Latin porus ‘pore’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "porous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpôrəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/porous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpɔrəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a rock or other material) having minute spaces or holes through which liquid or air may pass"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "geology",
+                                            "text": "Geology"
+                                        },
+                                        {
+                                            "id": "chemistry",
+                                            "text": "Chemistry"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "layers of porous limestones"
+                                        },
+                                        {
+                                            "text": "some rocks are more porous than others"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0800910.005",
+                                    "shortDefinitions": [
+                                        "(of rock or other material) having minute interstices through which liquid or air may pass"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "not retentive or secure"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he ran through a porous defense to score easily"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0800910.007",
+                                            "shortDefinitions": [
+                                                "not retentive or secure"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "permeable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "penetrable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pervious"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "porous",
+                                            "sense_id": "t_en_gb0011307.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "porous"
+                }
+            ],
+            "type": "headword",
+            "word": "porous"
+        }
+    ]
+}

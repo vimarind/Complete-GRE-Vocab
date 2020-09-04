@@ -1,0 +1,359 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "terrestrial",
+    "results": [
+        {
+            "id": "terrestrial",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "terrestrially",
+                            "text": "terrestrially"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘temporal, worldly, mundane’): from Latin terrestris (from terra ‘earth’) + -al"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "terrestrial"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "təˈrestrēəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/terrestrial_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "təˈrɛstriəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "of, on, or relating to the earth"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "increased ultraviolet radiation may disrupt terrestrial ecosystems"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1041650.016",
+                                    "shortDefinitions": [
+                                        "of, on, or relating to earth"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "denoting television broadcasting using equipment situated on the ground rather than by satellite"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "broadcasting",
+                                                    "text": "Broadcasting"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "terrestrial and cable technology"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1041650.018",
+                                            "shortDefinitions": [
+                                                "denoting television broadcasting using equipment situated on ground rather than by satellite"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "of or on dry land"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a submarine eruption will be much more explosive than its terrestrial counterpart"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1041650.019",
+                                            "shortDefinitions": [
+                                                "of or on dry land"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of an animal) living on or in the ground; not aquatic, arboreal, or aerial."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "zoology",
+                                                    "text": "Zoology"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1041650.020",
+                                            "shortDefinitions": [
+                                                "(of animal) living on or in ground"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a plant) growing on land or in the soil; not aquatic or epiphytic."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "botany",
+                                                    "text": "Botany"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1041650.021",
+                                            "shortDefinitions": [
+                                                "(of plant) growing on land or in soil"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a planet) similar in size or composition to the earth, especially being one of the four inner planets of our solar system."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "astronomy",
+                                                    "text": "Astronomy"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "astronomy",
+                                                    "text": "Astronomy"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1041650.022",
+                                            "shortDefinitions": [
+                                                "(of planet) similar in size or composition to earth"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "relating to the earth as opposed to heaven."
+                                            ],
+                                            "id": "m_en_gbus1041650.023",
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "of earth as opposed to heaven"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "earthly"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "terrestrial"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "temporal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "mundane"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "mortal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "human"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "non-spiritual"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unspiritual"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "material"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "materialistic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "physical"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tangible"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "carnal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fleshly"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bodily"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "corporeal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "gross"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sensual"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "base"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sordid"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "vile"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "profane"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "worldly",
+                                                    "sense_id": "t_en_gb0016390.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "earthly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "worldly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mundane"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "earthbound"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "terrestrial",
+                                            "sense_id": "t_en_gb0014735.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "terrestrial"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "terrestrially",
+                            "text": "terrestrially"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "terrestrial"
+                                },
+                                {
+                                    "inflectedForm": "terrestrials"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "təˈrestrēəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/terrestrial_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "təˈrɛstriəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an inhabitant of the earth."
+                                    ],
+                                    "id": "m_en_gbus1041650.025",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "person",
+                                            "text": "Person"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "inhabitant of earth"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "terrestrial"
+                }
+            ],
+            "type": "headword",
+            "word": "terrestrial"
+        }
+    ]
+}

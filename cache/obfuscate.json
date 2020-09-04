@@ -1,0 +1,209 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "obfuscate",
+    "results": [
+        {
+            "id": "obfuscate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "obfuscatory",
+                            "text": "obfuscatory"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from late Latin obfuscat- ‘darkened’, from the verb obfuscare, based on Latin fuscus ‘dark’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "obfuscate"
+                                },
+                                {
+                                    "inflectedForm": "obfuscated"
+                                },
+                                {
+                                    "inflectedForm": "obfuscates"
+                                },
+                                {
+                                    "inflectedForm": "obfuscating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈäbfəˌskāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/obfuscate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɑbfəˌskeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "render obscure, unclear, or unintelligible"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the spelling changes will deform some familiar words and obfuscate their etymological origins"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0708400.005",
+                                    "shortDefinitions": [
+                                        "make obscure or unintelligible"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "bewilder (someone)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "it is more likely to obfuscate people than enlighten them"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0708400.015",
+                                            "shortDefinitions": [
+                                                "bewilder"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "bewilder"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "mystify"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "puzzle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "perplex"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "baffle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "confound"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bemuse"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "befuddle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "nonplus"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "obfuscate",
+                                                    "sense_id": "t_en_gb0010160.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "obscure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "confuse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make obscure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make unclear"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blur"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "muddle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "jumble"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "complicate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "garble"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "muddy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cloud"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "befog"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "obfuscate",
+                                            "sense_id": "t_en_gb0010160.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "obfuscate"
+                }
+            ],
+            "type": "headword",
+            "word": "obfuscate"
+        }
+    ]
+}

@@ -1,0 +1,644 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "stanch",
+    "results": [
+        {
+            "id": "stanch",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French estanchier, from the base of staunch"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "stanch"
+                                },
+                                {
+                                    "inflectedForm": "stanched"
+                                },
+                                {
+                                    "inflectedForm": "stanches"
+                                },
+                                {
+                                    "inflectedForm": "stanching"
+                                },
+                                {
+                                    "inflectedForm": "staunch"
+                                },
+                                {
+                                    "inflectedForm": "staunched"
+                                },
+                                {
+                                    "inflectedForm": "staunches"
+                                },
+                                {
+                                    "inflectedForm": "staunching"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "stôn(t)SH"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/stanch_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "stɔn(t)ʃ"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "stän(t)SH"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/stanch_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "stɑn(t)ʃ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "stop or restrict (a flow of blood) from a wound"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "colleagues may have saved her life by stanching the flow"
+                                        },
+                                        {
+                                            "registers": [
+                                                {
+                                                    "id": "figurative",
+                                                    "text": "Figurative"
+                                                }
+                                            ],
+                                            "text": "the company did nothing to stanch the tide of rumors"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0987420.007",
+                                    "shortDefinitions": [
+                                        "stop or restrict flow of blood from wound"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "stop the flow of blood from (a wound)."
+                                            ],
+                                            "id": "m_en_gbus0987420.028",
+                                            "shortDefinitions": [
+                                                "stop flow of blood from"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "staunch"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "stanch"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "stanch"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "stanch"
+                }
+            ],
+            "type": "headword",
+            "word": "stanch"
+        },
+        {
+            "id": "stanch",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "stanchly",
+                            "text": "stanchly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "stanch"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "stôn(t)SH"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/stanch_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "stɔn(t)ʃ"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "stän(t)SH"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/stanch_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "stɑn(t)ʃ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "archaic spelling of staunch"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "staunch",
+                                            "text": "staunch",
+                                            "type": "variant spelling of"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0987440.006"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "stanch"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "stanchly",
+                            "text": "stanchly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "stanch"
+                                },
+                                {
+                                    "inflectedForm": "stanched"
+                                },
+                                {
+                                    "inflectedForm": "stanches"
+                                },
+                                {
+                                    "inflectedForm": "stanching"
+                                },
+                                {
+                                    "inflectedForm": "staunch"
+                                },
+                                {
+                                    "inflectedForm": "staunched"
+                                },
+                                {
+                                    "inflectedForm": "staunches"
+                                },
+                                {
+                                    "inflectedForm": "staunching"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "stanch"
+                }
+            ],
+            "type": "headword",
+            "word": "stanch"
+        },
+        {
+            "id": "staunch",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "staunchness",
+                            "text": "staunchness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘watertight’): from Old French estanche, feminine of estanc, from a Romance base meaning ‘dried up, weary’. Sense 1 dates from the early 17th century"
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "staunch"
+                                },
+                                {
+                                    "inflectedForm": "stauncher"
+                                },
+                                {
+                                    "inflectedForm": "staunchest"
+                                },
+                                {
+                                    "inflectedForm": "stanch"
+                                },
+                                {
+                                    "inflectedForm": "stancher"
+                                },
+                                {
+                                    "inflectedForm": "stanchest"
+                                },
+                                {
+                                    "inflectedForm": "staunch"
+                                },
+                                {
+                                    "inflectedForm": "stauncher"
+                                },
+                                {
+                                    "inflectedForm": "staunchest"
+                                },
+                                {
+                                    "inflectedForm": "stanch"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "stôn(t)SH"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/stanch_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "stɔn(t)ʃ"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "stän(t)SH"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/stanch_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "stɑn(t)ʃ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "loyal and committed in attitude"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a staunch supporter of the antinuclear lobby"
+                                        },
+                                        {
+                                            "text": "a staunch Catholic"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0990820.008",
+                                    "shortDefinitions": [
+                                        "very loyal and committed in attitude"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "stalwart"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "loyal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "faithful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trusty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "committed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "devoted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dedicated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dependable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reliable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "steady"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "constant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hard-working"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vigorous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "firm"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "steadfast"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "redoubtable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "resolute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unswerving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unwavering"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unhesitating"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unfaltering"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "staunch",
+                                            "sense_id": "t_en_gb0014075.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a wall) of strong or firm construction"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "these staunch walls could withstand attack by cannon"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0990820.013",
+                                    "shortDefinitions": [
+                                        "of strong or firm construction"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a ship) watertight."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "nautical",
+                                                    "text": "Nautical"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0990820.014",
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "(of ship) watertight"
+                                            ],
+                                            "variantForms": [
+                                                {
+                                                    "text": "stanch"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "robust"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "strong"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "strongly made"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "well built"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "well made"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "solid"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "substantial"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stout"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sound"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "serviceable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stable"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sturdy",
+                                            "sense_id": "t_en_gb0014291.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "staunch"
+                }
+            ],
+            "type": "headword",
+            "word": "staunch"
+        },
+        {
+            "id": "staunch",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "staunch"
+                                },
+                                {
+                                    "inflectedForm": "stauncher"
+                                },
+                                {
+                                    "inflectedForm": "staunchest"
+                                },
+                                {
+                                    "inflectedForm": "stanch"
+                                },
+                                {
+                                    "inflectedForm": "stancher"
+                                },
+                                {
+                                    "inflectedForm": "stanchest"
+                                },
+                                {
+                                    "inflectedForm": "staunch"
+                                },
+                                {
+                                    "inflectedForm": "stauncher"
+                                },
+                                {
+                                    "inflectedForm": "staunchest"
+                                },
+                                {
+                                    "inflectedForm": "stanch"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "staunch"
+                }
+            ],
+            "type": "headword",
+            "word": "staunch"
+        }
+    ]
+}

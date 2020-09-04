@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "coercive",
+    "results": [
+        {
+            "id": "coercive",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "coercively",
+                            "text": "coercively"
+                        },
+                        {
+                            "id": "coerciveness",
+                            "text": "coerciveness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "coercive"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kōˈərsiv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/coercive_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "koʊˈərsɪv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to or using force or threats"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "coercive measures"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0196890.005",
+                                    "shortDefinitions": [
+                                        "relating to or using force or threats"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "overbearing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "authoritarian"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "imperious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "high-handed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "high and mighty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "autocratic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "autarchic"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "domineering",
+                                            "sense_id": "t_en_gb0004371.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "coercive"
+                }
+            ],
+            "type": "headword",
+            "word": "coercive"
+        }
+    ]
+}

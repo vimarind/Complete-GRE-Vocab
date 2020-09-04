@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "sentient",
+    "results": [
+        {
+            "id": "sentient",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "sentience",
+                            "text": "sentience"
+                        },
+                        {
+                            "id": "sentiency",
+                            "text": "sentiency"
+                        },
+                        {
+                            "id": "sentiently",
+                            "text": "sentiently"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin sentient- ‘feeling’, from the verb sentire"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sentient"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsen(t)SH(ē)ənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sentient_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsɛn(t)ʃ(i)ənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "able to perceive or feel things"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she had been instructed from birth in the equality of all sentient life forms"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0925020.006",
+                                    "shortDefinitions": [
+                                        "able to perceive or feel things"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "feeling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "capable of feeling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "living"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "live"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sentient",
+                                            "sense_id": "t_en_gb0013235.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sentient"
+                }
+            ],
+            "type": "headword",
+            "word": "sentient"
+        }
+    ]
+}

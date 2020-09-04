@@ -1,0 +1,253 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "impenetrable",
+    "results": [
+        {
+            "id": "impenetrable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "impenetrability",
+                            "text": "impenetrability"
+                        },
+                        {
+                            "id": "impenetrableness",
+                            "text": "impenetrableness"
+                        },
+                        {
+                            "id": "impenetrably",
+                            "text": "impenetrably"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via French from Latin impenetrabilis, from in- ‘not’ + penetrabilis ‘able to be pierced’, from the verb penetrare (see penetrate)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "impenetrable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "imˈpenətrəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/impenetrable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪmˈpɛnətrəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "impossible to pass through or enter"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a dark, impenetrable forest"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0498390.011",
+                                    "shortDefinitions": [
+                                        "impossible to pass through or enter"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of matter) incapable of occupying the same space as other matter at the same time."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "physics",
+                                                    "text": "Physics"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "physics",
+                                                    "text": "Physics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0498390.015",
+                                            "shortDefinitions": [
+                                                "(of matter) incapable of occupying same space as other matter at same time"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "impassable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unpassable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inaccessible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unnavigable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "untraversable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pathless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trackless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "untrodden"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "impenetrable",
+                                            "sense_id": "t_en_gb0007436.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "impossible to understand"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "her expression was impenetrable"
+                                        },
+                                        {
+                                            "text": "impenetrable jargon"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0498390.017",
+                                    "shortDefinitions": [
+                                        "impossible to understand"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "incomprehensible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impossible to understand"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unfathomable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fathomless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inexplicable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unintelligible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unclear"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "baffling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bewildering"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "puzzling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perplexing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "confusing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abstruse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "obscure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "opaque"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "recondite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inscrutable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mysterious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cryptic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Delphic"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "impenetrable",
+                                            "sense_id": "t_en_gb0007436.004"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "impenetrable"
+                }
+            ],
+            "type": "headword",
+            "word": "impenetrable"
+        }
+    ]
+}

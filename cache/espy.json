@@ -1,0 +1,167 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "espy",
+    "results": [
+        {
+            "id": "espy",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French espier, ultimately of Germanic origin and related to Dutch spieden and German spähan. Compare with spy"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "espies"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "espying"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "espied"
+                                },
+                                {
+                                    "inflectedForm": "espied"
+                                },
+                                {
+                                    "inflectedForm": "espies"
+                                },
+                                {
+                                    "inflectedForm": "espy"
+                                },
+                                {
+                                    "inflectedForm": "espying"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈspī"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/espy_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈspaɪ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "catch sight of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she espied her daughter rounding the corner"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0333540.006",
+                                    "registers": [
+                                        {
+                                            "id": "literary",
+                                            "text": "Literary"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "catch sight of"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "perceive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pick out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "detect"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "recognize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "notice"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "observe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "see"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spot"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "discern",
+                                            "sense_id": "t_en_gb0004037.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "espy"
+                }
+            ],
+            "type": "headword",
+            "word": "espy"
+        }
+    ]
+}

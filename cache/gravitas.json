@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "gravitas",
+    "results": [
+        {
+            "id": "gravitas",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Latin, from gravis ‘serious’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "gravitas"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈɡravəˌtäs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/gravitas_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɡrævəˌtɑs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "dignity, seriousness, or solemnity of manner"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a post for which he has the expertise and the gravitas"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0429860.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "manner",
+                                            "text": "Manner"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "dignity, seriousness, or solemnity of manner"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "dignity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "seriousness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "solemnity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gravity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "loftiness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grandeur"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "decorum"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sobriety"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sedateness"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "gravitas",
+                                            "sense_id": "t_en_gb0006513.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "gravitas"
+                }
+            ],
+            "type": "headword",
+            "word": "gravitas"
+        }
+    ]
+}

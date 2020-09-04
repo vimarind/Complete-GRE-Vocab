@@ -1,0 +1,289 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "placid",
+    "results": [
+        {
+            "id": "placid",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "placidity",
+                            "text": "placidity"
+                        },
+                        {
+                            "id": "placidly",
+                            "text": "placidly"
+                        },
+                        {
+                            "id": "placidness",
+                            "text": "placidness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from French placide, from Latin placidus, from placere ‘to please’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "placid"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈplasəd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/placid_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈplæsəd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person or animal) not easily upset or excited"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this horse has a placid nature"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0786280.005",
+                                    "shortDefinitions": [
+                                        "not easily upset or excited"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(especially of a place or stretch of water) calm and peaceful, with little movement or activity"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the placid waters of a small lake"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0786280.007",
+                                            "shortDefinitions": [
+                                                "calm and peaceful, with little movement or activity"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "quiet"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "calm"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tranquil"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "still"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "peaceful"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "motionless"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "smooth"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "waveless"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pacific"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unruffled"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "undisturbed"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "like a millpond"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "placid",
+                                                    "sense_id": "t_en_gb0011140.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "even-tempered"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "calm"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "equable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tranquil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "imperturbable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unexcitable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "peaceable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "peaceful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "serene"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mild"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gentle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quiet"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cool"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cool-headed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "collected"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cool, calm, and collected"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "composed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "self-possessed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "poised"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "easy-going"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "temperate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "level-headed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "steady"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unruffled"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unmoved"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "undisturbed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unperturbed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unemotional"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "phlegmatic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stolid"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bovine"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "placid",
+                                            "sense_id": "t_en_gb0011140.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "placid"
+                }
+            ],
+            "type": "headword",
+            "word": "placid"
+        }
+    ]
+}

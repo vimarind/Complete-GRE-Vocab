@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "flagrant",
+    "results": [
+        {
+            "id": "flagrant",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "flagrancy",
+                            "text": "flagrancy"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the sense ‘blazing, resplendent’): from French, or from Latin flagrant- ‘blazing’, from the verb flagrare"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "flagrant"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈflāɡrənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/flagrant_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfleɪɡrənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of something considered wrong or immoral) conspicuously or obviously offensive"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a flagrant violation of the law"
+                                        },
+                                        {
+                                            "text": "his flagrant bad taste"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0368460.005",
+                                    "shortDefinitions": [
+                                        "conspicuously or obviously offensive"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "blatant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "glaring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "obvious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "evident"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "conspicuous"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "flagrant",
+                                            "sense_id": "t_en_gb0005726.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "flagrant"
+                }
+            ],
+            "type": "headword",
+            "word": "flagrant"
+        }
+    ]
+}

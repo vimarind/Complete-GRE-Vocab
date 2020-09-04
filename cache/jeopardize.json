@@ -1,0 +1,159 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "jeopardize",
+    "results": [
+        {
+            "id": "jeopardize",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "jeopardise"
+                                },
+                                {
+                                    "inflectedForm": "jeopardised"
+                                },
+                                {
+                                    "inflectedForm": "jeopardises"
+                                },
+                                {
+                                    "inflectedForm": "jeopardising"
+                                },
+                                {
+                                    "inflectedForm": "jeopardize"
+                                },
+                                {
+                                    "inflectedForm": "jeopardized"
+                                },
+                                {
+                                    "inflectedForm": "jeopardizes"
+                                },
+                                {
+                                    "inflectedForm": "jeopardizing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈjepərˌdīz"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/jeopardize_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈdʒɛpərˌdaɪz"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "put (someone or something) into a situation in which there is a danger of loss, harm, or failure"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a devaluation of the dollar would jeopardize New York's position as a financial center"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0530920.006",
+                                    "shortDefinitions": [
+                                        "put person or thing into situation in which there is danger of loss or failure"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "threaten"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "endanger"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "imperil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "menace"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "risk"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put at risk"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expose to risk"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put in danger"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expose to danger"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put in jeopardy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put on the line"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "jeopardize",
+                                            "sense_id": "t_en_gb0008298.001"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "jeopardise"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "jeopardize"
+                }
+            ],
+            "type": "headword",
+            "word": "jeopardize"
+        }
+    ]
+}

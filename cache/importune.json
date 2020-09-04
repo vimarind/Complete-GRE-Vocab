@@ -1,0 +1,194 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "importune",
+    "results": [
+        {
+            "id": "importune",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from French importuner or medieval Latin importunari, from Latin importunus ‘inconvenient, unseasonable’ (see importunate)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "importune"
+                                },
+                                {
+                                    "inflectedForm": "importuned"
+                                },
+                                {
+                                    "inflectedForm": "importunes"
+                                },
+                                {
+                                    "inflectedForm": "importuning"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌimpôrˈt(y)o͞on"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/importune_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɪmpɔrˈt(j)un"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "harass (someone) persistently for or to do something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "reporters importuned him with pointed questions"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with object and infinitive",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "the president would importune them to try harder"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0499250.005",
+                                    "shortDefinitions": [
+                                        "harass someone persistently for or to do something"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "approach (someone) to request or offer sexual services, especially as a prostitute"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the girl is charged with loitering in a public place with intent to solicit or importune another person"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0499250.023",
+                                            "shortDefinitions": [
+                                                "approach someone to offer sexual services"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "solicit"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "make sexual advances"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "offer one's services as a prostitute"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "importune",
+                                                    "sense_id": "t_en_gb0007484.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "beg"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "beseech"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "entreat"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "implore"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plead with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "appeal to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "apply to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "call on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "supplicate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "solicit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "petition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "enjoin"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "importune",
+                                            "sense_id": "t_en_gb0007484.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "importune"
+                }
+            ],
+            "type": "headword",
+            "word": "importune"
+        }
+    ]
+}

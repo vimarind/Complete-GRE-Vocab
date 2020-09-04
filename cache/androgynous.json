@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "androgynous",
+    "results": [
+        {
+            "id": "androgynous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "androgynously",
+                            "text": "androgynously"
+                        },
+                        {
+                            "id": "androgyny",
+                            "text": "androgyny"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin androgynus (see androgyne) + -ous"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "androgynous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "anˈdräjənəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/androgynous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ænˈdrɑdʒənəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "partly male and partly female in appearance; of indeterminate sex"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a stunningly androgynous dancer"
+                                        },
+                                        {
+                                            "text": "he used surgery and cosmetics to make his face look pasty and bizarrely androgynous"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0032440.005",
+                                    "shortDefinitions": [
+                                        "partly male and partly female in appearance"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "having the physical characteristics of both sexes; hermaphrodite."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "biology",
+                                                    "text": "Biology"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0032440.007",
+                                            "registers": [
+                                                {
+                                                    "id": "dated",
+                                                    "text": "Dated"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "having physical characteristics of both sexes"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "hermaphroditic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "intersex"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "epicene"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "hermaphrodite",
+                                                    "sense_id": "t_en_gb0006940.002"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "androgynous"
+                }
+            ],
+            "type": "headword",
+            "word": "androgynous"
+        }
+    ]
+}

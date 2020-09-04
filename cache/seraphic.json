@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "seraphic",
+    "results": [
+        {
+            "id": "seraphic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "seraphically",
+                            "text": "seraphically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from medieval Latin seraphicus, from late Latin seraphim (see seraph)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "seraphic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "səˈrafik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/seraphic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "səˈræfɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "characteristic of or resembling a seraph or seraphim"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "religion",
+                                            "text": "Religion"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a seraphic smile"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0926190.006",
+                                    "shortDefinitions": [
+                                        "characteristic of or resembling seraph or seraphim"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "blissful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "beatific"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sublime"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rapturous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ecstatic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "joyful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rapt"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "seraphic",
+                                            "sense_id": "t_en_gb0013254.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "seraphic"
+                }
+            ],
+            "type": "headword",
+            "word": "seraphic"
+        }
+    ]
+}

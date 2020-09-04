@@ -1,0 +1,417 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "distressed",
+    "results": [
+        {
+            "id": "distressed",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "distressed"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈstrest"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/distressed_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈstrɛst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "suffering from anxiety, sorrow, or pain"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I was distressed at the news of his death"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0284480.013",
+                                    "shortDefinitions": [
+                                        "suffering from anxiety or pain"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "impoverished"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "women in distressed circumstances"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0284480.015",
+                                            "registers": [
+                                                {
+                                                    "id": "dated",
+                                                    "text": "Dated"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "impoverished"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "wretched"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "miserable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sordid"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "squalid"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "shabby"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "shoddy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "mean"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "base"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "vile"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "foul"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "despicable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unpleasant"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "beggarly",
+                                                    "sense_id": "t_en_gb0001291.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of furniture, leather, or clothing) having simulated marks of age and wear"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a distressed leather jacket"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0284480.016",
+                                            "shortDefinitions": [
+                                                "having simulated marks of age and wear"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of property) for sale at unusually low prices or at a loss, especially due to mortgage foreclosure or because it is part of an insolvent estate."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "commerce",
+                                                    "text": "Commerce"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0284480.017",
+                                            "regions": [
+                                                {
+                                                    "id": "us",
+                                                    "text": "Us"
+                                                }
+                                            ],
+                                            "registers": [
+                                                {
+                                                    "id": "informal",
+                                                    "text": "Informal"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "(of property) for sale at unusually low prices or at loss"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "anguished"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "devastated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "broken-hearted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "heavy-hearted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "suffering"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grieving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grief-stricken"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grieved"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inconsolable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crushed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shattered"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "desolate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "despairing"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "heartbroken",
+                                            "sense_id": "t_en_gb0006862.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "distressed"
+                }
+            ],
+            "type": "headword",
+            "word": "distressed"
+        },
+        {
+            "id": "distress",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "distressful",
+                            "text": "distressful"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French destresce (noun), destrecier (verb), based on Latin distringere ‘stretch apart’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "distress"
+                                },
+                                {
+                                    "inflectedForm": "distressed"
+                                },
+                                {
+                                    "inflectedForm": "distresses"
+                                },
+                                {
+                                    "inflectedForm": "distressing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈstres"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/distress_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈstrɛs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cause (someone) anxiety, sorrow, or pain"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I didn't mean to distress you"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with object and infinitive",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "he was distressed to find that Anna would not talk to him"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0284470.016",
+                                    "shortDefinitions": [
+                                        "cause distress to"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "cause anguish to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cause suffering to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "upset"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make miserable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make wretched"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "distress",
+                                            "sense_id": "t_en_gb0004281.004"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "give (furniture, leather, or clothing) simulated marks of age and wear"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the manner in which leather jackets are industrially distressed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0284470.023",
+                                    "shortDefinitions": [
+                                        "give simulated marks of age to"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "age"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "season"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "condition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mellow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "weather"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "simulate age in"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "distress",
+                                            "sense_id": "t_en_gb0004281.005"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "distress"
+                }
+            ],
+            "type": "headword",
+            "word": "distress"
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "juggernaut",
+    "results": [
+        {
+            "id": "juggernaut",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 19th century: extension of Juggernaut"
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈjəɡərˌnôt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/juggernaut_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈdʒəɡərˌnɔt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a huge, powerful, and overwhelming force or institution"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a juggernaut of secular and commercial culture"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0537070.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "large_thing",
+                                            "text": "Large_Thing"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "huge, powerful, and overwhelming force"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "juggernaut"
+                }
+            ],
+            "type": "headword",
+            "word": "juggernaut"
+        },
+        {
+            "id": "Juggernaut",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "proper",
+                                    "text": "Proper",
+                                    "type": "Properness"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈjəɡərˌnôt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/juggernaut_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈdʒəɡərˌnɔt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "old-fashioned name for Jagannatha"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "Jagannatha",
+                                            "text": "Jagannatha",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "hinduism",
+                                            "text": "Hinduism"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0537080.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "deity",
+                                            "text": "Deity"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "old-fashioned name for Jagannatha"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "Juggernaut"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "Juggernaut"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "other",
+                        "text": "Other"
+                    },
+                    "text": "Juggernaut"
+                }
+            ],
+            "type": "headword",
+            "word": "Juggernaut"
+        }
+    ]
+}

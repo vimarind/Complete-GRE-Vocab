@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "renowned",
+    "results": [
+        {
+            "id": "renowned",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "renowned"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rəˈnound"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/renowned_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rəˈnaʊnd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "renowned for"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "known or talked about by many people; famous"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a restaurant renowned for its Southwestern-style food"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0861670.005",
+                                    "shortDefinitions": [
+                                        "known or talked about by many people"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "famous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "celebrated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "famed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "eminent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "distinguished"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "acclaimed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "illustrious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pre-eminent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prominent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "great"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "esteemed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "well thought of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of note"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of consequence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of repute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of high standing"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "renowned",
+                                            "sense_id": "t_en_gb0012397.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "renowned"
+                }
+            ],
+            "type": "headword",
+            "word": "renowned"
+        }
+    ]
+}

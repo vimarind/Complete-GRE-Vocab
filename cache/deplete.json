@@ -1,0 +1,179 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "deplete",
+    "results": [
+        {
+            "id": "deplete",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "depleter",
+                            "text": "depleter"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 19th century (earlier (mid. 17th century) as depletion): from Latin deplet- ‘emptied out’, from the verb deplere, from de- (expressing reversal) + plere ‘fill’ (from plenus ‘full’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "deplete"
+                                },
+                                {
+                                    "inflectedForm": "depleted"
+                                },
+                                {
+                                    "inflectedForm": "depletes"
+                                },
+                                {
+                                    "inflectedForm": "depleting"
+                                },
+                                {
+                                    "inflectedForm": "depleted"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈplēt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/deplete_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈplit"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "use up the supply or resources of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "reservoirs have been depleted by years of drought"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "as adjective \"depleted\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "text": "Chicago head to Houston with a depleted back line due to suspensions"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0265640.005",
+                                    "shortDefinitions": [
+                                        "use up supply or resources of"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "diminish in number or quantity"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "supplies are depleting fast"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0265640.011",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "diminish in number or quantity"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "exhaust"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "use up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "consume"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expend"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spend"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "empty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sap"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "milk"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "suck dry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "evacuate"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "deplete",
+                                            "sense_id": "t_en_gb0003707.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "deplete"
+                }
+            ],
+            "type": "headword",
+            "word": "deplete"
+        }
+    ]
+}

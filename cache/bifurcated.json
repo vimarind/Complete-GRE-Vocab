@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "bifurcated",
+    "results": [
+        {
+            "id": "bifurcate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from medieval Latin bifurcat- ‘divided into two forks’, from the verb bifurcare, from Latin bifurcus ‘two-forked’, from bi- ‘having two’ + furca ‘a fork’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bifurcate"
+                                },
+                                {
+                                    "inflectedForm": "bifurcated"
+                                },
+                                {
+                                    "inflectedForm": "bifurcates"
+                                },
+                                {
+                                    "inflectedForm": "bifurcating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbīfərˌkāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bifurcate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbaɪfərˌkeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "divide into two branches or forks"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "just below Cairo the river bifurcates"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "the trail was bifurcated by a mountain stream"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0092690.005",
+                                    "shortDefinitions": [
+                                        "divide into two branches or forks"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "branch"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "split"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "divide"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "subdivide"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "separate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "part"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "diverge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "go in different directions"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "go separate ways"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bifurcate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "split in two"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "fork",
+                                            "sense_id": "t_en_gb0005957.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "bifurcate"
+                }
+            ],
+            "type": "headword",
+            "word": "bifurcate"
+        }
+    ]
+}

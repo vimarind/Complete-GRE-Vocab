@@ -1,0 +1,49 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "reviler",
+    "results": [
+        {
+            "id": "reviler",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivativeOf": [
+                        {
+                            "id": "revile",
+                            "text": "revile"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "reviler"
+                                },
+                                {
+                                    "inflectedForm": "revilers"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "id": "m_en_gbus0869510.020"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "reviler"
+                }
+            ],
+            "type": "headword",
+            "word": "reviler"
+        }
+    ]
+}

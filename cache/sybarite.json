@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "sybarite",
+    "results": [
+        {
+            "id": "sybarite",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "sybaritism",
+                            "text": "sybaritism"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (originally denoting an inhabitant of Sybaris, an ancient Greek city in southern Italy, noted for luxury): via Latin from Greek Subaritēs"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sybarite"
+                                },
+                                {
+                                    "inflectedForm": "sybarites"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsibəˌrīt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sybarite_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsɪbəˌraɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who is self-indulgent in their fondness for sensuous luxury."
+                                    ],
+                                    "id": "m_en_gbus1022210.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "sensualist",
+                                            "text": "Sensualist"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person who is self-indulgent in their fondness for sensuous luxury"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "hedonist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sensualist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "voluptuary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "libertine"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pleasure seeker"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "playboy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "epicure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "glutton"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gourmand"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gastronome"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sybarite",
+                                            "sense_id": "t_en_gb0014546.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "sybarite"
+                }
+            ],
+            "type": "headword",
+            "word": "sybarite"
+        }
+    ]
+}

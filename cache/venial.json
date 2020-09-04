@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "venial",
+    "results": [
+        {
+            "id": "venial",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "veniality",
+                            "text": "veniality"
+                        },
+                        {
+                            "id": "venially",
+                            "text": "venially"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: via Old French from late Latin venialis, from venia ‘forgiveness’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "venial"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "See venal",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈvēnēəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/venial_us_4.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈviniəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Often contrasted with mortal"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "mortal",
+                                            "text": "mortal",
+                                            "type": "relates to"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "denoting a sin that is not regarded as depriving the soul of divine grace"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "theology",
+                                            "text": "Theology"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "christian_theology",
+                                            "text": "Christian_Theology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we cannot prevent ourselves sometimes from dreaming of performing venial if not mortal sins"
+                                        },
+                                        {
+                                            "text": "everything I've disclosed up to now can be seen as venial"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1123790.005",
+                                    "shortDefinitions": [
+                                        "denoting sin that is not regarded as depriving soul of divine grace"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a fault or offense) slight and pardonable."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "christian",
+                                                    "text": "Christian"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1123790.007",
+                                            "shortDefinitions": [
+                                                "(of fault or offence) slight and pardonable"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "pardonable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "forgivable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "excusable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "condonable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tolerable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "permissible"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "allowable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "understandable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "justifiable"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "venial",
+                                                    "sense_id": "t_en_gb0015889.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "venial"
+                }
+            ],
+            "type": "headword",
+            "word": "venial"
+        }
+    ]
+}

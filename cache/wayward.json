@@ -1,0 +1,230 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "wayward",
+    "results": [
+        {
+            "id": "wayward",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "waywardly",
+                            "text": "waywardly"
+                        },
+                        {
+                            "id": "waywardness",
+                            "text": "waywardness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: shortening of obsolete awayward ‘turned away’; compare with froward"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "wayward"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈwāwərd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/wayward_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈweɪwərd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "difficult to control or predict because of unusual or perverse behavior"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "registers": [
+                                                {
+                                                    "id": "figurative",
+                                                    "text": "Figurative"
+                                                }
+                                            ],
+                                            "text": "his wayward emotions"
+                                        },
+                                        {
+                                            "text": "her wayward, difficult sister"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1145760.005",
+                                    "shortDefinitions": [
+                                        "difficult to control or predict because of wilful or perverse behaviour"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "wilful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "self-willed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "headstrong"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stubborn"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "obstinate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "obdurate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perverse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contrary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rebellious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "defiant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "uncooperative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "refractory"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "recalcitrant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unruly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wild"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ungovernable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unmanageable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unpredictable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "capricious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "whimsical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fickle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inconstant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "changeable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "erratic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "intractable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "difficult"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impossible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "intolerable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unbearable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fractious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disobedient"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "insubordinate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "undisciplined"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "wayward",
+                                            "sense_id": "t_en_gb0016142.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "wayward"
+                }
+            ],
+            "type": "headword",
+            "word": "wayward"
+        }
+    ]
+}

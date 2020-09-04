@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "pathogenic",
+    "results": [
+        {
+            "id": "pathogenic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "pathogenic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌpaTHəˈjenik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/pathogenic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌpæθəˈdʒɛnɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a bacterium, virus, or other microorganism) causing disease"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        },
+                                        {
+                                            "id": "microbiology",
+                                            "text": "Microbiology"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a highly pathogenic avian influenza virus"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0754950.004",
+                                    "shortDefinitions": [
+                                        "(of bacterium, virus, or other microorganism) causing disease"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "pathogenic"
+                }
+            ],
+            "type": "headword",
+            "word": "pathogenic"
+        }
+    ]
+}

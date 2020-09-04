@@ -1,0 +1,177 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "contraries",
+    "results": [
+        {
+            "id": "contrary",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "contrarily",
+                            "text": "contrarily"
+                        },
+                        {
+                            "id": "contrariness",
+                            "text": "contrariness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Anglo-Norman French contrarie, from Latin contrarius, from contra ‘against’"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "contraries"
+                                },
+                                {
+                                    "inflectedForm": "contrary"
+                                },
+                                {
+                                    "inflectedForm": "the contrary"
+                                },
+                                {
+                                    "inflectedForm": "contraries"
+                                },
+                                {
+                                    "inflectedForm": "contrary"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈkäntrerē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xcontrary_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈkɑntrɛri"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the opposite"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the magazine has proved that the contrary is true"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0215580.020",
+                                    "notes": [
+                                        {
+                                            "text": "\"the contrary\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "opposite",
+                                            "text": "Opposite"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "the opposite"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "opposite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reverse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "converse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "antithesis"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "contrary",
+                                            "sense_id": "t_en_gb0002963.004"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a contrary proposition."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "logic",
+                                            "text": "Logic"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "logic",
+                                            "text": "Logic"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0215580.023",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "proposition",
+                                            "text": "Proposition"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "a contrary proposition"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "contrary_to",
+                            "text": "contrary to"
+                        },
+                        {
+                            "id": "on_the_contrary",
+                            "text": "on the contrary"
+                        },
+                        {
+                            "id": "to_the_contrary",
+                            "text": "to the contrary"
+                        }
+                    ],
+                    "text": "contrary"
+                }
+            ],
+            "type": "headword",
+            "word": "contrary"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "autonomously",
+    "results": [
+        {
+            "id": "autonomously",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "autonomously"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈtänəməslē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/autonomously_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈtɑnəməsli"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "with the freedom to act independently"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "each canton in Switzerland operates almost autonomously"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0060070.005",
+                                    "shortDefinitions": [
+                                        "with the freedom to act independently"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adverb",
+                        "text": "Adverb"
+                    },
+                    "text": "autonomously"
+                }
+            ],
+            "type": "headword",
+            "word": "autonomously"
+        }
+    ]
+}

@@ -1,0 +1,261 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "devolve",
+    "results": [
+        {
+            "id": "devolve",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "devolvement",
+                            "text": "devolvement"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘roll down’): from Latin devolvere, from de- ‘down’ + volvere ‘to roll’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "devolve"
+                                },
+                                {
+                                    "inflectedForm": "devolved"
+                                },
+                                {
+                                    "inflectedForm": "devolves"
+                                },
+                                {
+                                    "inflectedForm": "devolving"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈvälv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/devolve_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈvɑlv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "transfer or delegate (power) to a lower level, especially from central government to local or regional administration"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "measures to devolve power to the provinces"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0270740.017",
+                                    "shortDefinitions": [
+                                        "transfer power to lower level"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of duties or responsibility) pass to (a body or person at a lower level)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his duties devolved on a comrade"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0270740.023",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                },
+                                                {
+                                                    "text": "\"devolve on/upon/to\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "(of duties) pass to"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "degenerate or be split into"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the Empire devolved into separate warring states"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0270740.024",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                },
+                                                {
+                                                    "text": "\"devolve into\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                {
+                                                    "id": "formal",
+                                                    "text": "Formal"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "pass into different state"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "delegate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pass"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pass down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pass on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hand down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hand on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hand over"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "depute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "transfer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "transmit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "commit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "assign"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "consign"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "convey"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "entrust"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "turn over"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make over"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sign over"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "part with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "let go of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "leave"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cede"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "surrender"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "relinquish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deliver"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "devolve",
+                                            "sense_id": "t_en_gb0003879.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "devolve"
+                }
+            ],
+            "type": "headword",
+            "word": "devolve"
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "coagulate",
+    "results": [
+        {
+            "id": "coagulate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "coagulable",
+                            "text": "coagulable"
+                        },
+                        {
+                            "id": "coagulative",
+                            "text": "coagulative"
+                        },
+                        {
+                            "id": "coagulator",
+                            "text": "coagulator"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin coagulat- ‘curdled’, from the verb coagulare, from coagulum ‘rennet’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "coagulate"
+                                },
+                                {
+                                    "inflectedForm": "coagulated"
+                                },
+                                {
+                                    "inflectedForm": "coagulates"
+                                },
+                                {
+                                    "inflectedForm": "coagulating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kōˈaɡyəˌlāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/coagulate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "koʊˈæɡjəˌleɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a fluid, especially blood) change to a solid or semisolid state"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "physiology",
+                                            "text": "Physiology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "blood had coagulated around the edges of the wound"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0193850.005",
+                                    "shortDefinitions": [
+                                        "of fluid change to solid or semi-solid state"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "cause (a fluid) to change to a solid or semisolid state"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "chemistry",
+                                                    "text": "Chemistry"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "epinephrine coagulates the blood"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0193850.011",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "cause fluid to change to solid or semi-solid state"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "congeal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clot"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cake"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "solidify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "thicken"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "harden"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gel"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "curdle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stiffen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "set"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dry"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "coagulate",
+                                            "sense_id": "t_en_gb0002468.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "coagulate"
+                }
+            ],
+            "type": "headword",
+            "word": "coagulate"
+        }
+    ]
+}

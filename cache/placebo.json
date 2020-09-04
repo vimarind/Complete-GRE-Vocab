@@ -1,0 +1,212 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "placebo",
+    "results": [
+        {
+            "id": "placebo",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 18th century: from Latin, literally ‘I shall be acceptable or pleasing’, from placere ‘to please’"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "placebos"
+                                },
+                                {
+                                    "inflectedForm": "placebo"
+                                },
+                                {
+                                    "inflectedForm": "placebos"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "pləˈsēbō"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/placebo_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "pləˈsiboʊ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a harmless pill, medicine, or procedure prescribed more for the psychological benefit to the patient than for any physiological effect"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his Aunt Beatrice had been kept alive on sympathy and placebos for thirty years"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "as modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "placebo drugs"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0786080.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "drug",
+                                            "text": "Drug"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "medicine or procedure prescribed for psychological benefit"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a substance that has no therapeutic effect, used as a control in testing new drugs."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "medicine",
+                                                    "text": "Medicine"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0786080.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "drug",
+                                                    "text": "Drug"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "substance that has no therapeutic effect, used as control in testing new drugs"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a measure designed merely to calm or please someone"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "pacified by the placebos of the previous year, they claimed a moral victory"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0786080.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "course_of_action",
+                                                    "text": "Course_Of_Action"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "measure designed merely to humour or placate someone"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "medication"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "medicament"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remedy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "nostrum"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "patent medicine"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quack remedy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "panacea"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cure-all"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "placebo"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drug"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prescription"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dose"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "treatment"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "medicine",
+                                            "sense_id": "t_en_gb0009310.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "placebo"
+                }
+            ],
+            "type": "headword",
+            "word": "placebo"
+        }
+    ]
+}

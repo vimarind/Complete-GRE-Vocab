@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "redoubtable",
+    "results": [
+        {
+            "id": "redoubtable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "redoubtably",
+                            "text": "redoubtably"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French redoutable, from redouter ‘to fear’, from re- (expressing intensive force) + douter ‘to doubt’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "redoubtable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rəˈdoudəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/redoubtable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rəˈdaʊdəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person) formidable, especially as an opponent"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was a redoubtable debater"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0854370.005",
+                                    "registers": [
+                                        {
+                                            "id": "humorous",
+                                            "text": "Humorous"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "formidable"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "formidable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "awe-inspiring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fearsome"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "daunting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "alarming"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "redoubtable",
+                                            "sense_id": "t_en_gb0012240.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "redoubtable"
+                }
+            ],
+            "type": "headword",
+            "word": "redoubtable"
+        }
+    ]
+}

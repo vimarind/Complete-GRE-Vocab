@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "impudence",
+    "results": [
+        {
+            "id": "impudence",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "impudence"
+                                },
+                                {
+                                    "inflectedForm": "impudences"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈimpyədəns"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/impudence_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɪmpjədəns"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the quality of being impudent; impertinence"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his arrogance and impudence had offended many"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0499940.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "insolence",
+                                            "text": "Insolence"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "quality of being impudent"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "impertinence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "insolence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "effrontery"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cheek"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "audacity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "temerity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "brazenness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shamelessness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "immodesty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pertness"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "impudence",
+                                            "sense_id": "t_en_gb0007525.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "impudence"
+                }
+            ],
+            "type": "headword",
+            "word": "impudence"
+        }
+    ]
+}

@@ -1,0 +1,265 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "precipitous",
+    "results": [
+        {
+            "id": "precipitous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "precipitousness",
+                            "text": "precipitousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from obsolete French précipiteux, from Latin praeceps, praecip(it)- ‘steep, headlong’ (see precipitate)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "precipitous"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "See precipitate",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "prəˈsipədəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/precipitous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "prəˈsɪpədəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "dangerously high or steep"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the precipitous cliffs of the North Atlantic coast"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0808840.006",
+                                    "shortDefinitions": [
+                                        "dangerously high or steep"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a change to a worse situation or condition) sudden and dramatic"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the end of the war led to a precipitous decline in exports"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0808840.008",
+                                            "shortDefinitions": [
+                                                "sudden and dramatic"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "sudden"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rapid"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "swift"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "abrupt"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "meteoric"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "headlong"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "speedy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "quick"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fast"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hurried"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "breakneck"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "violent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "precipitate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unexpected"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "without warning"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unanticipated"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unforeseen"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "precipitous",
+                                                    "sense_id": "t_en_gb0011421.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "steep"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sheer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "high"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perpendicular"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abrupt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sharp"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dizzy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vertiginous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vertical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bluff"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "precipitous",
+                                            "sense_id": "t_en_gb0011421.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of an action) done suddenly and without careful consideration"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "precipitous intervention"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0808840.010",
+                                    "shortDefinitions": [
+                                        "done suddenly and without careful consideration"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "hasty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overhasty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rash"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hurried"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rushed"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "precipitous",
+                                            "sense_id": "t_en_gb0011421.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "precipitous"
+                }
+            ],
+            "type": "headword",
+            "word": "precipitous"
+        }
+    ]
+}

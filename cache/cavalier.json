@@ -1,0 +1,362 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "cavalier",
+    "results": [
+        {
+            "id": "cavalier",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "cavalierly",
+                            "text": "cavalierly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from French, from Italian cavaliere, based on Latin caballus ‘horse’. Compare with caballero and chevalier"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "Cavalier"
+                                },
+                                {
+                                    "inflectedForm": "Cavaliers"
+                                },
+                                {
+                                    "inflectedForm": "cavalier"
+                                },
+                                {
+                                    "inflectedForm": "cavaliers"
+                                },
+                                {
+                                    "inflectedForm": "Cavalier King Charles"
+                                },
+                                {
+                                    "inflectedForm": "Cavalier King Charleses"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌkavəˈlir"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/cavalier_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌkævəˈlɪr"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a supporter of King Charles I in the English Civil War."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "english_civil_war",
+                                            "text": "English_Civil_War"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0161020.006",
+                                    "registers": [
+                                        {
+                                            "id": "historical",
+                                            "text": "Historical"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "political_supporter",
+                                            "text": "Political_Supporter"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "supporter of King Charles I in English Civil War"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a dashing and attentive man, especially one acting as a lady's escort."
+                                            ],
+                                            "id": "m_en_gbus0161020.010",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "attendant",
+                                                    "text": "Attendant"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "courtly gentleman"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "dandy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fop"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "gallant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cavalier"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "man about town"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "beau",
+                                                    "sense_id": "t_en_gb0001255.002"
+                                                }
+                                            ],
+                                            "variantForms": [
+                                                {
+                                                    "text": "cavalier"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a horseman, especially a cavalryman."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "military_history",
+                                                    "text": "Military_History"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0161020.014",
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "cavalryman",
+                                                    "text": "Cavalryman"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "horseman"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "horseman"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cavalryman"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "horse soldier"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "trooper"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "equestrian"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "knight"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "chevalier"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "cavalier",
+                                                    "sense_id": "t_en_gb0002132.003"
+                                                }
+                                            ],
+                                            "variantForms": [
+                                                {
+                                                    "text": "cavalier"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "Royalist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "king's man"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "cavalier",
+                                            "sense_id": "t_en_gb0002132.001"
+                                        }
+                                    ],
+                                    "variantForms": [
+                                        {
+                                            "text": "Cavalier"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a small spaniel of a breed with a moderately long, noncurly, silky coat."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "breed",
+                                            "text": "Breed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0161020.017",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "dog",
+                                            "text": "Dog"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "small spaniel of breed with long snout"
+                                    ],
+                                    "variantForms": [
+                                        {
+                                            "text": "Cavalier King Charles"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "cavalier"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "cavalierly",
+                            "text": "cavalierly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "cavalier"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌkavəˈlir"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/cavalier_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌkævəˈlɪr"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "showing a lack of proper concern; offhand"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Anne was irritated by his cavalier attitude"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0161020.022",
+                                    "shortDefinitions": [
+                                        "showing lack of proper concern"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "offhand"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "indifferent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "casual"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dismissive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "insouciant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "uninterested"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unconcerned"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "cavalier",
+                                            "sense_id": "t_en_gb0002132.004"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "cavalier"
+                }
+            ],
+            "type": "headword",
+            "word": "cavalier"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "languorous",
+    "results": [
+        {
+            "id": "languorous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "languorously",
+                            "text": "languorously"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "languorous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈlaNG(ɡ)(ə)rəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/languorous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈlæŋ(ɡ)(ə)rəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "characterized by tiredness or inactivity, especially of a pleasurable kind"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "summer has a slow, languorous feel to it here"
+                                        },
+                                        {
+                                            "text": "the languorous pace of the film"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1184762.005",
+                                    "shortDefinitions": [
+                                        "characterized by tiredness or inactivity"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "characterized by an oppressive stillness"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "meteorology",
+                                            "text": "Meteorology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the atmosphere is languorous and sultry"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1184762.008",
+                                    "shortDefinitions": [
+                                        "characterized by oppressive stillness"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "languorous"
+                }
+            ],
+            "type": "headword",
+            "word": "languorous"
+        }
+    ]
+}

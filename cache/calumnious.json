@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "calumnious",
+    "results": [
+        {
+            "id": "calumnious",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from Latin calumniosus, from calumnia calumny"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "calumnious"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kəˈləmnēəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/calumnious_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kəˈləmniəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a statement) false and defamatory; slanderous"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "all of these charges are false and calumnious"
+                                        },
+                                        {
+                                            "text": "I was disgusted by their calumnious attack on my son's integrity"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1183802.004",
+                                    "registers": [
+                                        {
+                                            "id": "formal",
+                                            "text": "Formal"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "false and defamatory"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "calumnious"
+                }
+            ],
+            "type": "headword",
+            "word": "calumnious"
+        }
+    ]
+}

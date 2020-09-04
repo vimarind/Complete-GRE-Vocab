@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "conversely",
+    "results": [
+        {
+            "id": "conversely",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "conversely"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kənˈvərslē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconversely_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kənˈvərsli"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈkänˌvərslē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconversely_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈkɑnˌvərsli"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "introducing a statement or idea which reverses one that has just been made or referred to"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we're not going to have enough onions to last the year, while courgettes, conversely, are in a major surplus"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0216500.008",
+                                    "shortDefinitions": [
+                                        "introducing statement which reverses one that has just been made"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "conversely"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inversely"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "the other way round"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contrariwise"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "oppositely"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in reverse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reciprocally"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "vice_versa",
+                                            "sense_id": "t_en_gb0015940.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adverb",
+                        "text": "Adverb"
+                    },
+                    "text": "conversely"
+                }
+            ],
+            "type": "headword",
+            "word": "conversely"
+        }
+    ]
+}

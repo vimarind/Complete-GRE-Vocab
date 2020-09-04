@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "modish",
+    "results": [
+        {
+            "id": "modish",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "modishly",
+                            "text": "modishly"
+                        },
+                        {
+                            "id": "modishness",
+                            "text": "modishness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "modish"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmōdiSH"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/modish_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmoʊdɪʃ"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmädiSH"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/modish_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmɑdɪʃ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "conforming to or following what is currently popular and fashionable"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it seems sad that such a scholar should feel compelled to use this modish jargon"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0653120.007",
+                                    "registers": [
+                                        {
+                                            "id": "derogatory",
+                                            "text": "Derogatory"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "conforming to or following what is currently popular and fashionable"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "fashionable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stylish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "smart"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "modern"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contemporary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "designer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "all the rage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in vogue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trendsetting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "voguish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "up to the minute"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "modish",
+                                            "sense_id": "t_en_gb0009601.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "modish"
+                }
+            ],
+            "type": "headword",
+            "word": "modish"
+        }
+    ]
+}

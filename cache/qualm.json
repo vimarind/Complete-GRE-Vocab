@@ -1,0 +1,180 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "qualm",
+    "results": [
+        {
+            "id": "qualm",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "qualmish",
+                            "text": "qualmish"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century (in the sense ‘momentary sick feeling’): perhaps related to Old English cw(e)alm ‘pain’, of Germanic origin"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "qualm"
+                                },
+                                {
+                                    "inflectedForm": "qualms"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kwäm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/qualm_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kwɑm"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kwälm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/qualm_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kwɑlm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "military regimes generally have no qualms about controlling the press"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0835180.008",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "discontentment",
+                                            "text": "Discontentment"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "uneasy feeling of doubt, worry, or fear"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a momentary faint or sick feeling."
+                                            ],
+                                            "id": "m_en_gbus0835180.012",
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "sensation",
+                                                    "text": "Sensation"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "momentary faint or sick feeling"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "misgiving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "doubt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reservation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "second thought"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "worry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "concern"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "anxiety"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scruple"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pang of conscience"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "twinge of conscience"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "twinge of remorse"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "qualm",
+                                            "sense_id": "t_en_gb0011944.001"
+                                        },
+                                        {
+                                            "entry_id": "qualm",
+                                            "sense_id": "t_en_gb0011944.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "qualm"
+                }
+            ],
+            "type": "headword",
+            "word": "qualm"
+        }
+    ]
+}

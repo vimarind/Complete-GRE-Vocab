@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "inveigle",
+    "results": [
+        {
+            "id": "inveigle",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "inveiglement",
+                            "text": "inveiglement"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the sense ‘beguile, deceive’; formerly also as enveigle): from Anglo-Norman French envegler, alteration of Old French aveugler ‘to blind’, from aveugle ‘blind’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "inveigle"
+                                },
+                                {
+                                    "inflectedForm": "inveigled"
+                                },
+                                {
+                                    "inflectedForm": "inveigles"
+                                },
+                                {
+                                    "inflectedForm": "inveigling"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "with object and adverbial",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈvāɡəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/inveigle_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈveɪɡəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "persuade (someone) to do something by means of deception or flattery"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we cannot inveigle him into putting pen to paper"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0519520.006",
+                                    "shortDefinitions": [
+                                        "persuade someone to do something by means of deception or flattery"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "gain entrance to (a place) by persuading (someone) with deception or flattery"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Jones had inveigled himself into her house"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0519520.019",
+                                            "notes": [
+                                                {
+                                                    "text": "\"inveigle oneself\" or \"one's way into\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "gain entrance to place by using such methods"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "cajole"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wheedle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "coax"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "persuade"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "convince"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "talk"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "inveigle",
+                                            "sense_id": "t_en_gb0008165.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "inveigle"
+                }
+            ],
+            "type": "headword",
+            "word": "inveigle"
+        }
+    ]
+}

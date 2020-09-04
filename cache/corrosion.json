@@ -1,0 +1,177 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "corrosion",
+    "results": [
+        {
+            "id": "corrosion",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French, or from late Latin corrosio(n-), from Latin corrodere ‘gnaw through’ (see corrode)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "corrosion"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kəˈrōZHən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/corrosion_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kəˈroʊʒən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the process of corroding metal, stone, or other materials"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "chemistry",
+                                            "text": "Chemistry"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "each aircraft part is sprayed with oil to prevent corrosion"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0222530.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "chemical_process",
+                                            "text": "Chemical_Process"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "process of corroding or being corroded"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "damage caused by corrosion"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "engineers found the corrosion when checking the bridge"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0222530.007",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "effect",
+                                                    "text": "Effect"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "damage caused by such process"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "harm"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "injury"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "destruction"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "vandalization"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "vandalism"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "damage",
+                                                    "sense_id": "t_en_gb0003383.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "wearing away"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abrasion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scraping away"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grinding down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crumbling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wear and tear"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "weathering"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dissolving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dissolution"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "erosion",
+                                            "sense_id": "t_en_gb0005031.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "corrosion"
+                }
+            ],
+            "type": "headword",
+            "word": "corrosion"
+        }
+    ]
+}

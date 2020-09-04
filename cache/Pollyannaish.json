@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "pollyannaish",
+    "results": [
+        {
+            "id": "Pollyannaish",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivativeOf": [
+                        {
+                            "id": "Pollyanna",
+                            "text": "Pollyanna"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "Pollyannaish"
+                                },
+                                {
+                                    "inflectedForm": "Pollyanna-ish"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "-iSH"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "id": "m_en_gbus0796090.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "Pollyannaish"
+                }
+            ],
+            "type": "headword",
+            "word": "Pollyannaish"
+        }
+    ]
+}

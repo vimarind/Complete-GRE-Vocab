@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "recidivism",
+    "results": [
+        {
+            "id": "recidivism",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "recidivism"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rəˈsidəˌvizəm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/recidivism_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rəˈsɪdəˌvɪzəm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the tendency of a convicted criminal to reoffend"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "crime",
+                                            "text": "Crime"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the prison has succeeded in reducing recidivism"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0850890.004",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "wrongdoing",
+                                            "text": "Wrongdoing"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "tendency of convicted criminal to reoffend"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "recidivism"
+                }
+            ],
+            "type": "headword",
+            "word": "recidivism"
+        }
+    ]
+}

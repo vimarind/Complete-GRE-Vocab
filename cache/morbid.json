@@ -1,0 +1,167 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "morbid",
+    "results": [
+        {
+            "id": "morbid",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "morbidness",
+                            "text": "morbidness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century (in the medical sense): from Latin morbidus, from morbus ‘disease’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "morbid"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmôrbəd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/morbid_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmɔrbəd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "characterized by or appealing to an abnormal and unhealthy interest in disturbing and unpleasant subjects, especially death and disease"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he had long held a morbid fascination with the horrors of contemporary warfare"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0660300.006",
+                                    "shortDefinitions": [
+                                        "characterized by abnormal and unhealthy interest in disturbing and unpleasant subjects"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "ghoulish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "macabre"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unhealthy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gruesome"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grisly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grotesque"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ghastly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "horrible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unwholesome"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "death-obsessed"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "morbid",
+                                            "sense_id": "t_en_gb0009668.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "of the nature of or indicative of disease"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the treatment of morbid obesity"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0660300.009",
+                                    "shortDefinitions": [
+                                        "of nature of or indicative of disease"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "diseased"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pathological"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "morbid",
+                                            "sense_id": "t_en_gb0009668.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "morbid"
+                }
+            ],
+            "type": "headword",
+            "word": "morbid"
+        }
+    ]
+}

@@ -1,0 +1,375 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "hamper",
+    "results": [
+        {
+            "id": "hamper",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘shackle, entangle, catch’): perhaps related to German hemmen ‘restrain’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "hamper"
+                                },
+                                {
+                                    "inflectedForm": "hampered"
+                                },
+                                {
+                                    "inflectedForm": "hampering"
+                                },
+                                {
+                                    "inflectedForm": "hampers"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈhampər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/hamper_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈhæmpər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "hinder or impede the movement or progress of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "their work is hampered by lack of funds"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0447910.005",
+                                    "shortDefinitions": [
+                                        "hinder or impede movement or progress of"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "hinder"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "obstruct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impede"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inhibit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "retard"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "balk"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "thwart"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "foil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "curb"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "delay"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "set back"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "slow down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hold back"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hold up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "interfere with"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "hamper",
+                                            "sense_id": "t_en_gb0006700.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "hamper"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "hamper"
+                                },
+                                {
+                                    "inflectedForm": "hampers"
+                                },
+                                {
+                                    "inflectedForm": "hamper"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈhampər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/hamper_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈhæmpər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "necessary but cumbersome equipment on a ship."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "nautical",
+                                            "text": "Nautical"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "nautical",
+                                            "text": "Nautical"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0447910.012",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "equipment",
+                                            "text": "Equipment"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "necessary but cumbersome equipment on ship"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "hamper"
+                }
+            ],
+            "type": "headword",
+            "word": "hamper"
+        },
+        {
+            "id": "hamper",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (denoting any large case or casket): from Anglo-Norman French hanaper ‘case for a goblet’, from Old French hanap ‘goblet’, of Germanic origin"
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "hamper"
+                                },
+                                {
+                                    "inflectedForm": "hampers"
+                                },
+                                {
+                                    "inflectedForm": "hamper"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈhampər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/hamper_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈhæmpər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a large basket with a lid used for laundry"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a laundry hamper"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0447900.011",
+                                    "regions": [
+                                        {
+                                            "id": "north_american",
+                                            "text": "North_American"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "container",
+                                            "text": "Container"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "large basket with lid used for laundry"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a basket with a carrying handle and a hinged lid, used for food, cutlery, and plates on a picnic"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a picnic hamper"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0447900.014",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "container",
+                                                    "text": "Container"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "basket with carrying handle and hinged lid, used for food"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "basket"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pannier"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "wickerwork basket"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "hamper",
+                                                    "sense_id": "t_en_gb0006699.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "hamper"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "hamper"
+                                },
+                                {
+                                    "inflectedForm": "hampered"
+                                },
+                                {
+                                    "inflectedForm": "hampering"
+                                },
+                                {
+                                    "inflectedForm": "hampers"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "hamper"
+                }
+            ],
+            "type": "headword",
+            "word": "hamper"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "autocratic",
+    "results": [
+        {
+            "id": "autocratic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "autocratically",
+                            "text": "autocratically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "autocratic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌôdəˈkradik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/autocratic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɔdəˈkrædɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to a ruler who has absolute power"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the constitutional reforms threatened his autocratic power"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0059530.005",
+                                    "shortDefinitions": [
+                                        "relating to ruler who has absolute power"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "taking no account of other people's wishes or opinions; domineering"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an autocratic management style"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0059530.007",
+                                            "shortDefinitions": [
+                                                "taking no account of other people's wishes or opinions"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "despotic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tyrannical"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "oppressive"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "repressive"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "autocratic",
+                                                    "sense_id": "t_en_gb0001004.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "autocratic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "monocratic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "undemocratic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "totalitarian"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "authoritarian"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "dictatorial",
+                                            "sense_id": "t_en_gb0003917.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "autocratic"
+                }
+            ],
+            "type": "headword",
+            "word": "autocratic"
+        }
+    ]
+}

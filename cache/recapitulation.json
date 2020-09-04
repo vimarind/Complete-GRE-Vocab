@@ -1,0 +1,216 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "recapitulation",
+    "results": [
+        {
+            "id": "recapitulation",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "recapitulation"
+                                },
+                                {
+                                    "inflectedForm": "recapitulations"
+                                },
+                                {
+                                    "inflectedForm": "recapitulation"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌrēkəˌpiCHəˈlāSH(ə)n"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/recapitulation_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌrikəˌpɪtʃəˈleɪʃ(ə)n"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an act or instance of summarizing and restating the main points of something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his recapitulation of the argument"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0850460.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "account",
+                                            "text": "Account"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "act or instance of summarizing and restating main points of something"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the repetition of an evolutionary or other process during development or growth."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "biology",
+                                                    "text": "Biology"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "biology",
+                                                    "text": "Biology"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0850460.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "biological_process",
+                                                    "text": "Biological_Process"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "repetition of evolutionary or other process"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "reiteration"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "repeating"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "restatement"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "retelling"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "iteration"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "recapitulation"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "repetition",
+                                                    "sense_id": "t_en_gb0012422.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a part of a movement (especially one in sonata form) in which themes from the exposition are restated."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "music",
+                                                    "text": "Music"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "music",
+                                                    "text": "Music"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0850460.011",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "piece_of_music",
+                                                    "text": "Piece_Of_Music"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "part of movement"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "synopsis"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "precis"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "résumé"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abstract"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abridgement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "digest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "compendium"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "condensation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "encapsulation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abbreviated version"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "summary",
+                                            "sense_id": "t_en_gb0014395.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "recapitulation"
+                }
+            ],
+            "type": "headword",
+            "word": "recapitulation"
+        }
+    ]
+}

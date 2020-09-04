@@ -1,0 +1,212 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "ashen",
+    "results": [
+        {
+            "id": "ashen",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "ashen"
+                                },
+                                {
+                                    "inflectedForm": "ashen"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈaSHən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/ashen_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈæʃən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "of the pale gray color of ash"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the ashen morning sky"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0050910.011",
+                                    "shortDefinitions": [
+                                        "of pale gray color of ash"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person's face) very pale with shock, fear, or illness."
+                                            ],
+                                            "id": "m_en_gbus0050910.012",
+                                            "shortDefinitions": [
+                                                "very pale with shock or illness"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "pale"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "wan"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pasty"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "grey"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "leaden"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "colourless"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sallow"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pallid"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "white"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "waxen"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ghostly"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "ashen",
+                                                    "sense_id": "t_en_gb0000860.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "of or resembling ashes"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the volcano's ashen breath"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0050910.014",
+                                            "shortDefinitions": [
+                                                "of or resembling ashes"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "ashen"
+                }
+            ],
+            "type": "headword",
+            "word": "ashen"
+        },
+        {
+            "id": "ashen",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "ashen"
+                                },
+                                {
+                                    "inflectedForm": "ashen"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈaSHən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/ashen_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈæʃən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "made of timber from the ash tree."
+                                    ],
+                                    "id": "m_en_gbus0050920.005",
+                                    "registers": [
+                                        {
+                                            "id": "archaic",
+                                            "text": "Archaic"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "made of timber from ash tree"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "ashen"
+                }
+            ],
+            "type": "headword",
+            "word": "ashen"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "enhance",
+    "results": [
+        {
+            "id": "enhance",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (formerly also as inhance): from Anglo-Norman French enhauncer, based on Latin in- (expressing intensive force) + altus ‘high’. The word originally meant ‘elevate’ (literally and figuratively), later ‘exaggerate, make appear greater’, also ‘raise the value or price of something’. Current senses date from the early 16th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "enhance"
+                                },
+                                {
+                                    "inflectedForm": "enhanced"
+                                },
+                                {
+                                    "inflectedForm": "enhances"
+                                },
+                                {
+                                    "inflectedForm": "enhancing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈhans"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/enhance_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈhæns"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "enˈhans"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/enhance_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɛnˈhæns"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "intensify, increase, or further improve the quality, value, or extent of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his refusal does nothing to enhance his reputation"
+                                        },
+                                        {
+                                            "text": "computer techniques that enhance images"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0325120.010",
+                                    "shortDefinitions": [
+                                        "intensify, increase, or further improve quality, value, or extent of"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "increase"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "add to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "intensify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "magnify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "amplify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inflate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "strengthen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "build up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "supplement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "augment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "boost"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "upgrade"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "raise"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lift"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "escalate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "elevate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exalt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "aggrandize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swell"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "enhance",
+                                            "sense_id": "t_en_gb0004874.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "enhance"
+                }
+            ],
+            "type": "headword",
+            "word": "enhance"
+        }
+    ]
+}

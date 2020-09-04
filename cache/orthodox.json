@@ -1,0 +1,421 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "orthodox",
+    "results": [
+        {
+            "id": "orthodox",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "orthodoxly",
+                            "text": "orthodoxly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Greek orthodoxos (probably via ecclesiastical Latin), from orthos ‘straight or right’ + doxa ‘opinion’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "orthodox"
+                                },
+                                {
+                                    "inflectedForm": "Orthodox"
+                                },
+                                {
+                                    "inflectedForm": "Orthodox"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈôrTHəˌdäks"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/orthodox_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɔrθəˌdɑks"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person or their views, especially religious or political ones, or other beliefs or practices) conforming to what is generally or traditionally accepted as right or true; established and approved"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "religion",
+                                            "text": "Religion"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "orthodox medical treatment"
+                                        },
+                                        {
+                                            "text": "orthodox Hindus"
+                                        },
+                                        {
+                                            "text": "the orthodox economics of today"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0727750.006",
+                                    "shortDefinitions": [
+                                        "following traditional rules or beliefs of religion etc."
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person) not independent-minded; conventional and unoriginal"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "religion",
+                                                    "text": "Religion"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a relatively orthodox artist"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0727750.008",
+                                            "shortDefinitions": [
+                                                "conventional and unoriginal"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "conventional"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "mainstream"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "conformist"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "accepted"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "approved"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "received"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "recognized"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "correct"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "proper"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "established"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "well established"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "authorized"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "authoritative"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "traditional"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "traditionalist"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "prevailing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "prevalent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "common"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "popular"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "customary"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "usual"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "normal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "regular"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "standard"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "canonical"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "doctrinal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unheretical"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "conservative"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unoriginal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "derivative"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "orthodox",
+                                                    "sense_id": "t_en_gb0010402.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "conservative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "traditional"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "observant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "conformist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "devout"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "strict"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "true"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "true blue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of the faith"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of the true faith"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "orthodox",
+                                            "sense_id": "t_en_gb0010402.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a thing) of the ordinary or usual type; normal"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they avoided orthodox jazz venues"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0727750.010",
+                                    "shortDefinitions": [
+                                        "of ordinary or usual type"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "normal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "average"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ordinary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "standard"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "regular"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "routine"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "run-of-the-mill"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stock"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "orthodox"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "conventional"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "predictable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unsurprising"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unremarkable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unexceptional"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "typical",
+                                            "sense_id": "t_en_gb0015291.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of Jewish people or Judaism) strictly keeping to traditional doctrine and ritual"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "judaism",
+                                            "text": "Judaism"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Orthodox Jewish boys"
+                                        },
+                                        {
+                                            "text": "everyone I knew was Orthodox"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0727750.012",
+                                    "notes": [
+                                        {
+                                            "text": "usually \"Orthodox\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "relating to Orthodox Judaism"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to the Orthodox Church."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "christian",
+                                            "text": "Christian"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0727750.015",
+                                    "notes": [
+                                        {
+                                            "text": "usually \"Orthodox\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "relating to Orthodox church"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "orthodox"
+                }
+            ],
+            "type": "headword",
+            "word": "orthodox"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "strident",
+    "results": [
+        {
+            "id": "strident",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "stridency",
+                            "text": "stridency"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin strident- ‘creaking’, from the verb stridere"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "strident"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈstrīdnt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/strident_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈstraɪdnt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "loud and harsh; grating"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his voice had become increasingly sharp, almost strident"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1002740.012",
+                                    "shortDefinitions": [
+                                        "loud and harsh"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "presenting a point of view, especially a controversial one, in an excessively and unpleasantly forceful way"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "public pronouncements on the crisis became less strident"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1002740.014",
+                                            "shortDefinitions": [
+                                                "presenting point of view in very and unpleasantly forceful way"
+                                            ]
+                                        },
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "another term for sibilant"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "sibilant",
+                                                    "text": "sibilant",
+                                                    "type": "another term for"
+                                                }
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "phonetics",
+                                                    "text": "Phonetics"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "phonetics",
+                                                    "text": "Phonetics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1002740.015"
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "harsh"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "raucous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rough"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grating"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rasping"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "jarring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "loud"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stentorian"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shrill"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "screeching"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "piercing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ear-piercing"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "strident",
+                                            "sense_id": "t_en_gb0014225.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "strident"
+                }
+            ],
+            "type": "headword",
+            "word": "strident"
+        }
+    ]
+}

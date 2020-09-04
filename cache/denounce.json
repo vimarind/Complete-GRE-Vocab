@@ -1,0 +1,200 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "denounce",
+    "results": [
+        {
+            "id": "denounce",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "denouncement",
+                            "text": "denouncement"
+                        },
+                        {
+                            "id": "denouncer",
+                            "text": "denouncer"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (originally in the sense ‘proclaim’, also ‘proclaim someone to be wicked, a rebel, etc.’): from Old French denoncier, from Latin denuntiare ‘give official information’, based on nuntius ‘messenger’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "denounce"
+                                },
+                                {
+                                    "inflectedForm": "denounced"
+                                },
+                                {
+                                    "inflectedForm": "denounces"
+                                },
+                                {
+                                    "inflectedForm": "denouncing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈnouns"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/denounce_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈnaʊns"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "publicly declare to be wrong or evil"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the Assembly denounced the use of violence"
+                                        },
+                                        {
+                                            "text": "he was widely denounced as a traitor"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0264630.005",
+                                    "shortDefinitions": [
+                                        "publicly declare to be wrong or evil"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "inform against"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "some of his own priests denounced him to the King for heresy"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0264630.011",
+                                            "shortDefinitions": [
+                                                "inform against"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "expose"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "betray"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "inform against"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "inform on"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "denounce",
+                                                    "sense_id": "t_en_gb0003685.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "condemn"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "criticize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "attack"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "censure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "castigate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "decry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "revile"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vilify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "besmirch"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discredit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "damn"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reject"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "proscribe"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "denounce",
+                                            "sense_id": "t_en_gb0003685.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "denounce"
+                }
+            ],
+            "type": "headword",
+            "word": "denounce"
+        }
+    ]
+}

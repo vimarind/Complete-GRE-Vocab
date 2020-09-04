@@ -1,0 +1,543 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "forage",
+    "results": [
+        {
+            "id": "forage",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French fourrage (noun), fourrager (verb), from fuerre ‘straw’, of Germanic origin and related to fodder"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "forage"
+                                },
+                                {
+                                    "inflectedForm": "foraged"
+                                },
+                                {
+                                    "inflectedForm": "forages"
+                                },
+                                {
+                                    "inflectedForm": "foraging"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfôrij"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/forage_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfɔrɪdʒ"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfärij"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/forage_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfɑrɪdʒ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person or animal) search widely for food or provisions"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "gulls are equipped by nature to forage for food"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0379510.007",
+                                    "shortDefinitions": [
+                                        "search for food"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "obtain (food or provisions)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a girl foraging grass for oxen"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0379510.013",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "obtain food or provisions"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "obtain food or provisions from (a place)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a man foraging a dumpster finds some celery"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0379510.014",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "search place to obtain food"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "hunt"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hunt around"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "search"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "look about"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "look round"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "look around"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cast about"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cast round"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cast around"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rummage"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rummage about"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rummage"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rummage round"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rummage"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rummage around"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ferret"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ferret about"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ferret"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ferret around"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "root about"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "root around"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "scratch about"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "scratch around"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "nose about"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "nose round"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "nose around"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "scour"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "look high and low"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "forage",
+                                                    "sense_id": "t_en_gb0005892.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "supply (an animal or person) with food."
+                                            ],
+                                            "id": "m_en_gbus0379510.015",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "supply animal etc. with food"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "search"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hunt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rummage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rummage around"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scrabble"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grub"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "root about"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "root around"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scavenge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fish about"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fish around"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rake around"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "feel around"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grope around"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "nose around"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ferret"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ferret about"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ferret"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ferret around"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "poke_around",
+                                            "sense_id": "t_en_gb0011252.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "forage"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "forage"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfôrij"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/forage_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfɔrɪdʒ"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfärij"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/forage_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfɑrɪdʒ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "bulky food such as grass or hay for horses and cattle; fodder."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "farming",
+                                            "text": "Farming"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0379510.018",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "animal_feed",
+                                            "text": "Animal_Feed"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "fodder for horses and cattle"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "fodder"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "feed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "food"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "foodstuff"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "herbage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pasturage"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "forage",
+                                            "sense_id": "t_en_gb0005892.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a wide search over an area in order to obtain something, especially food or provisions"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the nightly forage produces things that can be sold"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0379510.021",
+                                    "notes": [
+                                        {
+                                            "text": "in singular",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "investigation",
+                                            "text": "Investigation"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "act of foraging"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "scavenge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hunt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "search"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "look"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exploration"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scout"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "probe"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "forage",
+                                            "sense_id": "t_en_gb0005892.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "forage"
+                }
+            ],
+            "type": "headword",
+            "word": "forage"
+        }
+    ]
+}

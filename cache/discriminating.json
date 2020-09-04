@@ -1,0 +1,284 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "discriminating",
+    "results": [
+        {
+            "id": "discriminating",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "discriminatingly",
+                            "text": "discriminatingly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "discriminating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈskriməˌnādiNG"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/discriminating_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈskrɪməˌneɪdɪŋ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person) having or showing refined taste or good judgment"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he became a discriminating collector and patron of the arts"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0280740.005",
+                                    "shortDefinitions": [
+                                        "having or showing refined taste or good judgement"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "discerning"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perceptive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "astute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shrewd"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "judicious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perspicacious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "insightful"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "discriminating",
+                                            "sense_id": "t_en_gb0004092.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "discriminating"
+                }
+            ],
+            "type": "headword",
+            "word": "discriminating"
+        },
+        {
+            "id": "discriminate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "discriminately",
+                            "text": "discriminately"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin discriminat- ‘distinguished between’, from the verb discriminare, from discrimen ‘distinction’, from the verb discernere (see discern)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "discriminate"
+                                },
+                                {
+                                    "inflectedForm": "discriminated"
+                                },
+                                {
+                                    "inflectedForm": "discriminates"
+                                },
+                                {
+                                    "inflectedForm": "discriminating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈskriməˌnāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/discriminate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈskrɪməˌneɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "recognize a distinction; differentiate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "babies can discriminate between different facial expressions of emotion"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0280730.006",
+                                    "shortDefinitions": [
+                                        "recognize distinction"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "perceive or constitute the difference in or between"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "features that discriminate this species from other gastropods"
+                                                },
+                                                {
+                                                    "text": "bats can discriminate a difference in echo delay of between 69 and 98 millionths of a second"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0280730.012",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "perceive or constitute difference in or between"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "differentiate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "distinguish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "draw a distinction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "recognize a distinction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tell the difference"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discern a difference"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "discriminate",
+                                            "sense_id": "t_en_gb0004091.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "make an unjust or prejudicial distinction in the treatment of different categories of people, especially on the grounds of race, sex, age, or disability"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "existing employment policies discriminate against women"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0280730.014",
+                                    "shortDefinitions": [
+                                        "make unjust or prejudicial distinction in treatment of different categories of people"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "be biased"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "show prejudice"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be prejudiced"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "discriminate",
+                                            "sense_id": "t_en_gb0004091.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "discriminate"
+                }
+            ],
+            "type": "headword",
+            "word": "discriminate"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "bereave",
+    "results": [
+        {
+            "id": "bereave",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English berēafian(see be-, reave). The original sense was ‘deprive of’ in general"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bereaved"
+                                },
+                                {
+                                    "inflectedForm": "bereave"
+                                },
+                                {
+                                    "inflectedForm": "bereaves"
+                                },
+                                {
+                                    "inflectedForm": "bereaving"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "\"be bereaved\"",
+                                    "type": "wordFormNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "bəˈrēv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bereave_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "bəˈriv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "be deprived of a loved one through a profound absence, especially due to the loved one's death"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "as noun \"the bereaved\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "text": "those who counsel the bereaved"
+                                        },
+                                        {
+                                            "text": "the year after they had been bereaved"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0088050.005",
+                                    "shortDefinitions": [
+                                        "be deprived of close relation or friend through their death"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "deprive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dispossess"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rob"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "divest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "strip"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bereave",
+                                            "sense_id": "t_en_gb0001357.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "bereave"
+                }
+            ],
+            "type": "headword",
+            "word": "bereave"
+        }
+    ]
+}

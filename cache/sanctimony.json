@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "sanctimony",
+    "results": [
+        {
+            "id": "sanctimony",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sanctimony"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsaNG(k)təˌmōnē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sanctimony_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsæŋ(k)təˌmoʊni"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the action or practice of acting as if one were morally superior to other people"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they have no shame and turn on the phony sanctimony"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1185958.004",
+                                    "registers": [
+                                        {
+                                            "id": "derogatory",
+                                            "text": "Derogatory"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "practice",
+                                            "text": "Practice"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "practice of making show of being morally superior to other people"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "sanctimony"
+                }
+            ],
+            "type": "headword",
+            "word": "sanctimony"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "voluminous",
+    "results": [
+        {
+            "id": "voluminous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "voluminosity",
+                            "text": "voluminosity"
+                        },
+                        {
+                            "id": "voluminously",
+                            "text": "voluminously"
+                        },
+                        {
+                            "id": "voluminousness",
+                            "text": "voluminousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: partly from late Latin voluminosus ‘having many coils’, partly from Latin volumen, volumin- (see volume)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "voluminous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "vəˈl(y)o͞omənəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/voluminous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "vəˈl(j)umənəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of clothing or drapery) loose and ample"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a voluminous purple cloak"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1135010.007",
+                                    "shortDefinitions": [
+                                        "very loose or full"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "capacious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "commodious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "roomy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spacious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ample"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "full"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "big"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "large"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sizeable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "immense"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vast"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "generous"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "voluminous",
+                                            "sense_id": "t_en_gb0016021.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of writing) very lengthy and full"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we all scribbled down voluminous notes"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1135010.011",
+                                    "shortDefinitions": [
+                                        "very lengthy and detailed"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a writer) producing many books."
+                                            ],
+                                            "id": "m_en_gbus1135010.012",
+                                            "shortDefinitions": [
+                                                "producing many books"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "voluminous"
+                }
+            ],
+            "type": "headword",
+            "word": "voluminous"
+        }
+    ]
+}

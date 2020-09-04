@@ -1,0 +1,377 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "novel",
+    "results": [
+        {
+            "id": "novel",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Italian novella (storia) ‘new (story)’, feminine of novello ‘new’, from Latin novellus, from novus ‘new’. The word is also found from late Middle English until the 18th century in the sense ‘a novelty, a piece of news’, from Old French novelle (see novel)"
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "novel"
+                                },
+                                {
+                                    "inflectedForm": "novels"
+                                },
+                                {
+                                    "inflectedForm": "novel"
+                                },
+                                {
+                                    "inflectedForm": "the novel"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈnävəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/novel_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈnɑvəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a fictitious prose narrative of book length, typically representing character and action with some degree of realism"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "literature",
+                                            "text": "Literature"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the novels of Jane Austen"
+                                        },
+                                        {
+                                            "text": "she was reading a paperback novel"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0703160.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "story",
+                                            "text": "Story"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "fictitious prose narrative of book length"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the literary genre represented or exemplified by novels"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "literature",
+                                                    "text": "Literature"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the novel is the most adaptable of all literary forms"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0703160.009",
+                                            "notes": [
+                                                {
+                                                    "text": "\"the novel\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "literature",
+                                                    "text": "Literature"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "literary genre represented or exemplified by novels"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "book"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "paperback"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hardback"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "novel",
+                                            "sense_id": "t_en_gb0010095.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "novel"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "novel"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "novel"
+                }
+            ],
+            "type": "headword",
+            "word": "novel"
+        },
+        {
+            "id": "novel",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "novelly",
+                            "text": "novelly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘recent’): from Old French, from Latin novellus, from novus ‘new’"
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "novel"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈnävəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/novel_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈnɑvəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "new or unusual in an interesting way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he hit on a novel idea to solve his financial problems"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0703170.005",
+                                    "shortDefinitions": [
+                                        "interestingly new or unusual"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "new"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "original"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unusual"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unfamiliar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unconventional"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "off-centre"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unorthodox"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "different"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fresh"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "imaginative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "creative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "innovative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "innovatory"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "innovational"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inventive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "modern"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ultra-modern"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "state-of-the-art"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "advanced"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "avant-garde"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "futuristic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pioneering"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "groundbreaking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trailblazing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "revolutionary"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "novel",
+                                            "sense_id": "t_en_gb0010096.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "novel"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "novelly",
+                            "text": "novelly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "novel"
+                                },
+                                {
+                                    "inflectedForm": "novels"
+                                },
+                                {
+                                    "inflectedForm": "novel"
+                                },
+                                {
+                                    "inflectedForm": "the novel"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "novel"
+                }
+            ],
+            "type": "headword",
+            "word": "novel"
+        }
+    ]
+}

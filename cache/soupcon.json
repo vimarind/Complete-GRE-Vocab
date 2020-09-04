@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "soupcon",
+    "results": [
+        {
+            "id": "soup%C3%A7on",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 18th century: French, from Old French souspeçon, from medieval Latin suspectio (see suspicion)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "soupçon"
+                                },
+                                {
+                                    "inflectedForm": "soupçons"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "in singular",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "so͞opˈsoN"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/soupcon_1_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "supˈsõ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a very small quantity of something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "\n              a soupçon of mustard"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0970590.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "small_amount",
+                                            "text": "Small_Amount"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "very small quantity of something"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "small portion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "small piece"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "piece"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "portion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "segment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "section"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "part"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bit",
+                                            "sense_id": "t_en_gb0001449.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "soupçon"
+                }
+            ],
+            "type": "headword",
+            "word": "soupçon"
+        }
+    ]
+}

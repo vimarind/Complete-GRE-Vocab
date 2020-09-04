@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "jingoism",
+    "results": [
+        {
+            "id": "jingoism",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "jingoist",
+                            "text": "jingoist"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "jingoism"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈjiNGɡōˌizəm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/jingoism_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈdʒɪŋɡoʊˌɪzəm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "extreme patriotism, especially in the form of aggressive or warlike foreign policy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the popular jingoism that swept the lower–middle classes"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0532720.005",
+                                    "registers": [
+                                        {
+                                            "id": "derogatory",
+                                            "text": "Derogatory"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "practice",
+                                            "text": "Practice"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "extreme patriotism"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "extreme patriotism"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blind patriotism"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chauvinism"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "extreme nationalism"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "flag-waving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "excessive loyalty to one's country"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "xenophobia"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "jingoism",
+                                            "sense_id": "t_en_gb0008323.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "jingoism"
+                }
+            ],
+            "type": "headword",
+            "word": "jingoism"
+        }
+    ]
+}

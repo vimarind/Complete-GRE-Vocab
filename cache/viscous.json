@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "viscous",
+    "results": [
+        {
+            "id": "viscous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "viscously",
+                            "text": "viscously"
+                        },
+                        {
+                            "id": "viscousness",
+                            "text": "viscousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Anglo-Norman French viscous or late Latin viscosus, from Latin viscum ‘birdlime’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "viscous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈviskəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/viscous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈvɪskəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having a thick, sticky consistency between solid and liquid; having a high viscosity"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "physics",
+                                            "text": "Physics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "viscous lava"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1132050.005",
+                                    "shortDefinitions": [
+                                        "having thick, sticky consistency between solid and liquid"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "sticky"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gummy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "glue-like"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gluey"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "adhesive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tacky"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "adhering"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "adherent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sticking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clinging"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "treacly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "syrupy"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "viscous",
+                                            "sense_id": "t_en_gb0015987.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "viscous"
+                }
+            ],
+            "type": "headword",
+            "word": "viscous"
+        }
+    ]
+}

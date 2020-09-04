@@ -1,0 +1,635 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "extend",
+    "results": [
+        {
+            "id": "extend",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin extendere ‘stretch out’, from ex- ‘out’ + tendere ‘stretch’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "extend"
+                                },
+                                {
+                                    "inflectedForm": "extended"
+                                },
+                                {
+                                    "inflectedForm": "extending"
+                                },
+                                {
+                                    "inflectedForm": "extends"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ikˈstend"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/extend_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪkˈstɛnd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cause to cover a larger area; make longer or wider"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the Forest Service plans to extend a gravel road nearly a mile"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0343600.007",
+                                    "shortDefinitions": [
+                                        "make larger"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "cause to last longer"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "high schools may consider extending the class day to seven periods"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0343600.018",
+                                            "shortDefinitions": [
+                                                "cause to last longer"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "prolonged"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "protracted"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "long-lasting"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "long-drawn-out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "drawn out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "spun out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dragged out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "strung out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "continue"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "carry on"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "run on"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "last"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stretch"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stretch out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "spread"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "range"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "reach"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lead"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "prolong"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lengthen"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "increase"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "continue"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "run on"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "keep going"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "perpetuate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sustain"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "extended",
+                                                    "sense_id": "t_en_gb0005332.001"
+                                                },
+                                                {
+                                                    "entry_id": "extend",
+                                                    "sense_id": "t_en_gb0005331.002"
+                                                },
+                                                {
+                                                    "entry_id": "extend",
+                                                    "sense_id": "t_en_gb0005331.004"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "postpone (a starting or ending time) beyond the original limit"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he extended the deadline to 4 p.m. today"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0343600.019",
+                                            "shortDefinitions": [
+                                                "postpone starting or ending time beyond original limit"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "straighten or spread out (the body or a limb) at full length"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she is unable to extend her thumb"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0343600.020",
+                                            "shortDefinitions": [
+                                                "straighten body or limb"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "stretch out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "spread out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "reach out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "straighten out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "open out"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "extend",
+                                                    "sense_id": "t_en_gb0005331.005"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "spread from a central point to cover a wider area"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the pipeline currently extends 1,200 miles from Santa Barbara"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0343600.021",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "spread from central point"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "continue"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "carry on"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "run on"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "last"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stretch"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stretch out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "spread"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "range"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "reach"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lead"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "extend",
+                                                    "sense_id": "t_en_gb0005331.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "occupy a specified area or stretch to a specified point"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the mountains extend over the western end of the island"
+                                                },
+                                                {
+                                                    "text": "a fault that may extend to a depth of 12 miles"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0343600.022",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "occupy specified area"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "take up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fill"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fill up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cover"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "extend over"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "use up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "utilize"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "occupy",
+                                                    "sense_id": "t_en_gb0010230.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "include within one's scope; be applicable to"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "her generosity did not extend to all adults"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0343600.023",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                },
+                                                {
+                                                    "text": "\"extend to\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "be applicable to"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "include"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "extend as far as"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "go as far as"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "take in"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "incorporate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "encompass"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "comprise"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "comprehend"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "subsume"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "be applicable to"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "extend_to",
+                                                    "sense_id": "t_en_gb0005331.008"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "expand"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "enlarge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "increase"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make larger"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make bigger"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make greater"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "widen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expand"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "broaden"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "extend",
+                                            "sense_id": "t_en_gb0005331.001"
+                                        },
+                                        {
+                                            "entry_id": "extend",
+                                            "sense_id": "t_en_gb0005331.003"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "hold (something) out toward someone"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I nod and extend my hand"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0343600.026",
+                                    "shortDefinitions": [
+                                        "hold something out"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "offer or make available"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she extended an invitation to her to stay"
+                                                },
+                                                {
+                                                    "text": "I can't extend credit indefinitely"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0343600.027",
+                                            "shortDefinitions": [
+                                                "offer"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "offer"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "proffer"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hold out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "advance"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "extend",
+                                                    "sense_id": "t_en_gb0005331.007"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "hold out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stick out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hold forth"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put forth"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reach out"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "extend",
+                                            "sense_id": "t_en_gb0005331.006"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "exert or exercise oneself to the utmost"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "you have to extend yourself to change rather than keep on doing the same thing"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0343600.029",
+                                    "notes": [
+                                        {
+                                            "text": "\"extend oneself\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "cause someone or something to exert utmost effort"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "extend"
+                }
+            ],
+            "type": "headword",
+            "word": "extend"
+        }
+    ]
+}

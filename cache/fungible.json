@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "fungible",
+    "results": [
+        {
+            "id": "fungible",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "fungibility",
+                            "text": "fungibility"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 17th century: from medieval Latin fungibilis, from fungi ‘perform, enjoy’, with the same sense as fungi vice ‘serve in place of’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "fungible"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfənjəbəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/fungible_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfəndʒəbəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of goods contracted for without an individual specimen being specified) able to replace or be replaced by another identical item; mutually interchangeable"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "commerce",
+                                            "text": "Commerce"
+                                        },
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it is by no means the world's only fungible commodity"
+                                        },
+                                        {
+                                            "text": "money is fungible—money that is raised for one purpose can easily be used for another"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0396150.006",
+                                    "shortDefinitions": [
+                                        "(of goods contracted for without individual specimen being specified) replaceable by another identical item"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "fungible"
+                }
+            ],
+            "type": "headword",
+            "word": "fungible"
+        }
+    ]
+}

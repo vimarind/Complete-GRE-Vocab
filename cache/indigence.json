@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "indigence",
+    "results": [
+        {
+            "id": "indigence",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "indigence"
+                                },
+                                {
+                                    "inflectedForm": "indigences"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈindijəns"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/indigence_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɪndɪdʒəns"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a state of extreme poverty"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he did valuable work toward the relief of indigence"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0504510.007",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "poverty",
+                                            "text": "Poverty"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "state of extreme poverty"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "poverty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "penury"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impoverishment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impecuniousness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impecuniosity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "destitution"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pennilessness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "privation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hand-to-mouth existence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pauperism"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "indigence",
+                                            "sense_id": "t_en_gb0007699.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "indigence"
+                }
+            ],
+            "type": "headword",
+            "word": "indigence"
+        }
+    ]
+}

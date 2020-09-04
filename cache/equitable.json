@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "equitable",
+    "results": [
+        {
+            "id": "equitable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "equitability",
+                            "text": "equitability"
+                        },
+                        {
+                            "id": "equitableness",
+                            "text": "equitableness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from French équitable, from équité (see equity)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "equitable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈekwədəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/equitable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɛkwədəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "fair and impartial"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an equitable balance of power"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0330570.006",
+                                    "shortDefinitions": [
+                                        "fair and impartial"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "fair"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "just"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "equitable",
+                                            "sense_id": "t_en_gb0005012.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "valid in equity as distinct from law"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the beneficiaries have an equitable interest in the property"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0330570.009",
+                                    "shortDefinitions": [
+                                        "valid in equity as distinct from law"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "equitable"
+                }
+            ],
+            "type": "headword",
+            "word": "equitable"
+        }
+    ]
+}

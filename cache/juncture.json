@@ -1,0 +1,197 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "juncture",
+    "results": [
+        {
+            "id": "juncture",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘act of joining’): from Latin junctura, ‘joint’, from jungere ‘to join’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "juncture"
+                                },
+                                {
+                                    "inflectedForm": "junctures"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈjəNG(k)CHər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/juncture_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈdʒəŋ(k)tʃər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a particular point in events or time"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it is difficult to say at this juncture whether this upturn can be sustained"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0538030.014",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "point_in_time",
+                                            "text": "Point_In_Time"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "particular point in events or time"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a place where things join"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the plane crashed at the juncture of two mountains"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0538030.017",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "connection",
+                                                    "text": "Connection"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "place where things join"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "confluence"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "convergence"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "meeting"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "meeting point"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "conflux"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "junction"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "watersmeet"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "juncture",
+                                                    "sense_id": "t_en_gb0008374.003"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the set of features in speech that enable a hearer to detect a word or phrase boundary, e.g., distinguishing I scream from ice cream."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "phonetics",
+                                                    "text": "Phonetics"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "phonetics",
+                                                    "text": "Phonetics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0538030.018",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "speech_sound",
+                                                    "text": "Speech_Sound"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "set of features in speech that enable hearer to detect word or phrase boundary"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "point"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "point in time"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "time"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "moment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "moment in time"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stage"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "juncture",
+                                            "sense_id": "t_en_gb0008374.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "juncture"
+                }
+            ],
+            "type": "headword",
+            "word": "juncture"
+        }
+    ]
+}

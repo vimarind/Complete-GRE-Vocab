@@ -1,0 +1,242 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "august",
+    "results": [
+        {
+            "id": "august",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "augustly",
+                            "text": "augustly"
+                        },
+                        {
+                            "id": "augustness",
+                            "text": "augustness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from French auguste or Latin augustus ‘consecrated, venerable’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "august"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ôˈɡəst"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/august_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɔˈɡəst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "respected and impressive"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she was in august company"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0057800.005",
+                                    "shortDefinitions": [
+                                        "respected and impressive"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "distinguished"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "respected"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "eminent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "venerable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hallowed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "illustrious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prestigious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "renowned"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "celebrated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "honoured"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "acclaimed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "esteemed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exalted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "highly regarded"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "well thought of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of distinction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of repute"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "august",
+                                            "sense_id": "t_en_gb0000984.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "august"
+                }
+            ],
+            "type": "headword",
+            "word": "august"
+        },
+        {
+            "id": "August",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English, from Latin augustus ‘consecrated, venerable’; named after Augustus, the first Roman emperor"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "August"
+                                },
+                                {
+                                    "inflectedForm": "Augusts"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈôɡəst"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/august_us_7.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɔɡəst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the eighth month of the year, in the northern hemisphere usually considered the last month of summer"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "horology",
+                                            "text": "Horology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the sultry haze of late August"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "as modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "an August cold snap"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0057810.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "month",
+                                            "text": "Month"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "eighth month of year, in northern hemisphere"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "August"
+                }
+            ],
+            "type": "headword",
+            "word": "August"
+        }
+    ]
+}

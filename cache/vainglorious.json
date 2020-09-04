@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "vainglorious",
+    "results": [
+        {
+            "id": "vainglorious",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "vaingloriously",
+                            "text": "vaingloriously"
+                        },
+                        {
+                            "id": "vaingloriousness",
+                            "text": "vaingloriousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "vainglorious"
+                                },
+                                {
+                                    "inflectedForm": "vain-glorious"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌvānˈɡlôrēəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/vainglorious_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌveɪnˈɡlɔriəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "excessively proud of oneself or one's achievements; overly vain"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this vainglorious boast of personal infallibility"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1118460.004",
+                                    "registers": [
+                                        {
+                                            "id": "literary",
+                                            "text": "Literary"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "excessively proud of oneself"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "vainglorious"
+                }
+            ],
+            "type": "headword",
+            "word": "vainglorious"
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "pilfer",
+    "results": [
+        {
+            "id": "pilfer",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "pilferer",
+                            "text": "pilferer"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as a noun in the sense ‘action of pilfering, something pilfered’): from Old French pelfrer ‘to pillage’, of unknown origin. Compare with pelf"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "pilfer"
+                                },
+                                {
+                                    "inflectedForm": "pilfered"
+                                },
+                                {
+                                    "inflectedForm": "pilfering"
+                                },
+                                {
+                                    "inflectedForm": "pilfers"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpilfər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/pilfer_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpɪlfər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "steal (typically things of relatively little value)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she produced the handful of coins she had managed to pilfer"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "as noun \"pilfering\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "text": "no system is proof against pilfering if people are determined enough"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0780920.005",
+                                    "shortDefinitions": [
+                                        "steal"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "steal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "purloin"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take for oneself"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "help oneself to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "loot"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pilfer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abscond with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "run off with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "appropriate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abstract"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "carry off"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shoplift"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "thieve",
+                                            "sense_id": "t_en_gb0014796.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "pilfer"
+                }
+            ],
+            "type": "headword",
+            "word": "pilfer"
+        }
+    ]
+}

@@ -1,0 +1,478 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "forbear",
+    "results": [
+        {
+            "id": "forbear",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English forberan(see for-, bear). The original senses were ‘endure, bear with’, hence ‘endure the absence of, do without’, also ‘control oneself’, hence ‘refrain from’ (Middle English)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "intransitive",
+                                            "text": "Intransitive",
+                                            "type": "Subcategorization"
+                                        },
+                                        {
+                                            "id": "past",
+                                            "text": "Past",
+                                            "type": "Tense"
+                                        }
+                                    ],
+                                    "inflectedForm": "forbore",
+                                    "pronunciations": [
+                                        {
+                                            "dialects": [
+                                                "American English"
+                                            ],
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "fərˈbôr"
+                                        },
+                                        {
+                                            "audioFile": "https://audio.oxforddictionaries.com/en/mp3/forbore_us_2_rr.mp3",
+                                            "dialects": [
+                                                "American English"
+                                            ],
+                                            "phoneticNotation": "IPA",
+                                            "phoneticSpelling": "fərˈbɔr"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "intransitive",
+                                            "text": "Intransitive",
+                                            "type": "Subcategorization"
+                                        },
+                                        {
+                                            "id": "pastParticiple",
+                                            "text": "Past Participle",
+                                            "type": "Non Finiteness"
+                                        }
+                                    ],
+                                    "inflectedForm": "forborne",
+                                    "pronunciations": [
+                                        {
+                                            "dialects": [
+                                                "American English"
+                                            ],
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "fərˈbôrn"
+                                        },
+                                        {
+                                            "audioFile": "https://audio.oxforddictionaries.com/en/mp3/forborne_us_2_rr.mp3",
+                                            "dialects": [
+                                                "American English"
+                                            ],
+                                            "phoneticNotation": "IPA",
+                                            "phoneticSpelling": "fərˈbɔrn"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "fərˈber"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/forbear_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "fərˈbɛr"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "fôrˈber"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/forbear_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "fɔrˈbɛr"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "politely or patiently restrain an impulse to do something; refrain"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with infinitive",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "he modestly forbears to include his own work"
+                                        },
+                                        {
+                                            "text": "the boy forbore from touching anything"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0379650.013",
+                                    "shortDefinitions": [
+                                        "politely or patiently restrain impulse to do something"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "refrain from doing or using (something)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Rebecca could not forbear a smile"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0379650.023",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "refrain from doing or using something"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "refrain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abstain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "desist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "keep"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "restrain oneself"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stop oneself"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hold back"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "withhold"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "forbear",
+                                            "sense_id": "t_en_gb0005894.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "forbear"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "forbear"
+                                },
+                                {
+                                    "inflectedForm": "forbears"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "forbear"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "102",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "forbear"
+                                },
+                                {
+                                    "inflectedForm": "forbearing"
+                                },
+                                {
+                                    "inflectedForm": "forbears"
+                                },
+                                {
+                                    "inflectedForm": "forbore"
+                                },
+                                {
+                                    "inflectedForm": "forborne"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "other",
+                        "text": "Other"
+                    },
+                    "text": "forbear"
+                }
+            ],
+            "type": "headword",
+            "word": "forbear"
+        },
+        {
+            "id": "forbear",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "forbear"
+                                },
+                                {
+                                    "inflectedForm": "forbears"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "variant spelling of forebear"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "forebear",
+                                            "text": "forebear",
+                                            "type": "variant spelling of"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0379660.003"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "forbear"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "forbear"
+                                },
+                                {
+                                    "inflectedForm": "forbearing"
+                                },
+                                {
+                                    "inflectedForm": "forbears"
+                                },
+                                {
+                                    "inflectedForm": "forbore"
+                                },
+                                {
+                                    "inflectedForm": "forborne"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "other",
+                        "text": "Other"
+                    },
+                    "text": "forbear"
+                }
+            ],
+            "type": "headword",
+            "word": "forbear"
+        },
+        {
+            "id": "forebear",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from fore + bear, variant of obsolete beer ‘someone who exists’ (from be+ -er)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "forbear"
+                                },
+                                {
+                                    "inflectedForm": "forbears"
+                                },
+                                {
+                                    "inflectedForm": "forebear"
+                                },
+                                {
+                                    "inflectedForm": "forebears"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "usually \"one's forebears\"",
+                                    "type": "wordFormNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfôrber"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/forebear_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfɔrbɛr"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an ancestor"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "generations of his forebears had lived in London"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0380130.007",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "ancestor",
+                                            "text": "Ancestor"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "ancestor"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "ancestor"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forefather"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "predecessor"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "progenitor"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "father"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grandfather"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "parent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grandparent"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "forebear",
+                                            "sense_id": "t_en_gb0005908.001"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "forbear"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "forebear"
+                }
+            ],
+            "type": "headword",
+            "word": "forebear"
+        }
+    ]
+}

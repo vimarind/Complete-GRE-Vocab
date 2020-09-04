@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "sapid",
+    "results": [
+        {
+            "id": "sapid",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "sapidity",
+                            "text": "sapidity"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin sapidus, from sapere ‘to taste’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sapid"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsapəd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sapid_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsæpəd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having a strong, pleasant taste"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "sapid nut bread"
+                                        },
+                                        {
+                                            "text": "the aromatic stew was just as sapid as it smelled"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0899840.005",
+                                    "shortDefinitions": [
+                                        "having strong, pleasant taste"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of talk or writing) pleasant or interesting."
+                                            ],
+                                            "id": "m_en_gbus0899840.007",
+                                            "shortDefinitions": [
+                                                "pleasant or interesting"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "tasty"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "appetizing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pleasant-tasting"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pleasant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "acceptable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "satisfactory"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pleasing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "agreeable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "easy to take"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "to one's liking"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pleasurable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "nice"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "palatable",
+                                                    "sense_id": "t_en_gb0010587.001"
+                                                },
+                                                {
+                                                    "entry_id": "palatable",
+                                                    "sense_id": "t_en_gb0010587.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "strong"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "full-bodied"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "flavourful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "full-flavoured"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "flavoursome"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "full of flavour"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rich"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "robust",
+                                            "sense_id": "t_en_gb0012693.004"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sapid"
+                }
+            ],
+            "type": "headword",
+            "word": "sapid"
+        }
+    ]
+}

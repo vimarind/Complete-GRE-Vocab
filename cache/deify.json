@@ -1,0 +1,193 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "deify",
+    "results": [
+        {
+            "id": "deify",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "deification",
+                            "text": "deification"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘make godlike in character’): from Old French deifier, from ecclesiastical Latin deificare, from deus ‘god’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "deifies"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "deifying"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "deified"
+                                },
+                                {
+                                    "inflectedForm": "deified"
+                                },
+                                {
+                                    "inflectedForm": "deifies"
+                                },
+                                {
+                                    "inflectedForm": "deify"
+                                },
+                                {
+                                    "inflectedForm": "deifying"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "usually \"be deified\"",
+                                    "type": "wordFormNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈdēəˌfī"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/deify_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈdiəˌfaɪ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "worship, regard, or treat (someone or something) as a god"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she was deified by the early Romans as a fertility goddess"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0260950.009",
+                                    "shortDefinitions": [
+                                        "worship or regard as god"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "worship"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "revere"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "venerate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reverence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hold sacred"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pay homage to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "extol"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exalt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "adore"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "idolize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "apotheosize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lionize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hero-worship"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "deify",
+                                            "sense_id": "t_en_gb0003611.001"
+                                        },
+                                        {
+                                            "entry_id": "deify",
+                                            "sense_id": "t_en_gb0003611.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "deify"
+                }
+            ],
+            "type": "headword",
+            "word": "deify"
+        }
+    ]
+}

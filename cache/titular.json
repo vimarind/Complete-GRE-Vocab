@@ -1,0 +1,185 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "titular",
+    "results": [
+        {
+            "id": "titular",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (in the sense ‘existing only in name’): from French titulaire or modern Latin titularis, from titulus (see title)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "titular"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈtiCHələr"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/titular_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈtɪtʃələr"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "holding or constituting a purely formal position or title without any real authority"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the queen is titular head of the Church of England"
+                                        },
+                                        {
+                                            "text": "a titular post"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1057440.007",
+                                    "shortDefinitions": [
+                                        "holding or constituting purely formal position or title without any real authority"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a cleric) nominally appointed to serve a diocese, abbey, or other foundation no longer in existence, and typically in fact having authority in another capacity."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "ecclesiastical",
+                                                    "text": "Ecclesiastical"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1057440.009",
+                                            "notes": [
+                                                {
+                                                    "text": "attributive",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "(of cleric) nominally appointed to serve diocese, abbey, or other foundation no longer in existence"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "nominal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in name only"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in title only"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "formal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "official"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ceremonial"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "titular",
+                                            "sense_id": "t_en_gb0014946.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "denoting a person or thing from whom or which the name of an artistic work or similar is taken"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the work's titular song"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1057440.011",
+                                    "shortDefinitions": [
+                                        "relating to or denoted by title"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "eponymous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "identifying"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "titular",
+                                            "sense_id": "t_en_gb0014946.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "denoting any of the parish churches in Rome to which cardinals are formally appointed"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "roman_catholic_church",
+                                            "text": "Roman_Catholic_Church"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the priests of the titular churches"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1057440.013",
+                                    "notes": [
+                                        {
+                                            "text": "attributive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "denoting any of parish churches in Rome to which cardinals are formally appointed"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "titular"
+                }
+            ],
+            "type": "headword",
+            "word": "titular"
+        }
+    ]
+}

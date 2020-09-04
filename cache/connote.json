@@ -1,0 +1,185 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "connote",
+    "results": [
+        {
+            "id": "connote",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "connotative",
+                            "text": "connotative"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from medieval Latin connotare ‘mark in addition’, from con- ‘together with’ + notare ‘to note’ (from nota ‘a mark’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "connote"
+                                },
+                                {
+                                    "inflectedForm": "connoted"
+                                },
+                                {
+                                    "inflectedForm": "connotes"
+                                },
+                                {
+                                    "inflectedForm": "connoting"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "Connote does not mean the same as denote. Denote refers to the literal, primary meaning of something; connote refers to other characteristics suggested or implied by that thing. Thus, one might say that the word ‘mother’ denotes ‘a woman who is a parent’ but connotes qualities such as ‘protection’ and ‘affection’",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kəˈnōt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconnote_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kəˈnoʊt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a word) imply or suggest (an idea or feeling) in addition to the literal or primary meaning"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "linguistics",
+                                            "text": "Linguistics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the term “modern science” usually connotes a complete openness to empirical testing"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0211910.005",
+                                    "shortDefinitions": [
+                                        "(of word) imply or suggest idea or feeling in addition to literal or primary meaning"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a fact) imply as a consequence or condition"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "in that period a log cabin connoted hard luck"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0211910.011",
+                                            "shortDefinitions": [
+                                                "imply as consequence or condition"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "imply"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "suggest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "indicate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "signify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "have overtones of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "have undertones of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hint at"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give a feeling of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "have an aura of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "have an atmosphere of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give the impression of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "smack of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be associated with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "allude to"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "connote",
+                                            "sense_id": "t_en_gb0002840.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "connote"
+                }
+            ],
+            "type": "headword",
+            "word": "connote"
+        }
+    ]
+}

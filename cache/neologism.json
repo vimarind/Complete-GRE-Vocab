@@ -1,0 +1,159 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "neologism",
+    "results": [
+        {
+            "id": "neologism",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "neologist",
+                            "text": "neologist"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 19th century: from French néologisme"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "neologism"
+                                },
+                                {
+                                    "inflectedForm": "neologisms"
+                                },
+                                {
+                                    "inflectedForm": "neologism"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "nēˈäləˌjizəm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/neologism_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "niˈɑləˌdʒɪzəm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a newly coined word or expression."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "linguistics",
+                                            "text": "Linguistics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0684730.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "word",
+                                            "text": "Word"
+                                        },
+                                        {
+                                            "id": "new_thing",
+                                            "text": "New_Thing"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "newly coined word or expression"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the coining or use of new words."
+                                            ],
+                                            "id": "m_en_gbus0684730.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "linguistic_process",
+                                                    "text": "Linguistic_Process"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "coining or use of new words"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "new word"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "new expression"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "new term"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "new phrase"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "coinage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "newly coined word"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "made-up word"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "invented word"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "invention"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "nonce word"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "neologism",
+                                            "sense_id": "t_en_gb0009939.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "neologism"
+                }
+            ],
+            "type": "headword",
+            "word": "neologism"
+        }
+    ]
+}

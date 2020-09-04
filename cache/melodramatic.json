@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "melodramatic",
+    "results": [
+        {
+            "id": "melodramatic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "melodramatically",
+                            "text": "melodramatically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "melodramatic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌmelədrəˈmadik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/melodramatic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌmɛlədrəˈmædɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to melodrama"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a melodramatic comedy about Slavic miners"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0631360.005",
+                                    "shortDefinitions": [
+                                        "relating to melodrama"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "characteristic of melodrama, especially in being exaggerated, sensationalized, or overemotional"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he flung the door open with a melodramatic flourish"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0631360.007",
+                                            "shortDefinitions": [
+                                                "characteristic of melodrama"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "exaggerated"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "histrionic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "extravagant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "overdramatic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "overdone"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "overripe"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "over-sensational"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sensationalized"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "overemotional"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sentimental"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "melodramatic",
+                                                    "sense_id": "t_en_gb0009330.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "melodramatic"
+                }
+            ],
+            "type": "headword",
+            "word": "melodramatic"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "desuetude",
+    "results": [
+        {
+            "id": "desuetude",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century (in the sense ‘cessation’): from French, from Latin desuetudo, from desuet- ‘made unaccustomed’, from the verb desuescere, from de- (expressing reversal) + suescere ‘be accustomed’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "desuetude"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈdeswəˌt(y)o͞od"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/desuetude_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈdɛswəˌt(j)ud"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a state of disuse"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the docks fell into desuetude"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0269000.006",
+                                    "registers": [
+                                        {
+                                            "id": "formal",
+                                            "text": "Formal"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "state",
+                                            "text": "State"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "state of disuse"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "non-use"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "non-employment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lack of use"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "disuse",
+                                            "sense_id": "t_en_gb0004295.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "desuetude"
+                }
+            ],
+            "type": "headword",
+            "word": "desuetude"
+        }
+    ]
+}

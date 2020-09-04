@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "luminary",
+    "results": [
+        {
+            "id": "luminary",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French luminarie or late Latin luminarium, from Latin lumen, lumin- ‘light’"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "luminaries"
+                                },
+                                {
+                                    "inflectedForm": "luminaries"
+                                },
+                                {
+                                    "inflectedForm": "luminary"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈlo͞oməˌnerē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/luminary_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈluməˌnɛri"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who inspires or influences others, especially one prominent in a particular sphere"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "one of the luminaries of child psychiatry"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0600450.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "expert",
+                                            "text": "Expert"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person who inspires others"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "leading light"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "guiding light"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inspiration"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "leader"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expert"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "master"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "panjandrum"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dignitary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "VIP"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "luminary",
+                                            "sense_id": "t_en_gb0008986.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a natural light-giving body, especially the sun or moon."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "astronomy",
+                                            "text": "Astronomy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0600450.010",
+                                    "registers": [
+                                        {
+                                            "id": "archaic",
+                                            "text": "Archaic"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "astronomical_object",
+                                            "text": "Astronomical_Object"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "natural light-giving body"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an artificial light."
+                                            ],
+                                            "id": "m_en_gbus0600450.011",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "light",
+                                                    "text": "Light"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "artificial light"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "luminary"
+                }
+            ],
+            "type": "headword",
+            "word": "luminary"
+        }
+    ]
+}

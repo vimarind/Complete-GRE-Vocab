@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "fecund",
+    "results": [
+        {
+            "id": "fecund",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from French fécond or Latin fecundus"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "fecund"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfekənd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/fecund_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfɛkənd"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfēkənd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/fecund_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfikənd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "producing or capable of producing an abundance of offspring or new growth; fertile"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a lush and fecund garden"
+                                        },
+                                        {
+                                            "registers": [
+                                                {
+                                                    "id": "figurative",
+                                                    "text": "Figurative"
+                                                }
+                                            ],
+                                            "text": "her fecund imagination"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0354740.008",
+                                    "shortDefinitions": [
+                                        "producing or capable of producing abundance of offspring or new growth"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a woman or women) capable of becoming pregnant and giving birth."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "medicine",
+                                                    "text": "Medicine"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0354740.011",
+                                            "registers": [
+                                                {
+                                                    "id": "technical",
+                                                    "text": "Technical"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "capable of bearing children"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "fecund"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fruitful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "productive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "high-yielding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prolific"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "proliferating"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "propagative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "generative"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "fertile",
+                                            "sense_id": "t_en_gb0005583.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "fecund"
+                }
+            ],
+            "type": "headword",
+            "word": "fecund"
+        }
+    ]
+}

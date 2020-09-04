@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "antic",
+    "results": [
+        {
+            "id": "antic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: from Italian antico ‘antique’, used to mean ‘grotesque’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "antic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈan(t)ik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/antic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈæn(t)ɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "grotesque or bizarre."
+                                    ],
+                                    "id": "m_en_gbus0037250.005",
+                                    "registers": [
+                                        {
+                                            "id": "archaic",
+                                            "text": "Archaic"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "grotesque or bizarre"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "practical joke"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trick"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mischievous act"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "piece of mischief"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "joke"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "escapade"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stunt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "caper"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "jape"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "game"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hoax"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "antic"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "prank",
+                                            "sense_id": "t_en_gb0011397.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "antic"
+                }
+            ],
+            "type": "headword",
+            "word": "antic"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "mimetic",
+    "results": [
+        {
+            "id": "mimetic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "mimetically",
+                            "text": "mimetically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Greek mimētikos ‘imitation’, from mimeisthai ‘to imitate’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "mimetic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "məˈmedik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/mimetic_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "məˈmɛdɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to, constituting, or habitually practicing mimesis"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "literature",
+                                            "text": "Literature"
+                                        },
+                                        {
+                                            "id": "art",
+                                            "text": "Art"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "mimetic patterns in butterflies"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0644970.006",
+                                    "registers": [
+                                        {
+                                            "id": "formal",
+                                            "text": "Formal"
+                                        },
+                                        {
+                                            "id": "technical",
+                                            "text": "Technical"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "relating to, constituting, or habitually practising mimesis"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "simulated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mock"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "imitation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make-believe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sham"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "imitative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mimetic"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "mimic",
+                                            "sense_id": "t_en_gb0009446.004"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "mimetic"
+                }
+            ],
+            "type": "headword",
+            "word": "mimetic"
+        }
+    ]
+}

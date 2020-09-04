@@ -1,0 +1,696 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "damp",
+    "results": [
+        {
+            "id": "damp",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "dampish",
+                            "text": "dampish"
+                        },
+                        {
+                            "id": "damply",
+                            "text": "damply"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the noun sense ‘noxious inhalation’): of West Germanic origin; related to a Middle Low German word meaning ‘vapor, steam, smoke’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "damp"
+                                },
+                                {
+                                    "inflectedForm": "damper"
+                                },
+                                {
+                                    "inflectedForm": "dampest"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "damp"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/damp_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dæmp"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "slightly wet"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "her hair was still damp from the shower"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0248870.005",
+                                    "shortDefinitions": [
+                                        "slightly wet"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "moist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "moistened"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wettish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dampened"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dampish"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "damp",
+                                            "sense_id": "t_en_gb0003390.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "damp"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "dampish",
+                            "text": "dampish"
+                        },
+                        {
+                            "id": "damply",
+                            "text": "damply"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "damp"
+                                },
+                                {
+                                    "inflectedForm": "damps"
+                                },
+                                {
+                                    "inflectedForm": "damp"
+                                },
+                                {
+                                    "inflectedForm": "damps"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "damp"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/damp_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dæmp"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "moisture diffused through the air or a solid substance or condensed on a surface, typically with detrimental or unpleasant effects"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the house reeked of mold and damp"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0248870.011",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "moisture",
+                                            "text": "Moisture"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "moisture in air, on surface, etc."
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "foul, stifling, or poisonous gas, especially in a mine."
+                                            ],
+                                            "id": "m_en_gbus0248870.013",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "gas",
+                                                    "text": "Gas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "damp air or atmosphere"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the damps of the valley"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0248870.014",
+                                            "notes": [
+                                                {
+                                                    "text": "\"damps\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "weather",
+                                                    "text": "Weather"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "damp air"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "moisture"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dampness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "humidity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wetness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wet"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "water"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "liquid"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "condensation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "steam"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vapour"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clamminess"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mugginess"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dankness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wateriness"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "damp",
+                                            "sense_id": "t_en_gb0003390.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a check or discouragement"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "shame gave a damp to her triumph"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0248870.017",
+                                    "registers": [
+                                        {
+                                            "id": "archaic",
+                                            "text": "Archaic"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "blockage",
+                                            "text": "Blockage"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "discouragement"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "deterrent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disincentive"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "discouragement",
+                                            "sense_id": "t_en_gb0004074.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "damp"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "dampish",
+                            "text": "dampish"
+                        },
+                        {
+                            "id": "damply",
+                            "text": "damply"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "damp"
+                                },
+                                {
+                                    "inflectedForm": "damped"
+                                },
+                                {
+                                    "inflectedForm": "damping"
+                                },
+                                {
+                                    "inflectedForm": "damps"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "damp"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/damp_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dæmp"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (something) slightly wet"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "damp a small area with water"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0248870.022",
+                                    "shortDefinitions": [
+                                        "make something damp"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "dampen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "moisten"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wet"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dew"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "water"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "irrigate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "humidify"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "damp",
+                                            "sense_id": "t_en_gb0003390.003"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "make a fire burn less strongly by reducing the flow of air to it"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he damped down the fire for the night"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0248870.029",
+                                    "shortDefinitions": [
+                                        "make fire burn less strongly"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "control or restrain (a feeling or a state of affairs)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she tried to damp down her feelings of despair"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0248870.030",
+                                            "shortDefinitions": [
+                                                "control feeling or situation"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "lessen"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "decrease"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "diminish"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "reduce"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lower"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "moderate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "damp"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "damp down"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "put a damper on"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "throw cold water on"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "calm"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cool"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "chill"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dull"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "blunt"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tone down"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "deaden"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "temper"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "discourage"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "dampen",
+                                                    "sense_id": "t_en_gb0003391.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "muffle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deaden"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stifle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dampen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "damp down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "smother"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reduce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "diminish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "decrease"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "suppress"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tone down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "moderate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "silence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "still"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "soften"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quell"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "kill",
+                                            "sense_id": "t_en_gb0008420.007"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "restrict the amplitude of vibrations on (a piano or other musical instrument) so as to reduce the volume of sound"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "music",
+                                            "text": "Music"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "rapidly damping the cymbals after repeatedly clashing them together"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0248870.032",
+                                    "shortDefinitions": [
+                                        "reduce vibration of strings of musical instrument"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "progressively reduce the amplitude of (an oscillation or vibration)"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "physics",
+                                                    "text": "Physics"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "physics",
+                                                    "text": "Physics"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "concrete structures damp out any vibrations"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0248870.033",
+                                            "shortDefinitions": [
+                                                "reduce amplitude of oscillation or vibration"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "damp"
+                }
+            ],
+            "type": "headword",
+            "word": "damp"
+        }
+    ]
+}

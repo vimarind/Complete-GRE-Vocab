@@ -1,0 +1,376 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "rational",
+    "results": [
+        {
+            "id": "rational",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘having the ability to reason’): from Latin rationalis, from ratio(n-) ‘reckoning, reason’ (see ratio)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "rational"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈraSH(ə)n(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/rational_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈræʃ(ə)n(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "based on or in accordance with reason or logic"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "philosophy",
+                                            "text": "Philosophy"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I'm sure there's a perfectly rational explanation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0846500.006",
+                                    "shortDefinitions": [
+                                        "based on or in accordance with reason or logic"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person) able to think clearly, sensibly, and logically"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "psychiatry",
+                                                    "text": "Psychiatry"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Andrea's upset—she's not being very rational"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0846500.008",
+                                            "shortDefinitions": [
+                                                "able to think sensibly or logically"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "lucid"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "coherent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sane"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "in one's right mind"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "able to reason clearly"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "able to think clearly"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "of sound mind"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "in possession of all one's faculties"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "rational",
+                                                    "sense_id": "t_en_gb0012099.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "endowed with the capacity to reason"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "man is a rational being"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0846500.009",
+                                            "shortDefinitions": [
+                                                "endowed with capacity to reason"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "intelligent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "thinking"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "discriminating"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "reasoning"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "rational",
+                                                    "sense_id": "t_en_gb0012099.003"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "logical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reasoned"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "well reasoned"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sensible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reasonable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cogent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "coherent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "intelligent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wise"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "judicious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sagacious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "astute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shrewd"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perceptive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "enlightened"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clear-eyed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clear-sighted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "commonsensical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "common-sense"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "well advised"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "well grounded"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sound"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sober"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prudent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "circumspect"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "politic"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "rational",
+                                            "sense_id": "t_en_gb0012099.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a number, quantity, or expression) expressible, or containing quantities that are expressible, as a ratio of whole numbers. When expressed as a decimal, a rational number has a finite or recurring expansion."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "mathematics",
+                                            "text": "Mathematics"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "mathematics",
+                                            "text": "Mathematics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0846500.011",
+                                    "shortDefinitions": [
+                                        "(of number, quantity, or expression) expressible, or containing quantities which are expressible, as ratio of whole numbers"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "rational"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "rational"
+                                },
+                                {
+                                    "inflectedForm": "rationals"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈraSH(ə)n(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/rational_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈræʃ(ə)n(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a rational number."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "mathematics",
+                                            "text": "Mathematics"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "mathematics",
+                                            "text": "Mathematics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0846500.013",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "number",
+                                            "text": "Number"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "rational number"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "rational"
+                }
+            ],
+            "type": "headword",
+            "word": "rational"
+        }
+    ]
+}

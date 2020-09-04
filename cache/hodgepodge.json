@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "hodgepodge",
+    "results": [
+        {
+            "id": "hodgepodge",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: alteration of hotchpotch by association with Hodge (a nickname for the given name Roger), an archaic British term used as a name for a typical agricultural worker"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "hodge-podge"
+                                },
+                                {
+                                    "inflectedForm": "hodge-podges"
+                                },
+                                {
+                                    "inflectedForm": "hodgepodge"
+                                },
+                                {
+                                    "inflectedForm": "hodgepodges"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈhäjˌpäj"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/hodgepodge_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈhɑdʒˌpɑdʒ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "a hotchpotch of"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a confused mixture"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Rob's living room was a hodgepodge of modern furniture and antiques"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0472240.021",
+                                    "regions": [
+                                        {
+                                            "id": "north_american",
+                                            "text": "North_American"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "disorder",
+                                            "text": "Disorder"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "confused mixture"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "mixture"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mix"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mixed bag"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "assortment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "assemblage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "collection"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "selection"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "jumble"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ragbag"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hotchpotch"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "miscellany"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "medley"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "patchwork"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pot-pourri"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "hodgepodge",
+                                            "sense_id": "t_en_gb0007047.001"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "pronunciations": [
+                                        {
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "ˈhäCHˌpäCH"
+                                        },
+                                        {
+                                            "audioFile": "https://audio.oxforddictionaries.com/en/mp3/hodgepodge_us_2.mp3",
+                                            "phoneticNotation": "IPA",
+                                            "phoneticSpelling": "ˈhɑtʃˌpɑtʃ"
+                                        }
+                                    ],
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "hotchpotch"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "hodgepodge"
+                }
+            ],
+            "type": "headword",
+            "word": "hodgepodge"
+        }
+    ]
+}

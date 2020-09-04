@@ -1,0 +1,235 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "emulate",
+    "results": [
+        {
+            "id": "emulate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "emulative",
+                            "text": "emulative"
+                        },
+                        {
+                            "id": "emulator",
+                            "text": "emulator"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Latin aemulat- ‘rivalled, equaled’, from the verb aemulari, from aemulus ‘rival’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "emulate"
+                                },
+                                {
+                                    "inflectedForm": "emulated"
+                                },
+                                {
+                                    "inflectedForm": "emulates"
+                                },
+                                {
+                                    "inflectedForm": "emulating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈemyəˌlāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/emulate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɛmjəˌleɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "match or surpass (a person or achievement), typically by imitation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "lesser men trying to emulate his greatness"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0321810.005",
+                                    "shortDefinitions": [
+                                        "match or surpass person or achievement"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "imitate"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "hers is not a hairstyle I wish to emulate"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0321810.011",
+                                            "shortDefinitions": [
+                                                "imitate"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "imitate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "mimic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ape"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "emulate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "follow"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "echo"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "mirror"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "simulate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "parrot"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "reproduce"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "copy",
+                                                    "sense_id": "t_en_gb0003035.007"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "reproduce the function or action of (a different computer, software system, etc.)"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "computing",
+                                                    "text": "Computing"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "computing",
+                                                    "text": "Computing"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the adaptor is factory set to emulate a Hercules graphics board"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0321810.012",
+                                            "shortDefinitions": [
+                                                "reproduce function or action of"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "imitate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "copy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reproduce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mimic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mirror"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "echo"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "follow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "model oneself on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take as a model"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take as an example"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "emulate",
+                                            "sense_id": "t_en_gb0004801.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "emulate"
+                }
+            ],
+            "type": "headword",
+            "word": "emulate"
+        }
+    ]
+}

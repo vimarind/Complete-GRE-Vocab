@@ -1,0 +1,460 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "default",
+    "results": [
+        {
+            "id": "default",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French defaut, from defaillir ‘to fail’, based on Latin fallere ‘disappoint, deceive’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "default"
+                                },
+                                {
+                                    "inflectedForm": "defaults"
+                                },
+                                {
+                                    "inflectedForm": "default"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈfôlt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/default_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈfɔlt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "failure to fulfill an obligation, especially to repay a loan or appear in a court of law"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it will have to restructure its debts to avoid default"
+                                        },
+                                        {
+                                            "text": "the deteriorating economy pushed defaults to almost $20 billion"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0259110.009",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "failure",
+                                            "text": "Failure"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "failure to fulfil obligation"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "non-payment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "failure to pay"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "non-remittance"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "default",
+                                            "sense_id": "t_en_gb0003551.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a preselected option adopted by a computer program or other mechanism when no alternative is specified by the user or programmer"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "computing",
+                                            "text": "Computing"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the default is fifty lines"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "as modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "default settings"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0259110.013",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "software_function",
+                                            "text": "Software_Function"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "preselected option"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "something that is usual or standard"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "all my life, envy has been my default emotion"
+                                                },
+                                                {
+                                                    "text": "SSRIs have become the default for adults with depression"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0259110.015",
+                                            "notes": [
+                                                {
+                                                    "text": "usually as modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "normal_thing",
+                                                    "text": "Normal_Thing"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "something that is usual or standard"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "normal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "standard"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "usual"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "typical"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stock"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ordinary"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "customary"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "conventional"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "habitual"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "accustomed"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "expected"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "wonted"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "everyday"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "regular"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "routine"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "established"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "settled"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "set"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "default",
+                                                    "sense_id": "t_en_gb0003551.005"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "by_default",
+                            "text": "by default"
+                        },
+                        {
+                            "id": "in_default",
+                            "text": "in default"
+                        },
+                        {
+                            "id": "in_default_of",
+                            "text": "in default of"
+                        }
+                    ],
+                    "text": "default"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "default"
+                                },
+                                {
+                                    "inflectedForm": "defaulted"
+                                },
+                                {
+                                    "inflectedForm": "defaulting"
+                                },
+                                {
+                                    "inflectedForm": "defaults"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈfôlt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/default_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈfɔlt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "fail to fulfill an obligation, especially to repay a loan or to appear in a court of law"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "some had defaulted on student loans"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0259110.019",
+                                    "shortDefinitions": [
+                                        "fail to fulfil obligation"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "declare (a party) in default and give judgment against that party"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the possibility that cases would be defaulted and defendants released"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0259110.025",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "declare to have defaulted"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "fail to pay"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "not pay"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "renege"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fail to honour"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "back out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "backtrack"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "backslide"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "default",
+                                            "sense_id": "t_en_gb0003551.003"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a computer program or other mechanism) revert automatically to (a preselected option)"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "computing",
+                                            "text": "Computing"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "when you start a fresh letter the system will default to its own style"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0259110.027",
+                                    "notes": [
+                                        {
+                                            "text": "\"default to\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "revert to default"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "revert"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "default",
+                                            "sense_id": "t_en_gb0003551.004"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "by_default",
+                            "text": "by default"
+                        },
+                        {
+                            "id": "in_default",
+                            "text": "in default"
+                        },
+                        {
+                            "id": "in_default_of",
+                            "text": "in default of"
+                        }
+                    ],
+                    "text": "default"
+                }
+            ],
+            "type": "headword",
+            "word": "default"
+        }
+    ]
+}

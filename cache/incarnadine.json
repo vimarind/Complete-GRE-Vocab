@@ -1,0 +1,161 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "incarnadine",
+    "results": [
+        {
+            "id": "incarnadine",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from French incarnadin(e), from Italian incarnadino, variant of incarnatino ‘flesh color’, based on Latin incarnare (see incarnate)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "incarnadine"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈkärnədīn"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/incarnadine_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈkɑrnədaɪn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a bright crimson or pinkish-red color"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "as modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "an incarnadine rose"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0501050.008",
+                                    "registers": [
+                                        {
+                                            "id": "literary",
+                                            "text": "Literary"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "colour",
+                                            "text": "Colour"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "bright crimson or pinkish-red colour"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "incarnadine"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "incarnadine"
+                                },
+                                {
+                                    "inflectedForm": "incarnadined"
+                                },
+                                {
+                                    "inflectedForm": "incarnadines"
+                                },
+                                {
+                                    "inflectedForm": "incarnadining"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈkärnədīn"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/incarnadine_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈkɑrnədaɪn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "color (something) a bright crimson or pinkish-red"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a spreading red stain incarnadined the sea"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0501050.011",
+                                    "registers": [
+                                        {
+                                            "id": "literary",
+                                            "text": "Literary"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "colour something bright crimson or pinkish-red"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "incarnadine"
+                }
+            ],
+            "type": "headword",
+            "word": "incarnadine"
+        }
+    ]
+}

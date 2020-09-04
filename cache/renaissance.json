@@ -1,0 +1,202 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "renaissance",
+    "results": [
+        {
+            "id": "Renaissance",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "from French renaissance, from re- ‘back, again’ + naissance ‘birth’ (from Latin nascentia, from nasci ‘be born’)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "Renaissance"
+                                },
+                                {
+                                    "inflectedForm": "Renaissance"
+                                },
+                                {
+                                    "inflectedForm": "renaissance"
+                                },
+                                {
+                                    "inflectedForm": "renaissances"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈrenəˌsäns"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/renaissance_1_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈrɛnəˌsɑns"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the revival of art and literature under the influence of classical models in the 14th–16th centuries."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "literature",
+                                            "text": "Literature"
+                                        },
+                                        {
+                                            "id": "art",
+                                            "text": "Art"
+                                        },
+                                        {
+                                            "id": "early_modern_history",
+                                            "text": "Early_Modern_History"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0861130.006",
+                                    "shortDefinitions": [
+                                        "revival of European art and literature under influence of classical models in 14th-16th centuries"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the culture and style of art and architecture developed during the Renaissance."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "art",
+                                                    "text": "Art"
+                                                },
+                                                {
+                                                    "id": "architecture",
+                                                    "text": "Architecture"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0861130.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "style",
+                                                    "text": "Style"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "culture and style of art and architecture developed during the Renaissance"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a revival of or renewed interest in something"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "rail travel is enjoying a renaissance"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0861130.010",
+                                            "notes": [
+                                                {
+                                                    "text": "\"a renaissance\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "event",
+                                                    "text": "Event"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "revival of or renewed interest in something"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "revival"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "renewal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "resurrection"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "reawakening"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "re-emergence"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "reappearance"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "resurgence"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rejuvenation"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "regeneration"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rebirth"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "new birth"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "new dawn"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "new beginning"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "renaissance",
+                                                    "sense_id": "t_en_gb0012384.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "Renaissance"
+                }
+            ],
+            "type": "headword",
+            "word": "Renaissance"
+        }
+    ]
+}

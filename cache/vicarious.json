@@ -1,0 +1,177 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "vicarious",
+    "results": [
+        {
+            "id": "vicarious",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "vicariousness",
+                            "text": "vicariousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin vicarius ‘substitute’ (see vicar) + -ous"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "vicarious"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "vəˈkerēəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/vicarious_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "vəˈkɛriəs"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "vīˈkerēəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/vicarious_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "vaɪˈkɛriəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "experienced in the imagination through the feelings or actions of another person"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I could glean vicarious pleasure from the struggles of my imaginary film friends"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1127610.014",
+                                    "shortDefinitions": [
+                                        "experienced in imagination through feelings or actions of another person"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "acting or done for another"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a vicarious atonement"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1127610.016",
+                                            "shortDefinitions": [
+                                                "acting or done for another"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "of or pertaining to the performance by one organ of the functions normally discharged by another."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "physiology",
+                                                    "text": "Physiology"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "physiology",
+                                                    "text": "Physiology"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1127610.017",
+                                            "shortDefinitions": [
+                                                "of or pertaining to performance by one organ of functions normally discharged by another"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "indirect"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "second-hand"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "secondary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "derivative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "derived"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "at one remove"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "surrogate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "substitute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "substituted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "by proxy"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "vicarious",
+                                            "sense_id": "t_en_gb0015938.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "vicarious"
+                }
+            ],
+            "type": "headword",
+            "word": "vicarious"
+        }
+    ]
+}

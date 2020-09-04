@@ -1,0 +1,359 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "anemic",
+    "results": [
+        {
+            "id": "anemic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "anemic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈnēmik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/anemic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈnimɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person) suffering from anemia"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the doctor said you were a bit anemic"
+                                        },
+                                        {
+                                            "text": "an anemic patient"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0030600.007",
+                                    "shortDefinitions": [
+                                        "suffering from anaemia"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "lacking in color, spirit, or vitality"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an anemic aspidistra stood in the grate"
+                                                },
+                                                {
+                                                    "text": "Boro gave a thoroughly anemic performance"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0030600.010",
+                                            "shortDefinitions": [
+                                                "lacking in colour or vitality"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "feeble"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "weak"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "insipid"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pallid"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pale"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "wishy-washy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "vapid"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bland"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "poor"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "puny"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "flat"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "inadequate"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "anaemic",
+                                                    "sense_id": "t_en_gb0000557.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "colourless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bloodless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pale"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pallid"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wan"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ashen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "white"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "white as a ghost"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "white as a sheet"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grey"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "jaundiced"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "waxen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chalky"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chalk white"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "milky"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pasty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pasty-faced"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "whey-faced"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "peaky"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sickly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tired-looking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "washed out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sallow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drained"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drawn"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sapped"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ghostly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deathly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deathlike"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bleached"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "anaemic",
+                                            "sense_id": "t_en_gb0000557.001"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "anaemic"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "anemic"
+                },
+                {
+                    "entries": [
+                        {
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈnēmik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/anemic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈnimɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person suffering from anemia"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "cumin seeds are a rich source of iron and hence very beneficial for anemics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0030600.020",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "sufferer",
+                                            "text": "Sufferer"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person suffering from anaemia"
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "anaemic"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "anemic"
+                }
+            ],
+            "type": "headword",
+            "word": "anemic"
+        }
+    ]
+}

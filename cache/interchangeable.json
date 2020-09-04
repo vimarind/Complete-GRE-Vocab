@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "interchangeable",
+    "results": [
+        {
+            "id": "interchangeable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "interchangeability",
+                            "text": "interchangeability"
+                        },
+                        {
+                            "id": "interchangeableness",
+                            "text": "interchangeableness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "interchangeable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌin(t)ərˈCHānjəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/interchangeable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɪn(t)ərˈtʃeɪndʒəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "interchangeable with"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "(of two things) able to be interchanged"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "eyepieces are interchangeable and one can use any eyepiece with any telescope"
+                                        },
+                                        {
+                                            "text": "the V8 engines are all interchangeable with each other"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0515150.005",
+                                    "shortDefinitions": [
+                                        "able to be interchanged"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "apparently identical; very similar"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the cast includes a lot of interchangeable faces"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0515150.007",
+                                            "shortDefinitions": [
+                                                "apparently identical"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "identical"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "similar"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "alike"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "the same"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "exactly the same"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "indistinguishable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "uniform"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "twin"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "undifferentiated"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "homogeneous"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "of a piece"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cut from the same cloth"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "interchangeable",
+                                                    "sense_id": "t_en_gb0008059.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "exchangeable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "transposable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "replaceable"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "interchangeable",
+                                            "sense_id": "t_en_gb0008059.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "interchangeable"
+                }
+            ],
+            "type": "headword",
+            "word": "interchangeable"
+        }
+    ]
+}

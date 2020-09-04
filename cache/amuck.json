@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "amuck",
+    "results": [
+        {
+            "id": "amok",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: via Portuguese amouco, from Malay amok ‘rushing in a frenzy’. Early use was as a noun denoting a Malay in a homicidal frenzy"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "amok"
+                                },
+                                {
+                                    "inflectedForm": "amuck"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈmək"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/amok_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈmək"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈmäk"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/amok_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈmɑk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "id": "m_en_gbus0029180.009"
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "amuck"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adverb",
+                        "text": "Adverb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "run_amok",
+                            "text": "run amok"
+                        }
+                    ],
+                    "text": "amok"
+                }
+            ],
+            "type": "headword",
+            "word": "amok"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "confiscate",
+    "results": [
+        {
+            "id": "confiscate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin confiscat- ‘put away in a chest, consigned to the public treasury’, from the verb confiscare, based on con- ‘together’ + fiscus ‘chest, treasury’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "confiscate"
+                                },
+                                {
+                                    "inflectedForm": "confiscated"
+                                },
+                                {
+                                    "inflectedForm": "confiscates"
+                                },
+                                {
+                                    "inflectedForm": "confiscating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈkänfəˌskāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconfiscate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈkɑnfəˌskeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "take or seize (someone's property) with authority"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the guards confiscated his camera"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0210190.005",
+                                    "shortDefinitions": [
+                                        "take or seize someone's property with authority"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "take (a possession, especially land) as a penalty and give it to the public treasury"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the government confiscated his property"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0210190.011",
+                                            "shortDefinitions": [
+                                                "appropriate something to public treasury as penalty"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "impound"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "seize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "commandeer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "requisition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "appropriate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expropriate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take possession of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sequester"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sequestrate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take away"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take over"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "annex"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "confiscate",
+                                            "sense_id": "t_en_gb0002795.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "confiscate"
+                }
+            ],
+            "type": "headword",
+            "word": "confiscate"
+        }
+    ]
+}

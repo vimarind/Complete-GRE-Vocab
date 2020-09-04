@@ -1,0 +1,162 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "gnostic",
+    "results": [
+        {
+            "id": "gnostic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (as a noun): via ecclesiastical Latin from Greek gnōstikos, from gnōstos ‘known’ (related to gignōskein ‘know’)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "gnostic"
+                                },
+                                {
+                                    "inflectedForm": "Gnostic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈnästik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/gnostic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈnɑstɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to knowledge, especially esoteric mystical knowledge."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "religion",
+                                            "text": "Religion"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0419170.007",
+                                    "shortDefinitions": [
+                                        "relating to knowledge"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "relating to Gnosticism."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "christian",
+                                                    "text": "Christian"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0419170.009",
+                                            "shortDefinitions": [
+                                                "relating to Gnosticism"
+                                            ],
+                                            "variantForms": [
+                                                {
+                                                    "text": "Gnostic"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "gnostic"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "gnostic"
+                                },
+                                {
+                                    "inflectedForm": "gnostics"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈnästik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/gnostic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈnɑstɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an adherent of Gnosticism."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "christian",
+                                            "text": "Christian"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0419170.014",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "christian",
+                                            "text": "Christian"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "adherent of Gnosticism"
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "Gnostic"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "gnostic"
+                }
+            ],
+            "type": "headword",
+            "word": "gnostic"
+        }
+    ]
+}

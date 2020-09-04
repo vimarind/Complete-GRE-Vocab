@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "verdant",
+    "results": [
+        {
+            "id": "verdant",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "verdancy",
+                            "text": "verdancy"
+                        },
+                        {
+                            "id": "verdantly",
+                            "text": "verdantly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: perhaps from Old French verdeant, present participle of verdoier ‘be green’, based on Latin viridis ‘green’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "verdant"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈvərdnt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/verdant_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈvərdnt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of countryside) green with grass or other rich vegetation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "verdant valleys"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1124690.005",
+                                    "shortDefinitions": [
+                                        "(of countryside) green with grass or other rich vegetation"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "of the bright green color of lush grass"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a deep, verdant green"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1124690.007",
+                                            "shortDefinitions": [
+                                                "of bright green colour of lush grass"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "green"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "leafy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grassy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grass-covered"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "verdant",
+                                            "sense_id": "t_en_gb0015903.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "verdant"
+                }
+            ],
+            "type": "headword",
+            "word": "verdant"
+        }
+    ]
+}

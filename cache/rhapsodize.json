@@ -1,0 +1,161 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "rhapsodize",
+    "results": [
+        {
+            "id": "rhapsodize",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "rhapsodise"
+                                },
+                                {
+                                    "inflectedForm": "rhapsodised"
+                                },
+                                {
+                                    "inflectedForm": "rhapsodises"
+                                },
+                                {
+                                    "inflectedForm": "rhapsodising"
+                                },
+                                {
+                                    "inflectedForm": "rhapsodize"
+                                },
+                                {
+                                    "inflectedForm": "rhapsodized"
+                                },
+                                {
+                                    "inflectedForm": "rhapsodizes"
+                                },
+                                {
+                                    "inflectedForm": "rhapsodizing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈrapsəˌdīz"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/rhapsodize_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈræpsəˌdaɪz"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "speak or write about someone or something with great enthusiasm and delight"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "music",
+                                            "text": "Music"
+                                        },
+                                        {
+                                            "id": "prosody",
+                                            "text": "Prosody"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he began to rhapsodize about Gaby's beauty and charm"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0870400.006",
+                                    "shortDefinitions": [
+                                        "speak or write about person or thing with great enthusiasm and delight"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "rave"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be enthusiastic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gush"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wax lyrical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bubble over"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "effervesce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be effusive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rhapsodize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "go into raptures"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "enthuse",
+                                            "sense_id": "t_en_gb0004932.001"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "rhapsodise"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "rhapsodize"
+                }
+            ],
+            "type": "headword",
+            "word": "rhapsodize"
+        }
+    ]
+}

@@ -1,0 +1,495 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "muted",
+    "results": [
+        {
+            "id": "mute",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Anglo-Norman mut, mute, moute ‘pack of hounds trained for hunting’, from Latin movere ‘to move’"
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "mute"
+                                },
+                                {
+                                    "inflectedForm": "muted"
+                                },
+                                {
+                                    "inflectedForm": "mutes"
+                                },
+                                {
+                                    "inflectedForm": "muting"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "mute"
+                }
+            ],
+            "type": "headword",
+            "word": "mute"
+        },
+        {
+            "id": "mute",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "mutely",
+                            "text": "mutely"
+                        },
+                        {
+                            "id": "muteness",
+                            "text": "muteness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French muet, diminutive of mu, from Latin mutus"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "mute"
+                                },
+                                {
+                                    "inflectedForm": "muted"
+                                },
+                                {
+                                    "inflectedForm": "mutes"
+                                },
+                                {
+                                    "inflectedForm": "muting"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "To describe a person without the power of speech as mute (especially as in deaf-mute) is today likely to cause offense and is often regarded as outdated. Nevertheless, there is no directly equivalent term for mute in general use, apart from speech-impaired. The term profoundly deaf may be used to imply that a person has not developed any spoken language skills",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "myo͞ot"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/mute_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "mjut"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "deaden, muffle, or soften the sound of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "her footsteps were muted by the thick carpet"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0673340.029",
+                                    "shortDefinitions": [
+                                        "deaden sound of"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "muffle the sound of (a musical instrument), especially by the use of a mute"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "when muted and blown hard the trombone produces a very nasal and metallic sound"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0673340.035",
+                                            "shortDefinitions": [
+                                                "muffle sound of musical instrument"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "reduce the strength or intensity of"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his professional contentment was muted by personal sadness"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0673340.036",
+                                            "shortDefinitions": [
+                                                "reduce intensity of"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "restrain"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "soften"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "subdue"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tone down"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "make less intense"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "moderate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "temper"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "soft-pedal"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "mute",
+                                                    "sense_id": "t_en_gb0009791.006"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "deaden"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "muffle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mask"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dull"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dampen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "damp down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "soften"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "silence"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "mute",
+                                            "sense_id": "t_en_gb0009791.005"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "mute"
+                }
+            ],
+            "type": "headword",
+            "word": "mute"
+        },
+        {
+            "id": "muted",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "muted"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmyo͞odəd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/muted_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmjudəd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a sound or voice) quiet and soft"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they discussed the accident in muted voices"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0673370.005",
+                                    "shortDefinitions": [
+                                        "(of sound or voice) quiet and soft"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a musical instrument) having a muffled sound as a result of being fitted with a mute."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "instrument",
+                                                    "text": "Instrument"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0673370.007",
+                                            "shortDefinitions": [
+                                                "(of musical instrument) having muffled sound as result of being fitted with mute"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "not expressed strongly or openly"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "muted anger"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0673370.008",
+                                            "shortDefinitions": [
+                                                "not expressed strongly or openly"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "muffled"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "faint"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "indistinct"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "quiet"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "soft"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "softened"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "low"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dull"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "muted",
+                                                    "sense_id": "t_en_gb0009792.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of color or lighting) not bright; subdued"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a dress in muted tones of powder blue and dusty pink"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0673370.009",
+                                            "shortDefinitions": [
+                                                "not bright"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "subdued"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pastel"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "delicate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "faded"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dusty"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "subtle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "toned down"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "understated"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "discreet"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unobtrusive"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "restrained"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "low-key"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "muted",
+                                                    "sense_id": "t_en_gb0009792.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "soft"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "low"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lowered"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "muted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "muffled"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "faint"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "indistinct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inaudible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dull"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "quiet",
+                                            "sense_id": "t_en_gb0011977.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "muted"
+                }
+            ],
+            "type": "headword",
+            "word": "muted"
+        }
+    ]
+}

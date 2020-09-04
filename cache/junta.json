@@ -1,0 +1,161 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "junta",
+    "results": [
+        {
+            "id": "junta",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century (in junta (sense 2)): from Spanish and Portuguese, from Latin juncta, feminine past participle of jungere ‘to join’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "junta"
+                                },
+                                {
+                                    "inflectedForm": "juntas"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈho͝on(t)ə"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/junta_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈhʊn(t)ə"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a military or political group that rules a country after taking power by force"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the country's ruling military junta"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0538650.007",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "ruling_party",
+                                            "text": "Ruling_Party"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "military or political group that rules country after taking power by force"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "faction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "group"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cabal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "clique"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "party"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "set"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gang"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "league"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "confederacy"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "junta",
+                                            "sense_id": "t_en_gb0008380.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a deliberative or administrative council in Spain or Portugal."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0538650.012",
+                                    "registers": [
+                                        {
+                                            "id": "historical",
+                                            "text": "Historical"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "council",
+                                            "text": "Council"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "deliberative or administrative council in Spain or Portugal"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "junta"
+                }
+            ],
+            "type": "headword",
+            "word": "junta"
+        }
+    ]
+}

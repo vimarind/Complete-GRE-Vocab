@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "dismantle",
+    "results": [
+        {
+            "id": "dismantle",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "dismantlement",
+                            "text": "dismantlement"
+                        },
+                        {
+                            "id": "dismantler",
+                            "text": "dismantler"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (in the sense ‘destroy the defensive capability of a fortification’): from Old French desmanteler, from des- (expressing reversal) + manteler ‘fortify’ (from Latin mantellum ‘cloak’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "dismantle"
+                                },
+                                {
+                                    "inflectedForm": "dismantled"
+                                },
+                                {
+                                    "inflectedForm": "dismantles"
+                                },
+                                {
+                                    "inflectedForm": "dismantling"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "disˈman(t)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/dismantle_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dɪsˈmæn(t)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "take (a machine or structure) to pieces"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the engines were dismantled and the bits piled into a heap"
+                                        },
+                                        {
+                                            "registers": [
+                                                {
+                                                    "id": "figurative",
+                                                    "text": "Figurative"
+                                                }
+                                            ],
+                                            "text": "the old regime was dismantled"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0282170.005",
+                                    "shortDefinitions": [
+                                        "take machine or structure to pieces"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "take apart"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take to pieces"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take to bits"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pull apart"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pull to pieces"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deconstruct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disassemble"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "break up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "strip"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "strip down"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "dismantle",
+                                            "sense_id": "t_en_gb0004156.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "dismantle"
+                }
+            ],
+            "type": "headword",
+            "word": "dismantle"
+        }
+    ]
+}

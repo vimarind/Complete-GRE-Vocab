@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "expedite",
+    "results": [
+        {
+            "id": "expedite",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "expediter",
+                            "text": "expediter"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the sense ‘perform quickly’): from Latin expedire ‘extricate (originally by freeing the feet), put in order’, from ex- ‘out’ + pes, ped- ‘foot’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "expedite"
+                                },
+                                {
+                                    "inflectedForm": "expedited"
+                                },
+                                {
+                                    "inflectedForm": "expedites"
+                                },
+                                {
+                                    "inflectedForm": "expediting"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈekspəˌdīt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/expedite_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɛkspəˌdaɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (an action or process) happen sooner or be accomplished more quickly"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he promised to expedite economic reforms"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0342250.005",
+                                    "shortDefinitions": [
+                                        "make action or process happen sooner or be accomplished more quickly"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "speed up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "accelerate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hurry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hasten"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "step up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quicken"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "precipitate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rush"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "expedite",
+                                            "sense_id": "t_en_gb0005270.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "expedite"
+                }
+            ],
+            "type": "headword",
+            "word": "expedite"
+        }
+    ]
+}

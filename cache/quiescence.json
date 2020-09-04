@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "quiescence",
+    "results": [
+        {
+            "id": "quiescence",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "quiescence"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kwīˈesns"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kwaɪˈɛsns"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kwēˈesns"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kwiˈɛsns"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "inactivity or dormancy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this method has been shown to induce sleep-like quiescence in adult animals"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1190799.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "inaction",
+                                            "text": "Inaction"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "inactivity or dormancy"
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "quiescency"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "quiescence"
+                }
+            ],
+            "type": "headword",
+            "word": "quiescence"
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "inborn",
+    "results": [
+        {
+            "id": "inborn",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "inborn"
+                                },
+                                {
+                                    "inflectedForm": "in-born"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌinˈbôrn"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/inborn_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɪnˈbɔrn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "existing from birth"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an inborn defect in the formation of collagen"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0500770.006",
+                                    "shortDefinitions": [
+                                        "existing from birth"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "natural to a person or animal"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "people think doctors have inborn compassion"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0500770.011",
+                                            "shortDefinitions": [
+                                                "natural to person or animal"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "innate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "congenital"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "existing from birth"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "inborn",
+                                                    "sense_id": "t_en_gb0007566.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "genetic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "genetical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "congenital"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inborn"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inherent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inherited"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inbred"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "innate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in the family"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in the blood"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in the genes"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "hereditary",
+                                            "sense_id": "t_en_gb0006934.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "inborn"
+                }
+            ],
+            "type": "headword",
+            "word": "inborn"
+        }
+    ]
+}

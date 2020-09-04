@@ -1,0 +1,404 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "sportive",
+    "results": [
+        {
+            "id": "sportive",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 21st century: shortened from cyclosportive"
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sportive"
+                                },
+                                {
+                                    "inflectedForm": "sportives"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈspôrdiv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sportive_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈspɔrdɪv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a long-distance road cycling event in which a large number of cyclists ride a marked route"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "cycling",
+                                            "text": "Cycling"
+                                        },
+                                        {
+                                            "id": "sport",
+                                            "text": "Sport"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "you may have put in hours of training before your first sportive, but all your good work can be undone if you neglect to prepare your bike"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0981620.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "contest",
+                                            "text": "Contest"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "road cycling event"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "sportive"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sportive"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sportive"
+                }
+            ],
+            "type": "headword",
+            "word": "sportive"
+        },
+        {
+            "id": "sportive",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "sportively",
+                            "text": "sportively"
+                        },
+                        {
+                            "id": "sportiveness",
+                            "text": "sportiveness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from sport + -ive"
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sportive"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈspôrdiv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sportive_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈspɔrdɪv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "playful; lighthearted"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Sir John was in sportive mood"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0981610.006",
+                                    "shortDefinitions": [
+                                        "playful"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "amorous; lustful"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a sportive man who drank and loved too much"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0981610.008",
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "amorous"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "lustful"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sexual"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "erotic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "amatory"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ardent"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "amorous",
+                                                    "sense_id": "t_en_gb0000545.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "playful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lively"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "full of fun"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fun-loving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "high-spirited"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spirited"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in high spirits"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "jolly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "merry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "light-hearted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blithe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gleeful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "frisky"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exuberant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perky"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "skittish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sprightly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "coltish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "jaunty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prankish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "frolicking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "romping"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "capering"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sportive",
+                                            "sense_id": "t_en_gb0013954.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to, interested in, or good at sport"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Britain's architectural and sportive heritage"
+                                        },
+                                        {
+                                            "text": "I was always a very sportive person—I played almost every sport"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0981610.010",
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "athletic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "active"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "energetic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "outdoor"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sporty",
+                                            "sense_id": "t_en_gb0013955.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sportive"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "sportively",
+                            "text": "sportively"
+                        },
+                        {
+                            "id": "sportiveness",
+                            "text": "sportiveness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sportive"
+                                },
+                                {
+                                    "inflectedForm": "sportives"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "sportive"
+                }
+            ],
+            "type": "headword",
+            "word": "sportive"
+        }
+    ]
+}

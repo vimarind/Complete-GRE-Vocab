@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "notorious",
+    "results": [
+        {
+            "id": "notorious",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the sense ‘generally known’): from medieval Latin notorius (from Latin notus ‘known’) + -ous"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "notorious"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "nōˈtôrēəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/notorious_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "noʊˈtɔriəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "notorious for"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "famous or well known, typically for some bad quality or deed"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Los Angeles is notorious for its smog"
+                                        },
+                                        {
+                                            "text": "he was a notorious drinker and womanizer"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0702710.005",
+                                    "shortDefinitions": [
+                                        "famous or well known"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "infamous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of ill repute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "with a bad name"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "with a bad reputation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ill-famed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scandalous"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "notorious",
+                                            "sense_id": "t_en_gb0010087.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "notorious"
+                }
+            ],
+            "type": "headword",
+            "word": "notorious"
+        }
+    ]
+}

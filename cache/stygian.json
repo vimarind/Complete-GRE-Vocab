@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "stygian",
+    "results": [
+        {
+            "id": "Stygian",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "Stygian"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈstijēən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/stygian_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈstɪdʒiən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to the Styx River."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "mythology",
+                                            "text": "Mythology"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1005690.007",
+                                    "shortDefinitions": [
+                                        "relating to River Styx in Greek mythology"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "very dark"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the Stygian crypt"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1005690.009",
+                                            "registers": [
+                                                {
+                                                    "id": "literary",
+                                                    "text": "Literary"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "very dark"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "dark"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "black"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pitch black"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pitch dark"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "inky"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sooty"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dusky"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dim"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "murky"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "shadowy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unlit"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "stygian",
+                                                    "sense_id": "t_en_gb0014293.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "Stygian"
+                }
+            ],
+            "type": "headword",
+            "word": "Stygian"
+        }
+    ]
+}

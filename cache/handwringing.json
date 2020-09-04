@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "handwringing",
+    "results": [
+        {
+            "id": "handwringing",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "handwringing"
+                                },
+                                {
+                                    "inflectedForm": "handwringings"
+                                },
+                                {
+                                    "inflectedForm": "hand-wringing"
+                                },
+                                {
+                                    "inflectedForm": "hand-wringings"
+                                },
+                                {
+                                    "inflectedForm": "hand-wringing"
+                                },
+                                {
+                                    "inflectedForm": "handwringing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈhandˌriNGiNG"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/handwringing_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈhændˌrɪŋɪŋ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the clasping together and squeezing of one's hands, especially when distressed or worried."
+                                    ],
+                                    "id": "m_en_gbus0449280.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "gesture",
+                                            "text": "Gesture"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "clasping together and squeezing of one's hands"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an excessive display of concern or distress"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his customary handwringing about the need for more local aid"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0449280.007",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "distress",
+                                                    "text": "Distress"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "excessive display of concern or distress"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "handwringing"
+                }
+            ],
+            "type": "headword",
+            "word": "handwringing"
+        }
+    ]
+}

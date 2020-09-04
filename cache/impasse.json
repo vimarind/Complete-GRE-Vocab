@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "impasse",
+    "results": [
+        {
+            "id": "impasse",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 19th century: from French, from im- (expressing negation) + the stem of passer ‘to pass’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "impasse"
+                                },
+                                {
+                                    "inflectedForm": "impasses"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈimˌpas"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/impasse_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɪmˌpæs"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "imˈpas"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/impasse_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪmˈpæs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a situation in which no progress is possible, especially because of disagreement; a deadlock"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the current political impasse"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0498170.008",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "situation",
+                                            "text": "Situation"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "situation in which no progress is possible"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "deadlock"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dead end"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stalemate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "checkmate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stand-off"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "impasse",
+                                            "sense_id": "t_en_gb0007422.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "impasse"
+                }
+            ],
+            "type": "headword",
+            "word": "impasse"
+        }
+    ]
+}

@@ -1,0 +1,238 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "liability",
+    "results": [
+        {
+            "id": "liability",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "liabilities"
+                                },
+                                {
+                                    "inflectedForm": "liability"
+                                },
+                                {
+                                    "inflectedForm": "liabilities"
+                                },
+                                {
+                                    "inflectedForm": "liability"
+                                },
+                                {
+                                    "inflectedForm": "liabilities"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌlīəˈbilədē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/liability_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌlaɪəˈbɪlədi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "liability for"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "the state of being responsible for something, especially by law"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the partners accept unlimited liability for any risks they undertake"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0578680.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "responsibility",
+                                            "text": "Responsibility"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "state of being legally responsible for something"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a thing for which someone is responsible, especially a debt or financial obligation"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "finance",
+                                                    "text": "Finance"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "valuing the company's liabilities and assets"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0578680.008",
+                                            "notes": [
+                                                {
+                                                    "text": "usually \"liabilities\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "liability",
+                                                    "text": "Liability"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "thing for which someone is responsible"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "financial obligation"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "debt"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "indebtedness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "debit"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "liability",
+                                                    "sense_id": "t_en_gb0008721.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "accountability"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "responsibility"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "legal responsibility"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "answerability"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "liability",
+                                            "sense_id": "t_en_gb0008721.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a person or thing whose presence or behavior is likely to cause embarrassment or put one at a disadvantage"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he has become a political liability"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0578680.012",
+                                    "notes": [
+                                        {
+                                            "text": "usually in singular",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "disliked_thing",
+                                            "text": "Disliked_Thing"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person or thing whose presence or behaviour is likely to put one at disadvantage"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "hindrance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "encumbrance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "burden"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "handicap"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "nuisance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inconvenience"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "liability",
+                                            "sense_id": "t_en_gb0008721.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "liability"
+                }
+            ],
+            "type": "headword",
+            "word": "liability"
+        }
+    ]
+}

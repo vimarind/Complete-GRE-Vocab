@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "indigenous",
+    "results": [
+        {
+            "id": "indigenous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "indigenously",
+                            "text": "indigenously"
+                        },
+                        {
+                            "id": "indigenousness",
+                            "text": "indigenousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin indigena ‘a native’ (see indigene) + -ous"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "indigenous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈdijənəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/indigenous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈdɪdʒənəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "indigenous to"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "originating or occurring naturally in a particular place; native"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        },
+                                        {
+                                            "id": "anthropology",
+                                            "text": "Anthropology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the indigenous peoples of Siberia"
+                                        },
+                                        {
+                                            "text": "coriander is indigenous to southern Europe"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0504540.005",
+                                    "shortDefinitions": [
+                                        "originating or occurring naturally in particular place"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "native"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "aboriginal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "local"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "indigenous",
+                                            "sense_id": "t_en_gb0007700.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "indigenous"
+                }
+            ],
+            "type": "headword",
+            "word": "indigenous"
+        }
+    ]
+}

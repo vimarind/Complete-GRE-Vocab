@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "inequity",
+    "results": [
+        {
+            "id": "inequity",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "inequities"
+                                },
+                                {
+                                    "inflectedForm": "inequities"
+                                },
+                                {
+                                    "inflectedForm": "inequity"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈekwədē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/inequity_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈɛkwədi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "lack of fairness or justice"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "policies aimed at redressing racial inequity"
+                                        },
+                                        {
+                                            "text": "inequities in school financing"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0506450.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "negative_condition",
+                                            "text": "Negative_Condition"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "lack of fairness or justice"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "unfairness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "injustice"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unjustness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "one-sidedness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "partisanship"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "partiality"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "favouritism"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bias"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prejudice"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discrimination"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "inequity",
+                                            "sense_id": "t_en_gb0007759.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "inequity"
+                }
+            ],
+            "type": "headword",
+            "word": "inequity"
+        }
+    ]
+}

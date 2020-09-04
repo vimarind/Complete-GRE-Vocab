@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "anthropocentrism",
+    "results": [
+        {
+            "id": "anthropocentrism",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivativeOf": [
+                        {
+                            "id": "anthropocentric",
+                            "text": "anthropocentric"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "anthropocentrism"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌanTHrəpəˈsenˌtrizəm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/anthropocentrism_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌænθrəpəˈsɛnˌtrɪzəm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "id": "m_en_gbus0036870.017"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "anthropocentrism"
+                }
+            ],
+            "type": "headword",
+            "word": "anthropocentrism"
+        }
+    ]
+}

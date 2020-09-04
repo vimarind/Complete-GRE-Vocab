@@ -1,0 +1,177 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "litany",
+    "results": [
+        {
+            "id": "litany",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French letanie, via ecclesiastical Latin from Greek litaneia ‘prayer’, from litē ‘supplication’"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "litanies"
+                                },
+                                {
+                                    "inflectedForm": "litanies"
+                                },
+                                {
+                                    "inflectedForm": "litany"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈlitnē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/litany_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈlɪtni"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a series of petitions for use in church services or processions, usually recited by the clergy and responded to in a recurring formula by the people."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "ecclesiastical",
+                                            "text": "Ecclesiastical"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0586610.016",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "ceremony",
+                                            "text": "Ceremony"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "series of petitions for use in church services or processions"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a tedious recital or repetitive series"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a litany of complaints"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0586610.020",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "series",
+                                                    "text": "Series"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "tedious recital or repetitive series"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "recital"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "recitation"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "repetition"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "enumeration"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "account"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "refrain"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "litany",
+                                                    "sense_id": "t_en_gb0008826.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "prayer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "invocation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "petition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "supplication"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "devotion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "entreaty"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "litany",
+                                            "sense_id": "t_en_gb0008826.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "litany"
+                }
+            ],
+            "type": "headword",
+            "word": "litany"
+        }
+    ]
+}

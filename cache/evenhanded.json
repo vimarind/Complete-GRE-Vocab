@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "evenhanded",
+    "results": [
+        {
+            "id": "even-handed",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "even-handedly",
+                            "text": "even-handedly"
+                        },
+                        {
+                            "id": "even-handedness",
+                            "text": "even-handedness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "even-handed"
+                                },
+                                {
+                                    "inflectedForm": "evenhanded"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌēvənˈhandəd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/even_handed_1_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌivənˈhændəd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "fair and impartial in treatment or judgment"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an even-handed approach"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0337730.004",
+                                    "shortDefinitions": [
+                                        "fair and impartial in treatment or judgement"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "fair"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "just"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "equitable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impartial"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unbiased"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unprejudiced"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "non-partisan"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "non-discriminatory"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "anti-discrimination"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "even-handed",
+                                            "sense_id": "t_en_gb0005114.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "even-handed"
+                }
+            ],
+            "type": "headword",
+            "word": "even-handed"
+        }
+    ]
+}

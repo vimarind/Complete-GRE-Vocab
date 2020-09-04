@@ -1,0 +1,281 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "cultured",
+    "results": [
+        {
+            "id": "cultured",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "culturedness",
+                            "text": "culturedness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "cultured"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈkəlCHərd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/cultured_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈkəltʃərd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "characterized by refined taste and manners and good education"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the development of a modern, cultured society"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0240780.006",
+                                    "shortDefinitions": [
+                                        "characterized by refined taste and manners and good education"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "cultivated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "artistically aware"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "intellectually aware"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "artistic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "enlightened"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "civilized"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "educated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "well educated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "well read"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "well informed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "learned"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "knowledgeable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discerning"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discriminating"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "with good taste"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "refined"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "polished"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "cultured",
+                                            "sense_id": "t_en_gb0003307.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of tissue cells, bacteria, etc.) grown or propagated in an artificial medium"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "cultured tumor cells"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0240780.009",
+                                    "shortDefinitions": [
+                                        "(of tissue cells, bacteria, etc.) grown or propagated in artificial medium"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a pearl) formed around a foreign body inserted into an oyster"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "her only jewelry was a string of cultured pearls"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0240780.010",
+                                            "shortDefinitions": [
+                                                "formed round foreign body inserted into oyster"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "cultured"
+                }
+            ],
+            "type": "headword",
+            "word": "cultured"
+        },
+        {
+            "id": "culture",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (denoting a cultivated piece of land): the noun from French culture or directly from Latin cultura ‘growing, cultivation’; the verb from obsolete French culturer or medieval Latin culturare, both based on Latin colere ‘tend, cultivate’ (see cultivate). In late Middle English the sense was ‘cultivation of the soil’ and from this (early 16th century), arose ‘cultivation (of the mind, faculties, or manners’); culture (sense 1 of the noun) dates from the early 19th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "culture"
+                                },
+                                {
+                                    "inflectedForm": "cultured"
+                                },
+                                {
+                                    "inflectedForm": "cultures"
+                                },
+                                {
+                                    "inflectedForm": "culturing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈkəlCHər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/_culture_1_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈkəltʃər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "maintain (tissue cells, bacteria, etc.) in conditions suitable for growth"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "several investigators have attempted to culture biliary cells"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0240760.020",
+                                    "shortDefinitions": [
+                                        "artificially cultivate bacteria etc."
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "culture"
+                }
+            ],
+            "type": "headword",
+            "word": "culture"
+        }
+    ]
+}

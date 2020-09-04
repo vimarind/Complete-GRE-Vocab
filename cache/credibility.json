@@ -1,0 +1,200 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "credibility",
+    "results": [
+        {
+            "id": "credibility",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from medieval Latin credibilitas, from Latin credibilis (see credible)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "credibility"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌkredəˈbilədē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/credibility_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌkrɛdəˈbɪlədi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the quality of being trusted and believed in"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the government's loss of credibility"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0231850.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "characteristic",
+                                            "text": "Characteristic"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "quality of being trusted and believed in"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the quality of being convincing or believable"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the book's anecdotes have scant regard for credibility"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0231850.007",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "characteristic",
+                                                    "text": "Characteristic"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "quality of being convincing or believable"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "plausibility"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "believability"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "acceptability"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tenability"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "probability"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "likelihood"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "authority"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "authoritativeness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "impressiveness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cogency"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "weight"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "validity"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "soundness"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "credibility",
+                                                    "sense_id": "t_en_gb0003200.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "another term for street credibility"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "street_credibility",
+                                                    "text": "street credibility",
+                                                    "type": "another term for"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0231850.008"
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "trustworthiness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reliability"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dependability"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "integrity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "character"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "credibility",
+                                            "sense_id": "t_en_gb0003200.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "credibility"
+                }
+            ],
+            "type": "headword",
+            "word": "credibility"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "inasmuch",
+    "results": [
+        {
+            "id": "inasmuch",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: originally as in as much, translating Old French en tant (que) ‘in so much (as)’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "inasmuch"
+                                },
+                                {
+                                    "inflectedForm": "in as much"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌinəzˈməCH"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/inasmuch_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɪnəzˈmətʃ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "id": "m_en_gbus0500640.016"
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "in as much"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adverb",
+                        "text": "Adverb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "inasmuch_as",
+                            "text": "inasmuch as"
+                        }
+                    ],
+                    "text": "inasmuch"
+                }
+            ],
+            "type": "headword",
+            "word": "inasmuch"
+        }
+    ]
+}

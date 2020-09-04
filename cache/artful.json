@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "artful",
+    "results": [
+        {
+            "id": "artful",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "artfulness",
+                            "text": "artfulness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "artful"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈärtfəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/artful_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɑrtfəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person or action) clever or skillful, typically in a crafty or cunning way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "her artful wiles"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0049260.007",
+                                    "shortDefinitions": [
+                                        "clever in crafty way"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "sly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crafty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cunning"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wily"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scheming"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "devious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Machiavellian"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sneaky"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "guileful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tricky"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "conniving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "designing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "calculating"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "artful",
+                                            "sense_id": "t_en_gb0000833.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "showing creative skill or taste"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an artful photograph of a striking woman"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0049260.010",
+                                    "shortDefinitions": [
+                                        "showing creative skill or taste"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "artful"
+                }
+            ],
+            "type": "headword",
+            "word": "artful"
+        }
+    ]
+}

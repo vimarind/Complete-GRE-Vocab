@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "imprecation",
+    "results": [
+        {
+            "id": "imprecation",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "imprecatory",
+                            "text": "imprecatory"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin imprecatio(n-), from imprecari ‘invoke (evil)’, from in- ‘towards’ + precari ‘pray’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "imprecation"
+                                },
+                                {
+                                    "inflectedForm": "imprecations"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌimprəˈkāSH(ə)n"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/imprecation_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɪmprəˈkeɪʃ(ə)n"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a spoken curse"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she hurled her imprecations at anyone who might be listening"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0499470.005",
+                                    "registers": [
+                                        {
+                                            "id": "formal",
+                                            "text": "Formal"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "curse",
+                                            "text": "Curse"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "spoken curse"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "curse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "malediction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "anathema"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swear word"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "curse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expletive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "oath"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "profanity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "four-letter word"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "obscenity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "epithet"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dirty word"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "imprecation",
+                                            "sense_id": "t_en_gb0007499.001"
+                                        },
+                                        {
+                                            "entry_id": "imprecation",
+                                            "sense_id": "t_en_gb0007499.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "imprecation"
+                }
+            ],
+            "type": "headword",
+            "word": "imprecation"
+        }
+    ]
+}

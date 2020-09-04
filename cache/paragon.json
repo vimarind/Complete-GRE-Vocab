@@ -1,0 +1,255 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "paragon",
+    "results": [
+        {
+            "id": "paragon",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from obsolete French, from Italian paragone ‘touchstone to try good (gold) from bad’, from medieval Greek parakonē ‘whetstone’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "paragon"
+                                },
+                                {
+                                    "inflectedForm": "paragons"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈperəˌɡän"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/paragon_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpɛrəˌɡɑn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person or thing regarded as a perfect example of a particular quality"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it would have taken a paragon of virtue not to feel viciously jealous"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0747740.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "liked_thing",
+                                            "text": "Liked_Thing"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person or thing regarded as perfect example of particular quality"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a person or thing viewed as a model of excellence"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "your cook is a paragon"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0747740.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "liked_thing",
+                                                    "text": "Liked_Thing"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "person or thing viewed as model of excellence"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "perfect example"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "shining example"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "good example"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "model"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "epitome"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "archetype"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ideal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "exemplar"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "nonpareil"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "paradigm"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "embodiment"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "personification"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "quintessence"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "standard"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "prototype"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "apotheosis"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "the crème de la crème"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "the beau idéal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "acme"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "paragon",
+                                                    "sense_id": "t_en_gb0010646.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a perfect diamond of 100 carats or more."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "jewellery",
+                                                    "text": "Jewellery"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0747740.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "gem",
+                                                    "text": "Gem"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "perfect diamond of 100 carats or more"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "perfection"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "paragon"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "epitome"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ne plus ultra"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "beau idéal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "nonpareil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crème de la crème"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "the last word"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "the ultimate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "a dream"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "ideal",
+                                            "sense_id": "t_en_gb0007276.004"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "paragon"
+                }
+            ],
+            "type": "headword",
+            "word": "paragon"
+        }
+    ]
+}

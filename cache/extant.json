@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "extant",
+    "results": [
+        {
+            "id": "extant",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (in the sense ‘able to be publicly seen or reached’): from Latin exstant- ‘being visible or prominent, existing’, from the verb exstare, from ex- ‘out’ + stare ‘to stand’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "extant"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈekstənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/extant_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɛkstənt"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ekˈstant"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/extant_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɛkˈstænt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(especially of a document) still in existence; surviving"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the original manuscript is no longer extant"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0343550.009",
+                                    "shortDefinitions": [
+                                        "still in existence"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "still existing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in existence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "surviving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remaining"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abiding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "enduring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "undestroyed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "present"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "existent"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "extant",
+                                            "sense_id": "t_en_gb0005327.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "extant"
+                }
+            ],
+            "type": "headword",
+            "word": "extant"
+        }
+    ]
+}

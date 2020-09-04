@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "autonomous",
+    "results": [
+        {
+            "id": "autonomous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 19th century: from Greek autonomos ‘having its own laws’+ -ous"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "autonomous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ôˈtänəməs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/autonomous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɔˈtɑnəməs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a country or region) having the freedom to govern itself or control its own affairs"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the federation included sixteen autonomous republics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0060060.005",
+                                    "shortDefinitions": [
+                                        "(of country or region) having freedom to govern itself"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "having the freedom to act independently"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an autonomous committee of the school board"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0060060.007",
+                                            "shortDefinitions": [
+                                                "having freedom to act independently"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "self-governing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "independent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sovereign"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "free"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "self-ruling"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "self-determining"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "autarchic"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "autonomous",
+                                                    "sense_id": "t_en_gb0001008.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "denoting or performed by a device capable of operating without direct human control"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "autonomous underwater vehicles"
+                                                },
+                                                {
+                                                    "text": "the spread of autonomous robotic weaponry"
+                                                },
+                                                {
+                                                    "text": "tests indicate that autonomous driving will cut fuel consumption by up to five percent"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0060060.013",
+                                            "shortDefinitions": [
+                                                "denoting device capable of operating without direct human control"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(in Kantian moral philosophy) acting in accordance with one's moral duty rather than one's desires."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "philosophy",
+                                            "text": "Philosophy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0060060.008",
+                                    "shortDefinitions": [
+                                        "acting in accordance with moral duty rather than desires"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "autonomous"
+                }
+            ],
+            "type": "headword",
+            "word": "autonomous"
+        }
+    ]
+}

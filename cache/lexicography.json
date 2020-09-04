@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "lexicography",
+    "results": [
+        {
+            "id": "lexicography",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "lexicographic",
+                            "text": "lexicographic"
+                        },
+                        {
+                            "id": "lexicographical",
+                            "text": "lexicographical"
+                        },
+                        {
+                            "id": "lexicographically",
+                            "text": "lexicographically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "lexicography"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌleksəˈkäɡrəfē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/lexicography_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌlɛksəˈkɑɡrəfi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the practice of compiling dictionaries"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "linguistics",
+                                            "text": "Linguistics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Webster's name had become famous before he embarked on his career in lexicography"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0578290.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "professional_work",
+                                            "text": "Professional_Work"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "activity or occupation of compiling dictionaries"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "lexicography"
+                }
+            ],
+            "type": "headword",
+            "word": "lexicography"
+        }
+    ]
+}

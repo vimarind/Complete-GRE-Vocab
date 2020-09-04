@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "gumption",
+    "results": [
+        {
+            "id": "gumption",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 18th century (originally Scots): of unknown origin"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "gumption"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈɡəmpSH(ə)n"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/gumption_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɡəmpʃ(ə)n"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "shrewd or spirited initiative and resourcefulness"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she had the gumption to put her foot down and head Dan off from those crazy schemes"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0440000.005",
+                                    "registers": [
+                                        {
+                                            "id": "informal",
+                                            "text": "Informal"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "manner",
+                                            "text": "Manner"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "shrewd or spirited initiative and resourcefulness"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "initiative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "resourcefulness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "enterprise"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "imagination"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "imaginativeness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ingenuity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inventiveness"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "gumption",
+                                            "sense_id": "t_en_gb0006621.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "gumption"
+                }
+            ],
+            "type": "headword",
+            "word": "gumption"
+        }
+    ]
+}

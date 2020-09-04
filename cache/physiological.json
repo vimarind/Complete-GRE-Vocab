@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "physiological",
+    "results": [
+        {
+            "id": "physiological",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "physiologic",
+                            "text": "physiologic"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "physiological"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌfizēəˈläjək(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/physiological_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌfɪziəˈlɑdʒək(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to the branch of biology that deals with the normal functions of living organisms and their parts"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "physiology",
+                                            "text": "Physiology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "physiological research on the causes of violent behavior"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0777510.004",
+                                    "shortDefinitions": [
+                                        "relating to branch of biology that deals with normal functions of living organisms"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "relating to the way in which a living organism or bodily part functions"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "slow down your body's physiological response to anger by breathing deeply"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0777510.006",
+                                            "shortDefinitions": [
+                                                "relating to way in which living organism or bodily part functions"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "physiological"
+                }
+            ],
+            "type": "headword",
+            "word": "physiological"
+        }
+    ]
+}

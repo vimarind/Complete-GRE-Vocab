@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "status quo",
+    "results": [
+        {
+            "id": "status_quo",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Latin, literally ‘the state in which’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "status quo"
+                                },
+                                {
+                                    "inflectedForm": "quo"
+                                },
+                                {
+                                    "inflectedForm": "statusquo"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "usually \"the status quo\"",
+                                    "type": "wordFormNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌstādəs ˈkwō"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/status_quo_1_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌsteɪdəs ˈkwoʊ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the existing state of affairs, especially regarding social or political issues"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they have a vested interest in maintaining the status quo"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0990640.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "state",
+                                            "text": "State"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "existing state of affairs"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "status quo"
+                }
+            ],
+            "type": "headword",
+            "word": "status quo"
+        }
+    ]
+}

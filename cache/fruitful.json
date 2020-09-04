@@ -1,0 +1,214 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "fruitful",
+    "results": [
+        {
+            "id": "fruitful",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "fruitfully",
+                            "text": "fruitfully"
+                        },
+                        {
+                            "id": "fruitfulness",
+                            "text": "fruitfulness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "fruitful"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfro͞otfəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/fruitful_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfrutfəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a tree, plant, or land) producing much fruit; fertile"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this seed will grow into a lovely fruitful tree"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0392940.006",
+                                    "shortDefinitions": [
+                                        "producing much fruit"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "producing good or helpful results; productive"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "years of fruitful collaboration"
+                                                },
+                                                {
+                                                    "text": "the two days of talks had been fruitful"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0392940.008",
+                                            "shortDefinitions": [
+                                                "producing good or helpful results"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "productive"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "constructive"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "useful"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "of use"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "worthwhile"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "helpful"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "of help"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "of assistance"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "beneficial"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "valuable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rewarding"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "profitable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "advantageous"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "gainful"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "successful"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "effective"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "effectual"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "well spent"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "fruitful",
+                                                    "sense_id": "t_en_gb0006118.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a person) producing many offspring"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "and God said unto them, Be fruitful and multiply"
+                                                },
+                                                {
+                                                    "text": "be happy, be fruitful"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0392940.009",
+                                            "shortDefinitions": [
+                                                "producing many offspring"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "fruit-bearing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fructiferous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fruiting"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "fruitful",
+                                            "sense_id": "t_en_gb0006118.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "fruitful"
+                }
+            ],
+            "type": "headword",
+            "word": "fruitful"
+        }
+    ]
+}

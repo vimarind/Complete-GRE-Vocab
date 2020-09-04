@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "sinecure",
+    "results": [
+        {
+            "id": "sinecure",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "sinecurism",
+                            "text": "sinecurism"
+                        },
+                        {
+                            "id": "sinecurist",
+                            "text": "sinecurist"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin sine cura ‘without care’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sinecure"
+                                },
+                                {
+                                    "inflectedForm": "sinecures"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsīnəkyo͝or"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sinecure_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsaɪnəkjʊr"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsinəˌkyo͝or"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sinecure_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsɪnəˌkjʊr"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a position requiring little or no work but giving the holder status or financial benefit"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "political sinecures for the supporters of ministers"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0947440.008",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "job",
+                                            "text": "Job"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "position requiring little or no work but giving holder status or financial benefit"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "easy job"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "soft option"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sinecure",
+                                            "sense_id": "t_en_gb0013504.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "sinecure"
+                }
+            ],
+            "type": "headword",
+            "word": "sinecure"
+        }
+    ]
+}

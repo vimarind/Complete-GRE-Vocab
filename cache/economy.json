@@ -1,0 +1,563 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "economy",
+    "results": [
+        {
+            "id": "economy",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the sense ‘management of material resources’): from French économie, or via Latin from Greek oikonomia ‘household management’, based on oikos ‘house’ + nemein ‘manage’. Current senses date from the 17th century"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "economies"
+                                },
+                                {
+                                    "inflectedForm": "economies"
+                                },
+                                {
+                                    "inflectedForm": "economy"
+                                },
+                                {
+                                    "inflectedForm": "economy"
+                                },
+                                {
+                                    "inflectedForm": "economies"
+                                },
+                                {
+                                    "inflectedForm": "economy class"
+                                },
+                                {
+                                    "inflectedForm": "economy class"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈkänəmē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/economy_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈkɑnəmi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the wealth and resources of a country or region, especially in terms of the production and consumption of goods and services."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "economics",
+                                            "text": "Economics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0310910.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "economic_system",
+                                            "text": "Economic_System"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "state of area regarding production and consumption of goods and services"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a particular system or stage of an economy"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a free-market economy"
+                                                },
+                                                {
+                                                    "text": "the less-developed economies"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0310910.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "economic_system",
+                                                    "text": "Economic_System"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "system or stage of economy"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "wealth"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "resources"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "financial resources"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "economy",
+                                            "sense_id": "t_en_gb0004613.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "careful management of available resources"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "even heat distribution and fuel economy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0310910.011",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "practice",
+                                            "text": "Practice"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "careful management of resources"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "sparing or careful use of something"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "economy of words"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0310910.015",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "practice",
+                                                    "text": "Practice"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "sparing use of something"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "thrift"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "providence"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "prudence"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "thriftiness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "canniness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "carefulness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "care"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "good management"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "good husbandry"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "careful budgeting"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "economizing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "saving"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "scrimping and saving"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "scrimping"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "restraint"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "frugality"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fuel-saving"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "abstemiousness"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "economy",
+                                                    "sense_id": "t_en_gb0004613.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a financial saving"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "there were many economies to be made by giving up our offices in Manhattan"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0310910.016",
+                                            "notes": [
+                                                {
+                                                    "text": "usually \"economies\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "saving",
+                                                    "text": "Saving"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "financial saving"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "reduction"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cut"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "decrease"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "economy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "economizing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "economy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "frugality"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "thrift"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "thriftiness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "retrenchment"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cutting back"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "belt-tightening"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "penny-pinching"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "saving",
+                                                    "sense_id": "t_en_gb0012922.001"
+                                                },
+                                                {
+                                                    "entry_id": "saving",
+                                                    "sense_id": "t_en_gb0012922.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the cheapest class of air or rail travel"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "we flew economy"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0310910.017",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "accommodation_class",
+                                                    "text": "Accommodation_Class"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "cheapest class of air or rail travel"
+                                            ],
+                                            "variantForms": [
+                                                {
+                                                    "text": "economy class"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "thrift"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "providence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prudence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "thriftiness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "canniness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "carefulness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "care"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "good management"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "good husbandry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "careful budgeting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "economizing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "saving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scrimping and saving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scrimping"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "restraint"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "frugality"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fuel-saving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abstemiousness"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "economy",
+                                            "sense_id": "t_en_gb0004613.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "economy_of_scale",
+                            "text": "economy of scale"
+                        },
+                        {
+                            "id": "economy_of_scope",
+                            "text": "economy of scope"
+                        }
+                    ],
+                    "text": "economy"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "economy"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "attributive",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈkänəmē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/economy_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈkɑnəmi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a product) offering the best value for the money"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "in combination",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "an economy pack"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0310910.021",
+                                    "shortDefinitions": [
+                                        "offering best value for money"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "designed to be economical to use"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an economy car"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0310910.023",
+                                            "shortDefinitions": [
+                                                "designed to be economical to use"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "phrases": [
+                        {
+                            "id": "economy_of_scale",
+                            "text": "economy of scale"
+                        },
+                        {
+                            "id": "economy_of_scope",
+                            "text": "economy of scope"
+                        }
+                    ],
+                    "text": "economy"
+                }
+            ],
+            "type": "headword",
+            "word": "economy"
+        }
+    ]
+}

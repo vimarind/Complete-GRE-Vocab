@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "puerile",
+    "results": [
+        {
+            "id": "puerile",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "puerilely",
+                            "text": "puerilely"
+                        },
+                        {
+                            "id": "puerility",
+                            "text": "puerility"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (in the sense ‘like a boy’): from French puéril or Latin puerilis, from puer ‘boy’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "puerile"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpyo͝orəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/puerile_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpjʊrəl"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpyo͝orˌīl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/puerile_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpjʊrˌaɪl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "childishly silly and trivial"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "you're making puerile excuses"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0827950.007",
+                                    "shortDefinitions": [
+                                        "childishly silly and immature"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "immature"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "babyish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "infantile"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "juvenile"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "puerile"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "childish",
+                                            "sense_id": "t_en_gb0002275.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "puerile"
+                }
+            ],
+            "type": "headword",
+            "word": "puerile"
+        }
+    ]
+}

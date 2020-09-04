@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "epithet",
+    "results": [
+        {
+            "id": "epithet",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "epithetic",
+                            "text": "epithetic"
+                        },
+                        {
+                            "id": "epithetical",
+                            "text": "epithetical"
+                        },
+                        {
+                            "id": "epithetically",
+                            "text": "epithetically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from French épithète, or via Latin from Greek epitheton, neuter of epithetos ‘attributed’, from epitithenai ‘add’, from epi ‘upon’ + tithenai ‘to place’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "epithet"
+                                },
+                                {
+                                    "inflectedForm": "epithets"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈepəˌTHet"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/epithet_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɛpəˌθɛt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an adjective or descriptive phrase expressing a quality characteristic of the person or thing mentioned"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "linguistics",
+                                            "text": "Linguistics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "old men are often unfairly awarded the epithet “dirty.”"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0329580.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "word",
+                                            "text": "Word"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "adjective or phrase expressing quality or attribute regarded as characteristic of person or thing mentioned"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an epithet as a term of abuse"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "linguistics",
+                                                    "text": "Linguistics"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "people jeered and hurled racial epithets"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0329580.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "obscenity",
+                                                    "text": "Obscenity"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "such word or phrase as term of abuse"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "sobriquet"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "nickname"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "byname"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "title"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "name"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "label"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tag"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "epithet",
+                                            "sense_id": "t_en_gb0004994.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "epithet"
+                }
+            ],
+            "type": "headword",
+            "word": "epithet"
+        }
+    ]
+}

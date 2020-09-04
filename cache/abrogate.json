@@ -1,0 +1,219 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "abrogate",
+    "results": [
+        {
+            "id": "abrogate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "abrogator",
+                            "text": "abrogator"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: from Latin abrogat- ‘repealed’, from the verb abrogare, from ab- ‘away, from’ + rogare ‘propose a law’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "abrogate"
+                                },
+                                {
+                                    "inflectedForm": "abrogated"
+                                },
+                                {
+                                    "inflectedForm": "abrogates"
+                                },
+                                {
+                                    "inflectedForm": "abrogating"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "The verbs abrogate and arrogate are quite different in meaning. While abrogate means ‘repeal (a law),’ arrogate means ‘take or claim (something) for oneself without justification,’ often in the structure arrogate something to oneself, as in the emergency committee arrogated to itself whatever powers it chose",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈabrəˌɡāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/abrogate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈæbrəˌɡeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "repeal or do away with (a law, right, or formal agreement)"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a proposal to abrogate temporarily the right to strike"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0002800.008",
+                                    "registers": [
+                                        {
+                                            "id": "formal",
+                                            "text": "Formal"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "repeal or do away with"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "repudiate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "revoke"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "repeal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rescind"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overturn"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overrule"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "override"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "do away with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "annul"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cancel"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "break off"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "invalidate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "nullify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "void"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "negate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dissolve"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "countermand"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "veto"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "declare null and void"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discontinue"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "abrogate",
+                                            "sense_id": "t_en_gb0000074.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "evade (a responsibility or duty)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we believe the board is abrogating its responsibilities to its shareholders"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0002800.015",
+                                    "registers": [
+                                        {
+                                            "id": "formal",
+                                            "text": "Formal"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "evade responsibility or duty"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "abrogate"
+                }
+            ],
+            "type": "headword",
+            "word": "abrogate"
+        }
+    ]
+}

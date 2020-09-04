@@ -1,0 +1,141 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "tractable",
+    "results": [
+        {
+            "id": "tractable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "tractability",
+                            "text": "tractability"
+                        },
+                        {
+                            "id": "tractableness",
+                            "text": "tractableness"
+                        },
+                        {
+                            "id": "tractably",
+                            "text": "tractably"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: from Latin tractabilis, from tractare ‘to handle’ (see tractate)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tractable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈtraktəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/tractable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈtræktəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person) easy to control or influence"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "tractable dogs that have had some obedience training"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1066740.005",
+                                    "shortDefinitions": [
+                                        "easy to control or influence"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a situation or problem) easy to deal with"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "trying to make the mathematics tractable"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1066740.007",
+                                            "shortDefinitions": [
+                                                "easy to deal with"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "controllable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "manageable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "malleable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "governable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "yielding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "amenable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "complaisant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "compliant"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "tractable",
+                                            "sense_id": "t_en_gb0015036.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "tractable"
+                }
+            ],
+            "type": "headword",
+            "word": "tractable"
+        }
+    ]
+}

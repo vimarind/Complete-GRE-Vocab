@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "empirical",
+    "results": [
+        {
+            "id": "empirical",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "empirical"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əmˈpirik(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/empirical_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əmˈpɪrɪk(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "based on, concerned with, or verifiable by observation or experience rather than theory or pure logic"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "philosophy",
+                                            "text": "Philosophy"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they provided considerable empirical evidence to support their argument"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0321310.006",
+                                    "shortDefinitions": [
+                                        "based on, concerned with, or verifiable by observation or experience rather than theory or pure logic"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "observed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "seen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "factual"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "actual"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "real"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "verifiable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "first-hand"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "empirical",
+                                            "sense_id": "t_en_gb0004788.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "empirical"
+                }
+            ],
+            "type": "headword",
+            "word": "empirical"
+        }
+    ]
+}

@@ -1,0 +1,272 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "spectrum",
+    "results": [
+        {
+            "id": "spectrum",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century (in the sense ‘specter’): from Latin, literally ‘image, apparition’, from specere ‘to look’"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "spectra",
+                                    "pronunciations": [
+                                        {
+                                            "dialects": [
+                                                "American English"
+                                            ],
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "ˈspektrə"
+                                        },
+                                        {
+                                            "audioFile": "https://audio.oxforddictionaries.com/en/mp3/spectra_us_1.mp3",
+                                            "dialects": [
+                                                "American English"
+                                            ],
+                                            "phoneticNotation": "IPA",
+                                            "phoneticSpelling": "ˈspɛktrə"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "spectrums"
+                                },
+                                {
+                                    "inflectedForm": "spectra"
+                                },
+                                {
+                                    "inflectedForm": "spectrum"
+                                },
+                                {
+                                    "inflectedForm": "spectrums"
+                                },
+                                {
+                                    "inflectedForm": "spectrum"
+                                },
+                                {
+                                    "inflectedForm": "the spectrum"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈspektrəm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/spectrum_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈspɛktrəm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a band of colors, as seen in a rainbow, produced by separation of the components of light by their different degrees of refraction according to wavelength."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "physics",
+                                            "text": "Physics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0976000.009",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "spectrum",
+                                            "text": "Spectrum"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "band of colours, as seen in rainbow, produced by separation of components of light"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the entire range of wavelengths of electromagnetic radiation."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "physics",
+                                                    "text": "Physics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0976000.013",
+                                            "notes": [
+                                                {
+                                                    "text": "\"the spectrum\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "spectrum",
+                                                    "text": "Spectrum"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "entire range of wavelengths of electromagnetic radiation"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "an image or distribution of components of any electromagnetic radiation arranged in a progressive series according to wavelength."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "physics",
+                                                    "text": "Physics"
+                                                },
+                                                {
+                                                    "id": "chemistry",
+                                                    "text": "Chemistry"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0976000.015",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "spectrum",
+                                                    "text": "Spectrum"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "characteristic series of frequencies of electromagnetic radiation"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "an image or distribution of components of sound, particles, etc., arranged according to such characteristics as frequency, charge, and energy."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "physics",
+                                                    "text": "Physics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0976000.016",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "diagram",
+                                                    "text": "Diagram"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "components of sound or other phenomenon arranged according to such characteristics"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "used to classify something, or suggest that it can be classified, in terms of its position on a scale between two extreme or opposite points"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the left or the right of the political spectrum"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0976000.018",
+                                    "shortDefinitions": [
+                                        "used to classify something in terms of its position on scale between two extreme points"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a wide range"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "self-help books are covering a broader and broader spectrum"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0976000.019",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "extent",
+                                                    "text": "Extent"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "wide range"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "range"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "gamut"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sweep"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "scope"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "span"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "spectrum",
+                                                    "sense_id": "t_en_gb0013882.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "on_the_spectrum",
+                            "text": "on the spectrum"
+                        }
+                    ],
+                    "text": "spectrum"
+                }
+            ],
+            "type": "headword",
+            "word": "spectrum"
+        }
+    ]
+}

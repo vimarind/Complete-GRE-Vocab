@@ -1,0 +1,222 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "banish",
+    "results": [
+        {
+            "id": "banish",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French baniss-, lengthened stem of banir; ultimately of Germanic origin and related to ban"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "banish"
+                                },
+                                {
+                                    "inflectedForm": "banished"
+                                },
+                                {
+                                    "inflectedForm": "banishes"
+                                },
+                                {
+                                    "inflectedForm": "banishing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbaniSH"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/banish_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbænɪʃ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "send (someone) away from a country or place as an official punishment"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they were banished to Siberia for political crimes"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0071370.005",
+                                    "shortDefinitions": [
+                                        "send someone away from country or place as official punishment"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "forbid, abolish, or get rid of (something unwanted)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "all thoughts of romance were banished from her head"
+                                                },
+                                                {
+                                                    "text": "it's perfectly feasible to banish the smoke without banning smoking"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0071370.011",
+                                            "shortDefinitions": [
+                                                "get rid of"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "dispel"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dismiss"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "disperse"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "scatter"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dissipate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "drive away"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "drive off"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "chase away"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rout"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "oust"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cast out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "shut out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "get rid of"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "quell"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "allay"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "eliminate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dislodge"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "banish",
+                                                    "sense_id": "t_en_gb0001136.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "exile"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expel"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deport"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "eject"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expatriate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "extradite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "repatriate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "transport"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "banish",
+                                            "sense_id": "t_en_gb0001136.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "banish"
+                }
+            ],
+            "type": "headword",
+            "word": "banish"
+        }
+    ]
+}

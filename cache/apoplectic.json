@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "apoplectic",
+    "results": [
+        {
+            "id": "apoplectic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "apoplectically",
+                            "text": "apoplectically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from French apoplectique or late Latin apoplecticus, from Greek apoplēktikos, from apoplēssein ‘disable by a stroke’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "apoplectic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌapəˈplektik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/apoplectic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌæpəˈplɛktɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "apoplectic with"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "overcome with anger; extremely indignant"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Mark was apoplectic with rage at the decision"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0040890.011",
+                                    "registers": [
+                                        {
+                                            "id": "informal",
+                                            "text": "Informal"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "overcome with anger"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "relating to or denoting apoplexy (stroke)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an apoplectic attack"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0040890.013",
+                                            "registers": [
+                                                {
+                                                    "id": "dated",
+                                                    "text": "Dated"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "of apoplexy"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "furious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "enraged"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overcome with anger"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "infuriated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in a temper"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "incensed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "raging"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "apoplectic",
+                                            "sense_id": "t_en_gb0000677.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "apoplectic"
+                }
+            ],
+            "type": "headword",
+            "word": "apoplectic"
+        }
+    ]
+}

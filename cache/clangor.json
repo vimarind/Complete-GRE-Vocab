@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "clangor",
+    "results": [
+        {
+            "id": "clangor",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Latin clangor, from clangere ‘resound’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "clangor"
+                                },
+                                {
+                                    "inflectedForm": "clangors"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "in singular",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈklaNGər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/clangor_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈklæŋər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a continuous loud banging or ringing sound"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he went deaf because of the clangor of the steam hammers"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0187140.007",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "sound",
+                                            "text": "Sound"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "continuous loud banging or ringing sound"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "reverberation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ringing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ding-dong"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bong"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "peal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chime"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "toll"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "clang",
+                                            "sense_id": "t_en_gb0002375.001"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "clangour"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "clangor"
+                }
+            ],
+            "type": "headword",
+            "word": "clangor"
+        }
+    ]
+}

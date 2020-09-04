@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "inviolable",
+    "results": [
+        {
+            "id": "inviolable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "inviolability",
+                            "text": "inviolability"
+                        },
+                        {
+                            "id": "inviolably",
+                            "text": "inviolably"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from French, or from Latin inviolabilis, from in- ‘not’ + violabilis ‘able to be violated’ (from the verb violare)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "inviolable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈvīələbəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/inviolable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈvaɪələbəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "never to be broken, infringed, or dishonored"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an inviolable rule of chastity"
+                                        },
+                                        {
+                                            "text": "the Polish–German border was inviolable"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0520090.007",
+                                    "shortDefinitions": [
+                                        "never to be broken or dishonoured"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "inalienable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "absolute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "untouchable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unalterable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unchallengeable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unbreakable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impregnable"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "inviolable",
+                                            "sense_id": "t_en_gb0008186.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "inviolable"
+                }
+            ],
+            "type": "headword",
+            "word": "inviolable"
+        }
+    ]
+}

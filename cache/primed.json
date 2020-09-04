@@ -1,0 +1,377 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "primed",
+    "results": [
+        {
+            "id": "prime",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "primeness",
+                            "text": "primeness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English prīm (in prime (sense 2 of the noun)), from Latin prima (hora) ‘first (hour)’, reinforced in Middle English by Old French prime; the adjective dates from late Middle English, via Old French from Latin primus ‘first’"
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "prime"
+                                },
+                                {
+                                    "inflectedForm": "primed"
+                                },
+                                {
+                                    "inflectedForm": "primes"
+                                },
+                                {
+                                    "inflectedForm": "priming"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "prime"
+                }
+            ],
+            "type": "headword",
+            "word": "prime"
+        },
+        {
+            "id": "prime",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century (in the sense ‘fill, load’): origin uncertain; probably based on Latin primus ‘first’, since the sense expressed is a ‘first’ operation prior to something else"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "prime"
+                                },
+                                {
+                                    "inflectedForm": "primed"
+                                },
+                                {
+                                    "inflectedForm": "primes"
+                                },
+                                {
+                                    "inflectedForm": "priming"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "prīm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/prime_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "praɪm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (something) ready for use or action."
+                                    ],
+                                    "id": "m_en_gbus0815170.006",
+                                    "shortDefinitions": [
+                                        "make ready for use or action"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "prepare (a firearm or explosive device) for firing or detonation"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "weapons",
+                                                    "text": "Weapons"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he grabbed a gun from a nearby wall and primed it"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0815170.012",
+                                            "shortDefinitions": [
+                                                "prepare firearm for firing"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "prepare"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "load"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "set up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ready"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "make ready"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "get ready"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "equip"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "gear up"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "prime",
+                                                    "sense_id": "t_en_gb0011573.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "cover (a surface) with a preparatory coat of paint in order to prevent the absorption of subsequent layers of paint"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "building",
+                                                    "text": "Building"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "prime the new timber before painting the sill"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0815170.013",
+                                            "shortDefinitions": [
+                                                "cover surface with primer"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "pour or spray liquid into (a pump) before starting in order to seal the moving parts and facilitate its operation"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "mechanics",
+                                                    "text": "Mechanics"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "ensure a sufficient head of water is available to prime the pump"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0815170.014",
+                                            "shortDefinitions": [
+                                                "pour liquid into pump"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "inject extra fuel into (the cylinder or carburetor of an internal combustion engine) in order to facilitate starting."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "motoring",
+                                                    "text": "Motoring"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0815170.015",
+                                            "shortDefinitions": [
+                                                "inject extra fuel into engine"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a steam engine or its boiler) mix water with the steam being passed into the cylinder."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "mechanics",
+                                                    "text": "Mechanics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0815170.016",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "mix water with steam being passed into cylinder"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "serve as a starting material for (a polymerization process)"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "biochemistry",
+                                                    "text": "Biochemistry"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "biochemistry",
+                                                    "text": "Biochemistry"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the oligonucleotide might prime DNA polymerase activity at multiple sites"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0815170.018",
+                                            "shortDefinitions": [
+                                                "serve as starting material for polymerization"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "prepare (someone) for a situation or task, typically by supplying them with relevant information"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with object and infinitive",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "the sentries had been primed to admit him without challenge"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0815170.020",
+                                    "shortDefinitions": [
+                                        "prepare for situation"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "brief"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give information to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fill in"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prepare"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "supply with facts"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put in the picture"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inform"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "advise"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "notify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tell"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "instruct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "coach"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drill"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "prime",
+                                            "sense_id": "t_en_gb0011573.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "prime_the_pump",
+                            "text": "prime the pump"
+                        }
+                    ],
+                    "text": "prime"
+                }
+            ],
+            "type": "headword",
+            "word": "prime"
+        }
+    ]
+}

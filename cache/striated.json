@@ -1,0 +1,308 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "striated",
+    "results": [
+        {
+            "id": "striated",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "striated"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈstrīˌādid"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/striated_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈstraɪˌeɪdɪd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "marked with long, thin parallel streaks"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an expensively outfitted kitchen with striated wood cabinets"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1002610.003",
+                                    "shortDefinitions": [
+                                        "striped or streaked"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "marked with striae"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a striated rock surface"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1002610.005",
+                                            "registers": [
+                                                {
+                                                    "id": "technical",
+                                                    "text": "Technical"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "marked with striae"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "ridged"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fluted"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "channelled"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "furrowed"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "grooved"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "crimped"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "folded"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "crinkled"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "crinkly"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "puckered"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "creased"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "wrinkled"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "wrinkly"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "crumpled"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rumpled"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "corrugated",
+                                                    "sense_id": "t_en_gb0003074.001"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "striped"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "barred"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lined"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "banded"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "stripy",
+                                            "sense_id": "t_en_gb0014237.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "striated"
+                }
+            ],
+            "type": "headword",
+            "word": "striated"
+        },
+        {
+            "id": "striate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "striate"
+                                },
+                                {
+                                    "inflectedForm": "striated"
+                                },
+                                {
+                                    "inflectedForm": "striates"
+                                },
+                                {
+                                    "inflectedForm": "striating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈstrīˌāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/striate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈstraɪˌeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "mark with striae"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "anatomy",
+                                            "text": "Anatomy"
+                                        },
+                                        {
+                                            "id": "zoology",
+                                            "text": "Zoology"
+                                        },
+                                        {
+                                            "id": "botany",
+                                            "text": "Botany"
+                                        },
+                                        {
+                                            "id": "geology",
+                                            "text": "Geology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "you can emboss, pierce, or striate wood"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1002600.010",
+                                    "registers": [
+                                        {
+                                            "id": "technical",
+                                            "text": "Technical"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "mark with striae"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "streak"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stripe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "striate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "band"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "line"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "lace",
+                                            "sense_id": "t_en_gb0008491.006"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "striate"
+                }
+            ],
+            "type": "headword",
+            "word": "striate"
+        }
+    ]
+}

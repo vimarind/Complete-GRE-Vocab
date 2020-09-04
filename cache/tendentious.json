@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "tendentious",
+    "results": [
+        {
+            "id": "tendentious",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "tendentiously",
+                            "text": "tendentiously"
+                        },
+                        {
+                            "id": "tendentiousness",
+                            "text": "tendentiousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 20th century: suggested by German tendenziös"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "tendentious"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "tenˈdenSHəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/tendentious_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "tɛnˈdɛnʃəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "expressing or intending to promote a particular cause or point of view, especially a controversial one"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a tendentious reading of history"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1039060.005",
+                                    "shortDefinitions": [
+                                        "expressing particular cause or point of view"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "contentious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disputed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contended"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "at issue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "moot"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disputable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "debatable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "arguable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vexed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "open to discussion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "open to question"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "under discussion"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "controversial",
+                                            "sense_id": "t_en_gb0002977.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "tendentious"
+                }
+            ],
+            "type": "headword",
+            "word": "tendentious"
+        }
+    ]
+}

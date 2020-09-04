@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "curtail",
+    "results": [
+        {
+            "id": "curtail",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from obsolete curtal ‘horse with a docked tail’, from French courtault, from court ‘short’, from Latin curtus. The change in the ending was due to association with tail and perhaps also with French tailler ‘to cut’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "curtail"
+                                },
+                                {
+                                    "inflectedForm": "curtailed"
+                                },
+                                {
+                                    "inflectedForm": "curtailing"
+                                },
+                                {
+                                    "inflectedForm": "curtails"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kərˈtāl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/curtail_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kərˈteɪl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "reduce in extent or quantity; impose a restriction on"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "civil liberties were further curtailed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0242870.005",
+                                    "shortDefinitions": [
+                                        "reduce in extent or quantity"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "deprive someone of (something)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I that am curtailed of this fair proportion"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0242870.015",
+                                            "notes": [
+                                                {
+                                                    "text": "\"curtail someone of\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "deprive someone of"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "reduce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cut"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cut down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cut back"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "decrease"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lessen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "diminish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "slim down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tighten up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "retrench"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pare down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trim"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dock"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lop"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shrink"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "curtail",
+                                            "sense_id": "t_en_gb0003339.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "curtail"
+                }
+            ],
+            "type": "headword",
+            "word": "curtail"
+        }
+    ]
+}

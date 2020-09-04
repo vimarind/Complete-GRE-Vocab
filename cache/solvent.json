@@ -1,0 +1,265 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "solvent",
+    "results": [
+        {
+            "id": "solvent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin solvent- ‘loosening, unfastening, paying’, from the verb solvere"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "solvent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsälvənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/solvent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsɑlvənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having assets in excess of liabilities; able to pay one's debts"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "commerce",
+                                            "text": "Commerce"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "interest rate rises have very severe effects on normally solvent companies"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0967410.006",
+                                    "shortDefinitions": [
+                                        "having assets in excess of liabilities"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "financially sound"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "able to pay one's debts"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "debt-free"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "not in debt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "out of debt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in the black"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in funds"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in credit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "creditworthy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of good financial standing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "solid"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "secure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "profit-making"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "solvent",
+                                            "sense_id": "t_en_gb0013785.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "able to dissolve other substances"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "chemistry",
+                                            "text": "Chemistry"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "osmotic, chemical, or solvent action"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0967410.009",
+                                    "notes": [
+                                        {
+                                            "text": "attributive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "able to dissolve other substances"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "solvent"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "solvent"
+                                },
+                                {
+                                    "inflectedForm": "solvents"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsälvənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/solvent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsɑlvənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the liquid in which a solute is dissolved to form a solution."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "chemistry",
+                                            "text": "Chemistry"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0967410.011",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "liquid",
+                                            "text": "Liquid"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "liquid in which solute is dissolved to form solution"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a liquid, typically one other than water, used for dissolving other substances."
+                                            ],
+                                            "id": "m_en_gbus0967410.014",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "liquid",
+                                                    "text": "Liquid"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "liquid used for dissolving other substances"
+                                            ]
+                                        },
+                                        {
+                                            "constructions": [
+                                                {
+                                                    "text": "solvent of"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "something that acts to weaken or dispel a particular attitude or situation"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an unrivaled solvent of social prejudices"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0967410.015",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "unspecified_thing",
+                                                    "text": "Unspecified_Thing"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "something that acts to weaken or dispel particular attitude or situation"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "solvent"
+                }
+            ],
+            "type": "headword",
+            "word": "solvent"
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "frugal",
+    "results": [
+        {
+            "id": "frugal",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "frugally",
+                            "text": "frugally"
+                        },
+                        {
+                            "id": "frugalness",
+                            "text": "frugalness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin frugalis, from frugi ‘economical, thrifty’, from frux, frug- ‘fruit’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "frugal"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfro͞oɡəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/frugal_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfruɡəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "sparing or economical with regard to money or food"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he led a remarkably frugal existence"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0392660.005",
+                                    "shortDefinitions": [
+                                        "sparing or economical as regards money or food"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "simple and plain and costing little"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a frugal meal"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0392660.007",
+                                            "shortDefinitions": [
+                                                "simple and plain and costing little"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "meagre"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "scanty"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "scant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "paltry"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "skimpy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "insufficient"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "frugal",
+                                                    "sense_id": "t_en_gb0006115.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "thrifty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sparing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "economical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "saving"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "frugal",
+                                            "sense_id": "t_en_gb0006115.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "frugal"
+                }
+            ],
+            "type": "headword",
+            "word": "frugal"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "ingrate",
+    "results": [
+        {
+            "id": "ingrate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as an adjective): from Latin ingratus, from in- ‘not’ + gratus ‘grateful’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "ingrate"
+                                },
+                                {
+                                    "inflectedForm": "ingrates"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈinɡrāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/ingrate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɪnɡreɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an ungrateful person."
+                                    ],
+                                    "id": "m_en_gbus0509210.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "disliked_person",
+                                            "text": "Disliked_Person"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "ungrateful person"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "ingrate"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "ingrate"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈinɡrāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/ingrate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɪnɡreɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "ungrateful."
+                                    ],
+                                    "id": "m_en_gbus0509210.014",
+                                    "shortDefinitions": [
+                                        "ungrateful"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "ingrate"
+                }
+            ],
+            "type": "headword",
+            "word": "ingrate"
+        }
+    ]
+}

@@ -1,0 +1,422 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "sparing",
+    "results": [
+        {
+            "id": "sparing",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "sparingness",
+                            "text": "sparingness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sparing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsperiNG"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sparing_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈspɛrɪŋ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "moderate; economical"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "physicians advised sparing use of the ointment"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0973950.005",
+                                    "shortDefinitions": [
+                                        "moderate"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "thrifty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "economical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "frugal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "canny"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "careful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prudent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cautious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abstemious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "saving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "energy-efficient"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "energy-saving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fuel-efficient"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fuel-saving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scrimping"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "parsimonious"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sparing",
+                                            "sense_id": "t_en_gb0013849.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sparing"
+                }
+            ],
+            "type": "headword",
+            "word": "sparing"
+        },
+        {
+            "id": "spare",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "sparely",
+                            "text": "sparely"
+                        },
+                        {
+                            "id": "spareness",
+                            "text": "spareness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English spær ‘not plentiful, meager’, sparian ‘refrain from injuring’, ‘refrain from using’, of Germanic origin; related to Dutch and German sparen ‘to spare’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "spare"
+                                },
+                                {
+                                    "inflectedForm": "spared"
+                                },
+                                {
+                                    "inflectedForm": "spares"
+                                },
+                                {
+                                    "inflectedForm": "sparing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "sper"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/spare_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "spɛr"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "give (something of which one has enough) to (someone); afford to give to"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she asked if I could spare her a dollar or two"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0973870.030",
+                                    "notes": [
+                                        {
+                                            "text": "with two objects",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "give to"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "make free or available"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I'm sure you can spare me a moment"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0973870.036",
+                                            "shortDefinitions": [
+                                                "make free or available"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "afford"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "do without"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "manage without"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "get along without"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dispense with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "part with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "let someone have"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "provide"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "spare",
+                                            "sense_id": "t_en_gb0013848.006"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "refrain from killing, injuring, or distressing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there was no way the men would spare her"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0973870.038",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "refrain from killing or distressing"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "refrain from inflicting (something) on (someone)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the country had until now been spared the violence occurring elsewhere"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0973870.039",
+                                            "notes": [
+                                                {
+                                                    "text": "with two objects",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "refrain from inflicting something unpleasant on"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "try to ensure or satisfy one's own comfort or needs"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "in her concern to help others, she has never spared herself"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0973870.040",
+                                            "notes": [
+                                                {
+                                                    "text": "\"spare oneself\"",
+                                                    "type": "wordFormNote"
+                                                },
+                                                {
+                                                    "text": "with negative",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "try to ensure or satisfy one's own comfort or needs"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "not harm"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "leave uninjured"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "leave unhurt"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "spare",
+                                            "sense_id": "t_en_gb0013848.007"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "be frugal"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "but some will spend, and some will spare"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0973870.042",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "registers": [
+                                        {
+                                            "id": "archaic",
+                                            "text": "Archaic"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "be frugal"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "go_spare",
+                            "text": "go spare"
+                        },
+                        {
+                            "id": "spare_a_thought_for",
+                            "text": "spare a thought for"
+                        },
+                        {
+                            "id": "spare_no_effort",
+                            "text": "spare no effort"
+                        },
+                        {
+                            "id": "spare_no_expense",
+                            "text": "spare no expense"
+                        },
+                        {
+                            "id": "to_spare",
+                            "text": "to spare"
+                        }
+                    ],
+                    "text": "spare"
+                }
+            ],
+            "type": "headword",
+            "word": "spare"
+        }
+    ]
+}

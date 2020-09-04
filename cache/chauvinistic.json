@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "chauvinistic",
+    "results": [
+        {
+            "id": "chauvinistic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "chauvinistically",
+                            "text": "chauvinistically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "chauvinistic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌSHōvəˈnistik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/chauvinistic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌʃoʊvəˈnɪstɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "feeling or displaying aggressive or exaggerated patriotism."
+                                    ],
+                                    "id": "m_en_gbus0171730.005",
+                                    "shortDefinitions": [
+                                        "feeling or displaying aggressive or exaggerated patriotism"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "displaying excessive or prejudiced support for one's own cause, group, or sex."
+                                            ],
+                                            "id": "m_en_gbus0171730.007",
+                                            "shortDefinitions": [
+                                                "displaying excessive or prejudiced support for their own cause or sex"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "chauvinistic"
+                }
+            ],
+            "type": "headword",
+            "word": "chauvinistic"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "avaricious",
+    "results": [
+        {
+            "id": "avaricious",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "avariciously",
+                            "text": "avariciously"
+                        },
+                        {
+                            "id": "avariciousness",
+                            "text": "avariciousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French avaricieux, based on Latin avarus ‘greedy’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "avaricious"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌavəˈriSHəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/avaricious_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌævəˈrɪʃəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having or showing an extreme greed for wealth or material gain"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a corrupt and avaricious government"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0060640.005",
+                                    "shortDefinitions": [
+                                        "having or showing extreme greed for wealth or material gain"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "grasping"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "acquisitive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "covetous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "greedy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rapacious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mercenary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "materialistic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "miserly"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "avaricious",
+                                            "sense_id": "t_en_gb0001017.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "avaricious"
+                }
+            ],
+            "type": "headword",
+            "word": "avaricious"
+        }
+    ]
+}

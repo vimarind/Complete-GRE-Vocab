@@ -1,0 +1,271 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "ostracized",
+    "results": [
+        {
+            "id": "ostracize",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Greek ostrakizein, from ostrakon ‘shell or potsherd’ (on which names were written in voting to banish unpopular citizens)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "ostracise"
+                                },
+                                {
+                                    "inflectedForm": "ostracised"
+                                },
+                                {
+                                    "inflectedForm": "ostracises"
+                                },
+                                {
+                                    "inflectedForm": "ostracising"
+                                },
+                                {
+                                    "inflectedForm": "ostracize"
+                                },
+                                {
+                                    "inflectedForm": "ostracized"
+                                },
+                                {
+                                    "inflectedForm": "ostracizes"
+                                },
+                                {
+                                    "inflectedForm": "ostracizing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈästrəˌsīz"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/ostracize_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɑstrəˌsaɪz"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "exclude (someone) from a society or group"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a group of people who have been ridiculed, ostracized, and persecuted for centuries"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0729650.021",
+                                    "shortDefinitions": [
+                                        "exclude someone from society or group"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(in ancient Greece) banish (an unpopular or too powerful citizen) from a city for five or ten years by popular vote."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "greek_history",
+                                                    "text": "Greek_History"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0729650.032",
+                                            "shortDefinitions": [
+                                                "(in ancient Greece) banish unpopular or too powerful citizen from city for five"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "banish"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "exile"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "deport"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "evict"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "expatriate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dismiss"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "displace"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "expel",
+                                                    "sense_id": "t_en_gb0005273.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "exclude"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shun"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spurn"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cold-shoulder"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give someone the cold shoulder"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reject"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "repudiate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "boycott"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blackball"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blacklist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cast off"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cast out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shut out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "avoid"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ignore"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "snub"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cut dead"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "keep at arm's length"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "leave out in the cold"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ban"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "debar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "banish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exile"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expel"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "ostracize",
+                                            "sense_id": "t_en_gb0010412.001"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "ostracise"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "ostracize"
+                }
+            ],
+            "type": "headword",
+            "word": "ostracize"
+        }
+    ]
+}

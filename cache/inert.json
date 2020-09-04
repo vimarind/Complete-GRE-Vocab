@@ -1,0 +1,216 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "inert",
+    "results": [
+        {
+            "id": "inert",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "inertly",
+                            "text": "inertly"
+                        },
+                        {
+                            "id": "inertness",
+                            "text": "inertness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin iners, inert- ‘unskilled, inactive’, from in- (expressing negation) + ars, art- ‘skill, art’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "inert"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "iˈnərt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/inert_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪˈnərt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "lacking the ability or strength to move"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she lay inert in her bed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0506490.012",
+                                    "shortDefinitions": [
+                                        "lacking ability or strength to move"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "lacking vigor"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an inert political system"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0506490.014",
+                                            "shortDefinitions": [
+                                                "lacking vigor"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "lethargic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "enervated"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lackadaisical"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "spiritless"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unenergetic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lifeless"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "vigourless"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lacking energy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "limp"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "effete"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "listless",
+                                                    "sense_id": "t_en_gb0008824.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "chemically inactive."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "chemistry",
+                                                    "text": "Chemistry"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0506490.015",
+                                            "shortDefinitions": [
+                                                "chemically inactive"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "chemically inactive"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "inert",
+                                                    "sense_id": "t_en_gb0007760.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "unmoving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "motionless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "immobile"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "still"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stock-still"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stationary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "static"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dormant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sleeping"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "inert",
+                                            "sense_id": "t_en_gb0007760.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "inert"
+                }
+            ],
+            "type": "headword",
+            "word": "inert"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "quizzical",
+    "results": [
+        {
+            "id": "quizzical",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "quizzicality",
+                            "text": "quizzicality"
+                        },
+                        {
+                            "id": "quizzically",
+                            "text": "quizzically"
+                        },
+                        {
+                            "id": "quizzicalness",
+                            "text": "quizzicalness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "quizzical"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈkwizək(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/quizzical_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈkwɪzək(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person's expression or behavior) indicating mild or amused puzzlement"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she gave me a quizzical look"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0838880.005",
+                                    "shortDefinitions": [
+                                        "indicating mild or amused puzzlement"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "causing mild amusement because of its oddness or strangeness"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "one of the most quizzical movies ever made"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0838880.007",
+                                            "registers": [
+                                                {
+                                                    "id": "rare",
+                                                    "text": "Rare"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "amusingly odd or strange"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "puzzled"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perplexed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "baffled"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "questioning"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inquiring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mystified"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "curious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sceptical"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "quizzical",
+                                            "sense_id": "t_en_gb0011995.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "quizzical"
+                }
+            ],
+            "type": "headword",
+            "word": "quizzical"
+        }
+    ]
+}

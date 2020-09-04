@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "grandiloquence",
+    "results": [
+        {
+            "id": "grandiloquence",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivativeOf": [
+                        {
+                            "id": "grandiloquent",
+                            "text": "grandiloquent"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "grandiloquence"
+                                },
+                                {
+                                    "inflectedForm": "grandiloquences"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ɡranˈdiləkwəns"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/grandiloquence_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɡrænˈdɪləkwəns"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "id": "m_en_gbus0427470.012"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "grandiloquence"
+                }
+            ],
+            "type": "headword",
+            "word": "grandiloquence"
+        }
+    ]
+}

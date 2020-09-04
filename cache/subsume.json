@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "subsume",
+    "results": [
+        {
+            "id": "subsume",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "subsumable",
+                            "text": "subsumable"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (in the sense ‘subjoin, add’): from medieval Latin subsumere, from sub- ‘from below’ + sumere ‘take’. The current sense dates from the early 19th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "subsume"
+                                },
+                                {
+                                    "inflectedForm": "subsumed"
+                                },
+                                {
+                                    "inflectedForm": "subsumes"
+                                },
+                                {
+                                    "inflectedForm": "subsuming"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "səbˈso͞om"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/subsume_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "səbˈsum"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "include or absorb (something) in something else"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "most of these phenomena can be subsumed under two broad categories"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1008680.005",
+                                    "shortDefinitions": [
+                                        "include or absorb something in something else"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "include"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "encompass"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "embrace"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "comprise"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cover"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "incorporate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "embody"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "comprehend"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "subsume"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "envelop"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "take_something_in",
+                                            "sense_id": "t_en_gb0014593.053"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "subsume"
+                }
+            ],
+            "type": "headword",
+            "word": "subsume"
+        }
+    ]
+}

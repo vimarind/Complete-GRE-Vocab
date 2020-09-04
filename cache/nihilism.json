@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "nihilism",
+    "results": [
+        {
+            "id": "nihilism",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 19th century: from Latin nihil ‘nothing’+ -ism"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "nihilism"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈnīəˌlizəm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/nihilism_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈnaɪəˌlɪzəm"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈnēəˌlizəm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/nihilism_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈniəˌlɪzəm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the rejection of all religious and moral principles, in the belief that life is meaningless."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "religion",
+                                            "text": "Religion"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0691940.007",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "religious_doctrine",
+                                            "text": "Religious_Doctrine"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "rejection of all religious and moral principles"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "extreme skepticism maintaining that nothing in the world has a real existence."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "philosophy",
+                                                    "text": "Philosophy"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "philosophy",
+                                                    "text": "Philosophy"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0691940.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "philosophical_doctrine",
+                                                    "text": "Philosophical_Doctrine"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "belief that nothing in world has real existence"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the doctrine of an extreme Russian revolutionary party c.1900 which found nothing to approve of in the established social order."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "politics",
+                                                    "text": "Politics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0691940.010",
+                                            "registers": [
+                                                {
+                                                    "id": "historical",
+                                                    "text": "Historical"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "political_doctrine",
+                                                    "text": "Political_Doctrine"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "doctrine of extreme Russian revolutionary party"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "negativity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cynicism"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pessimism"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "nihilism",
+                                            "sense_id": "t_en_gb0010001.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "nihilism"
+                }
+            ],
+            "type": "headword",
+            "word": "nihilism"
+        }
+    ]
+}

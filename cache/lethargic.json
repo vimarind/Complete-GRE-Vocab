@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "lethargic",
+    "results": [
+        {
+            "id": "lethargic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "lethargically",
+                            "text": "lethargically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via Latin from Greek lēthargikos, from lēthargos ‘forgetful’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "lethargic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ləˈTHärjik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/lethargic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ləˈθɑrdʒɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "affected by lethargy; sluggish and apathetic"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I felt tired and a little lethargic"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0576780.005",
+                                    "shortDefinitions": [
+                                        "affected by lethargy"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "sluggish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inert"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inactive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "slow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "torpid"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lifeless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dull"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "lethargic",
+                                            "sense_id": "t_en_gb0008706.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "lethargic"
+                }
+            ],
+            "type": "headword",
+            "word": "lethargic"
+        }
+    ]
+}

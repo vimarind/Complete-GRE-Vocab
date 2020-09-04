@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "inanity",
+    "results": [
+        {
+            "id": "inanity",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "inanities"
+                                },
+                                {
+                                    "inflectedForm": "inanities"
+                                },
+                                {
+                                    "inflectedForm": "inanity"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "iˈnanədē"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪˈnænədi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a nonsensical remark or action"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they utter whatever inanities will get them elected"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0500480.004",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "statement",
+                                            "text": "Statement"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "nonsensical remark or action"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "lack of sense or meaning; silliness"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he commented on the breathtaking inanity of the board's decision"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0500480.007",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "attribute",
+                                                    "text": "Attribute"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "lack of sense or meaning"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "inanity"
+                }
+            ],
+            "type": "headword",
+            "word": "inanity"
+        }
+    ]
+}

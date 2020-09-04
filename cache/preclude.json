@@ -1,0 +1,185 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "preclude",
+    "results": [
+        {
+            "id": "preclude",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the sense ‘bar a route or passage’): from Latin praecludere, from prae ‘before’ + claudere ‘to shut’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "preclude"
+                                },
+                                {
+                                    "inflectedForm": "precluded"
+                                },
+                                {
+                                    "inflectedForm": "precludes"
+                                },
+                                {
+                                    "inflectedForm": "precluding"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "prəˈklo͞od"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/preclude_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "prəˈklud"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "prevent from happening; make impossible"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the secret nature of his work precluded official recognition"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0808940.005",
+                                    "shortDefinitions": [
+                                        "prevent from happening"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a situation or condition) prevent someone from doing something"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his difficulties preclude him from leading a normal life"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0808940.011",
+                                            "notes": [
+                                                {
+                                                    "text": "\"preclude someone from\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "prevent someone from doing something"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "prevent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make it impossible for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make it impracticable for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rule out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put a stop to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stop"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prohibit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "debar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "interdict"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "block"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hinder"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impede"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inhibit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exclude"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disqualify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forbid"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "preclude",
+                                            "sense_id": "t_en_gb0011427.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "preclude"
+                }
+            ],
+            "type": "headword",
+            "word": "preclude"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "divisive",
+    "results": [
+        {
+            "id": "divisive",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "divisively",
+                            "text": "divisively"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (as a noun denoting something that divides or separates): from late Latin divisivus, from Latin dividere (see divide)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "divisive"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈvīsiv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/divisive_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈvaɪsɪv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "tending to cause disagreement or hostility between people"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the highly divisive issue of abortion"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0285970.005",
+                                    "shortDefinitions": [
+                                        "tending to cause disagreement or hostility between people"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "alienating"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "estranging"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "isolating"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "schismatic"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "divisive",
+                                            "sense_id": "t_en_gb0004321.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "divisive"
+                }
+            ],
+            "type": "headword",
+            "word": "divisive"
+        }
+    ]
+}

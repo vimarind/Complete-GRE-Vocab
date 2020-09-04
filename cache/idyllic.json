@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "idyllic",
+    "results": [
+        {
+            "id": "idyllic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "idyllically",
+                            "text": "idyllically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "idyllic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "īˈdilik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/idyllic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "aɪˈdɪlɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(especially of a time or place) like an idyll; extremely happy, peaceful, or picturesque"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an attractive hotel in an idyllic setting"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0494250.005",
+                                    "shortDefinitions": [
+                                        "like idyll"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "perfect"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ideal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "idealized"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wonderful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blissful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "halcyon"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "happy"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "idyllic",
+                                            "sense_id": "t_en_gb0007305.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "idyllic"
+                }
+            ],
+            "type": "headword",
+            "word": "idyllic"
+        }
+    ]
+}

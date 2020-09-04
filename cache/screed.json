@@ -1,0 +1,198 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "screed",
+    "results": [
+        {
+            "id": "screed",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: probably a variant of the noun shred. The early sense was ‘fragment cut from a main piece’, then ‘torn strip’, whence (via the notion of a long roll or list) screed (sense 1 of the noun)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "screed"
+                                },
+                                {
+                                    "inflectedForm": "screeds"
+                                },
+                                {
+                                    "inflectedForm": "screed"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "skrēd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/screed_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "skrid"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a long speech or piece of writing, typically one regarded as tedious"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "her criticism appeared in the form of screeds in a local film magazine"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0911050.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "article",
+                                            "text": "Article"
+                                        },
+                                        {
+                                            "id": "address",
+                                            "text": "Address"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "long speech or piece of writing"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a leveled layer of material (e.g., cement) applied to a floor or other surface."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "building",
+                                            "text": "Building"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0911050.010",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "building_material",
+                                            "text": "Building_Material"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "levelled layer of material"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a strip of plaster or other material placed on a surface as a guide to thickness."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "building",
+                                                    "text": "Building"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0911050.012",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "building_material",
+                                                    "text": "Building_Material"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "strip of plaster or other material placed on surface as guide to thickness"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "screed"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "screed"
+                                },
+                                {
+                                    "inflectedForm": "screeded"
+                                },
+                                {
+                                    "inflectedForm": "screeding"
+                                },
+                                {
+                                    "inflectedForm": "screeds"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "skrēd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/screed_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "skrid"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "level (a floor or layer of concrete) with a straight edge using a back and forth motion while moving across the surface."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "building",
+                                            "text": "Building"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0911050.014",
+                                    "shortDefinitions": [
+                                        "level floor or layer of concrete with straight edge using back and forth motion while moving across surface"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "screed"
+                }
+            ],
+            "type": "headword",
+            "word": "screed"
+        }
+    ]
+}

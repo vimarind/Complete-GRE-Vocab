@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "venal",
+    "results": [
+        {
+            "id": "venal",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "venality",
+                            "text": "venality"
+                        },
+                        {
+                            "id": "venally",
+                            "text": "venally"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century (in the sense ‘available for purchase’, referring to merchandise or a favor): from Latin venalis, from venum ‘thing for sale’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "venal"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "Venal and venial are sometimes confused. Venal means 'corrupt, able to be bribed, or involving bribery': local customs officials are notoriously venal, and smuggling thrives. Venial is used to describe a sin or offense that is 'pardonable, excusable, not mortal': in our high school, smoking cigarettes was a venial sin",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈvēnl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/venal_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈvinl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "showing or motivated by susceptibility to bribery"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "their generosity had been at least partly venal"
+                                        },
+                                        {
+                                            "text": "why should these venal politicians care how they are rated?"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1123370.005",
+                                    "shortDefinitions": [
+                                        "showing or motivated by susceptibility to bribery"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "corrupt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "corruptible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bribable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "open to bribery"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "purchasable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "buyable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grafting"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "venal",
+                                            "sense_id": "t_en_gb0015879.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "venal"
+                }
+            ],
+            "type": "headword",
+            "word": "venal"
+        }
+    ]
+}

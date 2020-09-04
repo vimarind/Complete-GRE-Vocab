@@ -1,0 +1,256 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "zenith",
+    "results": [
+        {
+            "id": "zenith",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "zenithal",
+                            "text": "zenithal"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French or medieval Latin cenit, based on Arabic samt (ar-ra's) ‘path (over the head)’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "zenith"
+                                },
+                                {
+                                    "inflectedForm": "zeniths"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "in singular",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈzēnəTH"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/zenith_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈzinəθ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the time at which something is most powerful or successful"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "under Justinian, the Byzantine Empire reached its zenith of influence"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1179300.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "point_in_time",
+                                            "text": "Point_In_Time"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "time at which something is most powerful or successful"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "highest point"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "high point"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crowning point"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "height"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "top"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "acme"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "peak"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pinnacle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "apex"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "apogee"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vertex"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tip"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crown"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "summit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "climax"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "culmination"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "maximum"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "optimum"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prime"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "meridian"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "flower"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "zenith",
+                                            "sense_id": "t_en_gb0016482.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "The opposite of nadir"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "nadir",
+                                            "text": "nadir",
+                                            "type": "opposite of"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "the point in the sky or celestial sphere directly above an observer."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "astronomy",
+                                            "text": "Astronomy"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "astronomy",
+                                            "text": "Astronomy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1179300.011",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "astronomical_point",
+                                            "text": "Astronomical_Point"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "point in sky or celestial sphere directly above observer"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the highest point reached by a celestial or other object"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "astronomy",
+                                                    "text": "Astronomy"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the sun was well past the zenith"
+                                                },
+                                                {
+                                                    "text": "the missile reached its zenith and fell"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1179300.012",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "astronomical_point",
+                                                    "text": "Astronomical_Point"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "highest point reached by given celestial object"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "zenith"
+                }
+            ],
+            "type": "headword",
+            "word": "zenith"
+        }
+    ]
+}

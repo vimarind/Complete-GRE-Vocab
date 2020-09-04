@@ -1,0 +1,254 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "stipulate",
+    "results": [
+        {
+            "id": "stipulate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "stipulator",
+                            "text": "stipulator"
+                        },
+                        {
+                            "id": "stipulatory",
+                            "text": "stipulatory"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin stipulat- ‘demanded as a formal promise’, from the verb stipulari"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "stipulate"
+                                },
+                                {
+                                    "inflectedForm": "stipulated"
+                                },
+                                {
+                                    "inflectedForm": "stipulates"
+                                },
+                                {
+                                    "inflectedForm": "stipulating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈstēpyəˌlāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/stipulate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈstipjəˌleɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "demand or specify (a requirement), typically as part of a bargain or agreement"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he stipulated certain conditions before their marriage"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0996040.005",
+                                    "shortDefinitions": [
+                                        "demand or specify requirement"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "specify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "set down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "set out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lay down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "set forth"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "state clearly"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "stipulate",
+                                            "sense_id": "t_en_gb0014136.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "stipulate"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "stipulator",
+                            "text": "stipulator"
+                        },
+                        {
+                            "id": "stipulatory",
+                            "text": "stipulatory"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "stipulate"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "stipulate"
+                }
+            ],
+            "type": "headword",
+            "word": "stipulate"
+        },
+        {
+            "id": "stipulate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 18th century: from Latin stipula (see stipule) + -ate"
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "stipulate"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈstēpyəˌlāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/stipulate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈstipjəˌleɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a leaf or plant) having stipules."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "botany",
+                                            "text": "Botany"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "botany",
+                                            "text": "Botany"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0996050.005",
+                                    "shortDefinitions": [
+                                        "(of leaf or plant) having stipules"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "stipulate"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "stipulate"
+                                },
+                                {
+                                    "inflectedForm": "stipulated"
+                                },
+                                {
+                                    "inflectedForm": "stipulates"
+                                },
+                                {
+                                    "inflectedForm": "stipulating"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "stipulate"
+                }
+            ],
+            "type": "headword",
+            "word": "stipulate"
+        }
+    ]
+}

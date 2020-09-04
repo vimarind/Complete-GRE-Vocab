@@ -1,0 +1,322 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "dither",
+    "results": [
+        {
+            "id": "dither",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "ditherer",
+                            "text": "ditherer"
+                        },
+                        {
+                            "id": "dithery",
+                            "text": "dithery"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century (in the dialect sense ‘tremble, quiver’): variant of dialect didder; related to dodder"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "dither"
+                                },
+                                {
+                                    "inflectedForm": "dithered"
+                                },
+                                {
+                                    "inflectedForm": "dithering"
+                                },
+                                {
+                                    "inflectedForm": "dithers"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈdiT͟Hər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/dither_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈdɪðər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "be indecisive"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was dithering about the election date"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0285020.006",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "be indecisive"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "hesitate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "falter"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "waver"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "teeter"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vacillate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "oscillate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fluctuate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "change one's mind"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be in two minds"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be ambivalent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be indecisive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be unsure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be undecided"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "dither",
+                                            "sense_id": "t_en_gb0004298.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "add white noise to (a digital recording) to reduce distortion of low-amplitude signals."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "audio",
+                                            "text": "Audio"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0285020.013",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "add white noise to digital recording"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "display or print (a color image) in such a way that there appears to be more colors in it than are really available"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "computing",
+                                                    "text": "Computing"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the easiest way to remove hot pixels is to dither the images"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0285020.014",
+                                            "shortDefinitions": [
+                                                "display or print image without sharp edges"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "dither"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "ditherer",
+                            "text": "ditherer"
+                        },
+                        {
+                            "id": "dithery",
+                            "text": "dithery"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "dither"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈdiT͟Hər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/dither_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈdɪðər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "indecisive behavior"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "after months of dither they had still not agreed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0285020.017",
+                                    "registers": [
+                                        {
+                                            "id": "informal",
+                                            "text": "Informal"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "behaviour",
+                                            "text": "Behaviour"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "indecisive behaviour"
+                                    ]
+                                },
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "all of a dither"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a state of agitation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "buses are jammed and dirty and everyone is in a dither over taxis"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0285020.020",
+                                    "notes": [
+                                        {
+                                            "text": "in singular",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "distress",
+                                            "text": "Distress"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "state of agitation"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "panic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "state of fear"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fluster"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "funk",
+                                            "sense_id": "t_en_gb0006162.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "dither"
+                }
+            ],
+            "type": "headword",
+            "word": "dither"
+        }
+    ]
+}

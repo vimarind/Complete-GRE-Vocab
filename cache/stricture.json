@@ -1,0 +1,265 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "stricture",
+    "results": [
+        {
+            "id": "stricture",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "strictured",
+                            "text": "strictured"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in stricture (sense 3)): from Latin strictura, from stringere ‘draw tight’ (see strict). Another sense of the Latin verb, ‘touch lightly’, gave rise to stricture (sense 2) via an earlier meaning ‘incidental remark’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "stricture"
+                                },
+                                {
+                                    "inflectedForm": "strictures"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈstrik(t)SHər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/stricture_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈstrɪk(t)ʃər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a restriction on a person or activity"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "religious strictures on everyday life"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1002720.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "negative_condition",
+                                            "text": "Negative_Condition"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "restriction on person or activity"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "constraint"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "restriction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "limitation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "control"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "restraint"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "straitjacket"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "curb"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "check"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impediment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "barrier"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "obstacle"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "stricture",
+                                            "sense_id": "t_en_gb0014223.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a sternly critical or censorious remark or instruction"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his strictures on their lack of civic virtue"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1002720.010",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "criticism",
+                                            "text": "Criticism"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "sternly critical or censorious remark or instruction"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "criticism"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "censure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blame"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "condemnation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reproof"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reproach"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "admonishment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disparagement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "flak"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "stricture",
+                                            "sense_id": "t_en_gb0014223.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "abnormal narrowing of a canal or duct in the body"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a colonic stricture"
+                                        },
+                                        {
+                                            "text": "jaundice caused by bile duct stricture"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1002720.012",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "physiological_state",
+                                            "text": "Physiological_State"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "abnormal narrowing of canal or duct in body"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "narrowing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "constriction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "strangulation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tightness"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "stricture",
+                                            "sense_id": "t_en_gb0014223.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "stricture"
+                }
+            ],
+            "type": "headword",
+            "word": "stricture"
+        }
+    ]
+}

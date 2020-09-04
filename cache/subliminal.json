@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "subliminal",
+    "results": [
+        {
+            "id": "subliminal",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "subliminally",
+                            "text": "subliminally"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 19th century: from sub-‘below’ + Latin limen, limin- ‘threshold’+ -al"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "subliminal"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌsəbˈlimənl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/subliminal_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌsəbˈlɪmənl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a stimulus or mental process) below the threshold of sensation or consciousness; perceived by or affecting someone's mind without their being aware of it."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "psychology",
+                                            "text": "Psychology"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "psychology",
+                                            "text": "Psychology"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1007300.005",
+                                    "shortDefinitions": [
+                                        "(of stimulus or mental process) below threshold of sensation or consciousness"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "subconscious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unconscious"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "subliminal",
+                                            "sense_id": "t_en_gb0014310.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "subliminal"
+                }
+            ],
+            "type": "headword",
+            "word": "subliminal"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "impugn",
+    "results": [
+        {
+            "id": "impugn",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "impugnable",
+                            "text": "impugnable"
+                        },
+                        {
+                            "id": "impugnment",
+                            "text": "impugnment"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (also in the sense ‘assault, attack physically’): from Latin impugnare ‘assail’, from in- ‘towards’ + pugnare ‘fight’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "impugn"
+                                },
+                                {
+                                    "inflectedForm": "impugned"
+                                },
+                                {
+                                    "inflectedForm": "impugning"
+                                },
+                                {
+                                    "inflectedForm": "impugns"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "imˈpyo͞on"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/impugn_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪmˈpjun"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "dispute the truth, validity, or honesty of (a statement or motive); call into question"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the father does not impugn her capacity as a good mother"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0499970.005",
+                                    "shortDefinitions": [
+                                        "dispute truth, validity, or honesty of"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "call into question"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "challenge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "question"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dispute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "query"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take issue with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impeach"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "impugn",
+                                            "sense_id": "t_en_gb0007527.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "impugn"
+                }
+            ],
+            "type": "headword",
+            "word": "impugn"
+        }
+    ]
+}

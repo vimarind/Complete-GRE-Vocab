@@ -1,0 +1,293 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "consolidate",
+    "results": [
+        {
+            "id": "consolidate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "consolidator",
+                            "text": "consolidator"
+                        },
+                        {
+                            "id": "consolidatory",
+                            "text": "consolidatory"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century (in the sense ‘combine into a whole’): from Latin consolidare, from con- ‘together’ + solidare ‘make firm’ (from solidus ‘solid’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "consolidate"
+                                },
+                                {
+                                    "inflectedForm": "consolidated"
+                                },
+                                {
+                                    "inflectedForm": "consolidates"
+                                },
+                                {
+                                    "inflectedForm": "consolidating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kənˈsäləˌdāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconsolidate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kənˈsɑləˌdeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (something) physically stronger or more solid"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the first phase of the project is to consolidate the outside walls"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0212780.006",
+                                    "shortDefinitions": [
+                                        "make physically stronger"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "reinforce or strengthen (one's position or power)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the company consolidated its position in the international market"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0212780.012",
+                                            "shortDefinitions": [
+                                                "strengthen one's position"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "strengthen"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "make stronger"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "make secure"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "secure"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "make stable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stabilize"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "reinforce"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fortify"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tighten"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "harden"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stiffen"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cement"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "enhance"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "consolidate",
+                                                    "sense_id": "t_en_gb0002877.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "combine (a number of things) into a single more effective or coherent whole"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "all manufacturing activities have been consolidated in new premises"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0212780.014",
+                                    "shortDefinitions": [
+                                        "combine things into whole"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "combine (a number of financial accounts or funds) into a single overall account or set of accounts"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "finance",
+                                                    "text": "Finance"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "notes": [
+                                                        {
+                                                            "text": "as adjective \"consolidated\"",
+                                                            "type": "wordFormNote"
+                                                        }
+                                                    ],
+                                                    "text": "consolidated accounts"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0212780.015",
+                                            "shortDefinitions": [
+                                                "combine accounts into single account"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "combine (two or more legal actions involving similar questions) into one for action by a court"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the Companies Act 1948 and subsequent enactments were consolidated by the Companies Act 1985"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0212780.016",
+                                            "regions": [
+                                                {
+                                                    "id": "british",
+                                                    "text": "British"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "combine legislation into single act"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "combine"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "merge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "integrate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "amalgamate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fuse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blend"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mingle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "marry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "synthesize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bring together"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "consolidate",
+                                            "sense_id": "t_en_gb0002877.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "consolidate"
+                }
+            ],
+            "type": "headword",
+            "word": "consolidate"
+        }
+    ]
+}

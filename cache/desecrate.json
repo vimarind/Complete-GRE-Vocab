@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "desecrate",
+    "results": [
+        {
+            "id": "desecrate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "desecrator",
+                            "text": "desecrator"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 17th century: from de- (expressing reversal) + a shortened form of consecrate"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "desecrate"
+                                },
+                                {
+                                    "inflectedForm": "desecrated"
+                                },
+                                {
+                                    "inflectedForm": "desecrates"
+                                },
+                                {
+                                    "inflectedForm": "desecrating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈdesəˌkrāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/desecrate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈdɛsəˌkreɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "treat (a sacred place or thing) with violent disrespect; violate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "more than 300 graves were desecrated"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0267630.005",
+                                    "shortDefinitions": [
+                                        "treat sacred place or thing with violent disrespect"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "violate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "profane"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "treat sacrilegiously"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "treat with disrespect"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "desecrate",
+                                            "sense_id": "t_en_gb0003767.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "desecrate"
+                }
+            ],
+            "type": "headword",
+            "word": "desecrate"
+        }
+    ]
+}

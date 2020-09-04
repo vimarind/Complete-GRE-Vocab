@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "astray",
+    "results": [
+        {
+            "id": "astray",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘distant from the correct path’): from an Anglo-Norman French variant of Old French estraie, past participle of estraier, based on Latin extra ‘out of bounds’ + vagari ‘wander’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "astray"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈstrā"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/astray_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈstreɪ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "away from the correct path or direction"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we went astray but a man redirected us"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0053830.006",
+                                    "shortDefinitions": [
+                                        "away from correct path or direction"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "off target"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wide of the mark"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wide"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "awry"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "astray",
+                                            "sense_id": "t_en_gb0000921.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "into error or morally questionable behavior"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was led astray by boozy colleagues"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0053830.009",
+                                    "shortDefinitions": [
+                                        "into error or morally questionable behaviour"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "into wrongdoing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "into error"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "into sin"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "into iniquity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "away from the straight and narrow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "away from the path of righteousness"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "astray",
+                                            "sense_id": "t_en_gb0000921.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adverb",
+                        "text": "Adverb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "go_astray",
+                            "text": "go astray"
+                        }
+                    ],
+                    "text": "astray"
+                }
+            ],
+            "type": "headword",
+            "word": "astray"
+        }
+    ]
+}

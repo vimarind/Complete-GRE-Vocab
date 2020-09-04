@@ -1,0 +1,292 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "kowtow",
+    "results": [
+        {
+            "id": "kowtow",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "kowtower",
+                            "text": "kowtower"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 19th century: from Chinese kētóu, from kē ‘knock’ + tóu ‘head’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "kowtow"
+                                },
+                                {
+                                    "inflectedForm": "kowtowed"
+                                },
+                                {
+                                    "inflectedForm": "kowtowing"
+                                },
+                                {
+                                    "inflectedForm": "kowtows"
+                                },
+                                {
+                                    "inflectedForm": "kow-tow"
+                                },
+                                {
+                                    "inflectedForm": "kow-towed"
+                                },
+                                {
+                                    "inflectedForm": "kow-towing"
+                                },
+                                {
+                                    "inflectedForm": "kow-tows"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌkouˈtou"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/kowtow_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌkaʊˈtaʊ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "act in an excessively subservient manner"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she didn't have to kowtow to a boss"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0555840.006",
+                                    "shortDefinitions": [
+                                        "act in very subservient manner"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "grovel"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "behave obsequiously"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be obsequious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be servile"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be sycophantic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fawn on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bow and scrape"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "toady"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "truckle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abase oneself"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "humble oneself"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prostrate oneself"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "kowtow",
+                                            "sense_id": "t_en_gb0008481.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "kneel and touch the ground with the forehead in worship or submission as part of Chinese custom."
+                                    ],
+                                    "id": "m_en_gbus0555840.018",
+                                    "registers": [
+                                        {
+                                            "id": "historical",
+                                            "text": "Historical"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "kneel and touch ground with forehead in worship or submission as part of Chinese custom"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "prostrate oneself"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bow down before"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "genuflect"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "do obeisance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make obeisance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fall on one's knees before"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "get down on one's knees before"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "kneel before"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "kowtow",
+                                            "sense_id": "t_en_gb0008481.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "kowtow"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "kowtower",
+                            "text": "kowtower"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "kowtow"
+                                },
+                                {
+                                    "inflectedForm": "kowtows"
+                                },
+                                {
+                                    "inflectedForm": "kow-tow"
+                                },
+                                {
+                                    "inflectedForm": "kow-tows"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌkouˈtou"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/kowtow_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌkaʊˈtaʊ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an act of kowtowing as part of Chinese custom."
+                                    ],
+                                    "id": "m_en_gbus0555840.020",
+                                    "registers": [
+                                        {
+                                            "id": "historical",
+                                            "text": "Historical"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "gesture",
+                                            "text": "Gesture"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "act of kowtowing as part of Chinese custom"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "kowtow"
+                }
+            ],
+            "type": "headword",
+            "word": "kowtow"
+        }
+    ]
+}

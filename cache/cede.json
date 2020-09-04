@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "cede",
+    "results": [
+        {
+            "id": "cede",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: from French céder or Latin cedere ‘to yield’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "cede"
+                                },
+                                {
+                                    "inflectedForm": "ceded"
+                                },
+                                {
+                                    "inflectedForm": "cedes"
+                                },
+                                {
+                                    "inflectedForm": "ceding"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "sēd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/cede_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "sid"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "give up (power or territory)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they have had to cede control of the schools to the government"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0162150.005",
+                                    "shortDefinitions": [
+                                        "give up"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "surrender"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "concede"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "relinquish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "yield"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "part with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give up"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "cede",
+                                            "sense_id": "t_en_gb0002145.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "cede"
+                }
+            ],
+            "type": "headword",
+            "word": "cede"
+        }
+    ]
+}

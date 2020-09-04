@@ -1,0 +1,231 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "apogee",
+    "results": [
+        {
+            "id": "apogee",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "apogean",
+                            "text": "apogean"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from French apogée or modern Latin apogaeum, from Greek apogaion (diastēma), ‘(distance) away from earth’, from apo ‘from’ + gaia, gē ‘earth’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "apogee"
+                                },
+                                {
+                                    "inflectedForm": "apogees"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈapəjē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/apogee_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈæpədʒi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the highest point in the development of something; a climax or culmination"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the White House is considered the apogee of American achievement"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0040580.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "level",
+                                            "text": "Level"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "highest point in development of something"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "climax"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pinnacle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "peak"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "high point"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "highest point"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "height"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "high water mark"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "top"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "summit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "zenith"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crowning moment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "apotheosis"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "culmination",
+                                            "sense_id": "t_en_gb0003297.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "The opposite of perigee"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "perigee",
+                                            "text": "perigee",
+                                            "type": "opposite of"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "the point in the orbit of the moon or a satellite at which it is furthest from the earth."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "astronomy",
+                                            "text": "Astronomy"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "astronomy",
+                                            "text": "Astronomy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0040580.010",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "astronomical_point",
+                                            "text": "Astronomical_Point"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "point in orbit of moon or satellite at which it is furthest from earth"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "top"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "peak"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mountaintop"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crown"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "apex"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vertex"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "apogee"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tip"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cap"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "summit",
+                                            "sense_id": "t_en_gb0014398.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "apogee"
+                }
+            ],
+            "type": "headword",
+            "word": "apogee"
+        }
+    ]
+}

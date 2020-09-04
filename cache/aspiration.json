@@ -1,0 +1,240 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "aspiration",
+    "results": [
+        {
+            "id": "aspiration",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in aspiration (sense 3)): from Latin aspiratio(n-), from the verb aspirare (see aspire)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "aspiration"
+                                },
+                                {
+                                    "inflectedForm": "aspirations"
+                                },
+                                {
+                                    "inflectedForm": "aspirations"
+                                },
+                                {
+                                    "inflectedForm": "aspiration"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌaspəˈrāSH(ə)n"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/aspiration_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌæspəˈreɪʃ(ə)n"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a hope or ambition of achieving something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the yawning gulf between aspiration and reality"
+                                        },
+                                        {
+                                            "text": "he had nothing tangible to back up his literary aspirations"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0052000.006",
+                                    "notes": [
+                                        {
+                                            "text": "usually \"aspirations\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "feeling",
+                                            "text": "Feeling"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "hope or ambition"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the object of one's hope or ambition; a goal"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "fabrics and oriental rugs were my aspirations"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0052000.010",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "objective",
+                                                    "text": "Objective"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "object of such ambition"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "desire"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hope"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "longing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "yearning"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hankering"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "urge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wish"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "aspiration",
+                                            "sense_id": "t_en_gb0000872.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the action or process of drawing breath."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0052000.012",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "breathing",
+                                            "text": "Breathing"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "drawing of breath"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the action of drawing fluid by suction from a vessel or cavity"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "medicine",
+                                                    "text": "Medicine"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "bathing solutions were changed by careful aspiration"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0052000.013",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "medical_procedure",
+                                                    "text": "Medical_Procedure"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "drawing of fluid from body"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the action of pronouncing a sound with an exhalation of breath"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "phonetics",
+                                            "text": "Phonetics"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "phonetics",
+                                            "text": "Phonetics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there is no aspiration if the syllable begins with s"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0052000.015",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "speech_sound",
+                                            "text": "Speech_Sound"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "pronunciation of sound"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "aspiration"
+                }
+            ],
+            "type": "headword",
+            "word": "aspiration"
+        }
+    ]
+}

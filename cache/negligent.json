@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "negligent",
+    "results": [
+        {
+            "id": "negligent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "negligently",
+                            "text": "negligently"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "negligent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈneɡləjənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/negligent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈnɛɡlədʒənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "failing to take proper care in doing something"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "directors have been negligent in the performance of their duties"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0683790.005",
+                                    "shortDefinitions": [
+                                        "failing to take proper care over something"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "careless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "failing to take proper care"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remiss"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "neglectful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lax"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "irresponsible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inattentive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "heedless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "thoughtless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unmindful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forgetful"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "negligent",
+                                            "sense_id": "t_en_gb0009928.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "negligent"
+                }
+            ],
+            "type": "headword",
+            "word": "negligent"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "lucre",
+    "results": [
+        {
+            "id": "lucre",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from French lucre or Latin lucrum; the phrase filthy lucre is with biblical allusion to Tit. 1:11"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "lucre"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈlo͞okər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/lucre_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈlukər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "filthy lucre"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "money, especially when regarded as sordid or distasteful or gained in a dishonorable way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "officials getting their hands grubby with filthy lucre"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0599600.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "money",
+                                            "text": "Money"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "money"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "money"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cash"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hard cash"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ready money"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "funds"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "capital"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "finances"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "riches"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wealth"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spoils"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ill-gotten gains"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Mammon"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "lucre",
+                                            "sense_id": "t_en_gb0008975.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "lucre"
+                }
+            ],
+            "type": "headword",
+            "word": "lucre"
+        }
+    ]
+}

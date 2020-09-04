@@ -1,0 +1,250 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "bygone",
+    "results": [
+        {
+            "id": "bygone",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bygone"
+                                },
+                                {
+                                    "inflectedForm": "by-gone"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbīˌɡôn"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bygone_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbaɪˌɡɔn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "belonging to an earlier time"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "relics of a bygone society"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0140330.005",
+                                    "shortDefinitions": [
+                                        "belonging to earlier time"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "past"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "former"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "earlier"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "one-time"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "long-ago"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gone by"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "previous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forgotten"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lost"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "finished"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "completed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "of old"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ancient"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "antiquated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "obsolete"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "departed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dead"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "extinct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "defunct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "out of date"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "outmoded"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "passé"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bygone",
+                                            "sense_id": "t_en_gb0001925.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "phrases": [
+                        {
+                            "id": "let_bygones_be_bygones",
+                            "text": "let bygones be bygones"
+                        }
+                    ],
+                    "text": "bygone"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bygones"
+                                },
+                                {
+                                    "inflectedForm": "bygone"
+                                },
+                                {
+                                    "inflectedForm": "by-gone"
+                                },
+                                {
+                                    "inflectedForm": "by-gones"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "usually \"bygones\"",
+                                    "type": "wordFormNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbīˌɡôn"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bygone_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbaɪˌɡɔn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a thing dating from an earlier time"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the museum consists of a fascinating collection of rural bygones"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0140330.009",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "outmoded_thing",
+                                            "text": "Outmoded_Thing"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "thing dating from earlier time"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "let_bygones_be_bygones",
+                            "text": "let bygones be bygones"
+                        }
+                    ],
+                    "text": "bygone"
+                }
+            ],
+            "type": "headword",
+            "word": "bygone"
+        }
+    ]
+}

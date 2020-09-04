@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "denizen",
+    "results": [
+        {
+            "id": "denizen",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "denizenship",
+                            "text": "denizenship"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English deynseyn, via Anglo-Norman French from Old French deinz ‘within’ (from Latin de ‘from’ + intus ‘within’) + -ein (from Latin -aneus ‘-aneous’). The change in the form of the word was due to association with citizen"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "denizen"
+                                },
+                                {
+                                    "inflectedForm": "denizens"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈdenəzən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/denizen_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈdɛnəzən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an inhabitant or occupant of a particular place"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "plant",
+                                            "text": "Plant"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "denizens of field and forest"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0264490.005",
+                                    "registers": [
+                                        {
+                                            "id": "formal",
+                                            "text": "Formal"
+                                        },
+                                        {
+                                            "id": "humorous",
+                                            "text": "Humorous"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "inhabitant",
+                                            "text": "Inhabitant"
+                                        },
+                                        {
+                                            "id": "organism",
+                                            "text": "Organism"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person, animal, or plant that lives or is found in particular place"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a foreigner allowed certain rights in the adopted country."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0264490.008",
+                                            "regions": [
+                                                {
+                                                    "id": "british",
+                                                    "text": "British"
+                                                }
+                                            ],
+                                            "registers": [
+                                                {
+                                                    "id": "historical",
+                                                    "text": "Historical"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "foreigner",
+                                                    "text": "Foreigner"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "foreigner allowed certain rights in their adopted country"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "inhabitant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "resident"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "townsman"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "townswoman"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "native"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "local"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "denizen",
+                                            "sense_id": "t_en_gb0003680.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "denizen"
+                }
+            ],
+            "type": "headword",
+            "word": "denizen"
+        }
+    ]
+}

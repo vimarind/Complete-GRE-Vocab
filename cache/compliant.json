@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "compliant",
+    "results": [
+        {
+            "id": "compliant",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "compliantly",
+                            "text": "compliantly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "compliant"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kəmˈplīənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/compliant_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kəmˈplaɪənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "inclined to agree with others or obey rules, especially to an excessive degree; acquiescent"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a compliant labor force"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0206420.006",
+                                    "shortDefinitions": [
+                                        "disposed to agree with others"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "meeting or in accordance with rules or standards"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "policies compliant with federal legislation and regulations"
+                                                },
+                                                {
+                                                    "text": "the systems are Y2K compliant"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0206420.008",
+                                            "notes": [
+                                                {
+                                                    "text": "often \"compliant with\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "meeting or in accordance with rules or standards"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "acquiescent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "amenable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "biddable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tractable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "complaisant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "accommodating"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cooperative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "adaptable"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "compliant",
+                                            "sense_id": "t_en_gb0002673.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "having the property of compliance"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "physics",
+                                            "text": "Physics"
+                                        },
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "physics",
+                                            "text": "Physics"
+                                        },
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the conversion of the gel to a much less compliant, rigid glass"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0206420.012",
+                                    "shortDefinitions": [
+                                        "having property of compliance"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "compliant"
+                }
+            ],
+            "type": "headword",
+            "word": "compliant"
+        }
+    ]
+}

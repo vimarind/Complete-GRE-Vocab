@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "malediction",
+    "results": [
+        {
+            "id": "malediction",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "maledictive",
+                            "text": "maledictive"
+                        },
+                        {
+                            "id": "maledictory",
+                            "text": "maledictory"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin maledictio(n-), from maledicere ‘speak evil of’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "malediction"
+                                },
+                                {
+                                    "inflectedForm": "maledictions"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌmaləˈdikSHən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/malediction_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌmæləˈdɪkʃən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a magical word or phrase uttered with the intention of bringing about evil or destruction; a curse"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he muttered maledictions to himself as he trod the stone passages"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0610860.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "curse",
+                                            "text": "Curse"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "magical word or phrase uttered with intention of bringing about evil"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "curse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "oath"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "imprecation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "execration"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "malediction",
+                                            "sense_id": "t_en_gb0009105.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "malediction"
+                }
+            ],
+            "type": "headword",
+            "word": "malediction"
+        }
+    ]
+}

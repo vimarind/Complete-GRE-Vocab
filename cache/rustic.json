@@ -1,0 +1,435 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "rustic",
+    "results": [
+        {
+            "id": "rustic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "rustically",
+                            "text": "rustically"
+                        },
+                        {
+                            "id": "rusticity",
+                            "text": "rusticity"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘rural’): from Latin rusticus, from rus ‘the country’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "rustic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈrəstik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/rustic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈrəstɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to the countryside; rural."
+                                    ],
+                                    "id": "m_en_gbus0889850.006",
+                                    "shortDefinitions": [
+                                        "relating to countryside"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "having a simplicity and charm that is considered typical of the countryside"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the unblemished charm of rustic life has been a perennial source of inspiration for the painter"
+                                                },
+                                                {
+                                                    "text": "bare plaster walls and a terra-cotta floor give a rustic feel"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0889850.007",
+                                            "shortDefinitions": [
+                                                "having simplicity and charm typical of countryside"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "rural"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "country"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "countryside"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "rustic",
+                                                    "sense_id": "t_en_gb0012807.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "lacking the sophistication of the city; backward and provincial"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "you are a rustic halfwit"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0889850.009",
+                                            "shortDefinitions": [
+                                                "lacking sophistication of city"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "unsophisticated"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "uncultured"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unrefined"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "uncultivated"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "simple"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "plain"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "homely"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "artless"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unassuming"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "guileless"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "naive"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ingenuous"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "rustic",
+                                                    "sense_id": "t_en_gb0012807.003"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "made in a plain and simple fashion"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "rustic pottery"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0889850.011",
+                                    "shortDefinitions": [
+                                        "made in plain and simple fashion"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "made of untrimmed branches or rough timber"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "carpentry",
+                                                    "text": "Carpentry"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a rustic oak bench"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0889850.012",
+                                            "shortDefinitions": [
+                                                "made of untrimmed branches or rough timber"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "with rough-hewn or roughened surface or with deeply sunk joints"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "architecture",
+                                                    "text": "Architecture"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a rustic bridge"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0889850.013",
+                                            "shortDefinitions": [
+                                                "(of masonry) having rough-hewn or roughened surface or deeply sunk joints"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "denoting freely formed lettering, especially a relatively informal style of handwritten Roman capital letter"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "handwriting",
+                                                    "text": "Handwriting"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "rustic capitals were much easier to form"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0889850.014",
+                                            "shortDefinitions": [
+                                                "denoting freely formed lettering"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "plain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "simple"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "homely"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unsophisticated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "homespun"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "rustic",
+                                            "sense_id": "t_en_gb0012807.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "rustic"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "rustically",
+                            "text": "rustically"
+                        },
+                        {
+                            "id": "rusticity",
+                            "text": "rusticity"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "rustic"
+                                },
+                                {
+                                    "inflectedForm": "rustics"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈrəstik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/rustic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈrəstɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an unsophisticated country person"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they paused to watch the rustics dance and carouse"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0889850.017",
+                                    "registers": [
+                                        {
+                                            "id": "derogatory",
+                                            "text": "Derogatory"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "country_dweller",
+                                            "text": "Country_Dweller"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "unsophisticated country person"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "countryman"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "countrywoman"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "peasant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "daughter of the soil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "son of the soil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "country bumpkin"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bumpkin"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "yokel"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "country cousin"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "rustic",
+                                            "sense_id": "t_en_gb0012807.004"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a small brownish European moth."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "insect",
+                                            "text": "Insect"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0889850.021",
+                                    "notes": [
+                                        {
+                                            "text": "Several genera and species in the family Noctuidae",
+                                            "type": "technicalNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "moth",
+                                            "text": "Moth"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "small brownish European moth"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "rustic"
+                }
+            ],
+            "type": "headword",
+            "word": "rustic"
+        }
+    ]
+}

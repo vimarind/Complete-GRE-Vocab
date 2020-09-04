@@ -1,0 +1,220 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "estranged",
+    "results": [
+        {
+            "id": "estranged",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "estranged"
+                                },
+                                {
+                                    "inflectedForm": "estranged"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "iˈstrānjd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/estranged_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪˈstreɪndʒd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "estranged from"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "(of a person) no longer close or affectionate to someone; alienated"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Harriet felt more estranged from her daughter than ever"
+                                        },
+                                        {
+                                            "text": "her estranged father"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0334200.005",
+                                    "shortDefinitions": [
+                                        "no longer close to someone"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a wife or husband) no longer living with their spouse"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his estranged wife"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0334200.008",
+                                            "shortDefinitions": [
+                                                "no longer living with their spouse"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "estranged"
+                }
+            ],
+            "type": "headword",
+            "word": "estranged"
+        },
+        {
+            "id": "estrange",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from Old French estranger, from Latin extraneare ‘treat as a stranger’, from extraneus ‘not belonging to the family’, used as a noun to mean ‘stranger’. Compare with strange"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "estrange"
+                                },
+                                {
+                                    "inflectedForm": "estranged"
+                                },
+                                {
+                                    "inflectedForm": "estranges"
+                                },
+                                {
+                                    "inflectedForm": "estranging"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əsˈtrānj"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/estrange_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əsˈtreɪndʒ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cause (someone) to be no longer close or affectionate to someone; alienate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "are you deliberately seeking to estrange your readers?"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0334190.006",
+                                    "shortDefinitions": [
+                                        "cause someone to be no longer on friendly terms with someone"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "alienate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "antagonize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disaffect"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make hostile"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make unfriendly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "destroy the affections of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "turn away"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drive away"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "distance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put at a distance"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "estrange",
+                                            "sense_id": "t_en_gb0005075.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "estrange"
+                }
+            ],
+            "type": "headword",
+            "word": "estrange"
+        }
+    ]
+}

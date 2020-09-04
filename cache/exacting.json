@@ -1,0 +1,340 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "exacting",
+    "results": [
+        {
+            "id": "exacting",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "exactingly",
+                            "text": "exactingly"
+                        },
+                        {
+                            "id": "exactingness",
+                            "text": "exactingness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "exacting"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "iɡˈzaktiNG"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/exacting_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪɡˈzæktɪŋ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "making great demands on one's skill, attention, or other resources"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "living up to such exacting standards"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0338930.006",
+                                    "shortDefinitions": [
+                                        "making great demands on one's resources"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "demanding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hard"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tough"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stringent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "testing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "challenging"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "difficult"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "onerous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "arduous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "laborious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tiring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "taxing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gruelling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "punishing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "back-breaking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "burdensome"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Herculean"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "exacting",
+                                            "sense_id": "t_en_gb0005150.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "exacting"
+                }
+            ],
+            "type": "headword",
+            "word": "exacting"
+        },
+        {
+            "id": "exact",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "exactable",
+                            "text": "exactable"
+                        },
+                        {
+                            "id": "exactor",
+                            "text": "exactor"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as a verb): from Latin exact- ‘completed, ascertained, enforced’, from the verb exigere, from ex- ‘thoroughly’ + agere ‘perform’. The adjective dates from the mid 16th century and reflects the Latin exactus ‘precise’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "exact"
+                                },
+                                {
+                                    "inflectedForm": "exacted"
+                                },
+                                {
+                                    "inflectedForm": "exacting"
+                                },
+                                {
+                                    "inflectedForm": "exacts"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "iɡˈzakt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/exact_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪɡˈzækt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "demand and obtain (something, especially a payment) from someone"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "tributes exacted from the Slavic peoples"
+                                        },
+                                        {
+                                            "text": "William's advisers exacted an oath of obedience from the clergy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0338910.012",
+                                    "shortDefinitions": [
+                                        "demand and obtain something from someone"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "inflict (revenge) on someone"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he exacts a cruel revenge against the winning candidate"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0338910.022",
+                                            "shortDefinitions": [
+                                                "inflict revenge on someone"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "inflict"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "impose"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "deliver"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "administer"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "issue"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "apply"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "exact",
+                                                    "sense_id": "t_en_gb0005148.004"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "demand"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "require"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "insist on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "command"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "call for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impose"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "request"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ask for"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expect"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "look for"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "exact",
+                                            "sense_id": "t_en_gb0005148.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "exact"
+                }
+            ],
+            "type": "headword",
+            "word": "exact"
+        }
+    ]
+}

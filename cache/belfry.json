@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "belfry",
+    "results": [
+        {
+            "id": "belfry",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English berfrey, from Old French berfrei, later belfrei, of West Germanic origin. The change in the first syllable was due to association with bell"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "belfries"
+                                },
+                                {
+                                    "inflectedForm": "belfries"
+                                },
+                                {
+                                    "inflectedForm": "belfry"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbelfrē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/belfry_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbɛlfri"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the part of a bell tower or steeple in which bells are housed."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "church_architecture",
+                                            "text": "Church_Architecture"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0085080.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "church_part",
+                                            "text": "Church_Part"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "part of bell tower or steeple in which bells are housed"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a bell tower or steeple housing bells, especially one that is part of a church."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "church_architecture",
+                                                    "text": "Church_Architecture"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0085080.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "tower",
+                                                    "text": "Tower"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "bell tower or steeple housing bells"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "spire"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "church tower"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tower"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bell tower"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "belfry"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "steeple",
+                                                    "sense_id": "t_en_gb0014093.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "belfry"
+                }
+            ],
+            "type": "headword",
+            "word": "belfry"
+        }
+    ]
+}

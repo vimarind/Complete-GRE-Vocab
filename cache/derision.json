@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "derision",
+    "results": [
+        {
+            "id": "derision",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "derisible",
+                            "text": "derisible"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via Old French from late Latin derisio(n-), from deridere ‘scoff at’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "derision"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈriZHən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/derision_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈrɪʒən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "contemptuous ridicule or mockery"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "my stories were greeted with derision and disbelief"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0266800.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "rudeness",
+                                            "text": "Rudeness"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "contemptuous ridicule or mockery"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "mockery"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ridicule"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "jeering"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "jeers"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sneers"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scoffing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "jibing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "taunts"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "derision",
+                                            "sense_id": "t_en_gb0003748.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "hold_in_derision",
+                            "text": "hold in derision"
+                        }
+                    ],
+                    "text": "derision"
+                }
+            ],
+            "type": "headword",
+            "word": "derision"
+        }
+    ]
+}

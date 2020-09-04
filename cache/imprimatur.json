@@ -1,0 +1,245 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "imprimatur",
+    "results": [
+        {
+            "id": "imprimatur",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin, ‘let it be printed’, from the verb imprimere (see imprint)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "imprimatur"
+                                },
+                                {
+                                    "inflectedForm": "imprimaturs"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌimprəˈmädər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/imprimatur_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɪmprəˈmɑdər"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "imˈpriməˌt(y)o͝or"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/imprimatur_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪmˈprɪməˌt(j)ʊr"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an official license by the Roman Catholic Church to print an ecclesiastical or religious book"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "roman_catholic_church",
+                                            "text": "Roman_Catholic_Church"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the imprimatur for this edition was granted by Cardinal O'Casey"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0499640.013",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "permit",
+                                            "text": "Permit"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "official licence issued by Roman Catholic Church"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a person's acceptance or guarantee that something is of a good standard"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the original LP enjoyed the imprimatur of the composer"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0499640.017",
+                                            "notes": [
+                                                {
+                                                    "text": "in singular",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "approval",
+                                                    "text": "Approval"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "person's authoritative approval"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "authorization"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "approval"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "seal of approval"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "agreement"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "consent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "assent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "permission"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "endorsement"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ratification"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sanction"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "approbation"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "acquiescence"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "confirmation"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "blessing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "leave"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "imprimatur"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "ok",
+                                                    "sense_id": "t_en_gb0010279.006"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "permit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "certificate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "document"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "documentation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "authorization"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "warrant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "voucher"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "diploma"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "imprimatur"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "licence",
+                                            "sense_id": "t_en_gb0008739.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "imprimatur"
+                }
+            ],
+            "type": "headword",
+            "word": "imprimatur"
+        }
+    ]
+}

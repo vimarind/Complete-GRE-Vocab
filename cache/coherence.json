@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "coherence",
+    "results": [
+        {
+            "id": "coherence",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "coherency",
+                            "text": "coherency"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "coherence"
+                                },
+                                {
+                                    "inflectedForm": "coherences"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌkōˈhirəns"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/coherence_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌkoʊˈhɪrəns"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the quality of being logical and consistent"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this raises further questions on the coherence of state policy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0197800.009",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "attribute",
+                                            "text": "Attribute"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "quality of being logical and consistent"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "consistency"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "logicality"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "good sense"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "soundness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "organization"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "orderliness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unity"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "coherence",
+                                            "sense_id": "t_en_gb0002506.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the quality of forming a unified whole"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the group began to lose coherence and the artists took separate directions"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0197800.015",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "attribute",
+                                            "text": "Attribute"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "quality of forming unified whole"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "coherence"
+                }
+            ],
+            "type": "headword",
+            "word": "coherence"
+        }
+    ]
+}

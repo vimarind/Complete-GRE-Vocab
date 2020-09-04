@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "storied",
+    "results": [
+        {
+            "id": "storied",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "storied"
+                                },
+                                {
+                                    "inflectedForm": "storied"
+                                },
+                                {
+                                    "inflectedForm": "storeyed"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "in combination",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈstôrēd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/storied_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈstɔrid"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a building) having a specified number of stories"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "four-storied houses"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1182034.004",
+                                    "regions": [
+                                        {
+                                            "id": "north_american",
+                                            "text": "North_American"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "having specified number of stories"
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "storeyed"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "storied"
+                }
+            ],
+            "type": "headword",
+            "word": "storied"
+        },
+        {
+            "id": "storied",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "storied"
+                                },
+                                {
+                                    "inflectedForm": "storied"
+                                },
+                                {
+                                    "inflectedForm": "storeyed"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈstôrēd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/storied_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈstɔrid"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "celebrated in or associated with stories or legends"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the island's storied past"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0999160.007",
+                                    "registers": [
+                                        {
+                                            "id": "literary",
+                                            "text": "Literary"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "celebrated in or associated with stories or legends"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "storied"
+                }
+            ],
+            "type": "headword",
+            "word": "storied"
+        }
+    ]
+}

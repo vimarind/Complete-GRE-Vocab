@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "superbly",
+    "results": [
+        {
+            "id": "superbly",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "superbly"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "so͞oˈpərblē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/superbly_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "suˈpərbli"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "very well; excellently"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the team played superbly"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "as submodifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "a superbly gifted writer"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1013930.005",
+                                    "shortDefinitions": [
+                                        "very well"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "in an impressively splendid manner"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the tomb is superbly ornamented with fine tracery"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1013930.009",
+                                    "shortDefinitions": [
+                                        "in impressively splendid manner"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adverb",
+                        "text": "Adverb"
+                    },
+                    "text": "superbly"
+                }
+            ],
+            "type": "headword",
+            "word": "superbly"
+        }
+    ]
+}

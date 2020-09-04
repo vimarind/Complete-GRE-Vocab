@@ -1,0 +1,177 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "analogous",
+    "results": [
+        {
+            "id": "analogous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "analogously",
+                            "text": "analogously"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: via Latin from Greek analogos ‘proportionate’+ -ous"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "analogous"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "often \"analogous to\"",
+                                    "type": "wordFormNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈnaləɡəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/analogous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈnæləɡəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "analogous to"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "comparable in certain respects, typically in a way which makes clearer the nature of the things compared"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they saw the relationship between a ruler and his subjects as analogous to that of father and children"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0030830.005",
+                                    "shortDefinitions": [
+                                        "comparable in certain respects"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "Often contrasted with homologous"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "homologous",
+                                                    "text": "homologous",
+                                                    "type": "relates to"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "(of structures) performing a similar function but having a different evolutionary origin, such as the wings of insects and birds."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "biology",
+                                                    "text": "Biology"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "biology",
+                                                    "text": "Biology"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0030830.007",
+                                            "shortDefinitions": [
+                                                "(of organs) performing similar function but having different evolutionary origin"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "comparable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "parallel"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "similar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "like"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "corresponding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "related"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "kindred"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "matching"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cognate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "equivalent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "symmetrical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "homologous"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "analogous",
+                                            "sense_id": "t_en_gb0000560.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "analogous"
+                }
+            ],
+            "type": "headword",
+            "word": "analogous"
+        }
+    ]
+}

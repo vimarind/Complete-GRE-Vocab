@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "exemplar",
+    "results": [
+        {
+            "id": "exemplar",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French exemplaire, from late Latin exemplarium, from Latin exemplum ‘sample, imitation’ (see example)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "exemplar"
+                                },
+                                {
+                                    "inflectedForm": "exemplars"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "iɡˈzemplər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/exemplar_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪɡˈzɛmplər"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "iɡˈzemplär"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/exemplar_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪɡˈzɛmplɑr"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person or thing serving as a typical example or excellent model"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he became the leading exemplar of conservative philosophy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0340580.008",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "example",
+                                            "text": "Example"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person or thing serving as typical example or appropriate model"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "epitome"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perfect example"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shining example"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "model"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "paragon"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ideal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "type"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exemplification"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "definitive example"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "textbook example"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "embodiment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "essence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quintessence"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "exemplar",
+                                            "sense_id": "t_en_gb0005217.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "exemplar"
+                }
+            ],
+            "type": "headword",
+            "word": "exemplar"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "belittle",
+    "results": [
+        {
+            "id": "belittle",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "belittlement",
+                            "text": "belittlement"
+                        },
+                        {
+                            "id": "belittler",
+                            "text": "belittler"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 18th century: from be- + little; a coinage of Thomas Jefferson originally meaning ‘diminish in size, make small’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "belittle"
+                                },
+                                {
+                                    "inflectedForm": "belittled"
+                                },
+                                {
+                                    "inflectedForm": "belittles"
+                                },
+                                {
+                                    "inflectedForm": "belittling"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "bəˈlidl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/belittle_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "bəˈlɪdl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (someone or something) seem unimportant"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this is not to belittle his role"
+                                        },
+                                        {
+                                            "text": "she felt belittled"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0085330.005",
+                                    "shortDefinitions": [
+                                        "dismiss person or thing as unimportant"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "disparage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "denigrate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "run down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deprecate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "depreciate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "downgrade"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "play down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trivialize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "minimize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make light of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "treat lightly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "undervalue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "underrate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "underestimate"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "belittle",
+                                            "sense_id": "t_en_gb0001321.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "belittle"
+                }
+            ],
+            "type": "headword",
+            "word": "belittle"
+        }
+    ]
+}

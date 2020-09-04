@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "interlocutor",
+    "results": [
+        {
+            "id": "interlocutor",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "interlocution",
+                            "text": "interlocution"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: modern Latin, from Latin interlocut- ‘interrupted (by speech)’, from the verb interloqui, from inter- ‘between’ + loqui ‘speak’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "interlocutor"
+                                },
+                                {
+                                    "inflectedForm": "interlocutors"
+                                },
+                                {
+                                    "inflectedForm": "interlocutrices"
+                                },
+                                {
+                                    "inflectedForm": "interlocutrix"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌin(t)ərˈläkyədər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/interlocutor_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɪn(t)ərˈlɑkjədər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who takes part in a dialogue or conversation."
+                                    ],
+                                    "id": "m_en_gbus0516250.006",
+                                    "registers": [
+                                        {
+                                            "id": "formal",
+                                            "text": "Formal"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "participant",
+                                            "text": "Participant"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person who takes part in dialogue or conversation"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "interlocutor"
+                }
+            ],
+            "type": "headword",
+            "word": "interlocutor"
+        }
+    ]
+}

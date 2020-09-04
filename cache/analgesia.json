@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "analgesia",
+    "results": [
+        {
+            "id": "analgesia",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 18th century: from Greek analgēsia ‘painlessness’, from an- ‘not’ + algein ‘feel pain’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "analgesia"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌanlˈjēzēə"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/analgesia_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌænlˈdʒiziə"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌanlˈjēZHə"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/analgesia_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌænlˈdʒiʒə"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the inability to feel pain."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0030800.007",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "physiological_state",
+                                            "text": "Physiological_State"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "inability to feel pain"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "analgesia"
+                }
+            ],
+            "type": "headword",
+            "word": "analgesia"
+        }
+    ]
+}

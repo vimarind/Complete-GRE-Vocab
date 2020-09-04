@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "cinematic",
+    "results": [
+        {
+            "id": "cinematic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "cinematically",
+                            "text": "cinematically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "cinematic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌsinəˈmadik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/cinematic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌsɪnəˈmædɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to motion pictures"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "film",
+                                            "text": "Film"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "cinematic output"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0184260.005",
+                                    "shortDefinitions": [
+                                        "relating to cinema"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "having qualities characteristic of motion pictures"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the cinematic feel of their video"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0184260.007",
+                                            "shortDefinitions": [
+                                                "having qualities characteristic of films"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "realistic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "true to life"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "representational"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "faithful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "authentic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exact"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "precise"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "detailed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vivid"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "graphic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "natural"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "naturalistic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "convincing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "undistorted"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "lifelike",
+                                            "sense_id": "t_en_gb0008755.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "cinematic"
+                }
+            ],
+            "type": "headword",
+            "word": "cinematic"
+        }
+    ]
+}

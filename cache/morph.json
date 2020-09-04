@@ -1,0 +1,353 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "morph",
+    "results": [
+        {
+            "id": "morph",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "1990s: element from metamorphosis"
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "morph"
+                                },
+                                {
+                                    "inflectedForm": "morphed"
+                                },
+                                {
+                                    "inflectedForm": "morphing"
+                                },
+                                {
+                                    "inflectedForm": "morphs"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "môrf"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/_morph_1_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "mɔrf"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "morphed into"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "change smoothly from one image to another by small gradual steps using computer animation techniques"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "film",
+                                            "text": "Film"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "3-D objects can be morphed into other objects"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0661180.005",
+                                    "shortDefinitions": [
+                                        "change smoothly from one image to another by small gradual steps using computer animation techniques"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "undergo or cause to undergo a gradual process of transformation"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "notes": [
+                                                        {
+                                                            "text": "no object",
+                                                            "type": "grammaticalNote"
+                                                        }
+                                                    ],
+                                                    "text": "the cute moppet has morphed into the moody moll of the indie world"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0661180.012",
+                                            "shortDefinitions": [
+                                                "undergo or cause to undergo gradual process of transformation"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "morph"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "morph"
+                                },
+                                {
+                                    "inflectedForm": "morphs"
+                                },
+                                {
+                                    "inflectedForm": "morph"
+                                },
+                                {
+                                    "inflectedForm": "morphs"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "môrf"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/_morph_1_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "mɔrf"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an image that has been morphed by computer animation."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "film",
+                                            "text": "Film"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0661180.014",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "computer_graphic",
+                                            "text": "Computer_Graphic"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "image that has been morphed"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an instance of morphing an image."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "computing",
+                                                    "text": "Computing"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0661180.017",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "computer_operation",
+                                                    "text": "Computer_Operation"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "instance of morphing image"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "morph"
+                }
+            ],
+            "type": "headword",
+            "word": "morph"
+        },
+        {
+            "id": "morph",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "1940s: from Greek morphē ‘form’"
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "morph"
+                                },
+                                {
+                                    "inflectedForm": "morphs"
+                                },
+                                {
+                                    "inflectedForm": "morph"
+                                },
+                                {
+                                    "inflectedForm": "morphs"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "môrf"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/_morph_1_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "mɔrf"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an actual linguistic form"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "linguistics",
+                                            "text": "Linguistics"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "linguistics",
+                                            "text": "Linguistics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the present participle in English is always the morph “-ing.”"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0661190.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "language_unit",
+                                            "text": "Language_Unit"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "actual linguistic form"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "each of several variant forms of an animal or plant."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0661190.010",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "organism",
+                                            "text": "Organism"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "each of several variant forms of animal or plant"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "morph"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "morph"
+                                },
+                                {
+                                    "inflectedForm": "morphed"
+                                },
+                                {
+                                    "inflectedForm": "morphing"
+                                },
+                                {
+                                    "inflectedForm": "morphs"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "morph"
+                }
+            ],
+            "type": "headword",
+            "word": "morph"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "imbue",
+    "results": [
+        {
+            "id": "imbue",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘saturate’): from French imbu ‘moistened’, from Latin imbutus, past participle of imbuere ‘moisten’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "imbues"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "imbuing"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "imbued"
+                                },
+                                {
+                                    "inflectedForm": "imbue"
+                                },
+                                {
+                                    "inflectedForm": "imbued"
+                                },
+                                {
+                                    "inflectedForm": "imbues"
+                                },
+                                {
+                                    "inflectedForm": "imbuing"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "often \"be imbued with\"",
+                                    "type": "wordFormNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "imˈbyo͞o"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/imbue_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪmˈbju"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "inspire or permeate with (a feeling or quality)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the entire performance was imbued with sparkle and elan"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0496850.008",
+                                    "shortDefinitions": [
+                                        "inspire or permeate with"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "permeate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "saturate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "diffuse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "suffuse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pervade"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "imbue",
+                                            "sense_id": "t_en_gb0007375.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "imbue"
+                }
+            ],
+            "type": "headword",
+            "word": "imbue"
+        }
+    ]
+}

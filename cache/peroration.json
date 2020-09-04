@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "peroration",
+    "results": [
+        {
+            "id": "peroration",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin peroratio(n-), from perorare ‘speak at length’ (see perorate)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "peroration"
+                                },
+                                {
+                                    "inflectedForm": "perorations"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌperəˈrāSHən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/peroration_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌpɛrəˈreɪʃən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the concluding part of a speech, typically intended to inspire enthusiasm in the audience"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he again invoked the theme in an emotional peroration"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0767930.007",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "address",
+                                            "text": "Address"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "concluding part of speech"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "closing remarks"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "conclusion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ending"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "close"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "final section"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "summation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "summing-up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "recapitulation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reiteration"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "peroration",
+                                            "sense_id": "t_en_gb0010938.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "peroration"
+                }
+            ],
+            "type": "headword",
+            "word": "peroration"
+        }
+    ]
+}

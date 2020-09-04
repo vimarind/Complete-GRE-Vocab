@@ -1,0 +1,309 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "rectify",
+    "results": [
+        {
+            "id": "rectify",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "rectifiable",
+                            "text": "rectifiable"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French rectifier, from medieval Latin rectificare, from Latin rectus ‘right’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "rectifies"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "rectifying"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "rectified"
+                                },
+                                {
+                                    "inflectedForm": "rectified"
+                                },
+                                {
+                                    "inflectedForm": "rectifies"
+                                },
+                                {
+                                    "inflectedForm": "rectify"
+                                },
+                                {
+                                    "inflectedForm": "rectifying"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈrektəˌfī"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/rectify_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈrɛktəˌfaɪ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "put right; correct"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "mistakes made now cannot be rectified later"
+                                        },
+                                        {
+                                            "text": "we are working to rectify the situation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0852410.006",
+                                    "shortDefinitions": [
+                                        "put right"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "correct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make right"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put right"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "set right"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "right"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put to rights"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sort out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deal with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "amend"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "revise"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remedy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "repair"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fix"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cure"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "heal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make good"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reform"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "harmonize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "retrieve"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "improve"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "better"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ameliorate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "adjust"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "resolve"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "settle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "redress"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "square"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "rectify",
+                                            "sense_id": "t_en_gb0012224.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "convert (alternating current) to direct current."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "electrical",
+                                            "text": "Electrical"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0852410.014",
+                                    "shortDefinitions": [
+                                        "convert alternating current to direct current"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "find a straight line equal in length to (a curve)"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "geometry",
+                                            "text": "Geometry"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "mathematics",
+                                            "text": "Mathematics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his methods of rectifying the cycloid"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0852410.016",
+                                    "shortDefinitions": [
+                                        "find straight line equal in length"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "purify or refine (a substance) by repeated or continuous distillation"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "chemistry",
+                                            "text": "Chemistry"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "chemistry",
+                                            "text": "Chemistry"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "butyl lactate was rectified, and the purified butyl lactate was sequentially hydrolyzed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0852410.012",
+                                    "shortDefinitions": [
+                                        "purify or refine substance by repeated distillation"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "rectify"
+                }
+            ],
+            "type": "headword",
+            "word": "rectify"
+        }
+    ]
+}

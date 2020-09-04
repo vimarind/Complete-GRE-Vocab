@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "reverent",
+    "results": [
+        {
+            "id": "reverent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin reverent- ‘revering’, from the verb revereri (see revere)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "reverent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈrev(ə)rənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/reverent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈrɛv(ə)rənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "feeling or showing deep and solemn respect"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a reverent silence"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0869200.005",
+                                    "shortDefinitions": [
+                                        "feeling or showing deep and solemn respect"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "respectful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reverential"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "worshipping"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "worshipful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "adoring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "loving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "admiring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "devoted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "devout"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dutiful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "awed"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "reverent",
+                                            "sense_id": "t_en_gb0012591.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "reverent"
+                }
+            ],
+            "type": "headword",
+            "word": "reverent"
+        }
+    ]
+}

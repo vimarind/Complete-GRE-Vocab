@@ -1,0 +1,369 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "concede",
+    "results": [
+        {
+            "id": "concede",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "conceder",
+                            "text": "conceder"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from French concéder or Latin concedere, from con- ‘completely’ + cedere ‘yield’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "concede"
+                                },
+                                {
+                                    "inflectedForm": "conceded"
+                                },
+                                {
+                                    "inflectedForm": "concedes"
+                                },
+                                {
+                                    "inflectedForm": "conceding"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kənˈsēd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconcede_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kənˈsid"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "admit that something is true or valid after first denying or resisting it"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with clause",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "I had to concede that I'd overreacted"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "that principle now seems to have been conceded"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0207860.006",
+                                    "notes": [
+                                        {
+                                            "text": "reporting verb",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "finally admit something is true"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "admit (defeat) in a contest"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "sport",
+                                                    "text": "Sport"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he conceded defeat"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0207860.012",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "admit defeat"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "capitulate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "give in"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "surrender"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "yield"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "give up the struggle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cave in"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "submit"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "raise the white flag"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "show the white flag"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lay down one's arms"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "concede_defeat",
+                                                    "sense_id": "t_en_gb0002715.003"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "admit defeat in (a contest)"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "sport",
+                                                    "text": "Sport"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "ready to concede the gold medal"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0207860.013",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "admit defeat in or contest"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "admit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "acknowledge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "accept"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "allow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "recognize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "own"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "confess"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "concede",
+                                            "sense_id": "t_en_gb0002715.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "surrender or yield (something that one possesses)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "to concede all the territory he'd won"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0207860.015",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "surrender possession or right"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "grant (a right, privilege, or demand)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "their rights to redress of grievances were conceded once more"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0207860.016",
+                                            "shortDefinitions": [
+                                                "grant"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(in sports) fail to prevent the scoring of (a goal or point) by an opponent"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "sport",
+                                                    "text": "Sport"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the coach conceded three safeties rather than kick into the wind"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0207860.017",
+                                            "shortDefinitions": [
+                                                "fail to prevent goal"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "allow (a lead or advantage) to slip"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "sport",
+                                                    "text": "Sport"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he took an early lead that he never conceded"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0207860.018",
+                                            "shortDefinitions": [
+                                                "allow lead to slip"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "surrender"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "yield"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "relinquish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cede"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hand over"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "turn over"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "part with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deliver up"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "concede",
+                                            "sense_id": "t_en_gb0002715.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "concede"
+                }
+            ],
+            "type": "headword",
+            "word": "concede"
+        }
+    ]
+}

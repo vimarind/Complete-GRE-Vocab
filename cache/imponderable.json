@@ -1,0 +1,162 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "imponderable",
+    "results": [
+        {
+            "id": "imponderable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "imponderability",
+                            "text": "imponderability"
+                        },
+                        {
+                            "id": "imponderably",
+                            "text": "imponderably"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "imponderable"
+                                },
+                                {
+                                    "inflectedForm": "imponderables"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "imˈpändərəbəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/imponderable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪmˈpɑndərəbəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a factor that is difficult or impossible to estimate or assess"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there are too many imponderables for an overall prediction"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0499140.007",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "mysterious_thing",
+                                            "text": "Mysterious_Thing"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "factor that is difficult or impossible to estimate or assess"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "imponderable"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "imponderability",
+                            "text": "imponderability"
+                        },
+                        {
+                            "id": "imponderably",
+                            "text": "imponderably"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "imponderable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "imˈpändərəbəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/imponderable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪmˈpɑndərəbəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "difficult or impossible to estimate, assess, or answer"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an imponderable problem of metaphysics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0499140.012",
+                                    "shortDefinitions": [
+                                        "difficult or impossible to estimate or assess"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "very light."
+                                    ],
+                                    "id": "m_en_gbus0499140.015",
+                                    "registers": [
+                                        {
+                                            "id": "archaic",
+                                            "text": "Archaic"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "very light"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "imponderable"
+                }
+            ],
+            "type": "headword",
+            "word": "imponderable"
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "zephyr",
+    "results": [
+        {
+            "id": "zephyr",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Old English zefferus, denoting a personification of the west wind, via Latin from Greek zephuros ‘(god of the) west wind’. Sense 1 dates from the late 17th century"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "zephyr"
+                                },
+                                {
+                                    "inflectedForm": "zephyrs"
+                                },
+                                {
+                                    "inflectedForm": "zephyr"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈzefər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/zephyr_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈzɛfər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a soft gentle breeze."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "meteorology",
+                                            "text": "Meteorology"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1179390.008",
+                                    "registers": [
+                                        {
+                                            "id": "literary",
+                                            "text": "Literary"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "wind",
+                                            "text": "Wind"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "soft gentle breeze"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "gentle wind"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "breath of wind"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "puff of air"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "current of air"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "flurry of air"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gust"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "breeze",
+                                            "sense_id": "t_en_gb0001736.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a fine cotton gingham."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "textiles",
+                                            "text": "Textiles"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1179390.012",
+                                    "registers": [
+                                        {
+                                            "id": "historical",
+                                            "text": "Historical"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "fabric",
+                                            "text": "Fabric"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "fine cotton gingham"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a very light article of clothing."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "clothing",
+                                                    "text": "Clothing"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1179390.014",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "garment",
+                                                    "text": "Garment"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "very light article of clothing"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "zephyr"
+                }
+            ],
+            "type": "headword",
+            "word": "zephyr"
+        }
+    ]
+}

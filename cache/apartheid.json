@@ -1,0 +1,175 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "apartheid",
+    "results": [
+        {
+            "id": "apartheid",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "1940s: from Afrikaans, literally ‘separateness’, from Dutch apart ‘separate’ + -heid (equivalent of -hood)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "apartheid"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈpärtˌ(h)āt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/apartheid_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈpɑrtˌ(h)eɪt"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈpärtˌ(h)īt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/apartheid_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈpɑrtˌ(h)aɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(in South Africa) a policy or system of segregation or discrimination on grounds of race."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0039790.008",
+                                    "notes": [
+                                        {
+                                            "text": "Adopted by the successful Afrikaner National Party as a slogan in the 1948 election, apartheid extended and institutionalized existing racial segregation. Despite rioting and terrorism at home and isolation abroad from the 1960s onward, the white regime maintained the apartheid system with only minor relaxation until February 1991",
+                                            "type": "encyclopedicNote"
+                                        }
+                                    ],
+                                    "registers": [
+                                        {
+                                            "id": "historical",
+                                            "text": "Historical"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "political_system",
+                                            "text": "Political_System"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "(in South Africa) policy or system of segregation or discrimination on grounds of race"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "segregation on grounds other than race"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "gender apartheid"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0039790.011",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "separation",
+                                                    "text": "Separation"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "segregation on grounds other than race"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "prejudice"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bias"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bigotry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "intolerance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "narrow-mindedness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unfairness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inequity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "favouritism"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "one-sidedness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "partisanship"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "discrimination",
+                                            "sense_id": "t_en_gb0004093.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "apartheid"
+                }
+            ],
+            "type": "headword",
+            "word": "apartheid"
+        }
+    ]
+}

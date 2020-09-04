@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "taxonomic",
+    "results": [
+        {
+            "id": "taxonomic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "taxonomically",
+                            "text": "taxonomically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "taxonomic"
+                                },
+                                {
+                                    "inflectedForm": "taxonomical"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌtaksəˈnämik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/taxonomic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌtæksəˈnɑmɪk"
+                                },
+                                {
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "-səˈnɒmɪk(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "concerned with the classification of things, especially organisms"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the taxonomic diversity of bees"
+                                        },
+                                        {
+                                            "text": "extensive taxonomic sampling"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1033780.008",
+                                    "shortDefinitions": [
+                                        "concerned with classification of things"
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "taxonomical"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "taxonomic"
+                }
+            ],
+            "type": "headword",
+            "word": "taxonomic"
+        }
+    ]
+}

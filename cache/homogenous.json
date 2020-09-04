@@ -1,0 +1,329 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "homogenous",
+    "results": [
+        {
+            "id": "homogenous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 19th century: from homo-‘same’ + Greek genos ‘race, kind’+ -ous"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "homogenous"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "See homogeneous",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "həˈmäjənəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/homogenous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "həˈmɑdʒənəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "old-fashioned term for homologous"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "homologous",
+                                            "text": "homologous",
+                                            "type": "another term for"
+                                        }
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0476140.006"
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "see homogeneous"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "homogeneous",
+                                            "text": "homogeneous",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0476140.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "homogenous"
+                }
+            ],
+            "type": "headword",
+            "word": "homogenous"
+        },
+        {
+            "id": "homogeneous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "homogeneously",
+                            "text": "homogeneously"
+                        },
+                        {
+                            "id": "homogeneousness",
+                            "text": "homogeneousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century (as homogeneity): from medieval Latin homogeneus, from Greek homogenēs, from homos ‘same’ + genos ‘race, kind’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "homogeneous"
+                                },
+                                {
+                                    "inflectedForm": "homogenous"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "The usual spelling is homogeneous, and the spelling homogenous is traditionally regarded as an error. Homogenous is a different word, a specialized biological term meaning ‘having a common descent,’ which has been largely replaced by homologous. From the evidence of the Oxford English Corpus, the spelling homogeneous has become significantly less common since 2000, and around a third of citations for the word now use the form homogenous. This can now be regarded as an established variant",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌhōməˈjēnēəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/homogeneous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌhoʊməˈdʒiniəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "of the same kind; alike"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "timbermen prefer to deal with homogeneous woods"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0476100.018",
+                                    "shortDefinitions": [
+                                        "alike"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "consisting of parts all of the same kind"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "culturally speaking the farmers constitute an extremely homogeneous group"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0476100.020",
+                                            "shortDefinitions": [
+                                                "having all its parts similar"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "uniform"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "identical"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unvaried"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unvarying"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "consistent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "similar"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "undistinguishable"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "homogeneous",
+                                                    "sense_id": "t_en_gb0007080.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "containing terms all of the same degree."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "mathematics",
+                                                    "text": "Mathematics"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "mathematics",
+                                                    "text": "Mathematics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0476100.021",
+                                            "shortDefinitions": [
+                                                "in mathematics"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "similar"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "comparable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "equivalent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "like"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "analogous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "corresponding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "correspondent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "parallel"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "matching"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "kindred"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "related"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "correlative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "congruent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cognate"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "homogeneous",
+                                            "sense_id": "t_en_gb0007080.002"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "pronunciations": [
+                                        {
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "həˈmäjənəs"
+                                        }
+                                    ],
+                                    "text": "homogenous"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "homogeneous"
+                }
+            ],
+            "type": "headword",
+            "word": "homogeneous"
+        }
+    ]
+}

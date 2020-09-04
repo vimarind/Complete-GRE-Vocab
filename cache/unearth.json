@@ -1,0 +1,243 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "unearth",
+    "results": [
+        {
+            "id": "unearth",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "unearth"
+                                },
+                                {
+                                    "inflectedForm": "unearthed"
+                                },
+                                {
+                                    "inflectedForm": "unearthing"
+                                },
+                                {
+                                    "inflectedForm": "unearths"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌənˈərTH"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/unearth_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌənˈərθ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "find (something) in the ground by digging."
+                                    ],
+                                    "id": "m_en_gbus1098440.016",
+                                    "shortDefinitions": [
+                                        "find something in ground by digging"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "discover (something hidden, lost, or kept secret) by investigation or searching"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they have done all they can to unearth the truth"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1098440.022",
+                                            "shortDefinitions": [
+                                                "discover by investigation or searching"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "discover"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "uncover"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "find"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "come across"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hit on"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "strike on"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "encounter"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "track down"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bring to light"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "reveal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "expose"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "elicit"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "turn up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dredge up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ferret out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hunt out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fish out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "nose out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sniff out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "smell out"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "take the wraps off"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "unearth",
+                                                    "sense_id": "t_en_gb0015463.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "dig up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "excavate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exhume"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disinter"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bring to the surface"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mine"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quarry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pull out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "root out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scoop out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disentomb"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unbury"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "unearth",
+                                            "sense_id": "t_en_gb0015463.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "unearth"
+                }
+            ],
+            "type": "headword",
+            "word": "unearth"
+        }
+    ]
+}

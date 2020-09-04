@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "idolatrous",
+    "results": [
+        {
+            "id": "idolatrous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "idolatrous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "īˈdälətrəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/idolatrous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "aɪˈdɑlətrəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "worshiping idols"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the idolatrous peasantry"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0494140.006",
+                                    "shortDefinitions": [
+                                        "relating to or practising idolatry"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "treating someone or something as an idol"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "America's idolatrous worship of the auto"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0494140.008",
+                                            "shortDefinitions": [
+                                                "showing extreme admiration or reverence for something"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "idol-worshipping"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "icon-worshipping"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fetishistic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "idolizing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fetishistic"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "idolatrous",
+                                            "sense_id": "t_en_gb0007301.001"
+                                        },
+                                        {
+                                            "entry_id": "idolatrous",
+                                            "sense_id": "t_en_gb0007301.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "idolatrous"
+                }
+            ],
+            "type": "headword",
+            "word": "idolatrous"
+        }
+    ]
+}

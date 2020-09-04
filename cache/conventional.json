@@ -1,0 +1,319 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "conventional",
+    "results": [
+        {
+            "id": "conventional",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "conventionalism",
+                            "text": "conventionalism"
+                        },
+                        {
+                            "id": "conventionalist",
+                            "text": "conventionalist"
+                        },
+                        {
+                            "id": "conventionality",
+                            "text": "conventionality"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the sense ‘relating to a formal agreement or convention’): from French conventionnel or late Latin conventionalis, from Latin conventio(n-) ‘meeting, covenant’, from the verb convenire (see convene)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "conventional"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kənˈven(t)SH(ə)n(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconventional_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kənˈvɛn(t)ʃ(ə)n(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "based on or in accordance with what is generally done or believed"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a conventional morality had dictated behavior"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0216290.014",
+                                    "shortDefinitions": [
+                                        "in accordance with what is generally done"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person) concerned with what is generally held to be acceptable at the expense of individuality and sincerity."
+                                            ],
+                                            "id": "m_en_gbus0216290.016",
+                                            "shortDefinitions": [
+                                                "conformist"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a work of art or literature) following traditional forms and genres"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "conventional love poetry"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0216290.017",
+                                            "shortDefinitions": [
+                                                "following traditional forms"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "orthodox"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "traditional"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "established"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "accepted"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "received"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "mainstream"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "prevailing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "prevalent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "accustomed"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "customary"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "conservative"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "traditional"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "traditionalist"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "conformist"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bourgeois"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "old-fashioned"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "of the old school"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "conventional",
+                                                    "sense_id": "t_en_gb0002990.001"
+                                                },
+                                                {
+                                                    "entry_id": "conventional",
+                                                    "sense_id": "t_en_gb0002990.003"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of weapons or power) nonnuclear"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "agreement on reducing conventional forces in Europe"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0216290.018",
+                                            "shortDefinitions": [
+                                                "(of weapons) non-nuclear"
+                                            ]
+                                        },
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "Often contrasted with natural"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "natural",
+                                                    "text": "natural",
+                                                    "type": "relates to"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "(of a bid) intended to convey a particular meaning according to an agreed upon convention."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "bridge",
+                                                    "text": "Bridge"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "bridge",
+                                                    "text": "Bridge"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0216290.019",
+                                            "shortDefinitions": [
+                                                "(of bid) conveying meaning"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "normal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "standard"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "regular"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ordinary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "usual"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "traditional"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "typical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "common"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "run-of-the-mill"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prosaic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pedestrian"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "commonplace"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unimaginative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "uninspired"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "uninspiring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unadventurous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unremarkable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unexceptional"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "conventional",
+                                            "sense_id": "t_en_gb0002990.002"
+                                        },
+                                        {
+                                            "entry_id": "conventional",
+                                            "sense_id": "t_en_gb0002990.004"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "conventional"
+                }
+            ],
+            "type": "headword",
+            "word": "conventional"
+        }
+    ]
+}

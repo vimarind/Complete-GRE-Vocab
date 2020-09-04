@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "untoward",
+    "results": [
+        {
+            "id": "untoward",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "untowardly",
+                            "text": "untowardly"
+                        },
+                        {
+                            "id": "untowardness",
+                            "text": "untowardness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "untoward"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌənˈtôrd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/untoward_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌənˈtɔrd"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌənt(ə)ˈwôrd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/untoward_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌənt(ə)ˈwɔrd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "unexpected and inappropriate or inconvenient"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "both tried to behave as if nothing untoward had happened"
+                                        },
+                                        {
+                                            "text": "untoward jokes and racial remarks"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1111920.008",
+                                    "shortDefinitions": [
+                                        "unexpected and inappropriate or inconvenient"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "unexpected"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unanticipated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unforeseen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unpredictable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unpredicted"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "untoward",
+                                            "sense_id": "t_en_gb0015700.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "untoward"
+                }
+            ],
+            "type": "headword",
+            "word": "untoward"
+        }
+    ]
+}

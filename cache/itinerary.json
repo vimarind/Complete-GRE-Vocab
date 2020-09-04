@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "itinerary",
+    "results": [
+        {
+            "id": "itinerary",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from late Latin itinerarium, neuter of itinerarius ‘of a journey or roads’, from Latin iter, itiner- ‘journey, road’"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "itineraries"
+                                },
+                                {
+                                    "inflectedForm": "itineraries"
+                                },
+                                {
+                                    "inflectedForm": "itinerary"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "īˈtinəˌrerē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/itinerary_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "aɪˈtɪnəˌrɛri"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a planned route or journey"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his itinerary included an official visit to Canada"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0525920.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "journey",
+                                            "text": "Journey"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "planned route or journey"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a travel document recording a route or journey"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "we will send you an itinerary"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0525920.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "document",
+                                                    "text": "Document"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "travel document recording route or journey"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "planned route"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "route"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "journey"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "way"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "road"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "path"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "course"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "itinerary",
+                                                    "sense_id": "t_en_gb0008261.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "itinerary"
+                }
+            ],
+            "type": "headword",
+            "word": "itinerary"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "paradigmatic",
+    "results": [
+        {
+            "id": "paradigmatic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "paradigmatically",
+                            "text": "paradigmatically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "paradigmatic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌperədiɡˈmadik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/paradigmatic_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌpɛrədɪɡˈmædɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "serving as a typical example of something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his biography is paradigmatic of the experiences of this generation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0747500.009",
+                                    "shortDefinitions": [
+                                        "serving as typical example"
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Contrasted with syntagmatic"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "syntagmatic",
+                                            "text": "syntagmatic",
+                                            "type": "relates to"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "of or denoting the relationship between a set of linguistic items that form mutually exclusive choices in particular syntactic roles."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "linguistics",
+                                            "text": "Linguistics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0747500.011",
+                                    "shortDefinitions": [
+                                        "of relationship between set of linguistic items"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "most typical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "most characteristic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "representative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "standard"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "conventional"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "classic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "model"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exemplary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quintessential"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prime"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "textbook"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "copybook"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "archetypal",
+                                            "sense_id": "t_en_gb0000774.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "paradigmatic"
+                }
+            ],
+            "type": "headword",
+            "word": "paradigmatic"
+        }
+    ]
+}

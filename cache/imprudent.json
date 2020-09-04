@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "imprudent",
+    "results": [
+        {
+            "id": "imprudent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "imprudence",
+                            "text": "imprudence"
+                        },
+                        {
+                            "id": "imprudently",
+                            "text": "imprudently"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin imprudent- ‘not foreseeing’, from in- ‘not’ + prudent- (see prudent)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "imprudent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "imˈpro͞odnt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/imprudent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪmˈprudnt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "not showing care for the consequences of an action; rash"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it would be imprudent to leave her winter coat behind"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0499930.005",
+                                    "shortDefinitions": [
+                                        "not showing care for consequences of action"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "unwise"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "injudicious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "incautious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unwary"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "imprudent",
+                                            "sense_id": "t_en_gb0007523.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "imprudent"
+                }
+            ],
+            "type": "headword",
+            "word": "imprudent"
+        }
+    ]
+}

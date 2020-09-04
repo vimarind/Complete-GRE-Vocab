@@ -1,0 +1,593 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "sovereign",
+    "results": [
+        {
+            "id": "sovereign",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "sovereignly",
+                            "text": "sovereignly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French soverain, based on Latin super ‘above’. The change in the ending was due to association with reign"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sovereign"
+                                },
+                                {
+                                    "inflectedForm": "sovereigns"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsäv(ə)rən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sovereign_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsɑv(ə)rən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a supreme ruler, especially a monarch"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "royalty",
+                                            "text": "Royalty"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the Emperor became the first Japanese sovereign to visit Britain"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0972000.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "ruler",
+                                            "text": "Ruler"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "supreme ruler"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "ruler"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "monarch"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "supreme ruler"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Crown"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crowned head"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "head of state"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "potentate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "suzerain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overlord"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dynast"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "leader"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sovereign",
+                                            "sense_id": "t_en_gb0013837.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a former British gold coin worth one pound sterling, now only minted for commemorative purposes."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "numismatics",
+                                            "text": "Numismatics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0972000.010",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "coin",
+                                            "text": "Coin"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "former British gold coin worth one pound sterling"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "sovereign"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "sovereignly",
+                            "text": "sovereignly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sovereign"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsäv(ə)rən"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sovereign_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsɑv(ə)rən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "possessing supreme or ultimate power"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "in modern democracies the people's will is in theory sovereign"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0972000.020",
+                                    "shortDefinitions": [
+                                        "possessing supreme or ultimate power"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a nation or its affairs) acting or done independently and without outside interference"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a sovereign, democratic republic"
+                                                },
+                                                {
+                                                    "text": "accusations of interference in sovereign affairs"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0972000.022",
+                                            "notes": [
+                                                {
+                                                    "text": "attributive",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "acting or done independently and without outside interference"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "independent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "self-governing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "autonomous"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "self-determining"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "self-legislating"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "sovereign",
+                                                    "sense_id": "t_en_gb0013837.003"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "possessing royal power and status"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "royalty",
+                                                    "text": "Royalty"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "our most sovereign lord the King"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0972000.024",
+                                            "notes": [
+                                                {
+                                                    "text": "attributive",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                },
+                                                {
+                                                    "id": "literary",
+                                                    "text": "Literary"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "possessing royal power and status"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "royal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "regal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "monarchal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "monarchial"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "monarchical"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sovereign"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "kingly"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "queenly"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "princely"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "majestic"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "imperial",
+                                                    "sense_id": "t_en_gb0007443.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "constructions": [
+                                                {
+                                                    "text": "sovereign remedy"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "very good or effective"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a sovereign remedy for all ills"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0972000.025",
+                                            "notes": [
+                                                {
+                                                    "text": "attributive",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                {
+                                                    "id": "dated",
+                                                    "text": "Dated"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "very good or effective"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "effective"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "efficient"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "powerful"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "potent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "efficacious"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "effectual"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "sovereign",
+                                                    "sense_id": "t_en_gb0013837.004"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "supreme"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "absolute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unlimited"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unrestricted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unrestrained"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unbounded"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "boundless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "infinite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ultimate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "total"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unconditional"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "full"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "utter"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "paramount"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sovereign",
+                                            "sense_id": "t_en_gb0013837.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sovereign"
+                }
+            ],
+            "type": "headword",
+            "word": "sovereign"
+        },
+        {
+            "id": "pontiff",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 17th century (denoting an early Christian bishop): from French pontife, from Latin pontifex (see pontifex)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "pontiff"
+                                },
+                                {
+                                    "inflectedForm": "pontiffs"
+                                },
+                                {
+                                    "inflectedForm": "sovereign"
+                                },
+                                {
+                                    "inflectedForm": "sovereigns"
+                                },
+                                {
+                                    "inflectedForm": "supreme sovereign"
+                                },
+                                {
+                                    "inflectedForm": "supreme sovereigns"
+                                },
+                                {
+                                    "inflectedForm": "sovereign pontiff"
+                                },
+                                {
+                                    "inflectedForm": "sovereign pontiffs"
+                                },
+                                {
+                                    "inflectedForm": "supreme pontiff"
+                                },
+                                {
+                                    "inflectedForm": "supreme pontiffs"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpän(t)əf"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/pontiff_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpɑn(t)əf"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the Pope"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "roman_catholic_church",
+                                            "text": "Roman_Catholic_Church"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the Pope's first visit to Poland as pontiff"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0798810.009",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "member_of_clergy",
+                                            "text": "Member_Of_Clergy"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "Pope"
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "sovereign"
+                                },
+                                {
+                                    "text": "supreme pontiff"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "pontiff"
+                }
+            ],
+            "type": "headword",
+            "word": "pontiff"
+        }
+    ]
+}

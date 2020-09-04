@@ -1,0 +1,288 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "biased",
+    "results": [
+        {
+            "id": "biased",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "biased"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbīəst"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/biased_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbaɪəst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "unfairly prejudiced for or against someone or something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we will not tolerate this biased media coverage"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0091500.006",
+                                    "shortDefinitions": [
+                                        "unfairly prejudiced for or against person or thing"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "biased"
+                }
+            ],
+            "type": "headword",
+            "word": "biased"
+        },
+        {
+            "id": "bias",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (in the sense ‘oblique line’; also as an adjective meaning ‘oblique’): from French biais, from Provençal, perhaps based on Greek epikarsios ‘oblique’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "biases"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "biasing"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "biased"
+                                },
+                                {
+                                    "inflectedForm": "bias"
+                                },
+                                {
+                                    "inflectedForm": "biased"
+                                },
+                                {
+                                    "inflectedForm": "biases"
+                                },
+                                {
+                                    "inflectedForm": "biasing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbīəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/bias_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbaɪəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cause to feel or show inclination or prejudice for or against someone or something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "readers said the paper was biased toward the conservatives"
+                                        },
+                                        {
+                                            "text": "editors were biased against authors from provincial universities"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0091470.024",
+                                    "notes": [
+                                        {
+                                            "text": "usually \"be biased\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "cause to feel prejudice"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "prejudice"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "influence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "colour"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sway"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "weight"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "predispose"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prejudiced"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "partial"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "partisan"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "one-sided"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blinkered"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "subjective"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bias",
+                                            "sense_id": "t_en_gb0001403.003"
+                                        },
+                                        {
+                                            "entry_id": "biased",
+                                            "sense_id": "t_en_gb0001404.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "give a bias to"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "statistics",
+                                            "text": "Statistics"
+                                        },
+                                        {
+                                            "id": "electronics",
+                                            "text": "Electronics"
+                                        },
+                                        {
+                                            "id": "bowls",
+                                            "text": "Bowls"
+                                        },
+                                        {
+                                            "id": "needlework",
+                                            "text": "Needlework"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "electronics",
+                                            "text": "Electronics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "bias the ball"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0091470.032",
+                                    "shortDefinitions": [
+                                        "give bias to"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "phrases": [
+                        {
+                            "id": "cut_on_the_bias",
+                            "text": "cut on the bias"
+                        }
+                    ],
+                    "text": "bias"
+                }
+            ],
+            "type": "headword",
+            "word": "bias"
+        }
+    ]
+}

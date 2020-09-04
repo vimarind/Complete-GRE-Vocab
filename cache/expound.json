@@ -1,0 +1,222 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "expound",
+    "results": [
+        {
+            "id": "expound",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "expounder",
+                            "text": "expounder"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English expoune (in the sense ‘explain (what is difficult)’): from Old French espon-, present tense stem of espondre, from Latin exponere ‘expose, publish, explain’, from ex- ‘out’ + ponere ‘put’. The origin of the final -d (recorded from the Middle English period) is uncertain"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "expound"
+                                },
+                                {
+                                    "inflectedForm": "expounded"
+                                },
+                                {
+                                    "inflectedForm": "expounding"
+                                },
+                                {
+                                    "inflectedForm": "expounds"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ikˈspound"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/expound_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪkˈspaʊnd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "present and explain (a theory or idea) systematically and in detail"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was expounding a powerful argument"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "he declined to expound on his decision"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0343160.006",
+                                    "shortDefinitions": [
+                                        "present and explain theory or idea in detail"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "explain the meaning of (a literary or doctrinal work)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the abbess expounded the scriptures to her nuns"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0343160.016",
+                                            "shortDefinitions": [
+                                                "explain meaning of"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "explain"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "interpret"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "explicate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "elucidate"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "expound",
+                                                    "sense_id": "t_en_gb0005314.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "present"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put forward"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "set forth"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "proffer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "offer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "advance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "propose"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "propound"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "frame"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give an account of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "recount"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "elaborate on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expand on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expatiate on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dwell on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "harp on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discuss at length"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "expound",
+                                            "sense_id": "t_en_gb0005314.001"
+                                        },
+                                        {
+                                            "entry_id": "expound_on",
+                                            "sense_id": "t_en_gb0005314.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "expound"
+                }
+            ],
+            "type": "headword",
+            "word": "expound"
+        }
+    ]
+}

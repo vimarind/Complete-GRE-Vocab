@@ -1,0 +1,249 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "usurp",
+    "results": [
+        {
+            "id": "usurp",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "usurpation",
+                            "text": "usurpation"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘appropriate a right wrongfully’): from Old French usurper, from Latin usurpare ‘seize for use’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "usurp"
+                                },
+                                {
+                                    "inflectedForm": "usurped"
+                                },
+                                {
+                                    "inflectedForm": "usurping"
+                                },
+                                {
+                                    "inflectedForm": "usurps"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "yo͞oˈsərp"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/usurp_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "juˈsərp"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "take (a position of power or importance) illegally or by force"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "politics",
+                                            "text": "Politics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Richard usurped the throne"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1116870.006",
+                                    "shortDefinitions": [
+                                        "take position of power or importance illegally or by force"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "take the place of (someone in a position of power) illegally; supplant"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the Hanoverian dynasty had usurped the Stuarts"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1116870.017",
+                                            "shortDefinitions": [
+                                                "take place of someone in position of power illegally"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "oust"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "overthrow"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "remove"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "topple"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unseat"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "depose"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dethrone"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "eject"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dispel"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "usurp",
+                                                    "sense_id": "t_en_gb0015787.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "encroach or infringe upon (someone's rights)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the Church had usurped upon the domain of the state"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1116870.018",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                },
+                                                {
+                                                    "text": "\"usurp on/upon\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "encroach or infringe upon"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "seize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take over"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expropriate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take possession of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "appropriate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "steal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wrest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "arrogate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "commandeer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "annex"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "assume"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lay claim to"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "usurp",
+                                            "sense_id": "t_en_gb0015787.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "usurp"
+                }
+            ],
+            "type": "headword",
+            "word": "usurp"
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "streamlined",
+    "results": [
+        {
+            "id": "streamlined",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "streamlined"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈstrēmlīnd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/streamlined_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈstrimlaɪnd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having a form that presents very little resistance to a flow of air or water"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "streamlined passenger trains"
+                                        },
+                                        {
+                                            "text": "the fish has a sleek streamlined body"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1194916.005",
+                                    "shortDefinitions": [
+                                        "having form that presents little resistance to flow of air or water"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "aerodynamic"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "streamlined",
+                                            "sense_id": "t_en_gb0014211.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "having been made simpler and more efficient or effective"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this streamlined approach will significantly reduce the learning curve for new users"
+                                        },
+                                        {
+                                            "text": "a more streamlined decision-making process"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1194916.007",
+                                    "shortDefinitions": [
+                                        "having been made simpler and more efficient"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "efficient"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "smooth-running"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "well run"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "well organized"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "slick"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "streamlined",
+                                            "sense_id": "t_en_gb0014211.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "streamlined"
+                }
+            ],
+            "type": "headword",
+            "word": "streamlined"
+        },
+        {
+            "id": "streamline",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "streamline"
+                                },
+                                {
+                                    "inflectedForm": "streamlined"
+                                },
+                                {
+                                    "inflectedForm": "streamlines"
+                                },
+                                {
+                                    "inflectedForm": "streamlining"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈstrēmˌlīn"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/streamline_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈstrimˌlaɪn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "design or provide with a form that presents very little resistance to a flow of air or water, increasing speed and ease of movement"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "mechanics",
+                                            "text": "Mechanics"
+                                        },
+                                        {
+                                            "id": "aviation",
+                                            "text": "Aviation"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "engineers can reduce a vehicle's fuel consumption by reducing its size and weight and by streamlining its body"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1001830.006",
+                                    "shortDefinitions": [
+                                        "design with form that presents little resistance to flow of air or water"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "make (an organization or system) more efficient and effective by employing faster or simpler working methods"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the company streamlined its operations by removing whole layers of management"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1001830.013",
+                                    "shortDefinitions": [
+                                        "make more efficient and effective by employing faster or simpler working methods"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "efficient"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "smooth-running"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "well run"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "well organized"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "slick"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "streamlined",
+                                            "sense_id": "t_en_gb0014211.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "streamline"
+                }
+            ],
+            "type": "headword",
+            "word": "streamline"
+        }
+    ]
+}

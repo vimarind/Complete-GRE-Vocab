@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "epistolary",
+    "results": [
+        {
+            "id": "epistolary",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from French épistolaire or Latin epistolaris, from epistola (see epistle)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "epistolary"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈpistəˌlerē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/epistolary_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈpɪstəˌlɛri"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a literary work) in the form of letters"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "literature",
+                                            "text": "Literature"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an epistolary novel"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0329480.005",
+                                    "shortDefinitions": [
+                                        "(of literary work) in form of letters"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "relating to the writing of letters."
+                                            ],
+                                            "id": "m_en_gbus0329480.007",
+                                            "registers": [
+                                                {
+                                                    "id": "literary",
+                                                    "text": "Literary"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "relating to writing of letters"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "epistolary"
+                }
+            ],
+            "type": "headword",
+            "word": "epistolary"
+        }
+    ]
+}

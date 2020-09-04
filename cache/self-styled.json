@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "self-styled",
+    "results": [
+        {
+            "id": "self-styled",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "self-styled"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "attributive",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈˌself ˈstīld"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/self_styled_1_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈˌsɛlf ˈstaɪld"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "using a description or title that one has given oneself"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "self-styled experts"
+                                        },
+                                        {
+                                            "text": "the self-styled President of Bougainville"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0921770.004",
+                                    "shortDefinitions": [
+                                        "using description or title that one has given oneself"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "would-be"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "self-appointed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "so-called"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "self-titled"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "professed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "self-confessed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "confessed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sworn"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "avowed"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "self-styled",
+                                            "sense_id": "t_en_gb0013198.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "self-styled"
+                }
+            ],
+            "type": "headword",
+            "word": "self-styled"
+        }
+    ]
+}

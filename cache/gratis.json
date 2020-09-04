@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "gratis",
+    "results": [
+        {
+            "id": "gratis",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin, contraction of gratiis ‘as a kindness’, from gratia ‘grace, kindness’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "gratis"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈɡradəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/gratis_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɡrædəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "without charge; free"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a monthly program was issued gratis"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0429420.007",
+                                    "shortDefinitions": [
+                                        "without charge"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "free of charge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "free"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "without charge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "for nothing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "at no cost"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "without payment"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "without paying"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "freely"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gratuitously"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "gratis",
+                                            "sense_id": "t_en_gb0006503.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adverb",
+                        "text": "Adverb"
+                    },
+                    "text": "gratis"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "gratis"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈɡradəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/gratis_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɡrædəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "given or done for nothing; free"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "gratis copies"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0429420.010",
+                                    "shortDefinitions": [
+                                        "given or done for nothing"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "gratis"
+                }
+            ],
+            "type": "headword",
+            "word": "gratis"
+        }
+    ]
+}

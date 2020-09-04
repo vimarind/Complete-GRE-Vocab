@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "bastardization",
+    "results": [
+        {
+            "id": "bastardization",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivativeOf": [
+                        {
+                            "id": "bastardize",
+                            "text": "bastardize"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "bastardisation"
+                                },
+                                {
+                                    "inflectedForm": "bastardization"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌbastərdiˈzāSHən"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "id": "m_en_gbus0077240.035"
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "bastardisation"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "bastardization"
+                }
+            ],
+            "type": "headword",
+            "word": "bastardization"
+        }
+    ]
+}

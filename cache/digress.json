@@ -1,0 +1,149 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "digress",
+    "results": [
+        {
+            "id": "digress",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "digresser",
+                            "text": "digresser"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: from Latin digress- ‘stepped away’, from the verb digredi, from di- ‘aside’ + gradi ‘to walk’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "digress"
+                                },
+                                {
+                                    "inflectedForm": "digressed"
+                                },
+                                {
+                                    "inflectedForm": "digresses"
+                                },
+                                {
+                                    "inflectedForm": "digressing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dīˈɡres"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/digress_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "daɪˈɡrɛs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "leave the main subject temporarily in speech or writing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I have digressed a little from my original plan"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0275550.005",
+                                    "shortDefinitions": [
+                                        "leave main subject temporarily in speech"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "deviate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "go off at a tangent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "diverge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "turn aside"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "turn away"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "depart"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drift"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stray"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ramble"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wander"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "meander"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "maunder"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "digress",
+                                            "sense_id": "t_en_gb0003949.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "digress"
+                }
+            ],
+            "type": "headword",
+            "word": "digress"
+        }
+    ]
+}

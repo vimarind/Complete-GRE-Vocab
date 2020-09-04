@@ -1,0 +1,159 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "inherent",
+    "results": [
+        {
+            "id": "inherent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "inherence",
+                            "text": "inherence"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Latin inhaerent- ‘sticking to’, from the verb inhaerere, from in- ‘in, towards’ + haerere ‘to stick’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "inherent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈhirənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/inherent_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈhɪrənt"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈherənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/inherent_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈhɛrənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "existing in something as a permanent, essential, or characteristic attribute"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "any form of mountaineering has its inherent dangers"
+                                        },
+                                        {
+                                            "text": "the symbolism inherent in all folk tales"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0509540.008",
+                                    "shortDefinitions": [
+                                        "existing in something as permanent, essential, or characteristic attribute"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "vested in (someone) as a right or privilege"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the president's inherent foreign affairs power"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0509540.010",
+                                            "shortDefinitions": [
+                                                "vested in someone as right or privilege"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "intrinsic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "innate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "immanent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "built-in"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inborn"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ingrained"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deep-rooted"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "inherent",
+                                            "sense_id": "t_en_gb0007859.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "inherent"
+                }
+            ],
+            "type": "headword",
+            "word": "inherent"
+        }
+    ]
+}

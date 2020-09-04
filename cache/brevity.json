@@ -1,0 +1,200 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "brevity",
+    "results": [
+        {
+            "id": "brevity",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from Old French brievete, from Latin brevitas, from brevis ‘brief’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "brevity"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbrevədē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/brevity_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbrɛvədi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "concise and exact use of words in writing or speech"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the staff will edit manuscripts with a view to brevity and clarity"
+                                        },
+                                        {
+                                            "text": "for brevity, it is worth using these little symbols"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0124690.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "communicative_style",
+                                            "text": "Communicative_Style"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "concise and exact use of words"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "shortness of time"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the brevity of human life"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0124690.007",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "measure",
+                                                    "text": "Measure"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "shortness of time"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "shortness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "briefness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "transience"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "transitoriness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ephemerality"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "impermanence"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "brevity",
+                                                    "sense_id": "t_en_gb0001738.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "conciseness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "concision"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "succinctness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "economy of language"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "compendiousness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shortness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "briefness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pithiness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pith"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "incisiveness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crispness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "compactness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "compression"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "brevity",
+                                            "sense_id": "t_en_gb0001738.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "brevity_is_the_soul_of_wit",
+                            "text": "brevity is the soul of wit"
+                        }
+                    ],
+                    "text": "brevity"
+                }
+            ],
+            "type": "headword",
+            "word": "brevity"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "amply",
+    "results": [
+        {
+            "id": "amply",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "amply"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈamplē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/amply_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈæmpli"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "enough or more than enough; plentifully"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the persistent reader is amply rewarded"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0029830.005",
+                                    "shortDefinitions": [
+                                        "enough or more than enough"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adverb",
+                        "text": "Adverb"
+                    },
+                    "text": "amply"
+                }
+            ],
+            "type": "headword",
+            "word": "amply"
+        }
+    ]
+}

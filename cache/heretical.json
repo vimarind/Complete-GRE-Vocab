@@ -1,0 +1,141 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "heretical",
+    "results": [
+        {
+            "id": "heretical",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "heretically",
+                            "text": "heretically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "heretical"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "həˈredik(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/heretical_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "həˈrɛdɪk(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "believing in or practicing religious heresy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "heretical beliefs"
+                                        },
+                                        {
+                                            "text": "a heretical theologian"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0463400.005",
+                                    "shortDefinitions": [
+                                        "believing in or practising religious heresy"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "holding an opinion at odds with what is generally accepted"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I feel a bit heretical saying this, but I think the film has too much action"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0463400.007",
+                                            "shortDefinitions": [
+                                                "holding opinion at odds with what is generally accepted"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "dissident"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dissenting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "nonconformist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unorthodox"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "heterodox"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "apostate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "freethinking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "iconoclastic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "schismatic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "renegade"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "heretical",
+                                            "sense_id": "t_en_gb0006938.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "heretical"
+                }
+            ],
+            "type": "headword",
+            "word": "heretical"
+        }
+    ]
+}

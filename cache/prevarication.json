@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "prevarication",
+    "results": [
+        {
+            "id": "prevarication",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivativeOf": [
+                        {
+                            "id": "prevaricate",
+                            "text": "prevaricate"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "prevarication"
+                                },
+                                {
+                                    "inflectedForm": "prevarications"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "prəˌverəˈkāSH(ə)n"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/prevarication_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "prəˌvɛrəˈkeɪʃ(ə)n"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "id": "m_en_gbus0813860.015"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "prevarication"
+                }
+            ],
+            "type": "headword",
+            "word": "prevarication"
+        }
+    ]
+}

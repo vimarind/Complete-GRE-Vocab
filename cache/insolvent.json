@@ -1,0 +1,186 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "insolvent",
+    "results": [
+        {
+            "id": "insolvent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "insolvent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈsälvənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/insolvent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈsɑlvənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "unable to pay debts owed"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "commerce",
+                                            "text": "Commerce"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the company became insolvent"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0512590.005",
+                                    "shortDefinitions": [
+                                        "unable to pay debts owed"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "relating to insolvency"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "insolvent liquidation"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0512590.007",
+                                            "shortDefinitions": [
+                                                "relating to insolvency"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "bankrupt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unable to pay one's debts"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ruined"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "collapsed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "defaulting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "liquidated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wiped out"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "insolvent",
+                                            "sense_id": "t_en_gb0007969.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "insolvent"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "insolvent"
+                                },
+                                {
+                                    "inflectedForm": "insolvents"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈsälvənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/insolvent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈsɑlvənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an insolvent person."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "commerce",
+                                            "text": "Commerce"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0512590.009",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "poor_person",
+                                            "text": "Poor_Person"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "insolvent person"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "insolvent"
+                }
+            ],
+            "type": "headword",
+            "word": "insolvent"
+        }
+    ]
+}

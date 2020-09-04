@@ -1,0 +1,305 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "fraud",
+    "results": [
+        {
+            "id": "fraud",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French fraude, from Latin fraus, fraud- ‘deceit, injury’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "fraud"
+                                },
+                                {
+                                    "inflectedForm": "frauds"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "frôd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/fraud_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "frɔd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "wrongful or criminal deception intended to result in financial or personal gain"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "crime",
+                                            "text": "Crime"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was convicted of fraud"
+                                        },
+                                        {
+                                            "text": "prosecutions for social security frauds"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0386830.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "deception",
+                                            "text": "Deception"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "wrongful or criminal deception intended to result in financial or personal gain"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a person or thing intended to deceive others, typically by unjustifiably claiming or being credited with accomplishments or qualities"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "crime",
+                                                    "text": "Crime"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "mediums exposed as tricksters and frauds"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0386830.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "bad_person",
+                                                    "text": "Bad_Person"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "person or thing intended to deceive others"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "impostor"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fake"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sham"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pretender"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hoodwinker"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "masquerader"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "charlatan"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "quack"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "mountebank"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sham"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hoax"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "imitation"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "copy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dummy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "mock-up"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "fraud",
+                                                    "sense_id": "t_en_gb0006038.003"
+                                                },
+                                                {
+                                                    "entry_id": "fraud",
+                                                    "sense_id": "t_en_gb0006038.004"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "fraudulence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sharp practice"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cheating"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swindling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trickery"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "artifice"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deceit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deception"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "double-dealing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "duplicity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "treachery"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chicanery"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "skulduggery"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "imposture"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "embezzlement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deception"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trick"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cheat"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hoax"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "subterfuge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stratagem"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wile"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ruse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "artifice"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swindle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "racket"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "fraud",
+                                            "sense_id": "t_en_gb0006038.001"
+                                        },
+                                        {
+                                            "entry_id": "fraud",
+                                            "sense_id": "t_en_gb0006038.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "fraud"
+                }
+            ],
+            "type": "headword",
+            "word": "fraud"
+        }
+    ]
+}

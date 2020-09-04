@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "expunge",
+    "results": [
+        {
+            "id": "expunge",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "expunction",
+                            "text": "expunction"
+                        },
+                        {
+                            "id": "expungement",
+                            "text": "expungement"
+                        },
+                        {
+                            "id": "expunger",
+                            "text": "expunger"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin expungere ‘mark for deletion by means of points’, from ex- ‘out’ + pungere ‘to prick’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "expunge"
+                                },
+                                {
+                                    "inflectedForm": "expunged"
+                                },
+                                {
+                                    "inflectedForm": "expunges"
+                                },
+                                {
+                                    "inflectedForm": "expunging"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ikˈspənj"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/expunge_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪkˈspəndʒ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "erase or remove completely (something unwanted or unpleasant)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I’ve kind of expunged that period from my CV"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0343390.006",
+                                    "shortDefinitions": [
+                                        "obliterate or remove completely"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "erase"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remove"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "delete"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rub out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wipe out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "efface"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "expunge",
+                                            "sense_id": "t_en_gb0005324.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "expunge"
+                }
+            ],
+            "type": "headword",
+            "word": "expunge"
+        }
+    ]
+}

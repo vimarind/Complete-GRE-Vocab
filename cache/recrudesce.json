@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "recrudesce",
+    "results": [
+        {
+            "id": "recrudesce",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 18th century: back-formation from recrudescence"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "recrudesce"
+                                },
+                                {
+                                    "inflectedForm": "recrudesced"
+                                },
+                                {
+                                    "inflectedForm": "recrudesces"
+                                },
+                                {
+                                    "inflectedForm": "recrudescing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌrēkro͞oˈdes"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/recrudesce_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌrikruˈdɛs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "break out again; recur"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "diseases such as polio, which had been limited to a handful of countries, can recrudesce when conditions favor the virus"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0852240.009",
+                                    "registers": [
+                                        {
+                                            "id": "formal",
+                                            "text": "Formal"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "break out again"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "happen again"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reoccur"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "occur again"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be repeated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "repeat"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "repeat itself"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "recur",
+                                            "sense_id": "t_en_gb0012229.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "recrudesce"
+                }
+            ],
+            "type": "headword",
+            "word": "recrudesce"
+        }
+    ]
+}

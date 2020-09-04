@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "relegate",
+    "results": [
+        {
+            "id": "relegate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘send into exile’): from Latin relegat- ‘sent away, referred’, from the verb relegare, from re- ‘again’ + legare ‘send’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "relegate"
+                                },
+                                {
+                                    "inflectedForm": "relegated"
+                                },
+                                {
+                                    "inflectedForm": "relegates"
+                                },
+                                {
+                                    "inflectedForm": "relegating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈreləˌɡāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/relegate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈrɛləˌɡeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "consign or dismiss to an inferior rank or position"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they aim to prevent women from being relegated to a secondary role"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0859550.005",
+                                    "shortDefinitions": [
+                                        "assign inferior rank or position to"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "downgrade"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lower"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lower in rank"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lower in status"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "move down"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "relegate",
+                                            "sense_id": "t_en_gb0012331.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "relegate"
+                }
+            ],
+            "type": "headword",
+            "word": "relegate"
+        }
+    ]
+}

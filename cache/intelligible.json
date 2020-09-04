@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "intelligible",
+    "results": [
+        {
+            "id": "intelligible",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "intelligibly",
+                            "text": "intelligibly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (also in the sense ‘capable of understanding’): from Latin intelligibilis, from intelligere ‘understand’ (see intelligent)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "intelligible"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈteləjəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/intelligible_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈtɛlədʒəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "intelligible to"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "able to be understood; comprehensible"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this would make the system more intelligible to the general public"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0514510.005",
+                                    "shortDefinitions": [
+                                        "able to be understood"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "able to be understood only by the intellect, not by the senses."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "philosophy",
+                                                    "text": "Philosophy"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "philosophy",
+                                                    "text": "Philosophy"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0514510.007",
+                                            "shortDefinitions": [
+                                                "able to be understood only by intellect, not by senses"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "comprehensible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "understandable"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "intelligible",
+                                            "sense_id": "t_en_gb0008038.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "intelligible"
+                }
+            ],
+            "type": "headword",
+            "word": "intelligible"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "egotist",
+    "results": [
+        {
+            "id": "egotist",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "egotist"
+                                },
+                                {
+                                    "inflectedForm": "egotists"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈēɡətəst"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/egotist_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈiɡətəst"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who is excessively conceited or self-absorbed; self-seeker"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "psychology",
+                                            "text": "Psychology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he is a self-absorbed egotist"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0314120.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "person",
+                                            "text": "Person"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person who is very conceited or absorbed in themselves"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "self-seeker"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "egocentric"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "egomaniac"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "self admirer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "narcissist"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "egotist",
+                                            "sense_id": "t_en_gb0004665.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "egotist"
+                }
+            ],
+            "type": "headword",
+            "word": "egotist"
+        }
+    ]
+}

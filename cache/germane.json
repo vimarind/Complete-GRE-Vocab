@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "germane",
+    "results": [
+        {
+            "id": "germane",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "germanely",
+                            "text": "germanely"
+                        },
+                        {
+                            "id": "germaneness",
+                            "text": "germaneness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: variant of german, with which it was synonymous from Middle English. The current sense has arisen from a usage in Shakespeare's Hamlet"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "germane"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "jərˈmān"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/germane_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dʒərˈmeɪn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "germane to"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "relevant to a subject under consideration"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "that is not germane to our theme"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0410960.005",
+                                    "shortDefinitions": [
+                                        "relevant to subject under consideration"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "relevant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pertinent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "applicable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "apposite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "material"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "germane",
+                                            "sense_id": "t_en_gb0006308.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "germane"
+                }
+            ],
+            "type": "headword",
+            "word": "germane"
+        }
+    ]
+}

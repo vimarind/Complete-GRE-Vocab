@@ -1,0 +1,149 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "goosebumps",
+    "results": [
+        {
+            "id": "goosebumps",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "plural",
+                                    "text": "Plural",
+                                    "type": "Number"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "goosebump"
+                                },
+                                {
+                                    "inflectedForm": "goosebumps"
+                                },
+                                {
+                                    "inflectedForm": "goose-bump"
+                                },
+                                {
+                                    "inflectedForm": "goose-bumps"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈɡo͞osˌbəmps"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/goosebumps_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɡusˌbəmps"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a state of the skin caused by cold, fear, or excitement, in which small bumps appear on the surface as the hairs become erect"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this place gives me goosebumps"
+                                        },
+                                        {
+                                            "text": "every time I listen to it I get goosebumps at the guitar solos"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0423840.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "physiological_state",
+                                            "text": "Physiological_State"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "state of the skin in which small bumps appear"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "prickling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tingling"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stinging"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "smart"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "smarting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pricking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "itch"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "creeping sensation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "goosebumps"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "goose pimples"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pins and needles"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "tingle",
+                                            "sense_id": "t_en_gb0014910.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "goosebumps"
+                }
+            ],
+            "type": "headword",
+            "word": "goosebumps"
+        }
+    ]
+}

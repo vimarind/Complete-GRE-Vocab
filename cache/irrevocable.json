@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "irrevocable",
+    "results": [
+        {
+            "id": "irrevocable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "irrevocability",
+                            "text": "irrevocability"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French, or from Latin irrevocabilis, from in- ‘not’ + revocabilis ‘able to be revoked’ (from the verb revocare)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "irrevocable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈrevəkəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/irrevocable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈrɛvəkəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "not able to be changed, reversed, or recovered; final"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an irrevocable step"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0523150.005",
+                                    "shortDefinitions": [
+                                        "not able to be changed or recovered"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "irreversible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unrectifiable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "irremediable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "irreparable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unrepairable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "beyond repair"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "irrevocable",
+                                            "sense_id": "t_en_gb0008240.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "irrevocable"
+                }
+            ],
+            "type": "headword",
+            "word": "irrevocable"
+        }
+    ]
+}

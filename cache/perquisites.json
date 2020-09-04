@@ -1,0 +1,204 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "perquisites",
+    "results": [
+        {
+            "id": "perquisite",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from medieval Latin perquisitum ‘acquisition’, from Latin perquirere ‘search diligently for’, from per- ‘thoroughly’ + quaerere ‘seek’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "perquisite"
+                                },
+                                {
+                                    "inflectedForm": "perquisites"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "Perquisite and prerequisite are sometimes confused. Perquisite usually means ‘an extra allowance or privilege’: he had all the perquisites of a movie star, including a stand-in. Prerequisite means ‘something required as a condition’: passing the examination was one of the prerequisites for a teaching position",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpərkwəzət"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/perquisite_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpərkwəzət"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "another term for perk"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "perk",
+                                            "text": "perk",
+                                            "type": "another term for"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0768220.010",
+                                    "registers": [
+                                        {
+                                            "id": "formal",
+                                            "text": "Formal"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a thing regarded as a special right or privilege enjoyed as a result of one's position"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the wife of a president has all the perquisites of stardom"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0768220.011",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "asset",
+                                                    "text": "Asset"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "thing regarded as special right or privilege enjoyed as result of one's position"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "benefit"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "value"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "reward"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "merit"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "good point"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "strong point"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "asset"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "plus"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bonus"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "boon"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "blessing"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "virtue"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "privilege"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "perk"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fringe benefit"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "additional benefit"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "added extra"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "advantage",
+                                                    "sense_id": "t_en_gb0000302.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a thing that has served its primary use and is then given to a subordinate or employee as a customary right."
+                                            ],
+                                            "id": "m_en_gbus0768220.014",
+                                            "registers": [
+                                                {
+                                                    "id": "historical",
+                                                    "text": "Historical"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "asset",
+                                                    "text": "Asset"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "thing that has served its primary use and is then given to subordinate or employee as customary right"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "perquisite"
+                }
+            ],
+            "type": "headword",
+            "word": "perquisite"
+        }
+    ]
+}

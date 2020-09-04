@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "infelicitous",
+    "results": [
+        {
+            "id": "infelicitous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "infelicitously",
+                            "text": "infelicitously"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "infelicitous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌinfəˈlisədəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/infelicitous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɪnfəˈlɪsədəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "unfortunate; inappropriate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his illustration is singularly infelicitous"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0507320.005",
+                                    "shortDefinitions": [
+                                        "unfortunate"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "unfortunate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "regrettable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unsuitable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inappropriate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inapposite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inapt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inadvisable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "injudicious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "untimely"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inopportune"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "infelicitous",
+                                            "sense_id": "t_en_gb0007793.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "infelicitous"
+                }
+            ],
+            "type": "headword",
+            "word": "infelicitous"
+        }
+    ]
+}

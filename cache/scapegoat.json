@@ -1,0 +1,213 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "scapegoat",
+    "results": [
+        {
+            "id": "scapegoat",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "scapegoater",
+                            "text": "scapegoater"
+                        },
+                        {
+                            "id": "scapegoating",
+                            "text": "scapegoating"
+                        },
+                        {
+                            "id": "scapegoatism",
+                            "text": "scapegoatism"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from archaic scape ‘escape’ + goat"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "scapegoat"
+                                },
+                                {
+                                    "inflectedForm": "scapegoats"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈskāpˌɡōt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/scapegoat_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈskeɪpˌɡoʊt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who is blamed for the wrongdoings, mistakes, or faults of others, especially for reasons of expediency."
+                                    ],
+                                    "id": "m_en_gbus0904920.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "disliked_person",
+                                            "text": "Disliked_Person"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person who is blamed for wrongdoings, mistakes, or faults of others"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "whipping boy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "victim"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Aunt Sally"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "scapegoat",
+                                            "sense_id": "t_en_gb0012952.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(in the Bible) a goat sent into the wilderness after the Jewish chief priest had symbolically laid the sins of the people upon it (Lev. 16)."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "biblical",
+                                            "text": "Biblical"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0904920.010",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "goat",
+                                            "text": "Goat"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "(in Bible) goat sent into wilderness after Jewish chief priest had symbolically laid sins of people upon it"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "scapegoat"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "scapegoater",
+                            "text": "scapegoater"
+                        },
+                        {
+                            "id": "scapegoating",
+                            "text": "scapegoating"
+                        },
+                        {
+                            "id": "scapegoatism",
+                            "text": "scapegoatism"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "scapegoat"
+                                },
+                                {
+                                    "inflectedForm": "scapegoated"
+                                },
+                                {
+                                    "inflectedForm": "scapegoating"
+                                },
+                                {
+                                    "inflectedForm": "scapegoats"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈskāpˌɡōt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/scapegoat_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈskeɪpˌɡoʊt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make a scapegoat of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "few things are harder for kids to bear than being scapegoated"
+                                        },
+                                        {
+                                            "text": "it makes little sense to scapegoat the poor"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0904920.012",
+                                    "shortDefinitions": [
+                                        "make scapegoat of"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "scapegoat"
+                }
+            ],
+            "type": "headword",
+            "word": "scapegoat"
+        }
+    ]
+}

@@ -1,0 +1,440 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "vintage",
+    "results": [
+        {
+            "id": "vintage",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: alteration (influenced by vintner) of earlier vendage, from Old French vendange, from Latin vindemia (from vinum ‘wine’ + demere ‘remove’)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "vintage"
+                                },
+                                {
+                                    "inflectedForm": "vintages"
+                                },
+                                {
+                                    "inflectedForm": "vintage"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈvin(t)ij"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/vintage_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈvɪn(t)ɪdʒ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the year or place in which wine, especially wine of high quality, was produced."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "wine",
+                                            "text": "Wine"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1130610.017",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "age",
+                                            "text": "Age"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "year or place in which wine was produced"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a wine of high quality made from the crop of a single identified district in a good year."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "wine",
+                                                    "text": "Wine"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1130610.020",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "wine",
+                                                    "text": "Wine"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "wine of high quality made from crop of single identified district in good year"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "wine."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "wine",
+                                                    "text": "Wine"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1130610.021",
+                                            "registers": [
+                                                {
+                                                    "id": "literary",
+                                                    "text": "Literary"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "wine",
+                                                    "text": "Wine"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "wine"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the harvesting of grapes for winemaking."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "wine",
+                                                    "text": "Wine"
+                                                },
+                                                {
+                                                    "id": "farming",
+                                                    "text": "Farming"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1130610.023",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "harvest",
+                                                    "text": "Harvest"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "harvesting of grapes for winemaking"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the grapes or wine produced in a particular season."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "wine",
+                                                    "text": "Wine"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1130610.024",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "grape",
+                                                    "text": "Grape"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "grapes or wine produced in particular season"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "grape harvest"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "grape gathering"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "grape crop"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "harvest"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "crop"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "yield"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "year's growth"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "vintage",
+                                                    "sense_id": "t_en_gb0015967.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the time that something of quality was produced"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "rifles of various sizes and vintages"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1130610.025",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "period",
+                                                    "text": "Period"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "time that something of quality was produced"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "period"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "era"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "epoch"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "time"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "origin"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "vintage",
+                                                    "sense_id": "t_en_gb0015967.003"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "year"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "vintage",
+                                            "sense_id": "t_en_gb0015967.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "vintage"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "vintage"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈvin(t)ij"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/vintage_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈvɪn(t)ɪdʒ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to or denoting wine of high quality"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "wine",
+                                            "text": "Wine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "vintage claret"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1130610.033",
+                                    "shortDefinitions": [
+                                        "of, relating to, or denoting wine of high quality"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "denoting something of high quality, especially something from the past or characteristic of the best period of a person's work"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a vintage Sherlock Holmes adventure"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1130610.035",
+                                            "shortDefinitions": [
+                                                "denoting something of high quality"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "high-quality"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "quality"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "prime"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "choice"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "select"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "superior"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "best"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "classic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ageless"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "timeless"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "enduring"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "vintage",
+                                                    "sense_id": "t_en_gb0015967.004"
+                                                },
+                                                {
+                                                    "entry_id": "vintage",
+                                                    "sense_id": "t_en_gb0015967.005"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "high-quality"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quality"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prime"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "choice"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "select"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "superior"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "best"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "vintage",
+                                            "sense_id": "t_en_gb0015967.004"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "vintage"
+                }
+            ],
+            "type": "headword",
+            "word": "vintage"
+        }
+    ]
+}

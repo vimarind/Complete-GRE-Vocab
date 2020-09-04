@@ -1,0 +1,208 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "hamstrung",
+    "results": [
+        {
+            "id": "hamstring",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "16th century: from ham+ string"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        },
+                                        {
+                                            "id": "pastParticiple",
+                                            "text": "Past Participle",
+                                            "type": "Non Finiteness"
+                                        },
+                                        {
+                                            "id": "past",
+                                            "text": "Past",
+                                            "type": "Tense"
+                                        }
+                                    ],
+                                    "inflectedForm": "hamstrung"
+                                },
+                                {
+                                    "inflectedForm": "hamstring"
+                                },
+                                {
+                                    "inflectedForm": "hamstringing"
+                                },
+                                {
+                                    "inflectedForm": "hamstrings"
+                                },
+                                {
+                                    "inflectedForm": "hamstrung"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈhamˌstriNG"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/hamstring_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈhæmˌstrɪŋ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cripple (a person or animal) by cutting their hamstrings."
+                                    ],
+                                    "id": "m_en_gbus0448020.011",
+                                    "shortDefinitions": [
+                                        "cripple by cutting hamstrings"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "severely restrict the efficiency or effectiveness of"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "we were hamstrung by a total lack of knowledge"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0448020.017",
+                                            "notes": [
+                                                {
+                                                    "text": "usually \"be hamstrung\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "severely restrict efficiency of"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "handicap"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "constrain"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "restrict"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cripple"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "shackle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fetter"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "encumber"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "block"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "frustrate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cramp"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bridle"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "hamstring",
+                                                    "sense_id": "t_en_gb0006702.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "cripple"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lame"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hock"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "handicap"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "injure"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "hamstring",
+                                            "sense_id": "t_en_gb0006702.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "hamstring"
+                }
+            ],
+            "type": "headword",
+            "word": "hamstring"
+        }
+    ]
+}

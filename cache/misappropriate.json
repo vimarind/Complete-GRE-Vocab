@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "misappropriate",
+    "results": [
+        {
+            "id": "misappropriate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "misappropriate"
+                                },
+                                {
+                                    "inflectedForm": "misappropriated"
+                                },
+                                {
+                                    "inflectedForm": "misappropriates"
+                                },
+                                {
+                                    "inflectedForm": "misappropriating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌmisəˈprōprēˌāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/misappropriate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌmɪsəˈproʊpriˌeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person) dishonestly or unfairly take (something, especially money, belonging to another) for one's own use"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "department officials had misappropriated funds"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0648050.005",
+                                    "shortDefinitions": [
+                                        "dishonestly or unfairly take something belonging to another for one's own use"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "embezzle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expropriate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "steal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "thieve"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pilfer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swindle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pocket"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "help oneself to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abscond with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make off with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "have one's fingers in the till"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "have one's hand in the till"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "misappropriate",
+                                            "sense_id": "t_en_gb0009491.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "misappropriate"
+                }
+            ],
+            "type": "headword",
+            "word": "misappropriate"
+        }
+    ]
+}

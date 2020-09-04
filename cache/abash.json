@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "abash",
+    "results": [
+        {
+            "id": "abash",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "abashment",
+                            "text": "abashment"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Anglo-Norman French abaiss-; compare with Old French esbaiss-, lengthened stem of esbair, from es- ‘utterly’ + bair ‘astound’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "abash"
+                                },
+                                {
+                                    "inflectedForm": "abashed"
+                                },
+                                {
+                                    "inflectedForm": "abashes"
+                                },
+                                {
+                                    "inflectedForm": "abashing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əˈbaSH"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/abash_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əˈbæʃ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (someone) feel embarrassed, disconcerted, or ashamed"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "if anything was officially done or said to him, it did not abash him"
+                                        },
+                                        {
+                                            "text": "they have taken great delight in abashing critics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0000910.006",
+                                    "shortDefinitions": [
+                                        "make someone feel embarrassed or ashamed"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "abash"
+                }
+            ],
+            "type": "headword",
+            "word": "abash"
+        }
+    ]
+}

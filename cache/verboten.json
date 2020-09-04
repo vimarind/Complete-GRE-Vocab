@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "verboten",
+    "results": [
+        {
+            "id": "verboten",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "German"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "verboten"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "fərˈbōtn"
+                                },
+                                {
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "vər-"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/verboten_us_1.mp3",
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "fərˈboʊtn"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "forbidden, especially by an authority"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "bank fishing is verboten on Strathbeg"
+                                        },
+                                        {
+                                            "text": "the list of verboten films"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1124660.009",
+                                    "shortDefinitions": [
+                                        "forbidden"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "illegal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unlawful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "illicit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "against the law"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "criminal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lawbreaking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "actionable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "felonious"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "illegitimate",
+                                            "sense_id": "t_en_gb0007329.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "verboten"
+                }
+            ],
+            "type": "headword",
+            "word": "verboten"
+        }
+    ]
+}

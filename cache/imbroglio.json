@@ -1,0 +1,181 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "imbroglio",
+    "results": [
+        {
+            "id": "imbroglio",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 18th century: Italian, from imbrogliare ‘confuse’; related to embroil"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "imbroglios"
+                                },
+                                {
+                                    "inflectedForm": "imbroglio"
+                                },
+                                {
+                                    "inflectedForm": "imbroglios"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "imˈbrōlyō"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/imbroglio_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪmˈbroʊljoʊ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an extremely confused, complicated, or embarrassing situation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the Watergate imbroglio"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0496820.008",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "difficulty",
+                                            "text": "Difficulty"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "extremely confused, complicated, or embarrassing situation"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a confused heap."
+                                            ],
+                                            "id": "m_en_gbus0496820.011",
+                                            "registers": [
+                                                {
+                                                    "id": "archaic",
+                                                    "text": "Archaic"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "disorder",
+                                                    "text": "Disorder"
+                                                },
+                                                {
+                                                    "id": "pile",
+                                                    "text": "Pile"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "confused heap"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "complicated situation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "complication"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "complexity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "problem"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "difficulty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "predicament"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plight"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trouble"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "entanglement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "confusion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "muddle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mess"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quandary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dilemma"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "imbroglio",
+                                            "sense_id": "t_en_gb0007374.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "imbroglio"
+                }
+            ],
+            "type": "headword",
+            "word": "imbroglio"
+        }
+    ]
+}

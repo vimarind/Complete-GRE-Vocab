@@ -1,0 +1,263 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "enormity",
+    "results": [
+        {
+            "id": "enormity",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via Old French from Latin enormitas, from enormis, from e- (variant of ex-) ‘out of’ + norma ‘pattern, standard’. The word originally meant ‘deviation from legal or moral rectitude’ and ‘transgression’. Current senses have been influenced by enormous"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "enormities"
+                                },
+                                {
+                                    "inflectedForm": "enormity"
+                                },
+                                {
+                                    "inflectedForm": "enormities"
+                                },
+                                {
+                                    "inflectedForm": "enormity"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "Enormity traditionally means ‘the extreme scale or seriousness of something bad or morally wrong,’ as in they were struggling to deal with the enormity of the crime. Today, however, a more neutral sense as a synonym for hugeness or immensity, as in he soon discovered the enormity of the task, is common. Some people regard this use as wrong, arguing that enormity in its original sense meant ‘an extreme wickedness’ and should therefore continue to be used only of contexts in which a negative moral judgment is implied. Nevertheless, the sense of 'great size' is now broadly accepted in standard English, although it generally relates to something difficult, such as a task, challenge, or achievement",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "iˈnôrmədē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/enormity_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪˈnɔrmədi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the great or extreme scale, seriousness, or extent of something perceived as bad or morally wrong"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a thorough search disclosed the full enormity of the crime"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0325560.006",
+                                    "notes": [
+                                        {
+                                            "text": "\"the enormity of\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "extent",
+                                            "text": "Extent"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "great or extreme scale, seriousness"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(in neutral use) large size or scale"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I began to get a sense of the enormity of the task"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0325560.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "extent",
+                                                    "text": "Extent"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "large size or scale"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "immensity"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "vastness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "massiveness"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hugeness"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "enormity",
+                                                    "sense_id": "t_en_gb0004894.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a grave crime or sin"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the enormities of the regime"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0325560.010",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "wrongdoing",
+                                            "text": "Wrongdoing"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "grave crime or sin"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "wickedness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "evilness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vileness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "baseness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blackness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "depravity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "outrage"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "horror"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "evil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "villainy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "atrocity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "barbarity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "act of brutality"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "act of savagery"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "act of wickedness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "act of cruelty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abomination"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "monstrosity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "obscenity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "iniquity"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "enormity",
+                                            "sense_id": "t_en_gb0004894.002"
+                                        },
+                                        {
+                                            "entry_id": "enormity",
+                                            "sense_id": "t_en_gb0004894.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "enormity"
+                }
+            ],
+            "type": "headword",
+            "word": "enormity"
+        }
+    ]
+}

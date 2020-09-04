@@ -1,0 +1,452 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "saturate",
+    "results": [
+        {
+            "id": "saturate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "saturant",
+                            "text": "saturant"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as an adjective in the sense ‘satisfied’): from Latin saturat- ‘filled, glutted’, from the verb saturare, from satur ‘full’. The early sense of the verb (mid 16th century) was ‘satisfy’; the noun dates from the 1950s"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "saturate"
+                                },
+                                {
+                                    "inflectedForm": "saturated"
+                                },
+                                {
+                                    "inflectedForm": "saturates"
+                                },
+                                {
+                                    "inflectedForm": "saturating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsaCHəˌrāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/saturate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsætʃəˌreɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cause (something) to become thoroughly soaked with liquid so that no more can be absorbed"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the soil is saturated"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0901980.005",
+                                    "shortDefinitions": [
+                                        "cause something to become thoroughly soaked with water or other liquid so that no more can be absorbed"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "cause (a substance) to combine with, dissolve, or hold the greatest possible quantity of another substance"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "chemistry",
+                                                    "text": "Chemistry"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the groundwater is saturated with calcium hydroxide"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0901980.016",
+                                            "shortDefinitions": [
+                                                "cause substance to combine with, dissolve, or hold greatest possible quantity of another substance"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "magnetize or charge (a substance or device) fully."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "physics",
+                                                    "text": "Physics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0901980.017",
+                                            "shortDefinitions": [
+                                                "magnetize or charge substance or device fully"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "put (a device) into a state in which no further increase in current is achievable."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "electronics",
+                                                    "text": "Electronics"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "electronics",
+                                                    "text": "Electronics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0901980.018",
+                                            "shortDefinitions": [
+                                                "put device into state in which no further increase in current is achievable"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "fill (something or someone) with something until no more can be held or absorbed"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they've become thoroughly saturated with powerful and seductive messages from the media"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0901980.019",
+                                            "notes": [
+                                                {
+                                                    "text": "usually \"be saturated with\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "fill something or someone with something until no more can be held or absorbed"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "permeate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "impregnate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "suffuse"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "imbue"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pervade"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "steep"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "charge"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "infuse"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "inform"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "fill"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "spread throughout"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "saturate",
+                                                    "sense_id": "t_en_gb0012909.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "supply (a market) beyond the point at which the demand for a product is satisfied"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "commerce",
+                                                    "text": "Commerce"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Japan's electronics industry began to saturate the world markets"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0901980.020",
+                                            "shortDefinitions": [
+                                                "supply market beyond point at which demand for product is satisfied"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "flood"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "glut"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "swamp"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "oversupply"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "overfill"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "overload"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "saturate",
+                                                    "sense_id": "t_en_gb0012909.003"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "overwhelm (an enemy target area) by concentrated bombing."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "military",
+                                                    "text": "Military"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0901980.021",
+                                            "shortDefinitions": [
+                                                "overwhelm enemy target area by concentrated bombing"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "soak"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drench"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "waterlog"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wet through"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wet"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "saturate",
+                                            "sense_id": "t_en_gb0012909.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "saturate"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "saturant",
+                            "text": "saturant"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "saturate"
+                                },
+                                {
+                                    "inflectedForm": "saturates"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "usually \"saturates\"",
+                                    "type": "wordFormNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsaCHərət"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/saturate_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsætʃərət"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a saturated fat"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "chemistry",
+                                            "text": "Chemistry"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "as far as the heart is concerned saturates are considered the main enemy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0901980.026",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "organic_compound",
+                                            "text": "Organic_Compound"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "saturated fat"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "saturate"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "saturant",
+                            "text": "saturant"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "saturate"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsaCHərət"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/saturate_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsætʃərət"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "saturated with moisture."
+                                    ],
+                                    "id": "m_en_gbus0901980.035",
+                                    "registers": [
+                                        {
+                                            "id": "literary",
+                                            "text": "Literary"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "saturated with moisture"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "saturate"
+                }
+            ],
+            "type": "headword",
+            "word": "saturate"
+        }
+    ]
+}

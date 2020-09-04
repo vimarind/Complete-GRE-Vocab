@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "elusive",
+    "results": [
+        {
+            "id": "elusive",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "elusively",
+                            "text": "elusively"
+                        },
+                        {
+                            "id": "elusiveness",
+                            "text": "elusiveness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 18th century: from Latin elus- ‘eluded’ (from the verb eludere) + -ive"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "elusive"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ēˈlo͞osiv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/elusive_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "iˈlusɪv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "difficult to find, catch, or achieve"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "success will become ever more elusive"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0319140.005",
+                                    "shortDefinitions": [
+                                        "difficult to find or achieve"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "difficult to remember or recall"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the elusive thought he had had moments before"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0319140.007",
+                                            "shortDefinitions": [
+                                                "difficult to remember"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "difficult to catch"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "difficult to find"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "difficult to track down"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "elusive",
+                                            "sense_id": "t_en_gb0004722.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "elusive"
+                }
+            ],
+            "type": "headword",
+            "word": "elusive"
+        }
+    ]
+}

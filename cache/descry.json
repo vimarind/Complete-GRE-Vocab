@@ -1,0 +1,167 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "descry",
+    "results": [
+        {
+            "id": "descry",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: Old French descrier ‘publish, proclaim’, perhaps confused with obsolete descry ‘describe’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "descries"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "descrying"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "transitive",
+                                            "text": "Transitive",
+                                            "type": "Subcategorization"
+                                        }
+                                    ],
+                                    "inflectedForm": "descried"
+                                },
+                                {
+                                    "inflectedForm": "descried"
+                                },
+                                {
+                                    "inflectedForm": "descries"
+                                },
+                                {
+                                    "inflectedForm": "descry"
+                                },
+                                {
+                                    "inflectedForm": "descrying"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈskrī"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/descry_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈskraɪ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "catch sight of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she descried two figures"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0267620.005",
+                                    "registers": [
+                                        {
+                                            "id": "literary",
+                                            "text": "Literary"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "catch sight of"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "perceive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pick out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "detect"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "recognize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "notice"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "observe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "see"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spot"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "discern",
+                                            "sense_id": "t_en_gb0004037.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "descry"
+                }
+            ],
+            "type": "headword",
+            "word": "descry"
+        }
+    ]
+}

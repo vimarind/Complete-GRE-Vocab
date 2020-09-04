@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "microcosm",
+    "results": [
+        {
+            "id": "microcosm",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "microcosmic",
+                            "text": "microcosmic"
+                        },
+                        {
+                            "id": "microcosmically",
+                            "text": "microcosmically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French microcosme or medieval Latin microcosmus, from Greek mikros kosmos ‘little world’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "micro-cosmos"
+                                },
+                                {
+                                    "inflectedForm": "micro-cosmoses"
+                                },
+                                {
+                                    "inflectedForm": "microcosm"
+                                },
+                                {
+                                    "inflectedForm": "microcosmos"
+                                },
+                                {
+                                    "inflectedForm": "microcosmoses"
+                                },
+                                {
+                                    "inflectedForm": "microcosms"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmīkrəˌkäzəm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/microcosm_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmaɪkrəˌkɑzəm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a community, place, or situation regarded as encapsulating in miniature the characteristic qualities or features of something much larger"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Berlin is a microcosm of Germany, in unity as in division"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0639620.008",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "situation",
+                                            "text": "Situation"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "community, place, or situation regarded as encapsulating in miniature characteristics of something much larger"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "humankind regarded as the epitome of the universe"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the belief in correspondences between the Universe and Man—between microcosm and macrocosm"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0639620.011",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "humankind",
+                                                    "text": "Humankind"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "humankind regarded as representation in miniature of universe"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "pronunciations": [
+                                        {
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "ˌmīkrəˈkäzməs"
+                                        },
+                                        {
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "-mōs"
+                                        }
+                                    ],
+                                    "text": "microcosmos"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "in_microcosm",
+                            "text": "in microcosm"
+                        }
+                    ],
+                    "text": "microcosm"
+                }
+            ],
+            "type": "headword",
+            "word": "microcosm"
+        }
+    ]
+}

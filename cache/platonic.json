@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "platonic",
+    "results": [
+        {
+            "id": "platonic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "platonically",
+                            "text": "platonically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Platonic, with reference to a discussion of love in the Symposium by Plato"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "platonic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "pləˈtänik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/platonic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "pləˈtɑnɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of love or friendship) intimate and affectionate but not sexual"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "their relationship is purely platonic"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0788590.006",
+                                    "shortDefinitions": [
+                                        "intimate and affectionate but not sexual"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "non-sexual"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "non-physical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "chaste"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "platonic",
+                                            "sense_id": "t_en_gb0011166.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "platonic"
+                }
+            ],
+            "type": "headword",
+            "word": "platonic"
+        },
+        {
+            "id": "Platonic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: via Latin from Greek Platōnikos, from Platōn ‘Plato’. See also platonic"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "Platonic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "pləˈtänik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/platonic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "pləˈtɑnɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "of or associated with the Greek philosopher Plato or his ideas"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "philosophy",
+                                            "text": "Philosophy"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "readers of the Platonic dialogues"
+                                        },
+                                        {
+                                            "text": "a kind of Platonic ideal of a New York City apartment"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0788600.006",
+                                    "shortDefinitions": [
+                                        "of or associated with Greek philosopher Plato or his ideas"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "confined to words, theories, or ideals, and not leading to practical action"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "philosophy",
+                                            "text": "Philosophy"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a Platonic gesture"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0788600.009",
+                                    "shortDefinitions": [
+                                        "confined to words, theories, or ideals"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "Platonic"
+                }
+            ],
+            "type": "headword",
+            "word": "Platonic"
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "promulgate",
+    "results": [
+        {
+            "id": "promulgate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "promulgation",
+                            "text": "promulgation"
+                        },
+                        {
+                            "id": "promulgator",
+                            "text": "promulgator"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (earlier (late 15th century) as promulgation): from Latin promulgat- ‘exposed to public view’, from the verb promulgare, from pro- ‘out, publicly’ + mulgere ‘cause to come forth’ (literally ‘to milk’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "promulgate"
+                                },
+                                {
+                                    "inflectedForm": "promulgated"
+                                },
+                                {
+                                    "inflectedForm": "promulgates"
+                                },
+                                {
+                                    "inflectedForm": "promulgating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpräməlˌɡāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/promulgate_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈprɑməlˌɡeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "promote or make widely known (an idea or cause)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "these objectives have to be promulgated within the organization"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0820670.005",
+                                    "shortDefinitions": [
+                                        "promote or make widely known"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "put (a law or decree) into effect by official proclamation"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "in January 1852 the new Constitution was promulgated"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0820670.011",
+                                            "shortDefinitions": [
+                                                "put law or decree into effect by official proclamation"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "put into effect"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "enact"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "implement"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "enforce"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pass"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "promulgate",
+                                                    "sense_id": "t_en_gb0011707.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "make known"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make public"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "publicize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "spread"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "communicate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "propagate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disseminate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "circulate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "broadcast"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "promote"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "announce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "proclaim"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "promulgate",
+                                            "sense_id": "t_en_gb0011707.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "promulgate"
+                }
+            ],
+            "type": "headword",
+            "word": "promulgate"
+        }
+    ]
+}

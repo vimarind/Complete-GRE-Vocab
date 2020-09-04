@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "conflate",
+    "results": [
+        {
+            "id": "conflate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘fuse or melt down metal’): from Latin conflat- ‘kindled, fused’, from the verb conflare, from con- ‘together’ + flare ‘to blow’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "conflate"
+                                },
+                                {
+                                    "inflectedForm": "conflated"
+                                },
+                                {
+                                    "inflectedForm": "conflates"
+                                },
+                                {
+                                    "inflectedForm": "conflating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kənˈflāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconflate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kənˈfleɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "combine (two or more texts, ideas, etc.) into one"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the urban crisis conflates a number of different economic and social issues"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0210280.005",
+                                    "shortDefinitions": [
+                                        "combine (two or more sets of information, texts, ideas, etc.) into one"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "condense"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shorten"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reduce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abbreviate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abridge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "summarize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "precis"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abstract"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "boil down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shrink"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "encapsulate"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "telescope",
+                                            "sense_id": "t_en_gb0014677.004"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "conflate"
+                }
+            ],
+            "type": "headword",
+            "word": "conflate"
+        }
+    ]
+}

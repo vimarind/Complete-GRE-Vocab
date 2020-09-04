@@ -1,0 +1,149 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "exaggerate",
+    "results": [
+        {
+            "id": "exaggerate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "exaggerator",
+                            "text": "exaggerator"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin exaggerat- ‘heaped up’, from the verb exaggerare, from ex- ‘thoroughly’ + aggerare ‘heap up’ (from agger ‘heap’). The word originally meant ‘pile up, accumulate’, later ‘intensify praise or blame’, giving rise to current senses"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "exaggerate"
+                                },
+                                {
+                                    "inflectedForm": "exaggerated"
+                                },
+                                {
+                                    "inflectedForm": "exaggerates"
+                                },
+                                {
+                                    "inflectedForm": "exaggerating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "iɡˈzajəˌrāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/exaggerate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪɡˈzædʒəˌreɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "represent (something) as being larger, better, or worse than it really is"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was apt to exaggerate any aches and pains"
+                                        },
+                                        {
+                                            "text": "claims of turmoil within the firm are greatly exaggerated"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "I couldn't sleep for three days—I'm not exaggerating"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0338970.006",
+                                    "shortDefinitions": [
+                                        "represent something as being larger, better, or worse than it really is"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "overstate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overemphasize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overstress"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overestimate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "overvalue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "magnify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "amplify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "aggrandize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inflate"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "exaggerate",
+                                            "sense_id": "t_en_gb0005153.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "exaggerate"
+                }
+            ],
+            "type": "headword",
+            "word": "exaggerate"
+        }
+    ]
+}

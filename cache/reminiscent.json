@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "reminiscent",
+    "results": [
+        {
+            "id": "reminiscent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "reminiscently",
+                            "text": "reminiscently"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 18th century: from Latin reminiscent- ‘remembering’, from the verb reminisci"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "reminiscent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌreməˈnis(ə)nt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/reminiscent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌrɛməˈnɪs(ə)nt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "reminiscent of"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "tending to remind one of something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the sights were reminiscent of my childhood"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0860610.012",
+                                    "shortDefinitions": [
+                                        "tending to remind one of something"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "constructions": [
+                                                {
+                                                    "text": "reminiscent of"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "suggesting something by resemblance"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "her suit was vaguely reminiscent of military dress"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0860610.014",
+                                            "shortDefinitions": [
+                                                "suggesting something by resemblance"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "similar to"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "comparable with"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bearing comparison with"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "inviting comparison with"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tending to make one think of"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "reminiscent",
+                                                    "sense_id": "t_en_gb0012365.001"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a person or their manner) absorbed in or suggesting absorption in memories"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "her expression was wistful and reminiscent"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0860610.015",
+                                            "shortDefinitions": [
+                                                "(of person or their manner) absorbed in or suggesting absorption in memories"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "reminiscent"
+                }
+            ],
+            "type": "headword",
+            "word": "reminiscent"
+        }
+    ]
+}

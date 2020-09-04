@@ -1,0 +1,253 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "stigmas",
+    "results": [
+        {
+            "id": "stigma",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (denoting a mark made by pricking or branding): via Latin from Greek stigma ‘a mark made by a pointed instrument, a dot’; related to stick"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "stigmata",
+                                    "pronunciations": [
+                                        {
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "stiɡˈmätə"
+                                        },
+                                        {
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "ˈstiɡmətə"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "stigmas"
+                                },
+                                {
+                                    "inflectedForm": "stigma"
+                                },
+                                {
+                                    "inflectedForm": "stigmas"
+                                },
+                                {
+                                    "inflectedForm": "stigmas"
+                                },
+                                {
+                                    "inflectedForm": "stigmata"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈstiɡmə"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/stigma_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈstɪɡmə"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a mark of disgrace associated with a particular circumstance, quality, or person"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the stigma of having gone to prison will always be with me"
+                                        },
+                                        {
+                                            "text": "debt has lost its stigma and is now a part of everyday life"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0995250.013",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "characteristic",
+                                            "text": "Characteristic"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "mark of disgrace"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "shame"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disgrace"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dishonour"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "stigma",
+                                            "sense_id": "t_en_gb0014120.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(in Christian tradition) marks corresponding to those left on Jesus’ body by the Crucifixion, said to have been impressed by divine favor on the bodies of St. Francis of Assisi and others."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "christian",
+                                            "text": "Christian"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0995250.017",
+                                    "notes": [
+                                        {
+                                            "text": "\"stigmata\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "marking",
+                                            "text": "Marking"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "(in Christian tradition) marks corresponding to those left on Christ's body by Crucifixion"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a visible sign or characteristic of a disease"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "knee deformities or other stigmata of childhood rickets"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0995250.023",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "physiological_state",
+                                            "text": "Physiological_State"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "visible sign or characteristic of disease"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a mark or spot on the skin."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "medicine",
+                                                    "text": "Medicine"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0995250.024",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "damaged_tissue",
+                                                    "text": "Damaged_Tissue"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "mark or spot on skin"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "cicatrix"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "scar",
+                                                    "sense_id": "t_en_gb0012953.001"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(in a flower) the part of a pistil that receives the pollen during pollination."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "botany",
+                                            "text": "Botany"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "botany",
+                                            "text": "Botany"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0995250.026",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "plant_part",
+                                            "text": "Plant_Part"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "(in flower) part of pistil that receives pollen during pollination"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "stigma"
+                }
+            ],
+            "type": "headword",
+            "word": "stigma"
+        }
+    ]
+}

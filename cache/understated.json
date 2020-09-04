@@ -1,0 +1,266 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "understated",
+    "results": [
+        {
+            "id": "understated",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "understatedly",
+                            "text": "understatedly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "understated"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌəndərˈstādəd"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/understated_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌəndərˈsteɪdəd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "presented or expressed in a subtle and effective way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "understated elegance"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1097000.005",
+                                    "shortDefinitions": [
+                                        "presented or expressed in subtle and effective way"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "understated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "low-key"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "muted"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "toned down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "subdued"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "subtle",
+                                            "sense_id": "t_en_gb0014341.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "understated"
+                }
+            ],
+            "type": "headword",
+            "word": "understated"
+        },
+        {
+            "id": "understate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "understater",
+                            "text": "understater"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "understate"
+                                },
+                                {
+                                    "inflectedForm": "understated"
+                                },
+                                {
+                                    "inflectedForm": "understates"
+                                },
+                                {
+                                    "inflectedForm": "understating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌəndərˈstāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/understate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌəndərˈsteɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "describe or represent (something) as being smaller, worse, or less important than it actually is"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the press has understated the extent of the problem"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1096990.005",
+                                    "shortDefinitions": [
+                                        "describe or represent something as being smaller or less good or important than it really is"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "play down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "downplay"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make light of"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "underrate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rate too low"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "not do justice to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "do an injustice to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "underplay"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "de-emphasize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "underemphasize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trivialize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "minimize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "diminish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "downgrade"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reduce"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lessen"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "brush aside"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gloss over"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shrug off"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "understate",
+                                            "sense_id": "t_en_gb0015433.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "understate"
+                }
+            ],
+            "type": "headword",
+            "word": "understate"
+        }
+    ]
+}

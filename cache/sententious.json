@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "sententious",
+    "results": [
+        {
+            "id": "sententious",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "sententiously",
+                            "text": "sententiously"
+                        },
+                        {
+                            "id": "sententiousness",
+                            "text": "sententiousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin sententiosus, from sententia ‘opinion’ (see sentence). The original sense was ‘full of meaning or wisdom’, later becoming depreciatory"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "sententious"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "senˈten(t)SHəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/sententious_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "sɛnˈtɛn(t)ʃəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "given to moralizing in a pompous or affected manner"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he tried to encourage his men with sententious rhetoric"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0925010.005",
+                                    "shortDefinitions": [
+                                        "given to moralizing in pompous or affected manner"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "moralistic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "moralizing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sanctimonious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "self-righteous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pietistic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "priggish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "Pecksniffian"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "judgemental"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "canting"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sententious",
+                                            "sense_id": "t_en_gb0013234.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "sententious"
+                }
+            ],
+            "type": "headword",
+            "word": "sententious"
+        }
+    ]
+}

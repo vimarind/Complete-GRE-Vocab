@@ -1,0 +1,191 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "haptic",
+    "results": [
+        {
+            "id": "haptic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 19th century: from Greek haptikos ‘able to touch or grasp’, from haptein ‘fasten’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "haptic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈhaptik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/haptic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈhæptɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to the sense of touch, in particular relating to the perception and manipulation of objects using the senses of touch and proprioception"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "computing",
+                                            "text": "Computing"
+                                        },
+                                        {
+                                            "id": "physiology",
+                                            "text": "Physiology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "haptic feedback devices create the illusion of substance and force within the virtual world"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0450310.006",
+                                    "registers": [
+                                        {
+                                            "id": "technical",
+                                            "text": "Technical"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "relating to sense of touch"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "haptic"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "haptics"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "\"haptics\"",
+                                    "type": "wordFormNote"
+                                },
+                                {
+                                    "text": "treated as singular",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈhaptik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/haptic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈhæptɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the use of technology that stimulates the senses of touch and motion, especially to reproduce in remote operation or computer simulation the sensations that would be felt by a user interacting directly with physical objects"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "computing",
+                                            "text": "Computing"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "their research is centered on human-computer interaction specifically focusing on wearable computing, haptics, and video games"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0450310.012",
+                                    "registers": [
+                                        {
+                                            "id": "technical",
+                                            "text": "Technical"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "computer_activity",
+                                            "text": "Computer_Activity"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "use of technology that stimulates senses of touch and motion"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the perception of objects by touch and proprioception, especially as involved in nonverbal communication"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "haptics is that subsystem of nonlanguage communication which conveys meaning through physical contact"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0450310.010",
+                                    "registers": [
+                                        {
+                                            "id": "technical",
+                                            "text": "Technical"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "faculty",
+                                            "text": "Faculty"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "perception of objects by touch and proprioception"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "haptic"
+                }
+            ],
+            "type": "headword",
+            "word": "haptic"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "interplay",
+    "results": [
+        {
+            "id": "interplay",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "interplay"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈin(t)ərˌplā"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/interplay_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɪn(t)ərˌpleɪ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "interplay between"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "the way in which two or more things have an effect on each other"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the interplay between inheritance and learning"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0517310.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "relation",
+                                            "text": "Relation"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "way in which two or more things have effect on each other"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "interaction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "interchange"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "teamwork"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cooperation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reciprocation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reciprocity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "give and take"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "compromises"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "concessions"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "interplay",
+                                            "sense_id": "t_en_gb0008086.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "interplay"
+                }
+            ],
+            "type": "headword",
+            "word": "interplay"
+        }
+    ]
+}

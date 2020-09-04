@@ -1,0 +1,302 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "surrogate",
+    "results": [
+        {
+            "id": "surrogate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "surrogateship",
+                            "text": "surrogateship"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin surrogatus, past participle of surrogare ‘elect as a substitute’, from super- ‘over’ + rogare ‘ask’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "surrogate"
+                                },
+                                {
+                                    "inflectedForm": "surrogates"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsərəɡət"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/surrogate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsərəɡət"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsərəˌɡāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/surrogate_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsərəˌɡeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "surrogates for"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a substitute, especially a person deputizing for another in a specific role or office"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she served as a surrogate for the President on a trip to South America"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1017490.007",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "worker",
+                                            "text": "Worker"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "substitute"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "constructions": [
+                                                {
+                                                    "text": "via surrogate"
+                                                }
+                                            ],
+                                            "crossReferenceMarkers": [
+                                                "short for surrogate mother"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "surrogate_mother",
+                                                    "text": "surrogate mother",
+                                                    "type": "abbreviation of"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the guidelines clearly mention the rights of surrogates and prospective parents"
+                                                },
+                                                {
+                                                    "text": "their daughter was born via surrogate on March 25th"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1017490.010",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "female",
+                                                    "text": "Female"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "surrogate mother"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(in the Christian Church) a bishop's deputy who grants marriage licenses."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "ecclesiastical",
+                                                    "text": "Ecclesiastical"
+                                                },
+                                                {
+                                                    "id": "marriage",
+                                                    "text": "Marriage"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1017490.011",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "member_of_clergy",
+                                                    "text": "Member_Of_Clergy"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "(in Christian Church) bishop's deputy who grants marriage licences"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a judge in charge of probate, inheritance, and guardianship."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "law",
+                                                    "text": "Law"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1017490.012",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "lawyer",
+                                                    "text": "Lawyer"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "(in US) judge in charge of probate and guardianship"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "substitute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "proxy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "replacement"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "surrogate",
+                                            "sense_id": "t_en_gb0014482.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "surrogate"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "surrogateship",
+                            "text": "surrogateship"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "surrogate"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "attributive",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsərəɡət"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/surrogate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsərəɡət"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsərəˌɡāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/surrogate_us_3.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsərəˌɡeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to the birth of a child or children by means of surrogacy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "paperwork that will allow them to move forward with the surrogate process"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1017490.014",
+                                    "shortDefinitions": [
+                                        "relating to birth of child by surrogacy"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "denoting a child to whom a woman gives birth as a surrogate mother"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she has given birth to three surrogate babies"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1017490.015",
+                                            "shortDefinitions": [
+                                                "denoting child born to surrogate mother"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "surrogate"
+                }
+            ],
+            "type": "headword",
+            "word": "surrogate"
+        }
+    ]
+}

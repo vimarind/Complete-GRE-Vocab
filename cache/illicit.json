@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "illicit",
+    "results": [
+        {
+            "id": "illicit",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "illicitness",
+                            "text": "illicitness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: from French, or from Latin illicitus, from in- ‘not’ + licitus (see licit)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "illicit"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "i(l)ˈlisit"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/illicit_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪ(l)ˈlɪsɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "forbidden by law, rules, or custom"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        },
+                                        {
+                                            "id": "crime",
+                                            "text": "Crime"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "illicit drugs"
+                                        },
+                                        {
+                                            "text": "illicit sex"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0495620.005",
+                                    "shortDefinitions": [
+                                        "forbidden by law or custom"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "illegal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unlawful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "illegitimate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "against the law"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "taboo"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forbidden"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ruled out"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impermissible"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "not acceptable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unacceptable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "against the rules"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "illicit",
+                                            "sense_id": "t_en_gb0007336.001"
+                                        },
+                                        {
+                                            "entry_id": "illicit",
+                                            "sense_id": "t_en_gb0007336.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "illicit"
+                }
+            ],
+            "type": "headword",
+            "word": "illicit"
+        }
+    ]
+}

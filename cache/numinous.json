@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "numinous",
+    "results": [
+        {
+            "id": "numinous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "numinosity",
+                            "text": "numinosity"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin numen, numin- ‘divine will’+ -ous"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "numinous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈn(y)o͞omənəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/numinous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈn(j)umənəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having a strong religious or spiritual quality; indicating or suggesting the presence of a divinity"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the strange, numinous beauty of this ancient landmark"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0705760.007",
+                                    "shortDefinitions": [
+                                        "having strong religious or spiritual quality"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "spiritual"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "religious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "divine"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "holy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sacred"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "numinous",
+                                            "sense_id": "t_en_gb0010129.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "numinous"
+                }
+            ],
+            "type": "headword",
+            "word": "numinous"
+        }
+    ]
+}

@@ -1,0 +1,262 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "monotonous",
+    "results": [
+        {
+            "id": "monotonous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "monotonize",
+                            "text": "monotonize"
+                        },
+                        {
+                            "id": "monotonously",
+                            "text": "monotonously"
+                        },
+                        {
+                            "id": "monotonousness",
+                            "text": "monotonousness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "monotonous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "məˈnätnəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/monotonous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "məˈnɑtnəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "dull, tedious, and repetitious; lacking in variety and interest"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the statistics that he quotes with monotonous regularity"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0657530.005",
+                                    "shortDefinitions": [
+                                        "dull, tedious, and repetitious"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a sound or utterance) lacking in variation in tone or pitch"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "soon we heard a low, monotonous wailing of many voices"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0657530.007",
+                                            "shortDefinitions": [
+                                                "lacking in variation in tone or pitch"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "toneless"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "flat"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unvarying"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "uninflected"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "droning"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "soporific"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "monotonous",
+                                                    "sense_id": "t_en_gb0009644.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "tedious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "boring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dull"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "uninteresting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unexciting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wearisome"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tiresome"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "repetitive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "repetitious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unvarying"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unchanging"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unvaried"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lacking variety"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "without variety"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "humdrum"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ho-hum"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "routine"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mechanical"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mind-numbing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "soul-destroying"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prosaic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "run-of-the-mill"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "uneventful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unrelieved"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dreary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plodding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "colourless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "featureless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dry as dust"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "uniform"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "monochrome"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "monotonous",
+                                            "sense_id": "t_en_gb0009644.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "monotonous"
+                }
+            ],
+            "type": "headword",
+            "word": "monotonous"
+        }
+    ]
+}

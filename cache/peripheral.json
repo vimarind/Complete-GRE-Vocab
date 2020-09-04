@@ -1,0 +1,331 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "peripheral",
+    "results": [
+        {
+            "id": "peripheral",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "peripherality",
+                            "text": "peripherality"
+                        },
+                        {
+                            "id": "peripherally",
+                            "text": "peripherally"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "peripheral"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "pəˈrif(ə)rəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/peripheral_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "pəˈrɪf(ə)rəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to or situated on the edge or periphery of something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the peripheral areas of Europe"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0766720.013",
+                                    "shortDefinitions": [
+                                        "situated on edge or periphery"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "constructions": [
+                                                {
+                                                    "text": "peripheral to"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "of secondary or minor importance; marginal"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she will see their problems as peripheral to her own"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0766720.015",
+                                            "shortDefinitions": [
+                                                "of minor importance"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "secondary"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "subsidiary"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "incidental"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tangential"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "marginal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "minor"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unimportant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lesser"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "inessential"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "non-essential"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "immaterial"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "superficial"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ancillary"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "borderline"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "peripheral",
+                                                    "sense_id": "t_en_gb0010915.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a device) able to be attached to and used with a computer, although not an integral part of it."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "computing",
+                                                    "text": "Computing"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0766720.016",
+                                            "notes": [
+                                                {
+                                                    "text": "attributive",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "able to be attached to computer"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "near the surface of the body, with special reference to the circulation and nervous system"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "anatomy",
+                                                    "text": "Anatomy"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "anatomy",
+                                                    "text": "Anatomy"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "lymphocytes from peripheral blood"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0766720.017",
+                                            "shortDefinitions": [
+                                                "near surface of body"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "outlying"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "outer"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "on the edge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "on the outskirts"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "outermost"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fringe"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "border"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "surrounding"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "peripheral",
+                                            "sense_id": "t_en_gb0010915.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "peripheral"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "peripherality",
+                            "text": "peripherality"
+                        },
+                        {
+                            "id": "peripherally",
+                            "text": "peripherally"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "peripheral"
+                                },
+                                {
+                                    "inflectedForm": "peripherals"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "pəˈrif(ə)rəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/peripheral_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "pəˈrɪf(ə)rəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a peripheral device"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "computing",
+                                            "text": "Computing"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "computing",
+                                            "text": "Computing"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "printers and other peripherals"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0766720.019",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "electronic_device",
+                                            "text": "Electronic_Device"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "peripheral device"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "peripheral"
+                }
+            ],
+            "type": "headword",
+            "word": "peripheral"
+        }
+    ]
+}

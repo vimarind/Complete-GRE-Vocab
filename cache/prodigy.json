@@ -1,0 +1,219 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "prodigy",
+    "results": [
+        {
+            "id": "prodigy",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (denoting something extraordinary considered to be an omen): from Latin prodigium ‘portent’"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "prodigies"
+                                },
+                                {
+                                    "inflectedForm": "prodigies"
+                                },
+                                {
+                                    "inflectedForm": "prodigy"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "often with modifier",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈprädəjē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/prodigy_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈprɑdədʒi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person, especially a young one, endowed with exceptional qualities or abilities"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a Russian pianist who was a child prodigy in his day"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0818530.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "expert",
+                                            "text": "Expert"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "young person with exceptional qualities or abilities"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "constructions": [
+                                                {
+                                                    "text": "a prodigy of"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "an impressive or outstanding example of a particular quality"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Germany seemed a prodigy of industrial discipline"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0818530.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "liked_thing",
+                                                    "text": "Liked_Thing"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "outstanding example of particular quality"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "model"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "classic example"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "paragon"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "paradigm"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "epitome"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "exemplar"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ideal"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "prototype"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "archetype"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "type"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "prodigy",
+                                                    "sense_id": "t_en_gb0011635.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "an amazing or unusual thing, especially one out of the ordinary course of nature"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "omens and prodigies abound in Livy's work"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0818530.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "strange_thing",
+                                                    "text": "Strange_Thing"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "amazing thing"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "child genius"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "genius"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "wonder child"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mastermind"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "virtuoso"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "prodigy",
+                                            "sense_id": "t_en_gb0011635.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "prodigy"
+                }
+            ],
+            "type": "headword",
+            "word": "prodigy"
+        }
+    ]
+}

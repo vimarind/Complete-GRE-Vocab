@@ -1,0 +1,211 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "encumber",
+    "results": [
+        {
+            "id": "encumber",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘cause trouble to, entangle’; formerly also as incumber): from Old French encombrer ‘block up’, from en- ‘in’ + combre ‘river barrage’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "encumber"
+                                },
+                                {
+                                    "inflectedForm": "encumbered"
+                                },
+                                {
+                                    "inflectedForm": "encumbering"
+                                },
+                                {
+                                    "inflectedForm": "encumbers"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "inˈkəmbər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/encumber_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɪnˈkəmbər"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "enˈkəmbər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/encumber_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɛnˈkəmbər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "restrict or burden (someone or something) in such a way that free action or movement is difficult"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she was encumbered by her heavy skirts"
+                                        },
+                                        {
+                                            "text": "they had arrived encumbered with families"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0322840.008",
+                                    "shortDefinitions": [
+                                        "restrict or impede person or thing in such way that free action or movement is difficult"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "saddle (a person or estate) with a debt or mortgage"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an estate heavily encumbered with debt"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0322840.026",
+                                            "shortDefinitions": [
+                                                "saddle person or estate with debt or mortgage"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "fill or block up (a place)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "we tripped over sticks and stones, which encumber most of the trail"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0322840.027",
+                                            "shortDefinitions": [
+                                                "fill or block up"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "hamper"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hinder"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "obstruct"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "impede"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "check"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cramp"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inhibit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "restrict"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "limit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "constrain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "restrain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bog down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "retard"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "slow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "slow down"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stall"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "delay"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "encumber",
+                                            "sense_id": "t_en_gb0004825.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "encumber"
+                }
+            ],
+            "type": "headword",
+            "word": "encumber"
+        }
+    ]
+}

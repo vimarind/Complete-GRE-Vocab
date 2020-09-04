@@ -1,0 +1,1005 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "graft",
+    "results": [
+        {
+            "id": "graft",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English graff, from Old French grafe, via Latin from Greek graphion ‘stylus, writing implement’ (with reference to the tapered tip of the scion), from graphein ‘write’. The final -t is typical of phonetic confusion between -f and -ft at the end of words; compare with tuft"
+                            ],
+                            "homographNumber": "100",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "graft"
+                                },
+                                {
+                                    "inflectedForm": "grafts"
+                                },
+                                {
+                                    "inflectedForm": "graft"
+                                },
+                                {
+                                    "inflectedForm": "graft"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ɡraft"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/graft_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɡræft"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a shoot or twig inserted into a slit on the trunk or stem of a living plant, from which it receives sap."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "horticulture",
+                                            "text": "Horticulture"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0426390.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "cutting",
+                                            "text": "Cutting"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "shoot or twig inserted into slit of stock"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an instance of grafting a shoot or twig."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "horticulture",
+                                                    "text": "Horticulture"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0426390.010",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "horticultural_practice",
+                                                    "text": "Horticultural_Practice"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "instance of inserting shoot etc. in this way"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "scion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cutting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shoot"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "offshoot"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bud"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "slip"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "new growth"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sprout"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sprig"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "graft",
+                                            "sense_id": "t_en_gb0006472.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a piece of living tissue that is transplanted surgically."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "surgery",
+                                            "text": "Surgery"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0426390.012",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "tissue",
+                                            "text": "Tissue"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "piece of living tissue transplanted surgically"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a surgical operation in which tissue is transplanted."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "surgery",
+                                                    "text": "Surgery"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0426390.013",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "surgical_operation",
+                                                    "text": "Surgical_Operation"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "surgical operation in which tissue is transplanted"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "transplant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "implant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "implantation"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "graft",
+                                                    "sense_id": "t_en_gb0006472.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "transplant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "implant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "implantation"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "graft",
+                                            "sense_id": "t_en_gb0006472.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "graft"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "101",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "graft"
+                                },
+                                {
+                                    "inflectedForm": "grafted"
+                                },
+                                {
+                                    "inflectedForm": "grafting"
+                                },
+                                {
+                                    "inflectedForm": "grafts"
+                                },
+                                {
+                                    "inflectedForm": "graft"
+                                },
+                                {
+                                    "inflectedForm": "grafted"
+                                },
+                                {
+                                    "inflectedForm": "grafting"
+                                },
+                                {
+                                    "inflectedForm": "grafts"
+                                },
+                                {
+                                    "inflectedForm": "graft"
+                                },
+                                {
+                                    "inflectedForm": "grafted"
+                                },
+                                {
+                                    "inflectedForm": "grafting"
+                                },
+                                {
+                                    "inflectedForm": "grafts"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "with object and adverbial",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ɡraft"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/graft_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɡræft"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "insert (a shoot or twig) as a graft"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "horticulture",
+                                            "text": "Horticulture"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it was common to graft different varieties onto a single tree trunk"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0426390.016",
+                                    "shortDefinitions": [
+                                        "insert shoot etc. as graft"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "insert a graft on (a stock)."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "horticulture",
+                                                    "text": "Horticulture"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0426390.026",
+                                            "shortDefinitions": [
+                                                "insert graft on stock"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "affix"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "slip"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "join"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "insert"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "splice"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "graft",
+                                                    "sense_id": "t_en_gb0006472.003"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "transplant (living tissue) as a graft"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "surgery",
+                                            "text": "Surgery"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "medicine",
+                                            "text": "Medicine"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they can graft a new hand onto the arm"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0426390.028",
+                                    "shortDefinitions": [
+                                        "transplant living tissue as graft"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "transplant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "implant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "transfer"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "graft",
+                                            "sense_id": "t_en_gb0006472.004"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "insert or fix (something) permanently to something else, typically in a way considered inappropriate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "western-style government could not easily be grafted onto a profoundly different country"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0426390.030",
+                                    "shortDefinitions": [
+                                        "combine or integrate idea, system, etc. with another"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "fasten"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "attach"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "add"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fix"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "join"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "insert"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "graft",
+                                            "sense_id": "t_en_gb0006472.005"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "graft"
+                }
+            ],
+            "type": "headword",
+            "word": "graft"
+        },
+        {
+            "id": "graft",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "grafter",
+                            "text": "grafter"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 19th century: of unknown origin"
+                            ],
+                            "homographNumber": "200",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "graft"
+                                },
+                                {
+                                    "inflectedForm": "grafts"
+                                },
+                                {
+                                    "inflectedForm": "graft"
+                                },
+                                {
+                                    "inflectedForm": "graft"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ɡraft"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/graft_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɡræft"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "practices, especially bribery, used to secure illicit gains in politics or business; corruption"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "crime",
+                                            "text": "Crime"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "sweeping measures to curb official graft"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0426400.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "criminal_practice",
+                                            "text": "Criminal_Practice"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "bribery and other corrupt practices used to secure illicit advantages or gains"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "gains secured by corruption"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "government officials grow fat off bribes and graft"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0426400.007",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "profit",
+                                                    "text": "Profit"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "such advantages or gains"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "corruption"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bribery"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bribing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dishonesty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deceit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fraud"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fraudulence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "subornation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unlawful practices"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "illegal means"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "underhand means"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "graft",
+                                            "sense_id": "t_en_gb0006474.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "graft"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "grafter",
+                            "text": "grafter"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "201",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "graft"
+                                },
+                                {
+                                    "inflectedForm": "grafted"
+                                },
+                                {
+                                    "inflectedForm": "grafting"
+                                },
+                                {
+                                    "inflectedForm": "grafts"
+                                },
+                                {
+                                    "inflectedForm": "graft"
+                                },
+                                {
+                                    "inflectedForm": "grafted"
+                                },
+                                {
+                                    "inflectedForm": "grafting"
+                                },
+                                {
+                                    "inflectedForm": "grafts"
+                                },
+                                {
+                                    "inflectedForm": "graft"
+                                },
+                                {
+                                    "inflectedForm": "grafted"
+                                },
+                                {
+                                    "inflectedForm": "grafting"
+                                },
+                                {
+                                    "inflectedForm": "grafts"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ɡraft"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/graft_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɡræft"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make money by shady or dishonest means."
+                                    ],
+                                    "id": "m_en_gbus0426400.009",
+                                    "shortDefinitions": [
+                                        "make money by shady or dishonest means"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "graft"
+                }
+            ],
+            "type": "headword",
+            "word": "graft"
+        },
+        {
+            "id": "graft",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 19th century: perhaps related to the phrase spade's graft ‘the amount of earth that one stroke of a spade will move’, based on Old Norse grǫftr ‘digging’"
+                            ],
+                            "homographNumber": "300",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "graft"
+                                },
+                                {
+                                    "inflectedForm": "grafts"
+                                },
+                                {
+                                    "inflectedForm": "graft"
+                                },
+                                {
+                                    "inflectedForm": "graft"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ɡraft"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/graft_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɡræft"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "hard work"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "turning those dreams into reality was sheer hard graft"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0426410.005",
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "registers": [
+                                        {
+                                            "id": "informal",
+                                            "text": "Informal"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "exertion",
+                                            "text": "Exertion"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "hard work"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "work"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "effort"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "endeavour"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "toil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "labour"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exertion"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "the sweat of one's brow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drudgery"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "donkey work"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "graft",
+                                            "sense_id": "t_en_gb0006473.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "graft"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "301",
+                            "inflections": [
+                                {
+                                    "inflectedForm": "graft"
+                                },
+                                {
+                                    "inflectedForm": "grafted"
+                                },
+                                {
+                                    "inflectedForm": "grafting"
+                                },
+                                {
+                                    "inflectedForm": "grafts"
+                                },
+                                {
+                                    "inflectedForm": "graft"
+                                },
+                                {
+                                    "inflectedForm": "grafted"
+                                },
+                                {
+                                    "inflectedForm": "grafting"
+                                },
+                                {
+                                    "inflectedForm": "grafts"
+                                },
+                                {
+                                    "inflectedForm": "graft"
+                                },
+                                {
+                                    "inflectedForm": "grafted"
+                                },
+                                {
+                                    "inflectedForm": "grafting"
+                                },
+                                {
+                                    "inflectedForm": "grafts"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ɡraft"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/graft_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ɡræft"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "work hard"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I need people prepared to go out and graft"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0426410.008",
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "registers": [
+                                        {
+                                            "id": "informal",
+                                            "text": "Informal"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "work hard"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "work hard"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "exert oneself"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "toil"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "labour"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hammer away"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grind away"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sweat"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "graft",
+                                            "sense_id": "t_en_gb0006473.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "graft"
+                }
+            ],
+            "type": "headword",
+            "word": "graft"
+        }
+    ]
+}

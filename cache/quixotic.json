@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "quixotic",
+    "results": [
+        {
+            "id": "quixotic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "quixotically",
+                            "text": "quixotically"
+                        },
+                        {
+                            "id": "quixotism",
+                            "text": "quixotism"
+                        },
+                        {
+                            "id": "quixotry",
+                            "text": "quixotry"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 18th century: from Don Quixote+ -ic"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "quixotic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kwikˈsädik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/quixotic_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kwɪkˈsɑdɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "exceedingly idealistic; unrealistic and impractical"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a vast and perhaps quixotic project"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0838830.005",
+                                    "shortDefinitions": [
+                                        "extremely idealistic"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "idealistic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unbusinesslike"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "romantic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "extravagant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "starry-eyed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "visionary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "utopian"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perfectionist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unrealistic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unworldly"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "quixotic",
+                                            "sense_id": "t_en_gb0011993.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "quixotic"
+                }
+            ],
+            "type": "headword",
+            "word": "quixotic"
+        }
+    ]
+}

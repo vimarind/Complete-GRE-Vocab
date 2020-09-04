@@ -1,0 +1,157 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "predicament",
+    "results": [
+        {
+            "id": "predicament",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in predicament (sense 2)): from late Latin praedicamentum ‘something predicated’ (rendering Greek katēgoria ‘category’), from Latin praedicare (see predicate). From the sense ‘category’ arose the sense ‘state of being, condition’; hence ‘unpleasant situation’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "predicament"
+                                },
+                                {
+                                    "inflectedForm": "predicaments"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "prəˈdikəmənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/predicament_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "prəˈdɪkəmənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a difficult, unpleasant, or embarrassing situation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the club's financial predicament"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0809450.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "situation",
+                                            "text": "Situation"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "difficult, unpleasant, or embarrassing situation"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "difficult situation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "awkward situation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mess"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "difficulty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "problematic situation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "issue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plight"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "quandary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "trouble"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "muddle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mare's nest"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "crisis"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "predicament",
+                                            "sense_id": "t_en_gb0011438.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(in Aristotelian logic) each of the ten “categories,” often listed as: substance or being, quantity, quality, relation, place, time, posture, having or possession, action, and passion."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "philosophy",
+                                            "text": "Philosophy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0809450.010",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "attribute",
+                                            "text": "Attribute"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "(in Aristotelian logic) each of ten 'categories', often listed as"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "predicament"
+                }
+            ],
+            "type": "headword",
+            "word": "predicament"
+        }
+    ]
+}

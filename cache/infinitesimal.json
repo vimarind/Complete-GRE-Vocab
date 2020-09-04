@@ -1,0 +1,189 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "infinitesimal",
+    "results": [
+        {
+            "id": "infinitesimal",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "infinitesimally",
+                            "text": "infinitesimally"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from modern Latin infinitesimus, from Latin infinitus (see infinite), on the pattern of centesimal"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "infinitesimal"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "Although this long word is commonly assumed to refer to large numbers, infinitesimal describes only very small size. While there may be an infinite number of grains of sand on the beach, a single grain may be said to be infinitesimal",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌinfinəˈtes(ə)m(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/infinitesimal_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɪnfɪnəˈtɛs(ə)m(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "extremely small"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an infinitesimal pause"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0507660.005",
+                                    "shortDefinitions": [
+                                        "extremely small"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "minute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tiny"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "minuscule"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "extremely small"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "very small"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "infinitesimal",
+                                            "sense_id": "t_en_gb0007809.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "infinitesimal"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "infinitesimally",
+                            "text": "infinitesimally"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "infinitesimal"
+                                },
+                                {
+                                    "inflectedForm": "infinitesimals"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "Although this long word is commonly assumed to refer to large numbers, infinitesimal describes only very small size. While there may be an infinite number of grains of sand on the beach, a single grain may be said to be infinitesimal",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌinfinəˈtes(ə)m(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/infinitesimal_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌɪnfɪnəˈtɛs(ə)m(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an indefinitely small quantity; a value approaching zero."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "mathematics",
+                                            "text": "Mathematics"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "mathematics",
+                                            "text": "Mathematics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0507660.008",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "numeric_value",
+                                            "text": "Numeric_Value"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "indefinitely small quantity"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "infinitesimal"
+                }
+            ],
+            "type": "headword",
+            "word": "infinitesimal"
+        }
+    ]
+}

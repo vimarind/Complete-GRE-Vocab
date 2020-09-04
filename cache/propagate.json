@@ -1,0 +1,315 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "propagate",
+    "results": [
+        {
+            "id": "propagate",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "propagative",
+                            "text": "propagative"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin propagat- ‘multiplied from layers or shoots’, from the verb propagare; related to propago ‘young shoot’ (from a base meaning ‘fix’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "propagate"
+                                },
+                                {
+                                    "inflectedForm": "propagated"
+                                },
+                                {
+                                    "inflectedForm": "propagates"
+                                },
+                                {
+                                    "inflectedForm": "propagating"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈpräpəˌɡāt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/propagate_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈprɑpəˌɡeɪt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "breed specimens of (a plant or animal) by natural processes from the parent stock"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "horticulture",
+                                            "text": "Horticulture"
+                                        },
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "try propagating your own houseplants from cuttings"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0821090.006",
+                                    "shortDefinitions": [
+                                        "breed plants or animals by natural processes"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a plant or animal) reproduce by natural processes"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "biology",
+                                                    "text": "Biology"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the plant propagates freely from stem cuttings"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0821090.012",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "reproduce in natural way"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "reproduce"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "multiply"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "proliferate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "breed"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "procreate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "increase"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "spawn"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "propagate",
+                                                    "sense_id": "t_en_gb0011720.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "breed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "grow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cultivate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "generate"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "propagate",
+                                            "sense_id": "t_en_gb0011720.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "spread and promote (an idea, theory, etc.) widely"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the French propagated the idea that the English were violent and gluttonous drunkards"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0821090.015",
+                                    "shortDefinitions": [
+                                        "spread and promote idea etc."
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "spread"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disseminate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "communicate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pass on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put about"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "make known"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "promulgate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "circulate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "transmit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "distribute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "broadcast"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "publish"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "publicize"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "proclaim"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "preach"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "promote"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "propagate",
+                                            "sense_id": "t_en_gb0011720.003"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(with reference to motion, light, sound, etc.) transmit or be transmitted in a particular direction or through a medium"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "electromagnetic effects can be propagated at a finite velocity only through material substances"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "a hydraulic fracture is generally expected to propagate in a vertical plane"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "as adjective \"propagated\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "text": "a propagated electrical signal"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0821090.017",
+                                    "shortDefinitions": [
+                                        "transmit"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "propagate"
+                }
+            ],
+            "type": "headword",
+            "word": "propagate"
+        }
+    ]
+}

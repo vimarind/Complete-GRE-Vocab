@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "furtive",
+    "results": [
+        {
+            "id": "furtive",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "furtiveness",
+                            "text": "furtiveness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from French furtif, -ive or Latin furtivus, from furtum ‘theft’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "furtive"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfərdiv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/furtive_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfərdɪv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "attempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble; secretive"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they spent a furtive day together"
+                                        },
+                                        {
+                                            "text": "he stole a furtive glance at her"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0397160.005",
+                                    "shortDefinitions": [
+                                        "attempting to avoid notice or attention"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "suggestive of guilty nervousness"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the look in his eyes became furtive"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0397160.007",
+                                            "shortDefinitions": [
+                                                "suggestive of guilty nervousness"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "secretive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "secret"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "surreptitious"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "furtive",
+                                            "sense_id": "t_en_gb0006178.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "furtive"
+                }
+            ],
+            "type": "headword",
+            "word": "furtive"
+        }
+    ]
+}

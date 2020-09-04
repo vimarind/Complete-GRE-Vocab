@@ -1,0 +1,166 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "progenitor",
+    "results": [
+        {
+            "id": "progenitor",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "progenitorial",
+                            "text": "progenitorial"
+                        },
+                        {
+                            "id": "progenitorship",
+                            "text": "progenitorship"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French progeniteur, from Latin progenitor, from progenit- ‘begotten’, from the verb progignere, from pro- ‘forward’ + gignere ‘beget’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "progenitor"
+                                },
+                                {
+                                    "inflectedForm": "progenitors"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "prōˈjenədər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/progenitor_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "proʊˈdʒɛnədər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person or thing from which a person, animal, or plant is descended or originates; an ancestor or parent"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "biology",
+                                            "text": "Biology"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his sons and daughters were the progenitors of many of Scotland's leading noble families"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0819340.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "antecedent",
+                                            "text": "Antecedent"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person or thing from which person, animal, or plant is descended or originates"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a person who originates an artistic, political, or intellectual movement"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the progenitor of modern jazz"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0819340.008",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "originator",
+                                                    "text": "Originator"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "person who originates cultural or intellectual movement"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "originator"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "founder"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "instigator"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "source"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "progenitor",
+                                                    "sense_id": "t_en_gb0011665.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "ancestor"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forefather"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "forebear"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "parent"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "progenitor",
+                                            "sense_id": "t_en_gb0011665.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "progenitor"
+                }
+            ],
+            "type": "headword",
+            "word": "progenitor"
+        }
+    ]
+}

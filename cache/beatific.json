@@ -1,0 +1,200 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "beatific",
+    "results": [
+        {
+            "id": "beatific",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "beatifically",
+                            "text": "beatifically"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from French béatifique or Latin beatificus, from beatus ‘blessed’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "beatific"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌbēəˈtifik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/beatific_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌbiəˈtɪfɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "blissfully happy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a beatific smile"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0081280.011",
+                                    "shortDefinitions": [
+                                        "blissfully happy"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "imparting holy bliss."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "religion",
+                                                    "text": "Religion"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "christian_theology",
+                                                    "text": "Christian_Theology"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0081280.013",
+                                            "shortDefinitions": [
+                                                "imparting holy bliss"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "blessed"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "blissful"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "exalted"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sublime"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "joyful"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rapt"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "heavenly"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "holy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "divine"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "celestial"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "paradisical"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "glorious"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "beatific",
+                                                    "sense_id": "t_en_gb0001251.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "rapturous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "joyful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ecstatic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "seraphic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "blissful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "serene"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "happy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "beaming"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "glad"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "beatific",
+                                            "sense_id": "t_en_gb0001251.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "beatific"
+                }
+            ],
+            "type": "headword",
+            "word": "beatific"
+        }
+    ]
+}

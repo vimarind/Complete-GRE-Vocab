@@ -1,0 +1,246 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "nominal",
+    "results": [
+        {
+            "id": "nominal",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (as a term in grammar): from Latin nominalis, from nomen, nomin- ‘name’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "nominal"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈnämən(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/nominal_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈnɑmən(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a role or status) existing in name only"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Thailand retained nominal independence under Japanese military occupation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0695240.007",
+                                    "shortDefinitions": [
+                                        "existing in name only"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "relating to or consisting of names"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the streets have names like Third Avenue, but the resemblance to Manhattan is only nominal"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0695240.009",
+                                            "shortDefinitions": [
+                                                "relating to names"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "in name only"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in title only"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "titular"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "formal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "official"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ceremonial"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "nominal",
+                                            "sense_id": "t_en_gb0010026.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a price or amount of money) very small; far below the real value or cost"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "some firms charge only a nominal fee for the service"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0695240.011",
+                                    "shortDefinitions": [
+                                        "(of price) very small"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "token"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "symbolic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "emblematic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "peppercorn"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "nominal",
+                                            "sense_id": "t_en_gb0010026.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a quantity or dimension, especially of manufactured articles) stated or expressed but not necessarily corresponding exactly to the real value"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "legislation allowed variation around the nominal weight (that printed on each packet)"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0695240.013",
+                                    "shortDefinitions": [
+                                        "not corresponding exactly to the real value"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a rate or other figure) expressed in terms of a certain amount, without making allowance for changes in real value over time"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "economics",
+                                                    "text": "Economics"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "economics",
+                                                    "text": "Economics"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the nominal exchange rate"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0695240.014",
+                                            "shortDefinitions": [
+                                                "expressed in terms of current prices"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to, headed by, or having the function of a noun"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "grammar",
+                                            "text": "Grammar"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "grammar",
+                                            "text": "Grammar"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a nominal group"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0695240.016",
+                                    "shortDefinitions": [
+                                        "relating to noun"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(chiefly in the context of space travel) functioning normally or acceptably."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "space",
+                                            "text": "Space"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0695240.018",
+                                    "registers": [
+                                        {
+                                            "id": "informal",
+                                            "text": "Informal"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "functioning normally"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "nominal"
+                }
+            ],
+            "type": "headword",
+            "word": "nominal"
+        }
+    ]
+}

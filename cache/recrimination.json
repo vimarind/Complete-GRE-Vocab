@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "recrimination",
+    "results": [
+        {
+            "id": "recrimination",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "recrimination"
+                                },
+                                {
+                                    "inflectedForm": "recriminations"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "usually \"recriminations\"",
+                                    "type": "wordFormNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rəˌkriməˈnāSH(ə)n"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/recrimination_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rəˌkrɪməˈneɪʃ(ə)n"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an accusation in response to one from someone else"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there are no tears, no recriminations"
+                                        },
+                                        {
+                                            "text": "there was a period of bitter recrimination"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0852190.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "accusation",
+                                            "text": "Accusation"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "accusation in response to one from someone else"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "accusation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "accusations"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mutual accusation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mutual accusations"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "counter-accusation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "counter-accusations"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "countercharge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "countercharges"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "counterattack"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "counterattacks"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "retaliation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "retaliations"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "recrimination",
+                                            "sense_id": "t_en_gb0012222.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "recrimination"
+                }
+            ],
+            "type": "headword",
+            "word": "recrimination"
+        }
+    ]
+}

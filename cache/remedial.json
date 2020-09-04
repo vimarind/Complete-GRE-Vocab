@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "remedial",
+    "results": [
+        {
+            "id": "remedial",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "remedially",
+                            "text": "remedially"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from late Latin remedialis, from Latin remedium ‘cure, medicine’ (see remedy)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "remedial"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "rəˈmēdēəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/remedial_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rəˈmidiəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "giving or intended as a remedy or cure"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "remedial surgery"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0860420.005",
+                                    "shortDefinitions": [
+                                        "giving or intended as remedy or cure"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "provided or intended for students who are experiencing learning difficulties"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "remedial education"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0860420.007",
+                                            "shortDefinitions": [
+                                                "provided or intended for children with learning difficulties"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "healing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "curative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "curing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "remedial"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "medicinal"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "restorative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "health-giving"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tonic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sanative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reparative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "corrective"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ameliorative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "beneficial"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "good"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "salubrious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "salutary"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "therapeutic",
+                                            "sense_id": "t_en_gb0014779.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "remedial"
+                }
+            ],
+            "type": "headword",
+            "word": "remedial"
+        }
+    ]
+}

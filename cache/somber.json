@@ -1,0 +1,200 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "somber",
+    "results": [
+        {
+            "id": "somber",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "somberly",
+                            "text": "somberly"
+                        },
+                        {
+                            "id": "somberness",
+                            "text": "somberness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 18th century: from French, based on Latin sub ‘under’ + umbra ‘shade’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "somber"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsämbər"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/somber_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsɑmbər"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "dark or dull in color or tone; gloomy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the night skies were somber and starless"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0967690.014",
+                                    "shortDefinitions": [
+                                        "dark or dull in color or tone"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "oppressively solemn or sober in mood; grave"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he looked at her with a somber expression"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0967690.017",
+                                            "shortDefinitions": [
+                                                "oppressively solemn or sober in mood"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "solemn"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "earnest"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "serious"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "grave"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sober"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unsmiling"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "poker-faced"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stern"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "grim"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dour"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "humourless"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stony-faced"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "sombre",
+                                                    "sense_id": "t_en_gb0013786.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "dark"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dark-coloured"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dull"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dull-coloured"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "drab"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dingy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shady"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "sombre",
+                                            "sense_id": "t_en_gb0013786.001"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "sombre"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "somber"
+                }
+            ],
+            "type": "headword",
+            "word": "somber"
+        }
+    ]
+}

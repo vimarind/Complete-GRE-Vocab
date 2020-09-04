@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "futile",
+    "results": [
+        {
+            "id": "futile",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "futilely",
+                            "text": "futilely"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin futilis ‘leaky, futile’, apparently from fundere ‘pour’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "futile"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfyo͞odl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/futile_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfjudl"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈfyo͞odīl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/futile_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈfjudaɪl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "incapable of producing any useful result; pointless"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a futile attempt to keep fans from mounting the stage"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0397590.007",
+                                    "shortDefinitions": [
+                                        "incapable of producing any useful result"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "fruitless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pointless"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "futile",
+                                            "sense_id": "t_en_gb0006187.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "futile"
+                }
+            ],
+            "type": "headword",
+            "word": "futile"
+        }
+    ]
+}

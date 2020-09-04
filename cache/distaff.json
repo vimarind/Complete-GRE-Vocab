@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "distaff",
+    "results": [
+        {
+            "id": "distaff",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English distæf: the first element is apparently related to Middle Low German dise, disene ‘distaff, bunch of flax’; the second is staff. distaff (sense 2 of the noun) arose because spinning was traditionally done by women"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "distaff"
+                                },
+                                {
+                                    "inflectedForm": "distaffs"
+                                },
+                                {
+                                    "inflectedForm": "distaff"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈdistaf"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/distaff_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈdɪstæf"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a stick or spindle onto which wool or flax is wound for spinning."
+                                    ],
+                                    "id": "m_en_gbus0283880.014",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "implement",
+                                            "text": "Implement"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "stick or spindle onto which wool or flax is wound for spinning"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "of or concerning women."
+                                            ],
+                                            "id": "m_en_gbus0283880.018",
+                                            "notes": [
+                                                {
+                                                    "text": "as modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "of or concerning women"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "the_distaff_side",
+                            "text": "the distaff side"
+                        }
+                    ],
+                    "text": "distaff"
+                }
+            ],
+            "type": "headword",
+            "word": "distaff"
+        }
+    ]
+}

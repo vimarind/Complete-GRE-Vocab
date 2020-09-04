@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "amiable",
+    "results": [
+        {
+            "id": "amiable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "amiableness",
+                            "text": "amiableness"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (originally in the senses ‘kind’, and ‘lovely, lovable’): via Old French from late Latin amicabilis ‘amicable’. The current sense, influenced by modern French aimable ‘trying to please’, dates from the mid 18th century"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "amiable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈāmēəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/amiable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈeɪmiəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having or displaying a friendly and pleasant manner"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an amiable, unassuming fellow"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0028550.005",
+                                    "shortDefinitions": [
+                                        "having or displaying friendly and pleasant manner"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "friendly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "affable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "amicable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cordial"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "amiable",
+                                            "sense_id": "t_en_gb0000533.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "amiable"
+                }
+            ],
+            "type": "headword",
+            "word": "amiable"
+        }
+    ]
+}

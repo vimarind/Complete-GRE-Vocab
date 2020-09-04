@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "causal",
+    "results": [
+        {
+            "id": "causal",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as a noun denoting a causal conjunction or particle): from late Latin causalis, from Latin causa ‘cause’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "causal"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈkôzəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/causal_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈkɔzəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to or acting as a cause"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the causal factors associated with illness"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0160740.005",
+                                    "shortDefinitions": [
+                                        "relating to or acting as cause"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "expressing or indicating a cause"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "logic",
+                                                    "text": "Logic"
+                                                },
+                                                {
+                                                    "id": "grammar",
+                                                    "text": "Grammar"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "grammar",
+                                                    "text": "Grammar"
+                                                },
+                                                {
+                                                    "id": "logic",
+                                                    "text": "Logic"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a causal conjunction"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0160740.007",
+                                            "shortDefinitions": [
+                                                "expressing or indicating cause"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "causal"
+                }
+            ],
+            "type": "headword",
+            "word": "causal"
+        }
+    ]
+}

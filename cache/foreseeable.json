@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "foreseeable",
+    "results": [
+        {
+            "id": "foreseeable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "foreseeability",
+                            "text": "foreseeability"
+                        },
+                        {
+                            "id": "foreseeably",
+                            "text": "foreseeably"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "foreseeable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "fôrˈsēəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/foreseeable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "fɔrˈsiəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "in the foreseeable future"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "able to be foreseen or predicted"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the situation is unlikely to change in the foreseeable future"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0381060.005",
+                                    "shortDefinitions": [
+                                        "able to be foreseen or predicted"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "unsurprising"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "expected"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "to be expected"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "predictable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "foreseeable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inevitable"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "understandable",
+                                            "sense_id": "t_en_gb0015431.002"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "foreseeable"
+                }
+            ],
+            "type": "headword",
+            "word": "foreseeable"
+        }
+    ]
+}

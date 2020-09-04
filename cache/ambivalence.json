@@ -1,0 +1,144 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "ambivalence",
+    "results": [
+        {
+            "id": "ambivalence",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "ambivalence"
+                                },
+                                {
+                                    "inflectedForm": "ambivalences"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "amˈbivələns"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/ambivalence_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "æmˈbɪvələns"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the state of having mixed feelings or contradictory ideas about something or someone"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the law's ambivalence about the importance of a victim's identity"
+                                        },
+                                        {
+                                            "text": "government ambivalence toward the arts"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0027540.007",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "feeling",
+                                            "text": "Feeling"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "state of having mixed feelings or contradictory ideas about something"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "equivocation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "uncertainty"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unsureness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "doubt"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "indecision"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inconclusiveness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "irresolution"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "irresoluteness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hesitation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hesitancy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fluctuation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "vacillation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shilly-shallying"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tentativeness"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "ambivalence",
+                                            "sense_id": "t_en_gb0000519.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "ambivalence"
+                }
+            ],
+            "type": "headword",
+            "word": "ambivalence"
+        }
+    ]
+}

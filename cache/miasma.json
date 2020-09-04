@@ -1,0 +1,201 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "miasma",
+    "results": [
+        {
+            "id": "miasma",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "miasmal",
+                            "text": "miasmal"
+                        },
+                        {
+                            "id": "miasmatic",
+                            "text": "miasmatic"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Greek, literally ‘defilement’, from miainein ‘pollute’"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "miasmas"
+                                },
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "miasmata",
+                                    "pronunciations": [
+                                        {
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "-mətə"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "inflectedForm": "miasma"
+                                },
+                                {
+                                    "inflectedForm": "miasmas"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "mīˈazmə"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/miasma_us_2_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "maɪˈæzmə"
+                                },
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "mēˈazmə"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/miasma_us_1_rr.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "miˈæzmə"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "a miasma of"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a highly unpleasant or unhealthy smell or vapor"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "\n              a miasma of stale alcohol hung around him like marsh gas"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0638740.013",
+                                    "registers": [
+                                        {
+                                            "id": "literary",
+                                            "text": "Literary"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "faculty",
+                                            "text": "Faculty"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "unpleasant or unhealthy smell or vapour"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "constructions": [
+                                                {
+                                                    "text": "a miasma of"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "an oppressive or unpleasant atmosphere which surrounds or emanates from something"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "there was a miasma of despair over this place"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0638740.017",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "natural_phenomenon",
+                                                    "text": "Natural_Phenomenon"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "oppressive or unpleasant atmosphere which surrounds or emanates from something"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "stink"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reek"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stench"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "smell"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "odour"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "malodour"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "miasma",
+                                            "sense_id": "t_en_gb0009410.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "miasma"
+                }
+            ],
+            "type": "headword",
+            "word": "miasma"
+        }
+    ]
+}

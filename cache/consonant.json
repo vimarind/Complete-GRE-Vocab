@@ -1,0 +1,294 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "consonant",
+    "results": [
+        {
+            "id": "consonant",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "consonantal",
+                            "text": "consonantal"
+                        },
+                        {
+                            "id": "consonantly",
+                            "text": "consonantly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘letter representing a consonant’): via Old French from Latin consonare ‘sound together’, from con- ‘with’ + sonare ‘to sound’ (from sonus ‘sound’)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "consonant"
+                                },
+                                {
+                                    "inflectedForm": "consonants"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈkänsənənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconsonant_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈkɑnsənənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Contrasted with vowel"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "vowel",
+                                            "text": "vowel",
+                                            "type": "relates to"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a basic speech sound in which the breath is at least partly obstructed and which can be combined with a vowel to form a syllable."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "phonetics",
+                                            "text": "Phonetics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "fricatives are by far the largest group of English consonants"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0212840.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "speech_sound",
+                                            "text": "Speech_Sound"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "speech sound"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a letter representing a consonant."
+                                            ],
+                                            "id": "m_en_gbus0212840.009",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "letter_of_alphabet",
+                                                    "text": "Letter_Of_Alphabet"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "letter representing consonant"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "consonant"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "consonantal",
+                            "text": "consonantal"
+                        },
+                        {
+                            "id": "consonantly",
+                            "text": "consonantly"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "consonant"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈkänsənənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconsonant_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈkɑnsənənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "denoting or relating to a consonant sound or letter"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "phonetics",
+                                            "text": "Phonetics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a consonant phoneme"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0212840.012",
+                                    "shortDefinitions": [
+                                        "relating to consonant"
+                                    ]
+                                },
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "consonant with"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "in agreement or harmony with"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the findings are consonant with other research"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0212840.015",
+                                    "notes": [
+                                        {
+                                            "text": "\"consonant with\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "in agreement with"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "making a harmonious interval or chord"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "music",
+                                                    "text": "Music"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "music",
+                                                    "text": "Music"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the bass is consonant with all the upper notes"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0212840.016",
+                                            "shortDefinitions": [
+                                                "making harmonious interval or chord"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "in agreement with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "agreeing with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "consistent with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in accordance with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "accordant with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "consilient with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in harmony with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "compatible with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "congruous with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "in tune with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reconcilable with"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "consonant_with",
+                                            "sense_id": "t_en_gb0002879.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "consonant"
+                }
+            ],
+            "type": "headword",
+            "word": "consonant"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "synchronous",
+    "results": [
+        {
+            "id": "synchronous",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "synchronously",
+                            "text": "synchronously"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from late Latin synchronus (from Greek sunkhronos, from sun- ‘together’ + khronos ‘time’) + -ous"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "synchronous"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈsiNGkrənəs"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/synchronous_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈsɪŋkrənəs"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "existing or occurring at the same time"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "glaciations were approximately synchronous in both hemispheres"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1023530.006",
+                                    "shortDefinitions": [
+                                        "existing or occurring at same time"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "concurrent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "happening at the same time"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "done at the same time"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contemporaneous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "concomitant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "coinciding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "coincident"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "synchronous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "synchronized"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "synchronic"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "simultaneous",
+                                            "sense_id": "t_en_gb0013497.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a satellite or its orbit) making or denoting an orbit around the earth or another celestial body in which one revolution is completed in the period taken for the body to rotate about its axis."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "astronomy",
+                                            "text": "Astronomy"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "astronomy",
+                                            "text": "Astronomy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1023530.009",
+                                    "shortDefinitions": [
+                                        "making or denoting orbit around earth or another celestial body in which one revolution is completed in period taken for body"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "synchronous"
+                }
+            ],
+            "type": "headword",
+            "word": "synchronous"
+        }
+    ]
+}

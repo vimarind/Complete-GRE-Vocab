@@ -1,0 +1,525 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "battery",
+    "results": [
+        {
+            "id": "battery",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French baterie, from battre ‘to strike’, from Latin battuere. The original sense was ‘metal articles wrought by hammering’, later ‘a number of pieces of artillery used together’, whence ‘a number of Leyden jars connected up so as to discharge simultaneously’ (mid 18th century), giving rise to battery (sense 1)"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "batteries"
+                                },
+                                {
+                                    "inflectedForm": "batteries"
+                                },
+                                {
+                                    "inflectedForm": "battery"
+                                },
+                                {
+                                    "inflectedForm": "battery"
+                                },
+                                {
+                                    "inflectedForm": "the battery"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbadərē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/battery_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbædəri"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a container consisting of one or more cells, in which chemical energy is converted into electricity and used as a source of power"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "electrical",
+                                            "text": "Electrical"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "as modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "battery power"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0078580.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "electric_cell",
+                                            "text": "Electric_Cell"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "container used as source of power"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "cell"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "accumulator"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "power unit"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "battery",
+                                            "sense_id": "t_en_gb0001212.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a fortified emplacement for heavy guns"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "military",
+                                            "text": "Military"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "anti-aircraft missile batteries"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0078580.010",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "military_installation",
+                                            "text": "Military_Installation"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "gun emplacement"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an artillery subunit of guns, men, and vehicles."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "military",
+                                                    "text": "Military"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0078580.011",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "military_unit",
+                                                    "text": "Military_Unit"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "artillery unit"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "gun emplacement"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "artillery unit"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "battery",
+                                                    "sense_id": "t_en_gb0001212.002"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a set of units of equipment, typically when connected together"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a battery of equipment to monitor blood pressure"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0078580.013",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "collection",
+                                            "text": "Collection"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "set of similar units"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an extensive series, sequence, or range of things"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "psychology",
+                                                    "text": "Psychology"
+                                                },
+                                                {
+                                                    "id": "medicine",
+                                                    "text": "Medicine"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "children given a battery of tests"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0078580.014",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "collection",
+                                                    "text": "Collection"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "series or range"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "series"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sequence"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "range"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "set"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cycle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "chain"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "string"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "progression"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "succession"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "battery",
+                                                    "sense_id": "t_en_gb0001212.004"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "array"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "set"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bank"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "group"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "row"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "line"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "line-up"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "raft"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "collection"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "assortment"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "battery",
+                                            "sense_id": "t_en_gb0001212.003"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "See also assault and battery"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "assault_and_battery",
+                                            "text": "assault and battery",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "the crime or tort of unconsented physical contact with another person, even where the contact is not violent but merely menacing or offensive"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "law",
+                                            "text": "Law"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "any act which puts a person in immediate and reasonable fear of battery"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "most batteries involve an assault"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0078580.018",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "wrongdoing",
+                                            "text": "Wrongdoing"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "infliction of unlawful violence"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "violence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "assault"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mugging"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "battery",
+                                            "sense_id": "t_en_gb0001212.005"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the pitcher and the catcher in a game, considered as a unit."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "baseball",
+                                            "text": "Baseball"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "baseball",
+                                            "text": "Baseball"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0078580.020",
+                                    "notes": [
+                                        {
+                                            "text": "\"the battery\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "baseball_player",
+                                            "text": "Baseball_Player"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "pitcher and catcher"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "battery"
+                }
+            ],
+            "type": "headword",
+            "word": "battery"
+        },
+        {
+            "id": "Battery",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "proper",
+                                    "text": "Proper",
+                                    "type": "Properness"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈbadərē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/battery_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈbædəri"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a historic area at the southern end of Manhattan Island in New York City."
+                                    ],
+                                    "id": "m_en_gbus0078590.004",
+                                    "notes": [
+                                        {
+                                            "text": "\"the Battery\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "city_district",
+                                            "text": "City_District"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "historic area at southern end of Manhattan Island in New York City"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "Battery"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "Battery"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "other",
+                        "text": "Other"
+                    },
+                    "text": "Battery"
+                }
+            ],
+            "type": "headword",
+            "word": "Battery"
+        }
+    ]
+}

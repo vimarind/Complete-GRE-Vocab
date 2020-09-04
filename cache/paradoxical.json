@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "paradoxical",
+    "results": [
+        {
+            "id": "paradoxical",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "paradoxical"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌperəˈdäksək(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/paradoxical_us_2.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌpɛrəˈdɑksək(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "seemingly absurd or self-contradictory"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "by glorifying the acts of violence they achieve the paradoxical effect of making them trivial"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0747630.005",
+                                    "shortDefinitions": [
+                                        "seemingly absurd or self-contradictory"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "contradictory"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "self-contradictory"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inconsistent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "incongruous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "anomalous"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "conflicting"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "paradoxical",
+                                            "sense_id": "t_en_gb0010645.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "paradoxical"
+                }
+            ],
+            "type": "headword",
+            "word": "paradoxical"
+        }
+    ]
+}

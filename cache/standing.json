@@ -1,0 +1,1573 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "standing",
+    "results": [
+        {
+            "id": "standing",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "standing"
+                                },
+                                {
+                                    "inflectedForm": "standings"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈstandiNG"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/standing_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈstændɪŋ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "position, status, or reputation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "their standing in the community"
+                                        },
+                                        {
+                                            "text": "a man of high social standing"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0987750.006",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "status",
+                                            "text": "Status"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "position, status, or reputation"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the table of scores indicating the relative positions of competitors in a sports contest"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "sport",
+                                                    "text": "Sport"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she heads the world championship standings"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0987750.008",
+                                            "notes": [
+                                                {
+                                                    "text": "\"standings\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "list",
+                                                    "text": "List"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "table of scores indicating relative positions of competitors in sporting contest"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "status"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rank"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ranking"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "position"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "social position"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "station"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "level"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "footing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "place"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "seniority"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rank"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "eminence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prominence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prestige"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "reputation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "good reputation"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "repute"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stature"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "esteem"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "illustriousness"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "importance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "account"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "consequence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "influence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "weight"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sway"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "distinction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "renown"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "note"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "notability"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "noteworthiness"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "standing",
+                                            "sense_id": "t_en_gb0014042.001"
+                                        },
+                                        {
+                                            "entry_id": "standing",
+                                            "sense_id": "t_en_gb0014042.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "of long standing"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "used to specify the length of time that something has lasted or that someone has fulfilled a particular role"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an interdepartmental squabble of long standing"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0987750.011",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "length",
+                                            "text": "Length"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "length of time that something has lasted or that someone has fulfilled role"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "duration"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "existence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "continuance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "endurance"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "length of time"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "life"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "validity"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "standing",
+                                            "sense_id": "t_en_gb0014042.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "phrases": [
+                        {
+                            "id": "all_standing",
+                            "text": "all standing"
+                        },
+                        {
+                            "id": "in_good_standing",
+                            "text": "in good standing"
+                        },
+                        {
+                            "id": "leave_someone_or_something_standing",
+                            "text": "leave someone or something standing"
+                        }
+                    ],
+                    "text": "standing"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "standing"
+                                }
+                            ],
+                            "notes": [
+                                {
+                                    "text": "attributive",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈstandiNG"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/standing_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈstændɪŋ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a jump or a start in a running race) performed from rest or an upright position, without a run-up or the use of starting blocks"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I took a standing jump"
+                                        },
+                                        {
+                                            "registers": [
+                                                {
+                                                    "id": "figurative",
+                                                    "text": "Figurative"
+                                                }
+                                            ],
+                                            "text": "they built the world's largest advertising agency from a standing start nineteen years ago"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0987750.016",
+                                    "shortDefinitions": [
+                                        "performed from rest or upright position, without run-up"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "remaining in force or use; permanent"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he has a standing invitation to visit them"
+                                        },
+                                        {
+                                            "text": "a standing army"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0987750.019",
+                                    "shortDefinitions": [
+                                        "remaining in force or use"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "permanent"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perpetual"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "everlasting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "continuing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abiding"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "constant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fixed"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "indefinite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "open-ended"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "standing",
+                                            "sense_id": "t_en_gb0014042.006"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of water) stagnant or still"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "standing water will also freeze in winter"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0987750.021",
+                                    "shortDefinitions": [
+                                        "stagnant or still"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "stagnant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "still"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "motionless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "immobile"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inert"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lifeless"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dead"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "slack"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "static"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stationary"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "standing",
+                                            "sense_id": "t_en_gb0014042.005"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of metal type) kept set up after use."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "printing",
+                                            "text": "Printing"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "printing",
+                                            "text": "Printing"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0987750.023",
+                                    "shortDefinitions": [
+                                        "(of metal type) kept set up after use"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of grain) not yet reaped and so still erect."
+                                    ],
+                                    "id": "m_en_gbus0987750.025",
+                                    "shortDefinitions": [
+                                        "not yet reaped and so still erect"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "phrases": [
+                        {
+                            "id": "all_standing",
+                            "text": "all standing"
+                        },
+                        {
+                            "id": "in_good_standing",
+                            "text": "in good standing"
+                        },
+                        {
+                            "id": "leave_someone_or_something_standing",
+                            "text": "leave someone or something standing"
+                        }
+                    ],
+                    "text": "standing"
+                }
+            ],
+            "type": "headword",
+            "word": "standing"
+        },
+        {
+            "id": "stand",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "stander",
+                            "text": "stander"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English standan (verb), stand (noun), of Germanic origin, from an Indo-European root shared by Latin stare and Greek histanai, also by the noun stead"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "pastParticiple",
+                                            "text": "Past Participle",
+                                            "type": "Non Finiteness"
+                                        },
+                                        {
+                                            "id": "past",
+                                            "text": "Past",
+                                            "type": "Tense"
+                                        }
+                                    ],
+                                    "inflectedForm": "stood",
+                                    "pronunciations": [
+                                        {
+                                            "dialects": [
+                                                "American English"
+                                            ],
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "sto͝od"
+                                        },
+                                        {
+                                            "audioFile": "https://audio.oxforddictionaries.com/en/mp3/stood_us_1.mp3",
+                                            "dialects": [
+                                                "American English"
+                                            ],
+                                            "phoneticNotation": "IPA",
+                                            "phoneticSpelling": "stʊd"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "inflectedForm": "stand"
+                                },
+                                {
+                                    "inflectedForm": "standing"
+                                },
+                                {
+                                    "inflectedForm": "stands"
+                                },
+                                {
+                                    "inflectedForm": "stood"
+                                },
+                                {
+                                    "inflectedForm": "stand at stud"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "stand"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/stand_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "stænd"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "have or maintain an upright position, supported by one's feet"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Lionel stood in the doorway"
+                                        },
+                                        {
+                                            "text": "she stood still, heart hammering"
+                                        },
+                                        {
+                                            "text": "to improve your balance, practice standing on one foot"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0987460.010",
+                                    "notes": [
+                                        {
+                                            "text": "no object, usually with adverbial of place",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "have or maintain upright position, supported by one's feet"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "rise to one's feet"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he pushed back his chair and stood"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0987460.016",
+                                            "shortDefinitions": [
+                                                "rise to one's feet"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "rise"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rise to one's feet"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "get to one's feet"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "get up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "straighten up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pick oneself up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "find one's feet"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "be upstanding"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "stand",
+                                                    "sense_id": "t_en_gb0014038.002"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "move to and remain in a specified position"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she stood aside to let them enter"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0987460.017",
+                                            "shortDefinitions": [
+                                                "move somewhere in upright position"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "place or set in an upright or specified position"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "don't stand the plant in direct sunlight"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0987460.018",
+                                            "notes": [
+                                                {
+                                                    "text": "with object and adverbial of place",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "place or set in upright or specified position"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "put"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "set"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "set up"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "erect"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "upend"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "place"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "position"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "locate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "situate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "prop"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "lean"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "plant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stick"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "install"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "arrange"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "dispose"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "deposit"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "stand",
+                                                    "sense_id": "t_en_gb0014038.004"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "be on one's feet"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be upright"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be erect"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be vertical"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "stand",
+                                            "sense_id": "t_en_gb0014038.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of an object, building, or settlement) be situated in a particular place or position"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the town stood on a hill"
+                                        },
+                                        {
+                                            "text": "the hotel stands in three acres of gardens"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0987460.021",
+                                    "notes": [
+                                        {
+                                            "text": "no object, with adverbial of place",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "be situated in particular place or position"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a building or other vertical structure) remain upright and entire rather than fall into ruin or be destroyed"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "after the heavy storms, only one house was left standing"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0987460.022",
+                                            "shortDefinitions": [
+                                                "remain upright and entire rather than fall into ruin or be destroyed"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "remain valid or unaltered"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "my decision stands"
+                                                },
+                                                {
+                                                    "text": "his strikeout record stood for 38 years"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0987460.023",
+                                            "shortDefinitions": [
+                                                "remain valid or unaltered"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "remain in force"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "remain valid"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "remain effective"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "remain operative"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "remain in operation"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hold"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hold good"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "obtain"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "apply"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "prevail"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "reign"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rule"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "hold sway"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "be the case"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "exist"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "be in use"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "stand",
+                                                    "sense_id": "t_en_gb0014038.005"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(especially of a vehicle) remain stationary"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the train now standing on track 3"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0987460.024",
+                                            "shortDefinitions": [
+                                                "remain stationary"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a liquid) collect and remain motionless"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "avoid planting in soil where water stands in winter"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0987460.025",
+                                            "shortDefinitions": [
+                                                "collect and remain motionless"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of food, a mixture, or liquid) rest without disturbance, typically so as to infuse or marinate"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "pour boiling water over the fruit and leave it to stand for 5 minutes"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0987460.026",
+                                            "shortDefinitions": [
+                                                "rest without disturbance"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a ship) remain on a specified course"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "nautical",
+                                                    "text": "Nautical"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the ship was standing north"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0987460.027",
+                                            "shortDefinitions": [
+                                                "(of ship) remain on specified course"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "be"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be situated"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be located"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be positioned"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be set"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be found"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be sited"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be established"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be perched"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sit"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "perch"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "nestle"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "stand",
+                                            "sense_id": "t_en_gb0014038.003"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "be in a specified state or condition"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "since mother's death the house had stood empty"
+                                        },
+                                        {
+                                            "text": "sorry, darling—I stand corrected"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0987460.029",
+                                    "notes": [
+                                        {
+                                            "text": "no object, with complement",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "be in specified state or condition"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "adopt a particular attitude toward a matter or issue"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "students should consider where they stand on this issue"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0987460.030",
+                                            "shortDefinitions": [
+                                                "adopt particular attitude towards matter or issue"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "be of a specified height"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Sampson was a small man, standing 5 ft. 4 in. tall"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0987460.031",
+                                            "shortDefinitions": [
+                                                "be of specified height"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "be in a situation where one is likely to do something"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "investors stood to lose heavily"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0987460.033",
+                                            "notes": [
+                                                {
+                                                    "text": "no object, with infinitive",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "be in situation where one is likely to do something"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "be at a particular level, value, or stage"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the budget stood at $14 million per annum"
+                                                },
+                                                {
+                                                    "text": "you can use the chart to create a report of where the project stands"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0987460.032",
+                                            "shortDefinitions": [
+                                                "be at particular level"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "act in a specified capacity"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he stood watch all night"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0987460.034",
+                                            "shortDefinitions": [
+                                                "act in specified capacity"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a stallion) be available for breeding."
+                                            ],
+                                            "id": "m_en_gbus0987460.035",
+                                            "shortDefinitions": [
+                                                "be available for breeding"
+                                            ],
+                                            "variantForms": [
+                                                {
+                                                    "text": "stand at stud"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "withstand (an experience or test) without being damaged"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "small boats that could stand the punishment of heavy seas"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0987460.038",
+                                    "notes": [
+                                        {
+                                            "text": "with object and often modal",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "withstand experience or test without being damaged"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "be able to endure or tolerate"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I can't stand the way Mom talks to him"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0987460.039",
+                                            "notes": [
+                                                {
+                                                    "text": "with modal and usually negative",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                {
+                                                    "id": "informal",
+                                                    "text": "Informal"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "be able to endure or tolerate"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "withstand"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "endure"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bear"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "put up with"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "take"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cope with"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "handle"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "sustain"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "resist"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "stand up to"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "endure"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tolerate"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "bear"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "put up with"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "take"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "abide"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "suffer"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "support"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "brook"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "countenance"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "face"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "stand",
+                                                    "sense_id": "t_en_gb0014038.006"
+                                                },
+                                                {
+                                                    "entry_id": "stand",
+                                                    "sense_id": "t_en_gb0014038.007"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "withstand"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stand up to"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stand"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "put up with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "cope with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "handle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "resist"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "sustain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "absorb"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "accept"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "bear",
+                                            "sense_id": "t_en_gb0001240.006"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "be a candidate in an election"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "electoral",
+                                            "text": "Electoral"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he stood for parliament in 1968"
+                                        },
+                                        {
+                                            "text": "she stood as an Independent candidate in the general election"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0987460.042",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "be candidate in election"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "provide (food or drink) for (someone) at one's own expense"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "somebody in the bar would stand him a beer"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0987460.046",
+                                    "notes": [
+                                        {
+                                            "text": "with two objects",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "provide food or drink for someone at one's own expense"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "phrasalVerbs": [
+                        {
+                            "id": "stand_alone",
+                            "text": "stand alone"
+                        },
+                        {
+                            "id": "stand_aside",
+                            "text": "stand aside"
+                        },
+                        {
+                            "id": "stand_back",
+                            "text": "stand back"
+                        },
+                        {
+                            "id": "stand_by",
+                            "text": "stand by"
+                        },
+                        {
+                            "id": "stand_down",
+                            "text": "stand down"
+                        },
+                        {
+                            "id": "stand_for",
+                            "text": "stand for"
+                        },
+                        {
+                            "id": "stand_in",
+                            "text": "stand in"
+                        },
+                        {
+                            "id": "stand_in_with",
+                            "text": "stand in with"
+                        },
+                        {
+                            "id": "stand_off",
+                            "text": "stand off"
+                        },
+                        {
+                            "id": "stand_on",
+                            "text": "stand on"
+                        },
+                        {
+                            "id": "stand_out",
+                            "text": "stand out"
+                        },
+                        {
+                            "id": "stand_over",
+                            "text": "stand over"
+                        },
+                        {
+                            "id": "stand_to",
+                            "text": "stand to"
+                        },
+                        {
+                            "id": "stand_up",
+                            "text": "stand up"
+                        },
+                        {
+                            "id": "stand_up_for",
+                            "text": "stand up for"
+                        },
+                        {
+                            "id": "stand_up_to",
+                            "text": "stand up to"
+                        }
+                    ],
+                    "phrases": [
+                        {
+                            "id": "as_it_stands",
+                            "text": "as it stands"
+                        },
+                        {
+                            "id": "stand_on_one%27s_own_two_feet",
+                            "text": "stand on one's own two feet"
+                        },
+                        {
+                            "id": "stand_trial",
+                            "text": "stand trial"
+                        },
+                        {
+                            "id": "stand_up_and_be_counted",
+                            "text": "stand up and be counted"
+                        },
+                        {
+                            "id": "will_the_real_%E2%80%94_please_stand_up",
+                            "text": "will the real — please stand up"
+                        }
+                    ],
+                    "text": "stand"
+                }
+            ],
+            "type": "headword",
+            "word": "stand"
+        }
+    ]
+}

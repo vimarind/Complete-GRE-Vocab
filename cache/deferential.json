@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "deferential",
+    "results": [
+        {
+            "id": "deferential",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "deferentially",
+                            "text": "deferentially"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 19th century: from deference, on the pattern of pairs such as prudence, prudential"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "deferential"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˌdefəˈren(t)SH(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/deferential_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌdɛfəˈrɛn(t)ʃ(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "deferential to"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "showing deference; respectful"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "people were always deferential to him"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0259530.005",
+                                    "shortDefinitions": [
+                                        "showing deference"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "obsequious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "humble"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "respectful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "considerate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "attentive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "thoughtful"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "deferential",
+                                            "sense_id": "t_en_gb0003572.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "deferential"
+                }
+            ],
+            "type": "headword",
+            "word": "deferential"
+        }
+    ]
+}

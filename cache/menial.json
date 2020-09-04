@@ -1,0 +1,255 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "menial",
+    "results": [
+        {
+            "id": "menial",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "menially",
+                            "text": "menially"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘domestic’): from Old French, from mesnee ‘household’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "menial"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmēnēəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/menial_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈminiəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of work) not requiring much skill and lacking prestige"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "menial factory jobs"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0632390.005",
+                                    "shortDefinitions": [
+                                        "not requiring much skill and lacking prestige"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a servant) domestic."
+                                            ],
+                                            "id": "m_en_gbus0632390.007",
+                                            "notes": [
+                                                {
+                                                    "text": "attributive",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                {
+                                                    "id": "dated",
+                                                    "text": "Dated"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "domestic"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "unskilled"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lowly"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "humble"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "low-grade"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "low-status"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "routine"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "humdrum"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "boring"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dull"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "menial",
+                                            "sense_id": "t_en_gb0009350.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "menial"
+                },
+                {
+                    "derivatives": [
+                        {
+                            "id": "menially",
+                            "text": "menially"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "menial"
+                                },
+                                {
+                                    "inflectedForm": "menials"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmēnēəl"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/menial_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈminiəl"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person with a menial job."
+                                    ],
+                                    "id": "m_en_gbus0632390.009",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "labourer",
+                                            "text": "Labourer"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "person with menial job"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a domestic servant."
+                                            ],
+                                            "id": "m_en_gbus0632390.012",
+                                            "registers": [
+                                                {
+                                                    "id": "dated",
+                                                    "text": "Dated"
+                                                }
+                                            ],
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "servant",
+                                                    "text": "Servant"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "domestic servant"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "servant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "domestic servant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "domestic"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "drudge"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "maid of all work"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "menial",
+                                                    "sense_id": "t_en_gb0009350.002"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "menial"
+                }
+            ],
+            "type": "headword",
+            "word": "menial"
+        }
+    ]
+}

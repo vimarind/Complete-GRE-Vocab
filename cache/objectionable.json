@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "objectionable",
+    "results": [
+        {
+            "id": "objectionable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "objectionableness",
+                            "text": "objectionableness"
+                        },
+                        {
+                            "id": "objectionably",
+                            "text": "objectionably"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "objectionable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "əbˈjekSH(ə)nəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/objectionable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "əbˈdʒɛkʃ(ə)nəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "arousing distaste or opposition; unpleasant or offensive"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I find his theory objectionable in its racist undertones"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0708590.005",
+                                    "shortDefinitions": [
+                                        "arousing distaste or opposition"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "offensive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unpleasant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disagreeable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "distasteful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "displeasing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "unacceptable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "off-putting"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "undesirable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "obnoxious"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "objectionable",
+                                            "sense_id": "t_en_gb0010164.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "objectionable"
+                }
+            ],
+            "type": "headword",
+            "word": "objectionable"
+        }
+    ]
+}

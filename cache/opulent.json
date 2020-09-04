@@ -1,0 +1,177 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "opulent",
+    "results": [
+        {
+            "id": "opulent",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "opulently",
+                            "text": "opulently"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (in the sense ‘wealthy’): from Latin opulent- ‘wealthy, splendid’, from opes ‘wealth’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "opulent"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈäpyələnt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/opulent_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɑpjələnt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "ostentatiously rich and luxurious or lavish"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the opulent comfort of a limousine"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0724070.005",
+                                    "shortDefinitions": [
+                                        "ostentatiously costly and luxurious"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "wealthy"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his more opulent tenants"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0724070.007",
+                                            "shortDefinitions": [
+                                                "wealthy"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "wealthy"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "rich"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "affluent"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "well off"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "well-to-do"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "moneyed"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cash rich"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "with deep pockets"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "prosperous"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "of means"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "of substance"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "opulent",
+                                                    "sense_id": "t_en_gb0010355.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "copious"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "abundant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "profuse"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prolific"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plentiful"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "luxuriant"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "opulent",
+                                            "sense_id": "t_en_gb0010355.003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "opulent"
+                }
+            ],
+            "type": "headword",
+            "word": "opulent"
+        }
+    ]
+}

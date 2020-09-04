@@ -1,0 +1,255 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "demotic",
+    "results": [
+        {
+            "id": "demotic",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 19th century (in the sense ‘relating to the Egyptian demotic’): from Greek dēmotikos ‘popular’, from dēmotēs ‘one of the people’, from dēmos ‘the people’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "demotic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈmädik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/demotic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈmɑdɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "denoting or relating to the kind of language used by ordinary people; popular or colloquial"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "linguistics",
+                                            "text": "Linguistics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a demotic idiom"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0263830.005",
+                                    "shortDefinitions": [
+                                        "colloquial"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "Compare with katharevousa"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "katharevousa",
+                                                    "text": "katharevousa",
+                                                    "type": "see also"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "relating to or denoting the form of modern Greek used in everyday speech and writing."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "language",
+                                                    "text": "Language"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0263830.007",
+                                            "shortDefinitions": [
+                                                "relating to everyday modern Greek"
+                                            ]
+                                        },
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "Compare with hieratic"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "hieratic",
+                                                    "text": "hieratic",
+                                                    "type": "see also"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "relating to or denoting a simplified, cursive form of ancient Egyptian script, dating from c.650 BC and replaced by Greek in the Ptolemaic period."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "linguistics",
+                                                    "text": "Linguistics"
+                                                },
+                                                {
+                                                    "id": "egyptian_history",
+                                                    "text": "Egyptian_History"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0263830.008",
+                                            "shortDefinitions": [
+                                                "relating to form of ancient Egyptian script"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "popular"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "demotic",
+                                            "sense_id": "t_en_gb0003674.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "demotic"
+                },
+                {
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "demotic"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˈmädik"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/demotic_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˈmɑdɪk"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "ordinary colloquial speech"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "linguistics",
+                                            "text": "Linguistics"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he blinked in mild surprise at this uncharacteristic leap into the demotic"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0263830.010",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "language",
+                                            "text": "Language"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "ordinary colloquial speech"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "demotic Greek."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "language",
+                                                    "text": "Language"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0263830.012",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "hellenic",
+                                                    "text": "Hellenic"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "demotic Greek"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "demotic Egyptian script."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "linguistics",
+                                                    "text": "Linguistics"
+                                                },
+                                                {
+                                                    "id": "egyptian_history",
+                                                    "text": "Egyptian_History"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0263830.013",
+                                            "semanticClasses": [
+                                                {
+                                                    "id": "script",
+                                                    "text": "Script"
+                                                }
+                                            ],
+                                            "shortDefinitions": [
+                                                "demotic Egyptian script"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "demotic"
+                }
+            ],
+            "type": "headword",
+            "word": "demotic"
+        }
+    ]
+}

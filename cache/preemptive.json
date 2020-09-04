@@ -1,0 +1,175 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "preemptive",
+    "results": [
+        {
+            "id": "preemptive",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "preemptively",
+                            "text": "preemptively"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "pre-emptive"
+                                },
+                                {
+                                    "inflectedForm": "preemptive"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "prēˈemptiv"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/preemptive_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "priˈɛmptɪv"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "serving or intended to preempt or forestall something, especially to prevent attack by disabling the enemy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a preemptive strike"
+                                        },
+                                        {
+                                            "text": "preemptive action"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0809900.005",
+                                    "shortDefinitions": [
+                                        "serving or intended to pre-empt something"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "relating to the purchase of goods or shares by one person or party before the opportunity is offered to others"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "commerce",
+                                                    "text": "Commerce"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "preemptive rights"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0809900.008",
+                                            "shortDefinitions": [
+                                                "relating to purchase of goods or shares before opportunity is offered to others"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "denoting a bid, typically an opening bid, intended to be so high that it prevents or interferes with effective bidding by the opponents."
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "bridge",
+                                                    "text": "Bridge"
+                                                }
+                                            ],
+                                            "domains": [
+                                                {
+                                                    "id": "bridge",
+                                                    "text": "Bridge"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0809900.009",
+                                            "shortDefinitions": [
+                                                "denoting bid that prevents effective bidding by opponents"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "preventive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "preventative"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "precautionary"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "protective"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "disease-preventing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pre-emptive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "counteractive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "preclusive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "anticipatory"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "inhibitory"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "deterrent"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "prophylactic",
+                                            "sense_id": "t_en_gb0011731.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "preemptive"
+                }
+            ],
+            "type": "headword",
+            "word": "preemptive"
+        }
+    ]
+}

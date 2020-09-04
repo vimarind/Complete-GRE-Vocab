@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "conversant",
+    "results": [
+        {
+            "id": "conversant",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "conversance",
+                            "text": "conversance"
+                        },
+                        {
+                            "id": "conversancy",
+                            "text": "conversancy"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French, present participle of converser (see converse). The original sense was ‘habitually spending time in a particular place or with a particular person’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "conversant"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kənˈvərsənt"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconversant_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kənˈvərsənt"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "conversant with"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "familiar with or knowledgeable about something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "many ladies are conversant with the merits of drill-eyed needles"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0216390.005",
+                                    "shortDefinitions": [
+                                        "familiar with or knowledgeable about something"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "familiar with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "acquainted with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "au fait with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "at home with"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "no stranger to"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "conversant",
+                                            "sense_id": "t_en_gb0002992.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "conversant"
+                }
+            ],
+            "type": "headword",
+            "word": "conversant"
+        }
+    ]
+}

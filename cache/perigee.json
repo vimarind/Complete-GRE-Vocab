@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "perigee",
+    "results": [
+        {
+            "id": "perigee",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "perigean",
+                            "text": "perigean"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from French périgée, via modern Latin from Greek perigeion ‘close round the earth’, from peri- ‘around’ + gē ‘earth’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "perigee"
+                                },
+                                {
+                                    "inflectedForm": "perigees"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈperəˌjē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/perigee_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈpɛrəˌdʒi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "The opposite of apogee"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "apogee",
+                                            "text": "apogee",
+                                            "type": "opposite of"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "the point in the orbit of the moon or a satellite at which it is nearest to the earth."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "astronomy",
+                                            "text": "Astronomy"
+                                        }
+                                    ],
+                                    "domains": [
+                                        {
+                                            "id": "astronomy",
+                                            "text": "Astronomy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0766220.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "astronomical_point",
+                                            "text": "Astronomical_Point"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "point in orbit of moon or satellite at which it is nearest to earth"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "perigee"
+                }
+            ],
+            "type": "headword",
+            "word": "perigee"
+        }
+    ]
+}

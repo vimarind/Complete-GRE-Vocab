@@ -1,0 +1,203 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "malleable",
+    "results": [
+        {
+            "id": "malleable",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "malleability",
+                            "text": "malleability"
+                        },
+                        {
+                            "id": "malleably",
+                            "text": "malleably"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘able to be hammered’): via Old French from medieval Latin malleabilis, from Latin malleus ‘a hammer’"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "malleable"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈmalyəb(ə)l"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/malleable_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈmæljəb(ə)l"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a metal or other material) able to be hammered or pressed permanently out of shape without breaking or cracking"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "metallurgy",
+                                            "text": "Metallurgy"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a malleable metal can be beaten into a sheet"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0611460.005",
+                                    "shortDefinitions": [
+                                        "(of metal or other material) able to be hammered or pressed into shape without breaking or cracking"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "easily influenced; pliable"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Anna was shaken enough to be malleable"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0611460.007",
+                                            "shortDefinitions": [
+                                                "easily influenced"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "easily influenced"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "suggestible"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "susceptible"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "impressionable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "amenable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cooperative"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "adaptable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "compliant"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "pliable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "tractable"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "accommodating"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "malleable",
+                                                    "sense_id": "t_en_gb0009120.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "pliable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "ductile"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plastic"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "pliant"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "soft"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "workable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "shapable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "mouldable"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tractile"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tensile"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "malleable",
+                                            "sense_id": "t_en_gb0009120.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "adjective",
+                        "text": "Adjective"
+                    },
+                    "text": "malleable"
+                }
+            ],
+            "type": "headword",
+            "word": "malleable"
+        }
+    ]
+}

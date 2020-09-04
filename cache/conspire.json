@@ -1,0 +1,214 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "conspire",
+    "results": [
+        {
+            "id": "conspire",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French conspirer, from Latin conspirare ‘agree, plot’, from con- ‘together with’ + spirare ‘breathe’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "intransitive",
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "conspire"
+                                },
+                                {
+                                    "inflectedForm": "conspired"
+                                },
+                                {
+                                    "inflectedForm": "conspires"
+                                },
+                                {
+                                    "inflectedForm": "conspiring"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kənˈspī(ə)r"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/xconspire_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kənˈspaɪ(ə)r"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make secret plans jointly to commit an unlawful or harmful act"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they conspired against him"
+                                        },
+                                        {
+                                            "text": "they deny conspiring to defraud the Internal Revenue Service"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0212990.005",
+                                    "shortDefinitions": [
+                                        "make secret plans jointly to commit unlawful or harmful act"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of events or circumstances) seem to be working together to bring about a particular result, typically to someone's detriment"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "everything conspires to exacerbate the situation"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0212990.011",
+                                            "shortDefinitions": [
+                                                "seem to be working together to bring about particular negative result"
+                                            ],
+                                            "synonyms": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "act together"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "work together"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "combine"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "join"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "unite"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "ally"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "join forces"
+                                                },
+                                                {
+                                                    "language": "en",
+                                                    "text": "cooperate"
+                                                }
+                                            ],
+                                            "thesaurusLinks": [
+                                                {
+                                                    "entry_id": "conspire",
+                                                    "sense_id": "t_en_gb0002885.002"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "plot"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hatch a plot"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "form a conspiracy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "scheme"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "plan"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "lay plans"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "intrigue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "collude"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "connive"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "collaborate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "consort"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "machinate"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "manoeuvre"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "be hand in glove"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "work hand in glove"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "conspire",
+                                            "sense_id": "t_en_gb0002885.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "conspire"
+                }
+            ],
+            "type": "headword",
+            "word": "conspire"
+        }
+    ]
+}

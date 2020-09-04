@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "enmity",
+    "results": [
+        {
+            "id": "enmity",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French enemi(s)tie, based on Latin inimicus (see enemy)"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "enmities"
+                                },
+                                {
+                                    "inflectedForm": "enmities"
+                                },
+                                {
+                                    "inflectedForm": "enmity"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈenmədē"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/enmity_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈɛnmədi"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the state or feeling of being actively opposed or hostile to someone or something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "decades of enmity between the two countries"
+                                        },
+                                        {
+                                            "text": "family feuds and enmities"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0325440.005",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "dislike",
+                                            "text": "Dislike"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "state or feeling of active opposition or hostility"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "hostility"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "animosity"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "antagonism"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "friction"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "antipathy"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "animus"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "opposition"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "dissension"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rivalry"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "feud"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "conflict"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discord"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contention"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "enmity",
+                                            "sense_id": "t_en_gb0004891.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "enmity"
+                }
+            ],
+            "type": "headword",
+            "word": "enmity"
+        }
+    ]
+}

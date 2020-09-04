@@ -1,0 +1,206 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "crystallize",
+    "results": [
+        {
+            "id": "crystallize",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "derivatives": [
+                        {
+                            "id": "crystallizable",
+                            "text": "crystallizable"
+                        },
+                        {
+                            "id": "crystallization",
+                            "text": "crystallization"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "inflections": [
+                                {
+                                    "inflectedForm": "crystallise"
+                                },
+                                {
+                                    "inflectedForm": "crystallised"
+                                },
+                                {
+                                    "inflectedForm": "crystallises"
+                                },
+                                {
+                                    "inflectedForm": "crystallising"
+                                },
+                                {
+                                    "inflectedForm": "crystallize"
+                                },
+                                {
+                                    "inflectedForm": "crystallized"
+                                },
+                                {
+                                    "inflectedForm": "crystallizes"
+                                },
+                                {
+                                    "inflectedForm": "crystallizing"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "ˈkristəˌlīz"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/crystallize_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈkrɪstəˌlaɪz"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "form or cause to form crystals"
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "chemistry",
+                                            "text": "Chemistry"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "when most liquids freeze they crystallize"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "thermal processing is required in order to crystallize the ink"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0238980.007",
+                                    "shortDefinitions": [
+                                        "form crystals"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "form crystals"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "solidify"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "harden"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "crystallize",
+                                            "sense_id": "t_en_gb0003284.001"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "make or become definite and clear"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "vague feelings of unrest crystallized into something more concrete"
+                                        },
+                                        {
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "text": "writing can help to crystallize your thoughts"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0238980.025",
+                                    "shortDefinitions": [
+                                        "become definite and clear"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "become clear"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "become definite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "take shape"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "emerge"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "form"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "materialize"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "crystallize",
+                                            "sense_id": "t_en_gb0003284.002"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "regions": [
+                                        {
+                                            "id": "british",
+                                            "text": "British"
+                                        }
+                                    ],
+                                    "text": "crystallise"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "crystallize"
+                }
+            ],
+            "type": "headword",
+            "word": "crystallize"
+        }
+    ]
+}

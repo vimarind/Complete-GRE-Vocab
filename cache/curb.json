@@ -1,0 +1,402 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "curb",
+    "results": [
+        {
+            "id": "curb",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (denoting a strap fastened to the bit): from Old French courber ‘bend, bow’, from Latin curvare (see curve)"
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "curb"
+                                },
+                                {
+                                    "inflectedForm": "curbs"
+                                },
+                                {
+                                    "inflectedForm": "curb"
+                                },
+                                {
+                                    "inflectedForm": "curbs"
+                                },
+                                {
+                                    "inflectedForm": "curb bit"
+                                },
+                                {
+                                    "inflectedForm": "curb bits"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kərb"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/curb_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kərb"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a stone or concrete edging to a street or path."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "roads",
+                                            "text": "Roads"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0241950.031",
+                                    "regions": [
+                                        {
+                                            "id": "north_american",
+                                            "text": "North_American"
+                                        }
+                                    ],
+                                    "semanticClasses": [
+                                        {
+                                            "id": "barrier",
+                                            "text": "Barrier"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "stone or concrete edging to street or path"
+                                    ]
+                                },
+                                {
+                                    "constructions": [
+                                        {
+                                            "text": "curbs on"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a check or restraint on something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "\n              curbs on the powers of labor unions"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0241950.037",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "inhibitor",
+                                            "text": "Inhibitor"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "restraint"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a type of bit that is widely used in western riding. In English riding it is usually only used with a snaffle as part of a double bridle."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "riding",
+                                            "text": "Riding"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0241950.041",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "riding_equipment",
+                                            "text": "Riding_Equipment"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "horse's bit"
+                                    ],
+                                    "variantForms": [
+                                        {
+                                            "text": "curb bit"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a swelling on the back of a horse's hock, caused by spraining a ligament."
+                                    ],
+                                    "domainClasses": [
+                                        {
+                                            "id": "veterinary",
+                                            "text": "Veterinary"
+                                        },
+                                        {
+                                            "id": "riding",
+                                            "text": "Riding"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0241950.044",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "harm",
+                                            "text": "Harm"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "swelling on horse's hock"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "curb"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "id": "transitive",
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "inflections": [
+                                {
+                                    "inflectedForm": "curb"
+                                },
+                                {
+                                    "inflectedForm": "curbed"
+                                },
+                                {
+                                    "inflectedForm": "curbing"
+                                },
+                                {
+                                    "inflectedForm": "curbs"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "kərb"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/curb_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "kərb"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "restrain or keep in check"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she promised she would curb her temper"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0241950.017",
+                                    "shortDefinitions": [
+                                        "keep in check"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "restrain (a horse) by means of a curb"
+                                            ],
+                                            "domainClasses": [
+                                                {
+                                                    "id": "riding",
+                                                    "text": "Riding"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "both men were instinctively curbing their horses"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0241950.023",
+                                            "shortDefinitions": [
+                                                "restrain horse"
+                                            ]
+                                        }
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "restrain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hold back"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "keep back"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "hold in"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "repress"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "suppress"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "fight back"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bite back"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "keep in check"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "check"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "control"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "keep under control"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "rein in"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "keep a tight rein on"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "contain"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "discipline"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "govern"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "bridle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "tame"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "subdue"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "stifle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "smother"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "swallow"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "choke back"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "muzzle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "silence"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "muffle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "strangle"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gag"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "curb",
+                                            "sense_id": "t_en_gb0003320.002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "lead (a dog being walked) near the curb to urinate or defecate, in order to avoid soiling buildings, sidewalks, etc."
+                                    ],
+                                    "id": "m_en_gbus0241950.055",
+                                    "regions": [
+                                        {
+                                            "id": "us",
+                                            "text": "Us"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "lead dog being walked near curb to urinate or defecate"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "curb"
+                }
+            ],
+            "type": "headword",
+            "word": "curb"
+        }
+    ]
+}

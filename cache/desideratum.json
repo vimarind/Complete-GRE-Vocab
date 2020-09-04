@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "query": "desideratum",
+    "results": [
+        {
+            "id": "desideratum",
+            "language": "en-us",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin, ‘something desired’, neuter past participle of desiderare (see desiderate)"
+                            ],
+                            "inflections": [
+                                {
+                                    "grammaticalFeatures": [
+                                        {
+                                            "id": "plural",
+                                            "text": "Plural",
+                                            "type": "Number"
+                                        }
+                                    ],
+                                    "inflectedForm": "desiderata",
+                                    "pronunciations": [
+                                        {
+                                            "phoneticNotation": "respell",
+                                            "phoneticSpelling": "-tə"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "inflectedForm": "desiderata"
+                                },
+                                {
+                                    "inflectedForm": "desideratum"
+                                }
+                            ],
+                            "pronunciations": [
+                                {
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "respell",
+                                    "phoneticSpelling": "dəˌzidəˈrädəm"
+                                },
+                                {
+                                    "audioFile": "https://audio.oxforddictionaries.com/en/mp3/desideratum_us_1.mp3",
+                                    "dialects": [
+                                        "American English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "dəˌzɪdəˈrɑdəm"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "something that is needed or wanted"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "integrity was a desideratum"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0268020.017",
+                                    "semanticClasses": [
+                                        {
+                                            "id": "required_thing",
+                                            "text": "Required_Thing"
+                                        }
+                                    ],
+                                    "shortDefinitions": [
+                                        "something that is needed or wanted"
+                                    ],
+                                    "synonyms": [
+                                        {
+                                            "language": "en",
+                                            "text": "requirement"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "prerequisite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "need"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "indispensable thing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "desired thing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "needed thing"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "essential"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "requisite"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "necessary"
+                                        }
+                                    ],
+                                    "thesaurusLinks": [
+                                        {
+                                            "entry_id": "desideratum",
+                                            "sense_id": "t_en_gb0003780.001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-us",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "desideratum"
+                }
+            ],
+            "type": "headword",
+            "word": "desideratum"
+        }
+    ]
+}
