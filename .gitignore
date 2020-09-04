@@ -127,8 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-test.py
 cache/
 core/core.py
 .idea/
 .DS_Store
+secrets.py

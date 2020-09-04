@@ -1,8 +1,6 @@
-from core.Word import Word
 import json
 import requests
 from os import path
-from PyDictionary import PyDictionary
 
 
 class OxfordAPI:
@@ -21,12 +19,6 @@ class OxfordAPI:
             word.synonyms.append(synonym.get('text', None))
         for subsense in sense.get('subsenses', list()):
             self.__parse_sense(word, subsense)
-            # for definition in subsense.get('definitions', list()):
-            #     word.definitions.append(definition)
-            # for example in subsense.get('examples', list()):
-            #     word.examples.append(example.get('text', None))
-            # for synonym in subsense.get('synonyms', list()):
-            #     word.synonyms.append(synonym.get('text', None))
 
     def __parse_pronunciation(self, word, pronunciation):
         audioFile = pronunciation.get('audioFile', None)
@@ -65,10 +57,11 @@ class OxfordAPI:
 
     def get_word(self, word):
         """
-        Populates the given word object with the relevant information from the Oxford Dictionary API
-        (cached json files).
-        :param word: The word object to be requested.
-        :return:
+        Populates the given word object with the relevant information from the Oxford Dictionary API. First, the word
+        is looked for in the cache folder, if it exists, load that data. Otherwise, the information is requested from
+        the OxfordAPI and stored in the cache folder.
+        :param word: The word object to be populated.
+        :return: A boolean indicating if the operation has been successful or not.
         """
         success = False
         if path.exists(self.cache_path):
@@ -82,23 +75,6 @@ class OxfordAPI:
         else:
             print('OxfordAPI: Please provide a valid cache path.')
         return success
-
-    def load_words_jsons_oxford(self, words):
-        """
-        Populates the folder containing the cached json files, for easier retrieval.
-        :param words: The list of word objects.
-        :param app_id: Oxford API id authentication.
-        :param app_key: Oxford API key authentication.
-        :return: Nothing.
-        """
-        i = 0
-        for word in words:
-            print(str(i) + ': ' + word.text)
-            i = i + 1
-            with open(self.cache_path + word.text + '.json', 'w') as file:
-                url = "https://od-api.oxforddictionaries.com/api/v2/words/en-us?q=" + word.text
-                r = requests.get(url, headers={"app_id": self.app_id, "app_key": self.app_key})
-                file.write(r.text)
 
 
 
