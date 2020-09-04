@@ -32,11 +32,12 @@ def load_vocabulary(filename):
                         word = Word(word_text)
                         words[word_text] = word
                     word.tags.append(tags[i])
+                    word.rank += 1
         random.seed(123456789)
         random_words_list = list(words.items())
         random.shuffle(random_words_list)
         random_words = dict(random_words_list)
-        words = dict(sorted(random_words.items(), key=lambda x: len(x[1].tags), reverse=True))
+        words = dict(sorted(random_words.items(), key=lambda x: x[1].rank, reverse=True))
     return words
 
 
@@ -88,7 +89,7 @@ def write_to_tsv(words, filename):
             if word.synonyms == 0:
                 row.append(' ')
             row.append(('[sound:' + word.text + '.mp3]') if word.audio_file is not '' else ' ')
-            row.append(' '.join(word.tags))
+            row.append(' '.join(word.tags) + ' rank_' + str(word.rank))
             tsv_writer.writerow(row)
 
 

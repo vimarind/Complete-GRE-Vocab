@@ -10,6 +10,7 @@ class Word:
         self.synonyms = []
         self.audio_file = ''
         self.tags = []
+        self.rank = 0
 
     def save_to_json(self, filename):
         with open(filename, 'w') as file:
