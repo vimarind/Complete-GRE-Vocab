@@ -1,6 +1,6 @@
 from core.Word import Word
 
-import csv, random
+import csv, random, requests, time
 
 
 def __safe_list_get(l, idx, default):
@@ -103,5 +103,28 @@ def write_incomplete_words(incomplete_words, filename):
         for word in incomplete_words:
             file.write(word + '\n')
 
+
+def get_audios(words, path):
+    """
+    Pulls all the audios from internet and saves them to the provided path.
+    :param words: The list of words already populated.
+    :param path: The path where the audios will be stored.
+    :return:
+    """
+    i = 0
+    for word in words.values():
+        if word.audio_file is not '':
+            with open(path + word.text + '.mp3', 'wb') as file:
+                success = False
+                while not success:
+                    try:
+                        r = requests.get(word.audio_file, allow_redirects=True)
+                    except:
+                        print('Request error')
+                    file.write(r.content)
+                    print(i, ': ', word.text)
+                    i = i + 1
+                    success = True
+                    time.sleep(0.5)
 
 
