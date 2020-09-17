@@ -1,6 +1,6 @@
 from core.Word import Word
 
-import csv, random, requests, time
+import csv, random, requests, time, os
 
 
 def __safe_list_get(l, idx, default):
@@ -114,17 +114,18 @@ def get_audios(words, path):
     i = 0
     for word in words.values():
         if word.audio_file is not '':
-            with open(path + word.text + '.mp3', 'wb') as file:
-                success = False
-                while not success:
-                    try:
-                        r = requests.get(word.audio_file, allow_redirects=True)
-                    except:
-                        print('Request error')
-                    file.write(r.content)
-                    print(i, ': ', word.text)
-                    i = i + 1
-                    success = True
-                    time.sleep(0.5)
+            if not os.path.exists(path + word.text + '.mp3'):
+                with open(path + word.text + '.mp3', 'wb') as file:
+                    success = False
+                    while not success:
+                        try:
+                            r = requests.get(word.audio_file, allow_redirects=True)
+                        except:
+                            print('Request error')
+                        file.write(r.content)
+                        print(i, ': ', word.text)
+                        success = True
+                        time.sleep(0.5)
+        i = i + 1
 
 
